@@ -105,6 +105,7 @@ describe BountyTargets::Normalizer do
       }
     }.merge(overrides)
   end
+
   def intigriti_program(overrides = {})
     {
       'accepted_submission_count' => 2,
@@ -317,12 +318,12 @@ describe BountyTargets::Normalizer do
             'bounty_min' => 50,
             'bounty_max' => 5000,
             'targets' => [
-              { 'type' => 'url', 'target' => 'app.intigriti.com', 'in_scope' => true, 'bounty' => true,
-                'updated_at' => nil, 'severity' => 'Tier 1', 'instruction' => nil },
-              { 'type' => 'url', 'target' => 'docs.intigriti.com', 'in_scope' => true, 'bounty' => false,
-                'updated_at' => nil, 'severity' => 'No Bounty', 'instruction' => 'docs' },
-              { 'type' => 'url', 'target' => 'out.intigriti.com', 'in_scope' => false, 'bounty' => false,
-                'updated_at' => nil, 'severity' => nil, 'instruction' => 'nope' }
+              {'type' => 'url', 'target' => 'app.intigriti.com', 'in_scope' => true, 'bounty' => true,
+               'updated_at' => nil, 'severity' => 'Tier 1', 'instruction' => nil},
+              {'type' => 'url', 'target' => 'docs.intigriti.com', 'in_scope' => true, 'bounty' => false,
+               'updated_at' => nil, 'severity' => 'No Bounty', 'instruction' => 'docs'},
+              {'type' => 'url', 'target' => 'out.intigriti.com', 'in_scope' => false, 'bounty' => false,
+               'updated_at' => nil, 'severity' => nil, 'instruction' => 'nope'}
             ]
           }
         ]
@@ -350,10 +351,10 @@ describe BountyTargets::Normalizer do
             'bounty_min' => 0,
             'bounty_max' => 2000,
             'targets' => [
-              { 'type' => 'api', 'target' => 'api.stopcovid.gouv.fr', 'in_scope' => true, 'bounty' => nil,
-                'updated_at' => nil, 'severity' => 'HIGH', 'instruction' => nil },
-              { 'type' => 'other', 'target' => 'Everything that is not part of the scope', 'in_scope' => false,
-                'bounty' => false, 'updated_at' => nil, 'severity' => nil, 'instruction' => nil }
+              {'type' => 'api', 'target' => 'api.stopcovid.gouv.fr', 'in_scope' => true, 'bounty' => nil,
+               'updated_at' => nil, 'severity' => 'HIGH', 'instruction' => nil},
+              {'type' => 'other', 'target' => 'Everything that is not part of the scope', 'in_scope' => false,
+               'bounty' => false, 'updated_at' => nil, 'severity' => nil, 'instruction' => nil}
             ]
           }
         ]
