@@ -104,6 +104,10 @@ module BountyTargets
             confidentiality_level: CONFIDENTIALITY_LEVELS[program['confidentialityLevel']],
             tacRequired: program['tacRequired'],
             twoFactorRequired: program['twoFactorRequired'],
+            created_at: program['createdAt'],
+            last_submission_at: program['lastSubmissionAt'],
+            last_updated_at: program['lastUpdatedAt'],
+            program_type: program['programType'],
             min_bounty: program['minBounty'],
             max_bounty: program['maxBounty']
           }
@@ -119,9 +123,11 @@ module BountyTargets
     def program_scopes(program)
       url = "https://app.intigriti.com/api/core/public/programs/#{encode(program[:company_handle])}/#{encode(program[:handle])}"
 
-      content = (JSON.parse(SsrfFilter.get(url).body)['assetsCollection'].max_by do |domains|
+      response = JSON.parse(SsrfFilter.get(url).body)
+
+      content = response['assetsCollection'].max_by do |domains|
         domains['createdAt']
-      end)['content']['assetsAndGroups']
+      end['content']['assetsAndGroups']
 
       flattened_content = content.flat_map do |target|
         target.key?('assets') ? target['assets'] : [target]
@@ -139,10 +145,16 @@ module BountyTargets
       end
 
       {
+        accepted_submission_count: response['acceptedSubmissionCount'],
+        average_payout: response['averagePayout'],
+        has_updates: response['hasUpdates'],
+        last_activity_at: (response['lastActivity'] || []).map { |activity| activity['timestamp'] }.max,
+        submission_count: response['submissionCount'],
         targets: {
           in_scope: targets[true] || [],
           out_of_scope: targets[false] || []
-        }
+        },
+        total_payout: response['totalPayout']
       }
     end
   end

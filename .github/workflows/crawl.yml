@@ -1,0 +1,41 @@
+name: Crawl
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Crawl all platforms
+        run: bundle exec ruby -I lib -r bounty-targets -e 'BountyTargets::CLI.new.scan!("data")'
+
+      - name: Regenerate README
+        run: |
+          bundle exec ruby -rerb -e 'timestamp = Time.now.strftime("%A %m/%d/%Y %R (UTC)"); erb = ERB.new(File.read("config/README.md.erb")); File.write("README.md", erb.result_with_hash(timestamp: timestamp))'
+
+      - name: Commit and push data
+        run: |
+          git config user.name 'bounty-targets'
+          git config user.email '<>'
+          git add data README.md
+          git diff --cached --quiet && echo 'No changes to commit' && exit 0
+          git commit -m "Update data ($(date -u +'%m-%d-%Y %R'))"
+          git push

@@ -42,17 +42,29 @@ module BountyTargets
             id = Base64.decode64(node['id']).gsub(%r{^gid://hackerone/Engagements::Legacy/}, '').to_i
             {
               allows_bounty_splitting: node['allows_bounty_splitting'] || false,
+              average_bounty_lower_amount: node['average_bounty_lower_amount'],
+              average_bounty_upper_amount: node['average_bounty_upper_amount'],
               average_time_to_bounty_awarded: node.dig('most_recent_sla_snapshot', 'average_time_to_bounty_awarded'),
               average_time_to_first_program_response:
                 node.dig('most_recent_sla_snapshot', 'average_time_to_first_program_response'),
               average_time_to_report_resolved: node.dig('most_recent_sla_snapshot', 'average_time_to_report_resolved'),
+              bounties_total: node['bounties_total'],
+              churned_at: node['churned_at'],
+              created_at: node['created_at'],
               handle: node['handle'],
               id: id,
+              last_report_resolved_at: node['last_report_resolved_at'],
+              last_updated_at: node['last_updated_at'],
+              launched_at: node['launched_at'],
               managed_program: node['triage_active'] || false,
+              minimum_bounty: node['minimum_bounty'],
               name: node['name'],
               offers_bounties: node['offers_bounties'] || false,
               offers_swag: node['offers_swag'] || false,
+              resolved_report_count: node['resolved_report_count'],
               response_efficiency_percentage: node['response_efficiency_percentage'],
+              started_accepting_at: node['started_accepting_at'],
+              state: node['state'],
               submission_state: node['submission_state'],
               url: node['url'],
               website: node['website']
@@ -94,15 +106,14 @@ module BountyTargets
 
       raise StandardError, 'Got duplicate scopes' if scopes.length != scopes.uniq.length
 
-      scopes = scopes.group_by do |scope|
-        scope['eligible_for_submission']
-      end.transform_values do |targets|
-        targets.sort_by do |scope|
-          [scope['asset_identifier'], scope['asset_type']]
-        end
+      in_scope, out_of_scope = scopes.partition do |scope|
+        scope['eligible_for_submission'] != false
       end
 
-      [scopes.fetch(true, []), scopes.fetch(false, [])]
+      [
+        in_scope.sort_by { |scope| [scope['asset_identifier'], scope['asset_type']] },
+        out_of_scope.sort_by { |scope| [scope['asset_identifier'], scope['asset_type']] }
+      ]
     end
 
     def graphql_init
@@ -139,8 +150,17 @@ module BountyTargets
             },
             nodes {
               allows_bounty_splitting,
+              average_bounty_lower_amount,
+              average_bounty_upper_amount,
+              bounties_total,
+              churned_at,
+              created_at,
               handle,
               id,
+              last_report_resolved_at,
+              last_updated_at,
+              launched_at,
+              minimum_bounty,
               most_recent_sla_snapshot {
                 average_time_to_bounty_awarded,
                 average_time_to_first_program_response,
@@ -149,7 +169,10 @@ module BountyTargets
               name,
               offers_bounties,
               offers_swag,
+              resolved_report_count,
               response_efficiency_percentage,
+              started_accepting_at,
+              state,
               submission_state,
               triage_active,
               url,
@@ -172,11 +195,13 @@ module BountyTargets
                 asset_type,
                 availability_requirement,
                 confidentiality_requirement,
+                created_at,
                 eligible_for_bounty,
                 eligible_for_submission,
                 instruction,
                 integrity_requirement,
-                max_severity
+                max_severity,
+                updated_at
               }
             }
           }

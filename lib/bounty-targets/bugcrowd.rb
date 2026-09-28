@@ -67,6 +67,15 @@ module BountyTargets
         allows_disclosure: !brief['coordinatedDisclosure'],
         managed_by_bugcrowd: true, # Bugcrowd seems to have removed the flag for this / all programs are managed
         safe_harbor: data.dig('safeHarborStatus', 'status'),
+        starts_at: brief.dig('data', 'engagement', 'startsAt'),
+        ends_at: brief.dig('data', 'engagement', 'endsAt'),
+        engagement_id: brief.dig('data', 'engagement', 'id'),
+        engagement_state: brief.dig('data', 'engagement', 'state'),
+        participation: brief['participation'],
+        published_at: brief['publishedAt'],
+        last_transition_at: brief['lastTransitionAt'],
+        status_label: brief['statusLabel'],
+        reward_allocation: brief['rewardAllocation'],
         max_payout: brief_scope.select do |scope|
           scope['inScope'] == true
         end.map do |scope|
@@ -112,8 +121,9 @@ module BountyTargets
     end
 
     def scopes_to_hashes_engagement(scopes)
-      scopes.flat_map do |targets|
-        targets['targets'].map do |scope|
+      scopes.flat_map do |group|
+        bounty = group_bounty?(group)
+        group['targets'].map do |scope|
           {
             type: scope['category'],
             target: [scope['uri'], scope['name'], scope['ipAddress']].find do |target|
@@ -121,10 +131,15 @@ module BountyTargets
             end,
             uri: scope['uri'],
             name: scope['name'],
-            ipAddress: scope['ipAddress']
+            ipAddress: scope['ipAddress'],
+            bounty: bounty
           }
         end
       end
+    end
+
+    def group_bounty?(group)
+      group['inScope'] == true && (group['rewardRangeData'] || {}).keys.any? { |tier| tier != 'programMax' }
     end
   end
 end
