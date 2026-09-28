@@ -258,7 +258,7 @@ describe BountyTargets::Normalizer do
           {
             'platform' => 'bugcrowd',
             'id' => '1e0e0003-4cb7-4563-a7f1-286302de8b25',
-            'handle' => nil,
+            'handle' => 'acme',
             'name' => 'Acme',
             'url' => 'https://bugcrowd.com/engagements/acme',
             'offers_bounty' => true,
@@ -336,7 +336,7 @@ describe BountyTargets::Normalizer do
           {
             'platform' => 'yeswehack',
             'id' => 'stopcovid',
-            'handle' => nil,
+            'handle' => 'stopcovid',
             'name' => 'StopCovid',
             'url' => 'https://yeswehack.com/programs/stopcovid',
             'offers_bounty' => true,
@@ -367,7 +367,7 @@ describe BountyTargets::Normalizer do
           {
             'platform' => 'federacy',
             'id' => '955a3f33-3ca7-42b1-acf5-84da28d4c08c',
-            'handle' => nil,
+            'handle' => 'federacy',
             'name' => 'Federacy',
             'url' => 'https://www.federacy.com/federacy',
             'offers_bounty' => true,
@@ -395,6 +395,31 @@ describe BountyTargets::Normalizer do
           }
         ]
       )
+    end
+
+    it 'falls back to the handle when the hackerone program id is zero' do
+      expect(described_class.normalize('hackerone', [hackerone_program('id' => 0)]).first['id']).to eq('acme')
+    end
+
+    it 'trims whitespace around target identifiers' do
+      scopes = {
+        'in_scope' => [{'endpoint' => ' app.intigriti.com ', 'type' => 'url'}],
+        'out_of_scope' => []
+      }
+      result = described_class.normalize('intigriti', [intigriti_program('targets' => scopes)])
+      expect(result.first['targets'].first['target']).to eq('app.intigriti.com')
+    end
+
+    it 'derives a bugcrowd handle from the program url' do
+      expect(described_class.normalize('bugcrowd', [bugcrowd_program]).first['handle']).to eq('acme')
+    end
+
+    it 'reuses the program slug as the yeswehack handle' do
+      expect(described_class.normalize('yeswehack', [yeswehack_program]).first['handle']).to eq('stopcovid')
+    end
+
+    it 'derives a federacy handle from the program url' do
+      expect(described_class.normalize('federacy', [federacy_program]).first['handle']).to eq('federacy')
     end
   end
 
