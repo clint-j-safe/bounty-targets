@@ -58,7 +58,7 @@ module BountyTargets
 
       program_hash(
         platform: 'hackerone',
-        id: program['id'],
+        id: hackerone_id(program),
         handle: program['handle'],
         name: program['name'],
         url: program['url'],
@@ -104,7 +104,7 @@ module BountyTargets
       program_hash(
         platform: 'bugcrowd',
         id: program['engagement_id'],
-        handle: nil,
+        handle: handle_from_url(program['url']),
         name: program['name'],
         url: program['url'],
         offers_bounty: in_scope.any? { |scope| scope['bounty'] == true },
@@ -194,7 +194,7 @@ module BountyTargets
       program_hash(
         platform: 'yeswehack',
         id: program['id'],
-        handle: nil,
+        handle: program['id'],
         name: program['name'],
         url: program['url'],
         offers_bounty: program['bounty'],
@@ -239,7 +239,7 @@ module BountyTargets
       program_hash(
         platform: 'federacy',
         id: program['id'],
-        handle: nil,
+        handle: handle_from_url(program['url']),
         name: program['name'],
         url: program['url'],
         offers_bounty: program['offers_awards'],
@@ -285,7 +285,7 @@ module BountyTargets
     def target(type:, target:, in_scope:, bounty:, updated_at:, severity:, instruction:)
       {
         'type' => type,
-        'target' => target,
+        'target' => trimmed(target),
         'in_scope' => in_scope,
         'bounty' => bounty,
         'updated_at' => to_iso8601(updated_at),
@@ -308,6 +308,21 @@ module BountyTargets
 
     def money_value(money)
       money['value'] if money.is_a?(Hash)
+    end
+
+    def hackerone_id(program)
+      id = program['id']
+      id.nil? || id.to_s.empty? || id.to_s == '0' ? program['handle'] : id
+    end
+
+    def handle_from_url(url)
+      return nil unless url.is_a?(String)
+
+      trimmed(url).split('/').reject(&:empty?).last
+    end
+
+    def trimmed(value)
+      value.is_a?(String) ? value.strip : value
     end
 
     def to_iso8601(value)
