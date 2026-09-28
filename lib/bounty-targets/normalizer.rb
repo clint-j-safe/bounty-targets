@@ -257,6 +257,7 @@ module BountyTargets
       )
     end
 
+    # rubocop:disable Metrics/ParameterLists
     def program_hash(platform:, id:, handle:, name:, url:, offers_bounty:, submission_state:, managed:,
                      first_started_at:, last_updated_at:, last_activity_at:, reports_count:,
                      resolved_reports_count:, total_bounty_amount:, bounty_min:, bounty_max:, targets:)
@@ -292,6 +293,7 @@ module BountyTargets
         'instruction' => instruction
       }
     end
+    # rubocop:enable Metrics/ParameterLists
 
     def bounty_tier?(impact)
       ['Tier 1', 'Tier 2', 'Tier 3'].include?(impact)
