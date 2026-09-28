@@ -132,7 +132,7 @@
     "min_bounty": 0,
     "name": "ATG Public Bug Bounty Program",
     "public": true,
-    "reports_count": 478,
+    "reports_count": 479,
     "scopes_count": 7,
     "status": "V",
     "url": "https://yeswehack.com/programs/atg-public-bug-bounty-program",
@@ -141,10 +141,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 478,
-      "total_reports_last24_hours": 2,
-      "total_reports_last7_days": 10,
-      "total_reports_current_month": 59
+      "total_reports": 479,
+      "total_reports_last24_hours": 3,
+      "total_reports_last7_days": 11,
+      "total_reports_current_month": 60
     },
     "targets": {
       "in_scope": [
@@ -3154,7 +3154,7 @@
     "min_bounty": 100,
     "name": "Infomaniak Bug Bounty program",
     "public": true,
-    "reports_count": 3693,
+    "reports_count": 3694,
     "scopes_count": 51,
     "status": "V",
     "url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
@@ -3163,10 +3163,10 @@
       "max_reward": 1500000,
       "average_reward": 74476,
       "average_first_time_response": 1,
-      "total_reports": 3693,
-      "total_reports_last24_hours": 12,
-      "total_reports_last7_days": 92,
-      "total_reports_current_month": 378
+      "total_reports": 3694,
+      "total_reports_last24_hours": 13,
+      "total_reports_last7_days": 93,
+      "total_reports_current_month": 379
     },
     "targets": {
       "in_scope": [

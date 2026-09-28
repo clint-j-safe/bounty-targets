@@ -27,9 +27,11 @@ Extra files:
 
 Timestamps are UTC ISO 8601 strings. Flags are `true` / `false` / `null`, where `null` means the platform does not expose that value (for example `bounty` is `null` when neither the program nor the target declares a bounty). Out-of-scope targets are included with `in_scope: false`.
 
+`id` and `handle` identify the program on its source platform; when only one of them is exposed the other is derived from it (HackerOne ids fall back to the program handle, Bugcrowd and Federacy handles are taken from the program URL).
+
 ### Status
 
-The last change was detected on `Monday 09/28/2026 07:23 (UTC)`. New changes (if any) are picked up every 6 hours.
+The last change was detected on `Monday 09/28/2026 08:14 (UTC)`. New changes (if any) are picked up every 6 hours.
 
 ### Code
 
