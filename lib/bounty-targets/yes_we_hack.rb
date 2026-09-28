@@ -38,13 +38,23 @@ module BountyTargets
         page += 1
         programs.concat(result['items'].map do |program|
           {
+            archived: program['archived'],
+            bounty: program['bounty'],
+            disabled: program['disabled'],
+            event: program['event'],
+            gift: program['gift'],
             id: program['slug'],
+            last_update_at: program['last_update_at'],
+            managed: program['managed'],
+            max_bounty: program['bounty_reward_max'],
+            min_bounty: program['bounty_reward_min'],
             name: program['title'],
             public: program['public'],
-            disabled: program['disabled'],
-            managed: program['managed'],
-            min_bounty: program['bounty_reward_min'],
-            max_bounty: program['bounty_reward_max']
+            reports_count: program['reports_count'],
+            scopes_count: program['scopes_count'],
+            status: program['status'],
+            url: "https://yeswehack.com/programs/#{program['slug']}",
+            vdp: program['vdp']
           }
         end)
 
@@ -58,9 +68,12 @@ module BountyTargets
       uri = ::URI.parse('https://api.yeswehack.com/programs/' + ::URI.encode_www_form_component(program[:id]))
       response = ::JSON.parse(SsrfFilter.get(uri).body)
       {
+        stats: response['stats'],
         targets: {
           in_scope: (response['scopes'] || []).map do |scope|
             {
+              asset_value: scope['asset_value'],
+              report_count: scope['report_count'],
               target: scope['scope'],
               type: scope['scope_type']
             }

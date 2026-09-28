@@ -74,6 +74,8 @@ module BountyTargets
       domains, wildcards = parse_all_uris(uris)
       File.write(File.join(output_dir, 'domains.txt'), domains.join("\n"))
       File.write(File.join(output_dir, 'wildcards.txt'), wildcards.join("\n"))
+
+      Normalizer.dump(output_dir)
     end
 
     private
@@ -122,7 +124,7 @@ module BountyTargets
       true
     end
 
-    def with_ssh_keys(&)
+    def with_ssh_keys
       Dir.mktmpdir do |tmpdir|
         known_hosts_path = File.expand_path(File.join(__dir__, '..', '..', 'config', 'known_hosts'))
 

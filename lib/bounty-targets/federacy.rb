@@ -32,9 +32,16 @@ module BountyTargets
       programs = ::JSON.parse(SsrfFilter.get(::URI.parse('https://www.federacy.com/api/public_programs')).body)
       programs.map do |program|
         {
+          award_critical: program['award_critical'],
+          award_high: program['award_high'],
+          award_low: program['award_low'],
+          award_medium: program['award_medium'],
+          created_at: program['created_at'],
           id: program['id'],
+          managed: program['managed'],
           name: program['program_name'],
           offers_awards: program['offers_awards'],
+          public: program['public'],
           url: "https://www.federacy.com/#{program['slug']}"
         }
       end
@@ -55,8 +62,11 @@ module BountyTargets
     def scopes_to_hashes(scopes)
       Array(scopes).map do |scope|
         {
-          type: scope['scope_type'],
-          target: scope['identifier']
+          bounty: scope['bounty'],
+          identifier_type: scope['identifier_type'],
+          impact: scope['impact'],
+          target: scope['identifier'],
+          type: scope['scope_type']
         }
       end
     end
