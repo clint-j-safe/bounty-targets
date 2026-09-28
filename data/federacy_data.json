@@ -1,0 +1,27 @@
+[
+  {
+    "award_critical": 0,
+    "award_high": 0,
+    "award_low": 0,
+    "award_medium": 0,
+    "created_at": "2022-01-04T00:03:40.139Z",
+    "id": "5ce7ecf6-a0a2-4afd-b1c3-d0e54a5d30e5",
+    "managed": false,
+    "name": "okteto",
+    "offers_awards": false,
+    "public": true,
+    "url": "https://www.federacy.com/okteto",
+    "targets": {
+      "in_scope": [
+        {
+          "bounty": null,
+          "identifier_type": null,
+          "impact": null,
+          "target": "https://okteto.com",
+          "type": "website"
+        }
+      ],
+      "out_of_scope": []
+    }
+  }
+]
