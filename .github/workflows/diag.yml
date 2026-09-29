@@ -15,9 +15,15 @@ jobs:
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
           wget -q https://github.com/Findomain/Findomain/releases/download/8.2.1/findomain-linux.zip
           unzip -q findomain-linux.zip && chmod +x findomain && sudo mv findomain /usr/local/bin/
-      - name: Clone SubDomz
+      - name: Clone SubDomz and check line endings
         run: |
           git clone --depth 1 https://github.com/0xPugal/SubDomz.git "$RUNNER_TEMP/SubDomz"
+          echo "=== before normalization ==="
+          file "$RUNNER_TEMP/SubDomz/SubDomz.sh"
+          git config --get core.autocrlf || echo "(unset)"
+          sed -i 's/\r$//' "$RUNNER_TEMP/SubDomz"/*.sh
+          echo "=== after normalization ==="
+          file "$RUNNER_TEMP/SubDomz/SubDomz.sh"
           : > "$RUNNER_TEMP/SubDomz/config.txt"
       - name: Run SubDomz against abb.com with the NEW source list
         run: |

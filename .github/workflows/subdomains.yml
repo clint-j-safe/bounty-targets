@@ -106,6 +106,13 @@ jobs:
       - name: Get SubDomz
         run: |
           git clone --depth 1 https://github.com/0xPugal/SubDomz.git "$RUNNER_TEMP/SubDomz"
+          # Normalize line endings: a fresh clone on this runner produced CRLF, which made every
+          # SubDomz.sh invocation fail with an immediate bash syntax error (verified via a
+          # diagnostic run -- "line 17: syntax error near unexpected token `{'"). Every domain in
+          # every run was silently getting zero results because the script never ran at all, not
+          # because of slow/unreliable sources. This is a cheap, always-safe normalization
+          # regardless of why the CRLF appeared (upstream commit vs. this runner image's git config).
+          sed -i 's/\r$//' "$RUNNER_TEMP/SubDomz"/*.sh
           # config.txt is sourced by SubDomz; provide empty config paths (keys optional)
           : > "$RUNNER_TEMP/SubDomz/config.txt"
       - name: Enumerate shard ${{ matrix.shard }}
