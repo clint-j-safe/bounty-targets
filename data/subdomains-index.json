@@ -7,10 +7,66 @@
    "programs": [
     "hackerone|zurich-insurance"
    ]
+  },
+  "2asc.com": {
+   "count": 1,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|dib-vdp"
+   ]
+  },
+  "acurisdatasolutions.com": {
+   "count": 6,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
+  "allyoucare-byhenkel.com": {
+   "count": 1,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|henkel_vdp"
+   ]
+  },
+  "appslatamtravel.com": {
+   "count": 1,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|latamairlines"
+   ]
+  },
+  "avcjchinamaforum.com": {
+   "count": 1,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
+  "backup.net": {
+   "count": 6,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|kaseya"
+   ]
+  },
+  "busch-jaeger.at": {
+   "count": 2,
+   "last_run": "2026-09-29T18:22:48+00:00",
+   "live_count": 2,
+   "programs": [
+    "hackerone|abb"
+   ]
   }
  },
- "generated_at": "2026-09-29T13:03:35+00:00",
- "total_domains": 1,
- "total_live_hosts": 9,
- "total_subdomains": 20
+ "generated_at": "2026-09-29T18:22:48+00:00",
+ "total_domains": 8,
+ "total_live_hosts": 11,
+ "total_subdomains": 38
 }
