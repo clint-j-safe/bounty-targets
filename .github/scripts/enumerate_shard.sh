@@ -29,7 +29,12 @@ if [ "${ENABLE_SECURITYTRAILS:-false}" = "true" ] && [ -s "$HOME/.config/haktool
 fi
 
 cd "$SZ"
-while IFS= read -r domain; do
+# Read the shard list on fd 3, NOT stdin: SubDomz/puredns/httpx run inside this loop, and at
+# least httpx (confirmed by local repro) auto-reads stdin as EXTRA targets when it's not a TTY.
+# If the loop's own domain queue were on stdin, a child process reading stdin would silently
+# consume later domains from the SAME shard file as bogus additional httpx targets -- this was
+# a real, reproduced bug (see incident notes), not a hypothetical.
+while IFS= read -r domain <&3; do
   [ -z "$domain" ] && continue
   # defence in depth: planner already validated, re-check before it reaches an unquoted shell variable
   if ! printf '%s' "$domain" | grep -Eq '^([a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,24}$'; then
@@ -62,8 +67,8 @@ while IFS= read -r domain; do
     timeout "${HTTPX_TIMEOUT:-150}" httpx -l "$OUT/$domain.txt" -ports "$WEB_PORTS" \
       -json -silent -status-code -title -web-server -tech-detect -ip -cdn \
       -timeout "${HTTPX_REQ_TIMEOUT:-5}" -retries "${HTTPX_RETRIES:-0}" -threads "${HTTPX_THREADS:-100}" -rate-limit "${HTTPX_RATE:-150}" \
-      -o "$OUT/$domain.http.jsonl" 2>/dev/null
+      -o "$OUT/$domain.http.jsonl" < /dev/null 2>/dev/null  # belt-and-suspenders: see fd 3 note above
     echo "$domain httpx_live=$(wc -l < "$OUT/$domain.http.jsonl" 2>/dev/null || echo 0)"
   fi
   sleep "$PAUSE"
-done < "$SHARD"
+done 3< "$SHARD"
