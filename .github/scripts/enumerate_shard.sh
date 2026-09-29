@@ -6,6 +6,10 @@ SHARD="$1"; SZ="$2"; OUT="$3"
 PER_DOMAIN_TIMEOUT="${PER_DOMAIN_TIMEOUT:-420}"   # seconds
 PAUSE="${PAUSE_BETWEEN_DOMAINS:-8}"               # seconds: rate limit between domains
 mkdir -p "$OUT"
+# Resolve caller-relative paths to absolute now: the script cd's into $SZ below, after which any
+# relative $SHARD/$OUT path would silently resolve against $SZ instead of the caller's cwd.
+SHARD="$(cd "$(dirname "$SHARD")" && pwd)/$(basename "$SHARD")"
+OUT="$(cd "$OUT" && pwd)"
 
 # Passive, key-less sources only (no API keys needed). Cero (contacts targets) is excluded. SubDomz's own Puredns function is broken (uses an unset $DOMAIN), so puredns is run directly below.
 # Common web / alt-http(s) ports probed with httpx (maintained list below, not an upstream "top ports" export).
