@@ -13,6 +13,16 @@ IPV4 = re.compile(r'^\d{1,3}(\.\d{1,3}){3}$')
 
 INDEX = 'data/subdomains-index.json'
 OUTDIR = 'data/subdomains'
+
+
+def belongs_to(host, domain):
+    """True if host is domain itself or a subdomain of it. Defense in depth: a probe result whose
+    host isn't actually within the domain it was filed under is dropped rather than merged -- this
+    has been observed once (see incident notes) with an unconfirmed root cause, so it stays as a
+    permanent guard regardless of what upstream produced the mismatch."""
+    host = (host or '').lower().rstrip('.')
+    domain = (domain or '').lower().rstrip('.')
+    return bool(host) and (host == domain or host.endswith('.' + domain))
 os.makedirs(OUTDIR, exist_ok=True)
 now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 roots = json.load(open('plan/roots.json')) if os.path.exists('plan/roots.json') else {}
@@ -38,10 +48,14 @@ def http_records(domain):
             j = json.loads(line)
         except ValueError:
             continue
-        url = j.get('url') or f"{j.get('scheme', 'http')}://{j.get('input', j.get('host', ''))}"
+        host = j.get('input') or j.get('host') or ''
+        if not belongs_to(host, domain):
+            print(f'  dropped out-of-scope httpx result: {host!r} is not part of {domain!r}')
+            continue
+        url = j.get('url') or f"{j.get('scheme', 'http')}://{host}"
         recs[url] = {
             'url': url,
-            'host': j.get('input') or j.get('host') or '',
+            'host': host,
             'port': j.get('port'),
             'status_code': j.get('status_code'),
             'title': j.get('title') or '',
