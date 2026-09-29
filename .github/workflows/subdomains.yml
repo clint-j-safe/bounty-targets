@@ -15,6 +15,9 @@ on:
       max_domains:
         description: 'Max domains this run'
         default: '240'
+      all_programs:
+        description: 'true = ignore config/subdomain-programs.json and cover every program'
+        default: 'false'
       refresh_days:
         description: 'Re-run domains older than N days'
         default: '30'
@@ -40,6 +43,7 @@ jobs:
           MAX_DOMAINS: ${{ inputs.max_domains || '240' }}
           REFRESH_DAYS: ${{ inputs.refresh_days || '30' }}
           SHARD_SIZE: '30'
+          ALL_PROGRAMS: ${{ inputs.all_programs || 'false' }}
         run: python3 .github/scripts/plan_subdomains.py
       - uses: actions/upload-artifact@v4
         with:
@@ -76,6 +80,17 @@ jobs:
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
           wget -q https://github.com/Findomain/Findomain/releases/download/8.2.1/findomain-linux.zip
           unzip -q findomain-linux.zip && chmod +x findomain && sudo mv findomain /usr/local/bin/
+      - name: Install puredns (DNS brute force; disable with repo variable DISABLE_PUREDNS=true)
+        if: vars.DISABLE_PUREDNS != 'true'
+        run: |
+          git clone --depth 1 https://github.com/blechschmidt/massdns.git "$RUNNER_TEMP/massdns"
+          make -C "$RUNNER_TEMP/massdns" -s
+          sudo make -C "$RUNNER_TEMP/massdns" install -s
+          go install github.com/d3mondev/puredns/v2@latest
+          mkdir -p "$RUNNER_TEMP/dns"
+          curl -fsSL https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt -o "$RUNNER_TEMP/dns/resolvers.txt"
+          curl -fsSL https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/DNS/subdomains-top1million-5000.txt -o "$RUNNER_TEMP/dns/words.txt"
+          wc -l "$RUNNER_TEMP/dns/resolvers.txt" "$RUNNER_TEMP/dns/words.txt"
       - name: SecurityTrails (disabled by default)
         # Turn on later: repo Settings > Variables > ENABLE_SECURITYTRAILS=true and secret SECURITYTRAILS_API_KEY
         if: vars.ENABLE_SECURITYTRAILS == 'true'
@@ -95,6 +110,8 @@ jobs:
       - name: Enumerate shard ${{ matrix.shard }}
         env:
           ENABLE_SECURITYTRAILS: ${{ vars.ENABLE_SECURITYTRAILS }}
+          DNS_DIR: ${{ runner.temp }}/dns
+          DISABLE_PUREDNS: ${{ vars.DISABLE_PUREDNS }}
         run: bash .github/scripts/enumerate_shard.sh "plan/shard-${{ matrix.shard }}.txt" "$RUNNER_TEMP/SubDomz" "results"
       - uses: actions/upload-artifact@v4
         if: always()

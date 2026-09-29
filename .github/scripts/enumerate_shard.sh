@@ -7,7 +7,7 @@ PER_DOMAIN_TIMEOUT="${PER_DOMAIN_TIMEOUT:-420}"   # seconds
 PAUSE="${PAUSE_BETWEEN_DOMAINS:-8}"               # seconds: rate limit between domains
 mkdir -p "$OUT"
 
-# Passive, key-less sources only (no API keys needed). Cero (contacts targets) and Puredns (DNS brute force) are excluded.
+# Passive, key-less sources only (no API keys needed). Cero (contacts targets) is excluded. SubDomz's own Puredns function is broken (uses an unset $DOMAIN), so puredns is run directly below.
 SOURCES="Subfinder,Assetfinder,Findomain,Crtsh,JLDC,Alienvault,Subdomain-center,Certspotter"
 # SecurityTrails (via SubDomz's Haktrails source) is implemented but OFF by default.
 # It only runs when ENABLE_SECURITYTRAILS=true AND a haktrails config with a key exists.
@@ -32,6 +32,15 @@ while IFS= read -r domain; do
       | grep -E "(^|\.)$(printf '%s' "$domain" | sed 's/\./\\./g')\$" | sort -u > "$OUT/$domain.txt"
   else
     : > "$OUT/$domain.txt"
+  fi
+  # DNS brute force with puredns (on by default; set DISABLE_PUREDNS=true to skip).
+  # Wildcard DNS responses are filtered by puredns; queries go through public resolvers, rate limited.
+  if [ "${DISABLE_PUREDNS:-false}" != "true" ] && command -v puredns >/dev/null \
+     && [ -s "${DNS_DIR:-}/words.txt" ] && [ -s "${DNS_DIR:-}/resolvers.txt" ]; then
+    timeout "${PUREDNS_TIMEOUT:-300}" puredns bruteforce "$DNS_DIR/words.txt" "$domain" \
+      -r "$DNS_DIR/resolvers.txt" --rate-limit "${PUREDNS_RATE:-1000}" --rate-limit-trusted "${PUREDNS_RATE_TRUSTED:-100}" \
+      -q 2>/dev/null | tr 'A-Z' 'a-z' | grep -E "(^|\.)$(printf '%s' "$domain" | sed 's/\./\\./g')\$" >> "$OUT/$domain.txt"
+    sort -u -o "$OUT/$domain.txt" "$OUT/$domain.txt"
   fi
   echo "$domain rc=$rc found=$(wc -l < "$OUT/$domain.txt")"
   sleep "$PAUSE"

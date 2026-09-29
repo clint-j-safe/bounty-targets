@@ -10,6 +10,7 @@ from datetime import datetime, timedelta, timezone
 
 DATA = 'data/programs.json'
 INDEX = 'data/subdomains-index.json'
+PRIORITY = 'config/subdomain-programs.json'   # cap: only these programs (unless ALL_PROGRAMS=true)
 MAX_DOMAINS = int(os.environ.get('MAX_DOMAINS') or 240)
 SHARD_SIZE = int(os.environ.get('SHARD_SIZE') or 30)
 REFRESH_DAYS = int(os.environ.get('REFRESH_DAYS') or 30)
@@ -37,6 +38,10 @@ def wildcard_roots(programs):
 
 def main():
     programs = json.load(open(DATA))['programs']
+    if os.path.exists(PRIORITY) and os.environ.get('ALL_PROGRAMS', 'false') != 'true':
+        allow = set(json.load(open(PRIORITY))['programs'])
+        programs = [p for p in programs if f"{p.get('platform')}|{p.get('handle')}" in allow]
+        print(f'capped to {len(programs)} of {len(allow)} listed programs')
     roots = wildcard_roots(programs)
     index = json.load(open(INDEX)) if os.path.exists(INDEX) else {'domains': {}}
     known = index.get('domains', {})
