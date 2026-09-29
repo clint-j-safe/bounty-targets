@@ -21,7 +21,7 @@ jobs:
           echo "=== before normalization ==="
           file "$RUNNER_TEMP/SubDomz/SubDomz.sh"
           git config --get core.autocrlf || echo "(unset)"
-          sed -i 's/\r$//' "$RUNNER_TEMP/SubDomz"/*.sh
+          for f in "$RUNNER_TEMP/SubDomz"/*.sh; do tr -d '\r' < "$f" > "$f.tmp" && mv "$f.tmp" "$f"; done
           echo "=== after normalization ==="
           file "$RUNNER_TEMP/SubDomz/SubDomz.sh"
           : > "$RUNNER_TEMP/SubDomz/config.txt"
