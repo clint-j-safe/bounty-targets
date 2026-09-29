@@ -139,11 +139,13 @@ jobs:
           merge-multiple: true
       - name: Merge results into data/
         run: python3 .github/scripts/merge_subdomains.py
+      - name: Build enriched programs.json
+        run: python3 .github/scripts/build_enriched_programs.py
       - name: Commit and push
         run: |
           git config user.name 'bounty-targets'
           git config user.email '<>'
-          git add data/subdomains data/subdomains-index.json
+          git add data/subdomains data/subdomains-index.json data/programs-enriched.json
           git diff --cached --quiet && echo 'No changes to commit' && exit 0
           git commit -m "Update subdomains ($(date -u +'%m-%d-%Y %R'))"
           for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push && break || sleep 15; done
