@@ -1,0 +1,130 @@
+name: Subdomains
+
+# Passive subdomain enumeration (SubDomz) of every in-scope wildcard domain in data/programs.json.
+#  - new wildcard domains are enumerated on the next run (right after each Crawl)
+#  - already-enumerated domains are refreshed once per REFRESH_DAYS (30)
+#  - each run is capped (MAX_DOMAINS) and split into batches (matrix shards) with a pause between domains
+on:
+  workflow_run:
+    workflows: [Crawl]
+    types: [completed]
+  schedule:
+    - cron: '43 2 * * *'      # daily: drains the backlog and picks up monthly refreshes
+  workflow_dispatch:
+    inputs:
+      max_domains:
+        description: 'Max domains this run'
+        default: '240'
+      refresh_days:
+        description: 'Re-run domains older than N days'
+        default: '30'
+
+concurrency:
+  group: subdomains
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      count: ${{ steps.plan.outputs.count }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: plan
+        env:
+          MAX_DOMAINS: ${{ inputs.max_domains || '240' }}
+          REFRESH_DAYS: ${{ inputs.refresh_days || '30' }}
+          SHARD_SIZE: '30'
+        run: python3 .github/scripts/plan_subdomains.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: plan
+          path: plan/
+          retention-days: 1
+
+  enumerate:
+    needs: plan
+    if: needs.plan.outputs.count != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 3            # rate limit: at most 3 batches hit the public sources at once
+      matrix:
+        shard: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: plan
+          path: plan
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+          cache: false
+      - name: Install passive tools
+        run: |
+          sudo apt-get install -y --no-install-recommends parallel jq curl
+          go install github.com/tomnomnom/anew@latest
+          go install github.com/tomnomnom/assetfinder@latest
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+          wget -q https://github.com/Findomain/Findomain/releases/download/8.2.1/findomain-linux.zip
+          unzip -q findomain-linux.zip && chmod +x findomain && sudo mv findomain /usr/local/bin/
+      - name: SecurityTrails (disabled by default)
+        # Turn on later: repo Settings > Variables > ENABLE_SECURITYTRAILS=true and secret SECURITYTRAILS_API_KEY
+        if: vars.ENABLE_SECURITYTRAILS == 'true'
+        env:
+          ST_KEY: ${{ secrets.SECURITYTRAILS_API_KEY }}
+        run: |
+          [ -n "$ST_KEY" ] || { echo 'SECURITYTRAILS_API_KEY not set; skipping'; exit 0; }
+          go install github.com/hakluke/haktrails@latest
+          mkdir -p "$HOME/.config/haktools"
+          printf 'securitytrails:\n  key: %s\n' "$ST_KEY" > "$HOME/.config/haktools/haktrails-config.yml"
+          chmod 600 "$HOME/.config/haktools/haktrails-config.yml"
+      - name: Get SubDomz
+        run: |
+          git clone --depth 1 https://github.com/0xPugal/SubDomz.git "$RUNNER_TEMP/SubDomz"
+          # config.txt is sourced by SubDomz; provide empty config paths (keys optional)
+          : > "$RUNNER_TEMP/SubDomz/config.txt"
+      - name: Enumerate shard ${{ matrix.shard }}
+        env:
+          ENABLE_SECURITYTRAILS: ${{ vars.ENABLE_SECURITYTRAILS }}
+        run: bash .github/scripts/enumerate_shard.sh "plan/shard-${{ matrix.shard }}.txt" "$RUNNER_TEMP/SubDomz" "results"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: results-${{ matrix.shard }}
+          path: results/
+          retention-days: 1
+
+  commit:
+    needs: [plan, enumerate]
+    if: always() && needs.plan.result == 'success' && needs.plan.outputs.count != '0'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: plan
+          path: plan
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: results-*
+          path: results
+          merge-multiple: true
+      - name: Merge results into data/
+        run: python3 .github/scripts/merge_subdomains.py
+      - name: Commit and push
+        run: |
+          git config user.name 'bounty-targets'
+          git config user.email '<>'
+          git add data/subdomains data/subdomains-index.json
+          git diff --cached --quiet && echo 'No changes to commit' && exit 0
+          git commit -m "Update subdomains ($(date -u +'%m-%d-%Y %R'))"
+          for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push && break || sleep 15; done
