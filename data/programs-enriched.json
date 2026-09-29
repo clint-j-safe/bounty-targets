@@ -28298,7 +28298,15 @@
           "bounty": false,
           "updated_at": "2025-02-17T14:44:18Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "chinacacd-prod-floating.us.e10.c01.johndeerecloud.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -28307,7 +28315,15 @@
           "bounty": false,
           "updated_at": "2026-05-29T14:56:06Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "deere.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -69028,7 +69044,15 @@
           "bounty": false,
           "updated_at": "2024-06-18T13:31:55Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cloudendure.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -79120,7 +79144,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "delphifunds.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -79129,7 +79161,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "delphifonder.se",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -79156,7 +79196,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cubera.no",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -79165,7 +79213,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cubera.se",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -86449,7 +86505,15 @@
           "bounty": false,
           "updated_at": "2023-08-09T19:53:50Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "certificadoboavista.com.br",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86458,7 +86522,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datacredito.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86467,7 +86539,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datacredito.com.do",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86476,7 +86556,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datacredito.info",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86485,7 +86573,15 @@
           "bounty": false,
           "updated_at": "2023-07-13T09:22:34Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datacredito1.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86494,7 +86590,15 @@
           "bounty": false,
           "updated_at": "2023-07-13T09:22:34Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datacredito2.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86503,7 +86607,15 @@
           "bounty": false,
           "updated_at": "2023-07-13T09:22:34Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datacredito3.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -86512,7 +86624,15 @@
           "bounty": false,
           "updated_at": "2024-04-18T21:04:39Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "decisionpoint3.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86521,7 +86641,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dicom.cl",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86530,7 +86658,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "efficientforms.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86539,7 +86675,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "efficienthire.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86548,7 +86692,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "employersedge.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -86557,7 +86709,15 @@
           "bounty": false,
           "updated_at": "2023-03-15T19:55:04Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "employersedge.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -90758,7 +90918,15 @@
           "bounty": true,
           "updated_at": "2025-10-29T14:20:27Z",
           "severity": "critical",
-          "instruction": "***Note:*** This asset may contain endpoints not hosted by Epic Games (third party endpoints). These third party endpoints are not eligible for bounty.\nIf you are unsure whether or not an asset is considered third party please submit a preliminary finding for confirmation."
+          "instruction": "***Note:*** This asset may contain endpoints not hosted by Epic Games (third party endpoints). These third party endpoints are not eligible for bounty.\nIf you are unsure whether or not an asset is considered third party please submit a preliminary finding for confirmation.",
+          "enrichment": {
+            "root_domain": "cubicmotion.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "URL",
@@ -90767,7 +90935,15 @@
           "bounty": true,
           "updated_at": "2024-06-17T09:52:24Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dancecentral.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "URL",
@@ -90776,7 +90952,15 @@
           "bounty": true,
           "updated_at": "2024-06-17T10:16:43Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dropmix.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "URL",
@@ -90785,7 +90969,15 @@
           "bounty": true,
           "updated_at": "2024-05-23T19:35:37Z",
           "severity": "critical",
-          "instruction": "***Note:*** This asset may contain endpoints not hosted by Epic Games (third party endpoints). These third party endpoints are not eligible for bounty. \nIf you are unsure whether or not an asset is considered third party please submit a preliminary finding for confirmation."
+          "instruction": "***Note:*** This asset may contain endpoints not hosted by Epic Games (third party endpoints). These third party endpoints are not eligible for bounty. \nIf you are unsure whether or not an asset is considered third party please submit a preliminary finding for confirmation.",
+          "enrichment": {
+            "root_domain": "easy.ac",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "URL",
@@ -112706,7 +112898,15 @@
           "bounty": false,
           "updated_at": "2026-04-27T19:45:58Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cubicmotion.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -112715,7 +112915,15 @@
           "bounty": false,
           "updated_at": "2026-04-27T19:45:58Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dancecentral.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -112724,7 +112932,15 @@
           "bounty": false,
           "updated_at": "2026-04-27T19:45:58Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dropmix.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -112733,7 +112949,15 @@
           "bounty": false,
           "updated_at": "2026-04-27T19:45:58Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "easy.ac",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -136695,7 +136919,15 @@
           "bounty": false,
           "updated_at": "2024-12-16T13:13:55Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "centrastage.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -136704,7 +136936,15 @@
           "bounty": false,
           "updated_at": "2024-12-16T13:14:18Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cloudtrax.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -136713,7 +136953,15 @@
           "bounty": false,
           "updated_at": "2024-12-16T11:32:15Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "connectit.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -136722,7 +136970,15 @@
           "bounty": false,
           "updated_at": "2024-12-16T13:14:39Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "datto.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -136731,7 +136987,15 @@
           "bounty": false,
           "updated_at": "2024-12-16T13:15:00Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dattobackup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -149857,7 +150121,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149866,7 +150138,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh-connect.be",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149875,7 +150155,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh-connect.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149884,7 +150172,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.be",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149893,7 +150189,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149902,7 +150206,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.eu",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149911,7 +150223,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.guide",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149920,7 +150240,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149929,7 +150257,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.fr",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149938,7 +150274,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.nl",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149947,7 +150291,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymesh.io",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149956,7 +150308,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymeshconnect.be",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149965,7 +150325,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "citymeshconnect.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149974,7 +150342,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ctmsh.co",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149983,7 +150359,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "connectingsenses.be",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -149992,7 +150376,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "connectingsenses.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -150001,7 +150393,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "connectow.be",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -150010,7 +150410,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "connectow.eu",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -150028,7 +150436,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": "Please check the out of scope section for excluded subdomains."
+          "instruction": "Please check the out of scope section for excluded subdomains.",
+          "enrichment": {
+            "root_domain": "edpnet.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -150037,7 +150453,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "edpnet.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -150046,7 +150470,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "edpnet.nl",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -150055,7 +150487,15 @@
           "bounty": false,
           "updated_at": null,
           "severity": "No Bounty",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "edpnet.be",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "wildcard",
@@ -159431,7 +159871,15 @@
           "bounty": false,
           "updated_at": "2023-01-24T11:42:51Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "centermanagement.ch",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -159440,7 +159888,15 @@
           "bounty": false,
           "updated_at": "2023-05-19T19:44:58Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "coldrivertax.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -159449,7 +159905,15 @@
           "bounty": false,
           "updated_at": "2023-05-19T19:45:08Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "commercialloanservices.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -159458,7 +159922,15 @@
           "bounty": false,
           "updated_at": "2023-05-19T19:45:16Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "corporateproperty.com.au",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -159467,7 +159939,15 @@
           "bounty": false,
           "updated_at": "2023-05-19T19:45:24Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "e2ctechnology.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -159476,7 +159956,15 @@
           "bounty": false,
           "updated_at": "2023-05-19T19:45:31Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "eashaw.co.uk",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -159485,7 +159973,15 @@
           "bounty": false,
           "updated_at": "2023-05-19T19:45:39Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "eashaw.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -254400,7 +254896,15 @@
           "bounty": false,
           "updated_at": "2026-09-25T15:00:58Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cuidomidestino.cl",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -254409,7 +254913,15 @@
           "bounty": false,
           "updated_at": "2026-09-25T14:55:39Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "e-tam.com.br",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -261556,7 +262068,15 @@
           "bounty": false,
           "updated_at": "2023-05-11T08:11:01Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debenhams.ae",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -261565,7 +262085,15 @@
           "bounty": false,
           "updated_at": "2023-05-11T08:11:01Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debenhams.com.kw",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -261574,7 +262102,15 @@
           "bounty": false,
           "updated_at": "2023-05-11T08:11:01Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debenhams.sa",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -263128,7 +263664,15 @@
           "bounty": false,
           "updated_at": "2024-07-18T16:18:42Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "chile.transunion.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -263137,7 +263681,15 @@
           "bounty": false,
           "updated_at": "2025-07-21T14:39:09Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cibil.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -263146,7 +263698,15 @@
           "bounty": false,
           "updated_at": "2024-05-28T16:40:04Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cibilcreditreport.in",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -263155,7 +263715,15 @@
           "bounty": false,
           "updated_at": "2024-08-05T13:49:43Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "crivo.com.br",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -268111,7 +268679,15 @@
           "bounty": false,
           "updated_at": "2025-01-31T13:37:28Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dsl.vodafone.de",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -270791,7 +271367,15 @@
           "bounty": false,
           "updated_at": "2025-10-08T14:19:25Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cloud-effem.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -270800,7 +271384,15 @@
           "bounty": false,
           "updated_at": "2023-05-15T16:39:34Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "coroapremiada.com.br",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -270809,7 +271401,15 @@
           "bounty": false,
           "updated_at": "2023-05-15T16:36:46Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dovechocolate.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -270818,7 +271418,15 @@
           "bounty": false,
           "updated_at": "2025-09-24T12:55:55Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "effem.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -282986,7 +283594,15 @@
           "bounty": false,
           "updated_at": "2025-03-26T09:05:41Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ch.abb.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -282995,7 +283611,15 @@
           "bounty": false,
           "updated_at": "2025-03-26T09:05:41Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cirrus.abb.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -283004,7 +283628,15 @@
           "bounty": false,
           "updated_at": "2025-03-26T09:05:41Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cn.abb.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -283013,7 +283645,15 @@
           "bounty": false,
           "updated_at": "2023-05-15T16:39:02Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cylon.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -283022,7 +283662,15 @@
           "bounty": false,
           "updated_at": "2025-03-26T09:05:41Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "de.abb.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -294302,7 +294950,15 @@
           "bounty": false,
           "updated_at": "2023-01-24T13:39:24Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "daimlertruck.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "OTHER",
@@ -345564,7 +346220,15 @@
           "bounty": false,
           "updated_at": "2025-09-30T19:06:14Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "chilena.cl",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345573,7 +346237,15 @@
           "bounty": false,
           "updated_at": "2025-09-30T19:06:37Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covermore.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345582,7 +346254,15 @@
           "bounty": false,
           "updated_at": "2025-09-30T19:06:59Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covermore.com.au",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345591,7 +346271,15 @@
           "bounty": false,
           "updated_at": "2025-09-30T19:07:15Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "da-direkt.de",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345600,7 +346288,15 @@
           "bounty": false,
           "updated_at": "2025-09-30T19:07:32Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dentolo.de",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345935,7 +346631,15 @@
           "bounty": false,
           "updated_at": "2024-05-17T18:34:39Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clover.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345944,7 +346648,15 @@
           "bounty": false,
           "updated_at": "2026-03-10T16:46:22Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cloveronline.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -345953,7 +346665,15 @@
           "bounty": false,
           "updated_at": "2024-05-17T19:00:18Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dev.clover.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435412,7 +436132,15 @@
           "bounty": false,
           "updated_at": "2024-10-28T15:55:32Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "coalfirefederal.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435421,7 +436149,15 @@
           "bounty": false,
           "updated_at": "2024-07-17T18:31:50Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ddlomni.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435430,7 +436166,15 @@
           "bounty": false,
           "updated_at": "2024-05-21T13:06:56Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dese.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435439,7 +436183,15 @@
           "bounty": false,
           "updated_at": "2026-06-23T15:09:37Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "drs.ca",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435448,7 +436200,15 @@
           "bounty": false,
           "updated_at": "2026-06-23T15:09:09Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "drs.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435457,7 +436217,15 @@
           "bounty": false,
           "updated_at": "2026-06-23T15:10:00Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "drsrada.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -435466,7 +436234,15 @@
           "bounty": false,
           "updated_at": "2026-03-05T17:01:22Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "emsolve.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -447544,7 +448320,15 @@
           "bounty": false,
           "updated_at": "2025-02-19T18:17:59Z",
           "severity": "medium",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cortexica.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -447553,7 +448337,15 @@
           "bounty": false,
           "updated_at": "2025-02-17T21:23:39Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cto-si.zebra.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -447562,7 +448354,15 @@
           "bounty": false,
           "updated_at": "2025-02-17T22:33:10Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cvsltc.reflexisinc.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -447571,7 +448371,15 @@
           "bounty": false,
           "updated_at": "2025-02-17T22:02:46Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dnacloud.zebra.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -447580,7 +448388,15 @@
           "bounty": false,
           "updated_at": "2026-03-18T01:37:38Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "elotouch.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459015,7 +459831,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cedacrigroup.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459024,7 +459848,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cedacrinternational.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459033,7 +459865,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cedacrinternational.md",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459042,7 +459882,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cedacriovest.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459051,7 +459899,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ceepecongress.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459060,7 +459916,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ceepeforum.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459069,7 +459933,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ceeunquote.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459078,7 +459950,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfeuasp1.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459087,7 +459967,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfeuasp1dr.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459096,7 +459984,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfeuasp2.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459105,7 +460001,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfeuasp2dr.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459114,7 +460018,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfeuaws1.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459123,7 +460035,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfeuaws1dr.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459132,7 +460052,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfusasp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459141,7 +460069,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfusasp2.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459150,7 +460086,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfusasp2dr.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459159,7 +460103,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cfusaspdr.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459168,7 +460120,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cgx.asp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459177,7 +460137,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "chinamergers.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459186,7 +460154,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cima.asp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459195,7 +460171,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cityfinancials.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459204,7 +460188,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clarus.blog",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459213,7 +460205,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clarusft.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459222,7 +460222,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clawreport.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459231,7 +460239,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clientftp.olf.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459240,7 +460256,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clo-i.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459249,7 +460273,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "clomaster.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459258,7 +460290,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cogencysoft.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459267,7 +460307,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "commoditymanagementblog.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459276,7 +460324,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "consensusviews.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459285,7 +460341,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "content.seleritycorp.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459294,7 +460358,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "context-api.seleritycorp.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459303,7 +460375,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "context-data-service.seleritycorp.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459312,7 +460392,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "context.seleritycorp.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459321,7 +460409,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "corning.asp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459330,7 +460426,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "corning.it2net.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459339,7 +460443,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "corningit2net.wallstreetsystems.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459348,7 +460460,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covenantextract.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459357,7 +460477,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covenantlegal.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459366,7 +460494,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covenantrating.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459375,7 +460511,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covenantreviews.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459384,7 +460528,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "covenantxtract.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459393,7 +460545,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "creditflux.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459402,7 +460562,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "creditrubric.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459411,7 +460579,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "crubricapi.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459420,7 +460596,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cs.barracudafx.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459429,7 +460613,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cslawreport.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459438,7 +460630,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cvsasp.wallstreetsystems.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459447,7 +460647,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cvsdr.wallstreetsystems.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459456,7 +460664,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cyberlawreport.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459465,7 +460681,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "cybersecuritylawreport.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459474,7 +460698,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "d-port.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459483,7 +460715,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "d-port.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459492,7 +460732,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "d-porto.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459501,7 +460749,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "d-porto.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459510,7 +460766,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "d-porto.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459519,7 +460783,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "d1tc1mewfeld95.cloudfront.net",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459528,7 +460800,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dachpecongress.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459537,7 +460817,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dachpeforum.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459546,7 +460834,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dal.remote.openlink.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459555,7 +460851,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dash-trade.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459564,7 +460868,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashbrokers.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459573,7 +460885,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:48Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashexecution.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459582,7 +460902,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.biz",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459591,7 +460919,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.cc",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459600,7 +460936,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.co",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459609,7 +460953,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459618,7 +460970,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.info",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459627,7 +460987,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.me",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459636,7 +461004,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.mobi",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459645,7 +461021,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.org",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459654,7 +461038,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.us",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459663,7 +461055,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.ws",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459672,7 +461072,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashfinancial.xxx",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459681,7 +461089,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashregtech.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459690,7 +461106,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dashtradedesk.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459699,7 +461123,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dealogic.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459708,7 +461140,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dealogic.hu",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459717,7 +461157,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dealreporter.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459726,7 +461174,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dealriskmonitor.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459735,7 +461191,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dealscope.co.uk",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459744,7 +461208,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dealscope.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459753,7 +461225,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debtwire.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459762,7 +461242,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debtwirecovenantresearch.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459771,7 +461259,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debtwirefunds.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459780,7 +461276,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "debtxplain.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459789,7 +461293,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demb.cl.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459798,7 +461310,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demo.cl.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459807,7 +461327,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demo.latentzero.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459816,7 +461344,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demo.treasura.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459825,7 +461361,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demoauth.treasura.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459834,7 +461378,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "deskjs.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459843,7 +461395,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "deutschelpcongress.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459852,7 +461412,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "deutschepecongress.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459861,7 +461429,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "deutscheunquote.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459870,7 +461446,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "devroasp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459879,7 +461463,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "diagnostics.iontrading.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459888,7 +461480,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "disambiguation-data-service.seleritycorp.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459897,7 +461497,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dmgt.it2net.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459906,7 +461514,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dmgtasp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459915,7 +461531,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "docugest.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459924,7 +461548,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dometic.cl.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459933,7 +461565,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "download.seleritycorp.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459942,7 +461582,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dssmith.asp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459951,7 +461599,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dssmithdr.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459960,7 +461616,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ecash.wallstreetsystems.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459969,7 +461633,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ecashtest.wallstreetsystems.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459978,7 +461650,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "eltel.asp.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459987,7 +461667,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "eltel.it2net.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -459996,7 +461684,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "eltelit2net.wallstreetsystems.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -460005,7 +461701,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "embargopublishing.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -460014,7 +461718,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:12:45Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "end085-dr.cl.iongroup.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471458,7 +473170,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:05:51Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "cheetos.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471467,7 +473187,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:06:47Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "crackerjack.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471476,7 +473204,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:07:13Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "crackerjill.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471485,7 +473221,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:07:56Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "craftedforhome.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471494,7 +473238,15 @@
           "bounty": false,
           "updated_at": "2025-08-18T17:58:44Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "doritos.co.uk",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471503,7 +473255,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:08:24Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "doritos.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471512,7 +473272,15 @@
           "bounty": false,
           "updated_at": "2025-08-18T17:46:48Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dousaflavor.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471521,7 +473289,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:09:05Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "drinkbrisk.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -471530,7 +473306,15 @@
           "bounty": false,
           "updated_at": "2024-10-04T17:09:43Z",
           "severity": "critical",
-          "instruction": "VDP"
+          "instruction": "VDP",
+          "enrichment": {
+            "root_domain": "drinkevolve.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -474314,7 +476098,15 @@
           "bounty": false,
           "updated_at": "2025-02-14T16:39:16Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "crunchbar.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -474323,7 +476115,15 @@
           "bounty": false,
           "updated_at": "2025-02-14T16:39:42Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "duplo.de",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -474332,7 +476132,15 @@
           "bounty": false,
           "updated_at": "2025-02-14T16:34:48Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "eatnatural.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479389,7 +481197,15 @@
           "bounty": false,
           "updated_at": "2026-01-26T09:26:59Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cimsec.at",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479398,7 +481214,15 @@
           "bounty": false,
           "updated_at": "2026-01-13T13:00:30Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "clubedocabelopro.com.br",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479407,7 +481231,15 @@
           "bounty": false,
           "updated_at": "2026-01-20T15:23:01Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "colorsmith.ie",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479416,7 +481248,15 @@
           "bounty": false,
           "updated_at": "2026-01-20T15:22:08Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "colorsmithco.ca",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479425,7 +481265,15 @@
           "bounty": false,
           "updated_at": "2026-01-13T13:09:33Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "combatbugs.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479434,7 +481282,15 @@
           "bounty": false,
           "updated_at": "2025-10-10T12:45:14Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "concorsi.loctite-consumer.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479443,7 +481299,15 @@
           "bounty": false,
           "updated_at": "2026-01-20T15:27:48Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "cs-nri.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479452,7 +481316,15 @@
           "bounty": false,
           "updated_at": "2026-05-23T16:38:49Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demert.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479461,7 +481333,15 @@
           "bounty": false,
           "updated_at": "2026-05-23T16:39:11Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "demertbrands.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479470,7 +481350,15 @@
           "bounty": false,
           "updated_at": "2026-01-27T12:57:11Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "detergente-mas.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479479,7 +481367,15 @@
           "bounty": false,
           "updated_at": "2025-11-21T03:50:29Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "devacurl.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479488,7 +481384,15 @@
           "bounty": false,
           "updated_at": "2026-01-13T10:32:23Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "devacurlpro.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479497,7 +481401,15 @@
           "bounty": false,
           "updated_at": "2025-12-16T13:54:53Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "dhatec.nl",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479506,7 +481418,15 @@
           "bounty": false,
           "updated_at": "2026-01-20T15:38:58Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dialprofessional.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479515,7 +481435,15 @@
           "bounty": false,
           "updated_at": "2026-01-08T05:15:09Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dixan.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479524,7 +481452,15 @@
           "bounty": false,
           "updated_at": "2025-10-10T06:52:23Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "donnad.it",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479533,7 +481469,15 @@
           "bounty": false,
           "updated_at": "2026-01-26T10:26:53Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "dylon.se",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479542,7 +481486,15 @@
           "bounty": false,
           "updated_at": "2025-12-16T13:52:31Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "easy-qote.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -479551,7 +481503,15 @@
           "bounty": false,
           "updated_at": "2025-12-16T13:53:09Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "easyqote.com",
+            "last_enumerated": "2026-09-29T21:18:56+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -482758,7 +484718,7 @@
       ]
     }
   ],
-  "enrichment_generated_at": "2026-09-29T20:52:18+00:00",
-  "enrichment_domains_available": 258,
-  "enrichment_targets_enriched": 263
+  "enrichment_generated_at": "2026-09-29T21:18:56+00:00",
+  "enrichment_domains_available": 498,
+  "enrichment_targets_enriched": 508
 }
