@@ -135810,7 +135810,591 @@
           "bounty": false,
           "updated_at": "2024-12-16T11:32:15Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "365command.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 13,
+            "subdomains": [
+              "autodiscover.365command.com",
+              "blog.365command.com",
+              "calendar.365command.com",
+              "dev.365command.com",
+              "email.365command.com",
+              "fax.365command.com",
+              "files.365command.com",
+              "ftp.365command.com",
+              "imap.365command.com",
+              "mail.365command.com",
+              "pop.365command.com",
+              "smtp.365command.com",
+              "www.365command.com"
+            ],
+            "live_host_count": 39,
+            "live_hosts": [
+              {
+                "url": "http://autodiscover.365command.com:80",
+                "host": "autodiscover.365command.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Microsoft-HTTPAPI/2.0",
+                "technologies": [
+                  "Microsoft HTTPAPI:2.0"
+                ],
+                "cdn": true,
+                "ip": "52.96.214.56",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:2082",
+                "host": "blog.365command.com",
+                "port": "2082",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:2083",
+                "host": "blog.365command.com",
+                "port": "2083",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:2087",
+                "host": "blog.365command.com",
+                "port": "2087",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:2095",
+                "host": "blog.365command.com",
+                "port": "2095",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:2096",
+                "host": "blog.365command.com",
+                "port": "2096",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:80",
+                "host": "blog.365command.com",
+                "port": "80",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:8080",
+                "host": "blog.365command.com",
+                "port": "8080",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://blog.365command.com:8443",
+                "host": "blog.365command.com",
+                "port": "8443",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://calendar.365command.com:80",
+                "host": "calendar.365command.com",
+                "port": "80",
+                "status_code": 400,
+                "title": "Invalid URL",
+                "webserver": "AkamaiGHost",
+                "technologies": [],
+                "cdn": false,
+                "ip": "23.200.156.82",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:2082",
+                "host": "dev.365command.com",
+                "port": "2082",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:2083",
+                "host": "dev.365command.com",
+                "port": "2083",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:2087",
+                "host": "dev.365command.com",
+                "port": "2087",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:2095",
+                "host": "dev.365command.com",
+                "port": "2095",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:2096",
+                "host": "dev.365command.com",
+                "port": "2096",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:80",
+                "host": "dev.365command.com",
+                "port": "80",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:8080",
+                "host": "dev.365command.com",
+                "port": "8080",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://dev.365command.com:8443",
+                "host": "dev.365command.com",
+                "port": "8443",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://email.365command.com:80",
+                "host": "email.365command.com",
+                "port": "80",
+                "status_code": 302,
+                "title": "302 Found",
+                "webserver": "awselb/2.0",
+                "technologies": [
+                  "Amazon ELB",
+                  "Amazon Web Services"
+                ],
+                "cdn": true,
+                "ip": "15.197.155.180",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://fax.365command.com:80",
+                "host": "fax.365command.com",
+                "port": "80",
+                "status_code": 400,
+                "title": "Invalid URL",
+                "webserver": "AkamaiGHost",
+                "technologies": [],
+                "cdn": false,
+                "ip": "23.200.156.84",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://files.365command.com:80",
+                "host": "files.365command.com",
+                "port": "80",
+                "status_code": 400,
+                "title": "Invalid URL",
+                "webserver": "AkamaiGHost",
+                "technologies": [],
+                "cdn": false,
+                "ip": "23.215.9.173",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:2082",
+                "host": "ftp.365command.com",
+                "port": "2082",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:2083",
+                "host": "ftp.365command.com",
+                "port": "2083",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:2087",
+                "host": "ftp.365command.com",
+                "port": "2087",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:2095",
+                "host": "ftp.365command.com",
+                "port": "2095",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:2096",
+                "host": "ftp.365command.com",
+                "port": "2096",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:80",
+                "host": "ftp.365command.com",
+                "port": "80",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:8080",
+                "host": "ftp.365command.com",
+                "port": "8080",
+                "status_code": 409,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://ftp.365command.com:8443",
+                "host": "ftp.365command.com",
+                "port": "8443",
+                "status_code": 400,
+                "title": "400 The plain HTTP request was sent to HTTPS port",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.365command.com:2082",
+                "host": "www.365command.com",
+                "port": "2082",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.365command.com:2095",
+                "host": "www.365command.com",
+                "port": "2095",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.365command.com:80",
+                "host": "www.365command.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HSTS",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.365command.com:8080",
+                "host": "www.365command.com",
+                "port": "8080",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://email.365command.com:443",
+                "host": "email.365command.com",
+                "port": "443",
+                "status_code": 302,
+                "title": "302 Found",
+                "webserver": "awselb/2.0",
+                "technologies": [
+                  "Amazon ELB",
+                  "Amazon Web Services"
+                ],
+                "cdn": true,
+                "ip": "15.197.155.180",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.365command.com:2083",
+                "host": "www.365command.com",
+                "port": "2083",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.365command.com:2087",
+                "host": "www.365command.com",
+                "port": "2087",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.365command.com:2096",
+                "host": "www.365command.com",
+                "port": "2096",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.365command.com:443",
+                "host": "www.365command.com",
+                "port": "443",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.365command.com:8443",
+                "host": "www.365command.com",
+                "port": "8443",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -259831,7 +260415,224 @@
           "bounty": false,
           "updated_at": "2023-05-11T08:11:00Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "aloyoga.com.qa",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 2,
+            "subdomains": [
+              "data.aloyoga.com.qa",
+              "www.aloyoga.com.qa"
+            ],
+            "live_host_count": 14,
+            "live_hosts": [
+              {
+                "url": "http://data.aloyoga.com.qa:2082",
+                "host": "data.aloyoga.com.qa",
+                "port": "2082",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://data.aloyoga.com.qa:2095",
+                "host": "data.aloyoga.com.qa",
+                "port": "2095",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://data.aloyoga.com.qa:80",
+                "host": "data.aloyoga.com.qa",
+                "port": "80",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://data.aloyoga.com.qa:8080",
+                "host": "data.aloyoga.com.qa",
+                "port": "8080",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://data.aloyoga.com.qa:2083",
+                "host": "data.aloyoga.com.qa",
+                "port": "2083",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://data.aloyoga.com.qa:2087",
+                "host": "data.aloyoga.com.qa",
+                "port": "2087",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://data.aloyoga.com.qa:2096",
+                "host": "data.aloyoga.com.qa",
+                "port": "2096",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://data.aloyoga.com.qa:443",
+                "host": "data.aloyoga.com.qa",
+                "port": "443",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://data.aloyoga.com.qa:8443",
+                "host": "data.aloyoga.com.qa",
+                "port": "8443",
+                "status_code": 403,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "HTTP/3"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.aloyoga.com.qa:2083",
+                "host": "www.aloyoga.com.qa",
+                "port": "2083",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.aloyoga.com.qa:2087",
+                "host": "www.aloyoga.com.qa",
+                "port": "2087",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.aloyoga.com.qa:2096",
+                "host": "www.aloyoga.com.qa",
+                "port": "2096",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.aloyoga.com.qa:443",
+                "host": "www.aloyoga.com.qa",
+                "port": "443",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.aloyoga.com.qa:8443",
+                "host": "www.aloyoga.com.qa",
+                "port": "8443",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare"
+                ],
+                "cdn": true,
+                "ip": "172.67.145.14",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -269154,7 +269955,48 @@
           "bounty": false,
           "updated_at": "2023-05-15T16:39:42Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "banfieldassets.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 3,
+            "subdomains": [
+              "ns1.banfieldassets.com",
+              "ns2.banfieldassets.com",
+              "www.banfieldassets.com"
+            ],
+            "live_host_count": 2,
+            "live_hosts": [
+              {
+                "url": "http://www.banfieldassets.com:80",
+                "host": "www.banfieldassets.com",
+                "port": "80",
+                "status_code": 404,
+                "title": "Site not found",
+                "webserver": "",
+                "technologies": [
+                  "Amazon Web Services"
+                ],
+                "cdn": true,
+                "ip": "54.163.8.122",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.banfieldassets.com:443",
+                "host": "www.banfieldassets.com",
+                "port": "443",
+                "status_code": 404,
+                "title": "Site not found",
+                "webserver": "",
+                "technologies": [
+                  "Amazon Web Services"
+                ],
+                "cdn": true,
+                "ip": "54.163.8.122",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -433500,7 +434342,42 @@
           "bounty": false,
           "updated_at": "2026-03-05T17:01:22Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "ascgov.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 1,
+            "subdomains": [
+              "astra.ascgov.com"
+            ],
+            "live_host_count": 2,
+            "live_hosts": [
+              {
+                "url": "http://astra.ascgov.com:80",
+                "host": "astra.ascgov.com",
+                "port": "80",
+                "status_code": 307,
+                "title": "",
+                "webserver": "",
+                "technologies": [],
+                "cdn": false,
+                "ip": "20.158.172.243",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://astra.ascgov.com:443",
+                "host": "astra.ascgov.com",
+                "port": "443",
+                "status_code": 302,
+                "title": "",
+                "webserver": "",
+                "technologies": [],
+                "cdn": false,
+                "ip": "20.158.172.243",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -454635,7 +455512,494 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:21Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "acurisstudios.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 4,
+            "subdomains": [
+              "info.acurisstudios.com",
+              "notifications.acurisstudios.com",
+              "staging.acurisstudios.com",
+              "www.acurisstudios.com"
+            ],
+            "live_host_count": 29,
+            "live_hosts": [
+              {
+                "url": "http://info.acurisstudios.com:2082",
+                "host": "info.acurisstudios.com",
+                "port": "2082",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://info.acurisstudios.com:2095",
+                "host": "info.acurisstudios.com",
+                "port": "2095",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://info.acurisstudios.com:80",
+                "host": "info.acurisstudios.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3",
+                  "WP Engine",
+                  "WordPress"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://info.acurisstudios.com:8080",
+                "host": "info.acurisstudios.com",
+                "port": "8080",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://notifications.acurisstudios.com:80",
+                "host": "notifications.acurisstudios.com",
+                "port": "80",
+                "status_code": 404,
+                "title": "",
+                "webserver": "",
+                "technologies": [],
+                "cdn": true,
+                "ip": "34.102.239.211",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://staging.acurisstudios.com:2082",
+                "host": "staging.acurisstudios.com",
+                "port": "2082",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://staging.acurisstudios.com:2095",
+                "host": "staging.acurisstudios.com",
+                "port": "2095",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://staging.acurisstudios.com:80",
+                "host": "staging.acurisstudios.com",
+                "port": "80",
+                "status_code": 401,
+                "title": "401 Authorization Required",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Basic",
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://staging.acurisstudios.com:8080",
+                "host": "staging.acurisstudios.com",
+                "port": "8080",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.acurisstudios.com:2082",
+                "host": "www.acurisstudios.com",
+                "port": "2082",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.acurisstudios.com:2095",
+                "host": "www.acurisstudios.com",
+                "port": "2095",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.acurisstudios.com:80",
+                "host": "www.acurisstudios.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3",
+                  "WP Engine",
+                  "WordPress"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.acurisstudios.com:8080",
+                "host": "www.acurisstudios.com",
+                "port": "8080",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://info.acurisstudios.com:2083",
+                "host": "info.acurisstudios.com",
+                "port": "2083",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://info.acurisstudios.com:2087",
+                "host": "info.acurisstudios.com",
+                "port": "2087",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://info.acurisstudios.com:2096",
+                "host": "info.acurisstudios.com",
+                "port": "2096",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://info.acurisstudios.com:443",
+                "host": "info.acurisstudios.com",
+                "port": "443",
+                "status_code": 200,
+                "title": "Welcome to Acuris Studios \u2013 Acuris Studios",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "Google Tag Manager",
+                  "HSTS",
+                  "HTTP/3",
+                  "MySQL",
+                  "Onsen UI",
+                  "PHP",
+                  "WP Engine",
+                  "WordPress",
+                  "jQuery",
+                  "jQuery Migrate:3.4.1"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://info.acurisstudios.com:8443",
+                "host": "info.acurisstudios.com",
+                "port": "8443",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.20",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://notifications.acurisstudios.com:443",
+                "host": "notifications.acurisstudios.com",
+                "port": "443",
+                "status_code": 404,
+                "title": "",
+                "webserver": "",
+                "technologies": [],
+                "cdn": true,
+                "ip": "34.102.239.211",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://staging.acurisstudios.com:2083",
+                "host": "staging.acurisstudios.com",
+                "port": "2083",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://staging.acurisstudios.com:2087",
+                "host": "staging.acurisstudios.com",
+                "port": "2087",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://staging.acurisstudios.com:2096",
+                "host": "staging.acurisstudios.com",
+                "port": "2096",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://staging.acurisstudios.com:443",
+                "host": "staging.acurisstudios.com",
+                "port": "443",
+                "status_code": 401,
+                "title": "401 Authorization Required",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Basic",
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://staging.acurisstudios.com:8443",
+                "host": "staging.acurisstudios.com",
+                "port": "8443",
+                "status_code": 403,
+                "title": "Just a moment...",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.acurisstudios.com:2083",
+                "host": "www.acurisstudios.com",
+                "port": "2083",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.acurisstudios.com:2087",
+                "host": "www.acurisstudios.com",
+                "port": "2087",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.acurisstudios.com:2096",
+                "host": "www.acurisstudios.com",
+                "port": "2096",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.acurisstudios.com:443",
+                "host": "www.acurisstudios.com",
+                "port": "443",
+                "status_code": 301,
+                "title": "",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3",
+                  "WP Engine",
+                  "WordPress"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.acurisstudios.com:8443",
+                "host": "www.acurisstudios.com",
+                "port": "8443",
+                "status_code": 403,
+                "title": "Attention Required! | Cloudflare",
+                "webserver": "cloudflare",
+                "technologies": [
+                  "Cloudflare",
+                  "Cloudflare Bot Management",
+                  "HTTP/3"
+                ],
+                "cdn": false,
+                "ip": "141.193.213.21",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -454869,7 +456233,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:25Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "asahiasp.iongroup.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -455032,7 +456404,42 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:25Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "avcjhongkong.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 1,
+            "subdomains": [
+              "www.avcjhongkong.com"
+            ],
+            "live_host_count": 2,
+            "live_hosts": [
+              {
+                "url": "http://www.avcjhongkong.com:80",
+                "host": "www.avcjhongkong.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Constellix HTTP Redirection",
+                "technologies": [],
+                "cdn": false,
+                "ip": "208.80.123.124",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.avcjhongkong.com:443",
+                "host": "www.avcjhongkong.com",
+                "port": "443",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Constellix HTTP Redirection",
+                "technologies": [],
+                "cdn": false,
+                "ip": "208.80.123.124",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -455338,7 +456745,15 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:26Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "blkreports.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 0,
+            "subdomains": [],
+            "live_host_count": 0,
+            "live_hosts": []
+          }
         },
         {
           "type": "WILDCARD",
@@ -455473,7 +456888,153 @@
           "bounty": false,
           "updated_at": "2024-08-19T15:09:47Z",
           "severity": "critical",
-          "instruction": null
+          "instruction": null,
+          "enrichment": {
+            "root_domain": "c6-intelligence.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 10,
+            "subdomains": [
+              "api1.c6-intelligence.com",
+              "api2.c6-intelligence.com",
+              "autodiscover.c6-intelligence.com",
+              "b2b.c6-intelligence.com",
+              "lyncdiscover.c6-intelligence.com",
+              "notifications.c6-intelligence.com",
+              "redmine.c6-intelligence.com",
+              "secure.c6-intelligence.com",
+              "sftp.c6-intelligence.com",
+              "www.c6-intelligence.com"
+            ],
+            "live_host_count": 9,
+            "live_hosts": [
+              {
+                "url": "http://api1.c6-intelligence.com:80",
+                "host": "api1.c6-intelligence.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Varnish",
+                "technologies": [
+                  "HSTS",
+                  "Varnish"
+                ],
+                "cdn": true,
+                "ip": "151.101.1.208",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://autodiscover.c6-intelligence.com:80",
+                "host": "autodiscover.c6-intelligence.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Microsoft-HTTPAPI/2.0",
+                "technologies": [
+                  "Microsoft HTTPAPI:2.0"
+                ],
+                "cdn": true,
+                "ip": "52.96.79.152",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://notifications.c6-intelligence.com:80",
+                "host": "notifications.c6-intelligence.com",
+                "port": "80",
+                "status_code": 404,
+                "title": "",
+                "webserver": "",
+                "technologies": [],
+                "cdn": true,
+                "ip": "34.110.180.34",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://secure.c6-intelligence.com:80",
+                "host": "secure.c6-intelligence.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Varnish",
+                "technologies": [
+                  "HSTS",
+                  "Varnish"
+                ],
+                "cdn": true,
+                "ip": "151.101.1.208",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "http://www.c6-intelligence.com:80",
+                "host": "www.c6-intelligence.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Varnish",
+                "technologies": [
+                  "Varnish"
+                ],
+                "cdn": true,
+                "ip": "151.101.1.208",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://api1.c6-intelligence.com:443",
+                "host": "api1.c6-intelligence.com",
+                "port": "443",
+                "status_code": 200,
+                "title": "",
+                "webserver": "Varnish",
+                "technologies": [
+                  "HSTS",
+                  "Varnish"
+                ],
+                "cdn": true,
+                "ip": "151.101.1.208",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://notifications.c6-intelligence.com:443",
+                "host": "notifications.c6-intelligence.com",
+                "port": "443",
+                "status_code": 404,
+                "title": "",
+                "webserver": "",
+                "technologies": [],
+                "cdn": true,
+                "ip": "34.110.180.34",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://secure.c6-intelligence.com:443",
+                "host": "secure.c6-intelligence.com",
+                "port": "443",
+                "status_code": 302,
+                "title": "",
+                "webserver": "Varnish",
+                "technologies": [
+                  "HSTS",
+                  "Varnish"
+                ],
+                "cdn": true,
+                "ip": "151.101.1.208",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.c6-intelligence.com:443",
+                "host": "www.c6-intelligence.com",
+                "port": "443",
+                "status_code": 301,
+                "title": "",
+                "webserver": "Varnish",
+                "technologies": [
+                  "Varnish"
+                ],
+                "cdn": true,
+                "ip": "151.101.1.208",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -475780,7 +477341,50 @@
           "bounty": false,
           "updated_at": "2026-01-10T14:14:48Z",
           "severity": "critical",
-          "instruction": ""
+          "instruction": "",
+          "enrichment": {
+            "root_domain": "bloo.com",
+            "last_enumerated": "2026-09-29T20:33:09+00:00",
+            "subdomain_count": 2,
+            "subdomains": [
+              "mail.bloo.com",
+              "www.bloo.com"
+            ],
+            "live_host_count": 2,
+            "live_hosts": [
+              {
+                "url": "http://www.bloo.com:80",
+                "host": "www.bloo.com",
+                "port": "80",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "CloudFront",
+                "technologies": [
+                  "Amazon CloudFront",
+                  "Amazon Web Services"
+                ],
+                "cdn": true,
+                "ip": "18.172.134.44",
+                "checked": "2026-09-29T20:33:09+00:00"
+              },
+              {
+                "url": "https://www.bloo.com:443",
+                "host": "www.bloo.com",
+                "port": "443",
+                "status_code": 301,
+                "title": "301 Moved Permanently",
+                "webserver": "CloudFront",
+                "technologies": [
+                  "Amazon CloudFront",
+                  "Amazon Web Services",
+                  "HSTS"
+                ],
+                "cdn": true,
+                "ip": "18.172.134.44",
+                "checked": "2026-09-29T20:33:09+00:00"
+              }
+            ]
+          }
         },
         {
           "type": "WILDCARD",
@@ -479194,7 +480798,7 @@
       ]
     }
   ],
-  "enrichment_generated_at": "2026-09-29T18:24:04+00:00",
-  "enrichment_domains_available": 8,
-  "enrichment_targets_enriched": 8
+  "enrichment_generated_at": "2026-09-29T20:33:09+00:00",
+  "enrichment_domains_available": 18,
+  "enrichment_targets_enriched": 18
 }

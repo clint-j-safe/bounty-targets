@@ -1,0 +1,45 @@
+{
+ "domain": "bloo.com",
+ "last_run": "2026-09-29T20:33:09+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "mail.bloo.com",
+  "www.bloo.com"
+ ],
+ "http": [
+  {
+   "url": "http://www.bloo.com:80",
+   "host": "www.bloo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.134.44",
+   "checked": "2026-09-29T20:33:09+00:00"
+  },
+  {
+   "url": "https://www.bloo.com:443",
+   "host": "www.bloo.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.172.134.44",
+   "checked": "2026-09-29T20:33:09+00:00"
+  }
+ ]
+}

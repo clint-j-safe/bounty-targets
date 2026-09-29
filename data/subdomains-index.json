@@ -16,10 +16,26 @@
     "hackerone|dib-vdp"
    ]
   },
+  "365command.com": {
+   "count": 13,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 39,
+   "programs": [
+    "hackerone|kaseya"
+   ]
+  },
   "acurisdatasolutions.com": {
    "count": 6,
    "last_run": "2026-09-29T18:22:48+00:00",
    "live_count": 0,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
+  "acurisstudios.com": {
+   "count": 4,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 29,
    "programs": [
     "hackerone|ion"
    ]
@@ -32,6 +48,14 @@
     "hackerone|henkel_vdp"
    ]
   },
+  "aloyoga.com.qa": {
+   "count": 2,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 14,
+   "programs": [
+    "hackerone|alshaya"
+   ]
+  },
   "appslatamtravel.com": {
    "count": 1,
    "last_run": "2026-09-29T18:22:48+00:00",
@@ -40,10 +64,34 @@
     "hackerone|latamairlines"
    ]
   },
+  "asahiasp.iongroup.com": {
+   "count": 0,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
+  "ascgov.com": {
+   "count": 1,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 2,
+   "programs": [
+    "hackerone|dib-vdp"
+   ]
+  },
   "avcjchinamaforum.com": {
    "count": 1,
    "last_run": "2026-09-29T18:22:48+00:00",
    "live_count": 0,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
+  "avcjhongkong.com": {
+   "count": 1,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 2,
    "programs": [
     "hackerone|ion"
    ]
@@ -56,6 +104,30 @@
     "hackerone|kaseya"
    ]
   },
+  "banfieldassets.com": {
+   "count": 3,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 2,
+   "programs": [
+    "hackerone|mars"
+   ]
+  },
+  "blkreports.com": {
+   "count": 0,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 0,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
+  "bloo.com": {
+   "count": 2,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 2,
+   "programs": [
+    "hackerone|henkel_vdp"
+   ]
+  },
   "busch-jaeger.at": {
    "count": 2,
    "last_run": "2026-09-29T18:22:48+00:00",
@@ -63,10 +135,18 @@
    "programs": [
     "hackerone|abb"
    ]
+  },
+  "c6-intelligence.com": {
+   "count": 10,
+   "last_run": "2026-09-29T20:33:09+00:00",
+   "live_count": 9,
+   "programs": [
+    "hackerone|ion"
+   ]
   }
  },
- "generated_at": "2026-09-29T18:22:48+00:00",
- "total_domains": 8,
- "total_live_hosts": 11,
- "total_subdomains": 38
+ "generated_at": "2026-09-29T20:33:09+00:00",
+ "total_domains": 18,
+ "total_live_hosts": 110,
+ "total_subdomains": 74
 }

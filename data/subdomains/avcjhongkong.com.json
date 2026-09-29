@@ -1,0 +1,37 @@
+{
+ "domain": "avcjhongkong.com",
+ "last_run": "2026-09-29T20:33:09+00:00",
+ "count": 1,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "www.avcjhongkong.com"
+ ],
+ "http": [
+  {
+   "url": "http://www.avcjhongkong.com:80",
+   "host": "www.avcjhongkong.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.123.124",
+   "checked": "2026-09-29T20:33:09+00:00"
+  },
+  {
+   "url": "https://www.avcjhongkong.com:443",
+   "host": "www.avcjhongkong.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.123.124",
+   "checked": "2026-09-29T20:33:09+00:00"
+  }
+ ]
+}
