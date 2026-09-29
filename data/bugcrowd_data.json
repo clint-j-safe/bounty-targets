@@ -7175,7 +7175,7 @@
     "engagement_id": "e28af53c-8b7d-40bc-a0b9-a220678b40f3",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2026-09-27T20:59:39.312Z",
+    "published_at": "2026-09-29T12:27:55.437Z",
     "last_transition_at": "2025-01-16T19:00:00.040Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
@@ -7413,6 +7413,14 @@
           "target": "https://www.geschichtewiki.wien.gv.at",
           "uri": "https://www.geschichtewiki.wien.gv.at",
           "name": "geschichtewiki.wien.gv.at",
+          "ipAddress": "",
+          "bounty": false
+        },
+        {
+          "type": "website",
+          "target": "https://bi.bildung-wien.gv.at/*",
+          "uri": "",
+          "name": "https://bi.bildung-wien.gv.at/*",
           "ipAddress": "",
           "bounty": false
         },
@@ -13818,7 +13826,7 @@
     "engagement_id": "2ec278bf-c5e8-4337-9f2d-df06667bd921",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2024-10-03T04:00:37.149Z",
+    "published_at": "2026-09-29T05:50:01.933Z",
     "last_transition_at": "2019-11-12T18:00:00.000Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
@@ -13843,9 +13851,9 @@
         },
         {
           "type": "ios",
-          "target": "https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665\t",
-          "uri": "https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665\t",
-          "name": "https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665\t",
+          "target": "https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665",
+          "uri": "https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665",
+          "name": "Jora Jobs iOS App",
           "ipAddress": null,
           "bounty": true
         },
@@ -13853,7 +13861,7 @@
           "type": "android",
           "target": "https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US\t",
           "uri": "https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US\t",
-          "name": "https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US\t",
+          "name": "Jora Jobs Android App",
           "ipAddress": null,
           "bounty": true
         }
