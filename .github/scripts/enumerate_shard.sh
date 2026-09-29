@@ -20,7 +20,13 @@ OUT="$(cd "$OUT" && pwd)"
 # ~9.5x faster while still covering the ports that matter; a request timeout on a closed/filtered port
 # was the dominant cost, not the target's real response time.
 WEB_PORTS="80,81,300,443,591,3000,8000,8001,8008,8080,8081,8090,8443,8888,9000,9090,9443,2082,2083,2087,2095,2096"
-SOURCES="Subfinder,Assetfinder,Findomain,Crtsh,JLDC,Alienvault,Subdomain-center,Certspotter"
+# Alienvault and Crtsh were dropped: verified from an actual GH Actions runner (not guessed) that
+# Alienvault (otx.alienvault.com) times out completely (504 after 60s, zero data, every call) and
+# crt.sh rate-limits after ~1 query (first call 33s/200 OK, second call 34s later already 404) --
+# with up to 30 domains queued per shard, only the first ever got real crt.sh data. Certspotter
+# covers the same certificate-transparency data crt.sh was meant to, and verified reliable (200 OK,
+# ~3.5s, real data), as does subdomain.center (200 OK, ~0.7s). See incident notes for the raw evidence.
+SOURCES="Subfinder,Assetfinder,Findomain,JLDC,Subdomain-center,Certspotter"
 # SecurityTrails (via SubDomz's Haktrails source) is implemented but OFF by default.
 # It only runs when ENABLE_SECURITYTRAILS=true AND a haktrails config with a key exists.
 if [ "${ENABLE_SECURITYTRAILS:-false}" = "true" ] && [ -s "$HOME/.config/haktools/haktrails-config.yml" ] && command -v haktrails >/dev/null; then
