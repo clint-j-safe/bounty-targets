@@ -77,6 +77,7 @@ jobs:
           go install github.com/tomnomnom/anew@latest
           go install github.com/tomnomnom/assetfinder@latest
           go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install github.com/projectdiscovery/httpx/cmd/httpx@latest
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
           wget -q https://github.com/Findomain/Findomain/releases/download/8.2.1/findomain-linux.zip
           unzip -q findomain-linux.zip && chmod +x findomain && sudo mv findomain /usr/local/bin/
@@ -112,6 +113,7 @@ jobs:
           ENABLE_SECURITYTRAILS: ${{ vars.ENABLE_SECURITYTRAILS }}
           DNS_DIR: ${{ runner.temp }}/dns
           DISABLE_PUREDNS: ${{ vars.DISABLE_PUREDNS }}
+          DISABLE_HTTPX: ${{ vars.DISABLE_HTTPX }}
         run: bash .github/scripts/enumerate_shard.sh "plan/shard-${{ matrix.shard }}.txt" "$RUNNER_TEMP/SubDomz" "results"
       - uses: actions/upload-artifact@v4
         if: always()
