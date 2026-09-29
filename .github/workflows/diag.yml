@@ -22,6 +22,9 @@ jobs:
           file "$RUNNER_TEMP/SubDomz/SubDomz.sh"
           git config --get core.autocrlf || echo "(unset)"
           for f in "$RUNNER_TEMP/SubDomz"/*.sh; do tr -d '\r' < "$f" > "$f.tmp" && mv "$f.tmp" "$f"; done
+          sed -i '/^Puredns() {$/i }' "$RUNNER_TEMP/SubDomz/SubDomz.sh"
+          echo "=== bash -n check ==="
+          bash -n "$RUNNER_TEMP/SubDomz/SubDomz.sh" && echo OK
           echo "=== after normalization ==="
           file "$RUNNER_TEMP/SubDomz/SubDomz.sh"
           : > "$RUNNER_TEMP/SubDomz/config.txt"

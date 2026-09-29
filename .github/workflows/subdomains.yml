@@ -106,13 +106,18 @@ jobs:
       - name: Get SubDomz
         run: |
           git clone --depth 1 https://github.com/0xPugal/SubDomz.git "$RUNNER_TEMP/SubDomz"
-          # Normalize line endings: a fresh clone on this runner produced CRLF, which made every
-          # SubDomz.sh invocation fail with an immediate bash syntax error (verified via a
-          # diagnostic run -- "line 17: syntax error near unexpected token `{'"). Every domain in
-          # every run was silently getting zero results because the script never ran at all, not
-          # because of slow/unreliable sources. This is a cheap, always-safe normalization
-          # regardless of why the CRLF appeared (upstream commit vs. this runner image's git config).
-          sed -i 's/\r$//' "$RUNNER_TEMP/SubDomz"/*.sh
+          # Normalize line endings: a fresh clone on this runner produced CRLF, which alone was
+          # enough to break every SubDomz.sh invocation with a bash syntax error. tr, not sed -i,
+          # because sed -i left a separate "unexpected end of file" error on this same file.
+          for f in "$RUNNER_TEMP/SubDomz"/*.sh; do tr -d '\r' < "$f" > "$f.tmp" && mv "$f.tmp" "$f"; done
+          # Patch a real upstream bug, unrelated to line endings: VirusTotal()'s closing brace is
+          # missing (its inner fallback block closes, the function itself never does), which left
+          # the rest of the file -- including Puredns() -- inside an unclosed construct, so the
+          # WHOLE script failed to parse. Verified with `bash -n` before/after this insertion.
+          # We don't use VirusTotal (needs an API key), so this only needs to make the file valid,
+          # not fix VirusTotal's own behavior.
+          sed -i '/^Puredns() {$/i }' "$RUNNER_TEMP/SubDomz/SubDomz.sh"
+          bash -n "$RUNNER_TEMP/SubDomz/SubDomz.sh"   # fail the job loudly if this ever regresses
           # config.txt is sourced by SubDomz; provide empty config paths (keys optional)
           : > "$RUNNER_TEMP/SubDomz/config.txt"
       - name: Enumerate shard ${{ matrix.shard }}
