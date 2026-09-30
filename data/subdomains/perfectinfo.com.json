@@ -1,0 +1,870 @@
+{
+ "domain": "perfectinfo.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 59,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "api.download.perfectinfo.com",
+  "apio.download.perfectinfo.com",
+  "aslive-info.perfectinfo.com",
+  "auth.perfectinfo.com",
+  "bakerm.perfectinfo.com",
+  "csg.perfectinfo.com",
+  "datacollector.perfectinfo.com",
+  "dev.perfectinfo.com",
+  "devq.perfectinfo.com",
+  "download.perfectinfo.com",
+  "easdaq.perfectinfo.com",
+  "email.perfectinfo.com",
+  "events.perfectinfo.com",
+  "fedownload.perfectinfo.com",
+  "file.perfectinfo.com",
+  "filei.perfectinfo.com",
+  "gateway.perfectinfo.com",
+  "idownload.perfectinfo.com",
+  "info.perfectinfo.com",
+  "mail.perfectinfo.com",
+  "mail4237.email.perfectinfo.com",
+  "messages.perfectinfo.com",
+  "news.perfectinfo.com",
+  "pdf.perfectinfo.com",
+  "perfectanalysis.perfectinfo.com",
+  "perfectinfo.com",
+  "pi.perfectinfo.com",
+  "pioneer.perfectinfo.com",
+  "portal.perfectinfo.com",
+  "reply.email.perfectinfo.com",
+  "sftp.perfectinfo.com",
+  "sophos.perfectinfo.com",
+  "staging.perfectinfo.com",
+  "statsmonkey.perfectinfo.com",
+  "test.perfectinfo.com",
+  "www.api.download.perfectinfo.com",
+  "www.aslive-info.perfectinfo.com",
+  "www.auth.perfectinfo.com",
+  "www.bakerm.perfectinfo.com",
+  "www.dev.perfectinfo.com",
+  "www.download.perfectinfo.com",
+  "www.easdaq.perfectinfo.com",
+  "www.events.perfectinfo.com",
+  "www.fedownload.perfectinfo.com",
+  "www.idownload.perfectinfo.com",
+  "www.info.perfectinfo.com",
+  "www.mail4237.email.perfectinfo.com",
+  "www.news.perfectinfo.com",
+  "www.pdf.perfectinfo.com",
+  "www.perfectinfo.com",
+  "www.pi.perfectinfo.com",
+  "www.pioneer.perfectinfo.com",
+  "www.portal.perfectinfo.com",
+  "www.reply.email.perfectinfo.com",
+  "www.sftp.perfectinfo.com",
+  "www.sophos.perfectinfo.com",
+  "www.staging.perfectinfo.com",
+  "www.statsmonkey.perfectinfo.com",
+  "www.test.perfectinfo.com"
+ ],
+ "http": [
+  {
+   "url": "http://aslive-info.perfectinfo.com:2082",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aslive-info.perfectinfo.com:2095",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aslive-info.perfectinfo.com:80",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aslive-info.perfectinfo.com:8080",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://auth.perfectinfo.com:80",
+   "host": "auth.perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://events.perfectinfo.com:2082",
+   "host": "events.perfectinfo.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://events.perfectinfo.com:2095",
+   "host": "events.perfectinfo.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://events.perfectinfo.com:80",
+   "host": "events.perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://events.perfectinfo.com:8080",
+   "host": "events.perfectinfo.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://fedownload.perfectinfo.com:80",
+   "host": "fedownload.perfectinfo.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://file.perfectinfo.com:80",
+   "host": "file.perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.perfectinfo.com:2082",
+   "host": "info.perfectinfo.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.perfectinfo.com:2095",
+   "host": "info.perfectinfo.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.perfectinfo.com:80",
+   "host": "info.perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.perfectinfo.com:8080",
+   "host": "info.perfectinfo.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://perfectinfo.com:80",
+   "host": "perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.194.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://portal.perfectinfo.com:80",
+   "host": "portal.perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.perfectinfo.com:2082",
+   "host": "staging.perfectinfo.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.perfectinfo.com:2095",
+   "host": "staging.perfectinfo.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.perfectinfo.com:80",
+   "host": "staging.perfectinfo.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.perfectinfo.com:8080",
+   "host": "staging.perfectinfo.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.perfectinfo.com:80",
+   "host": "www.perfectinfo.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-info.perfectinfo.com:2083",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-info.perfectinfo.com:2087",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-info.perfectinfo.com:2096",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-info.perfectinfo.com:443",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-info.perfectinfo.com:8443",
+   "host": "aslive-info.perfectinfo.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://auth.perfectinfo.com:443",
+   "host": "auth.perfectinfo.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://events.perfectinfo.com:2083",
+   "host": "events.perfectinfo.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://events.perfectinfo.com:2087",
+   "host": "events.perfectinfo.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://events.perfectinfo.com:2096",
+   "host": "events.perfectinfo.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://events.perfectinfo.com:443",
+   "host": "events.perfectinfo.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://events.perfectinfo.com:8443",
+   "host": "events.perfectinfo.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://fedownload.perfectinfo.com:443",
+   "host": "fedownload.perfectinfo.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://file.perfectinfo.com:443",
+   "host": "file.perfectinfo.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "LHC",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gateway.perfectinfo.com:443",
+   "host": "gateway.perfectinfo.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.248.16.196",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.perfectinfo.com:2083",
+   "host": "info.perfectinfo.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.perfectinfo.com:2087",
+   "host": "info.perfectinfo.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.perfectinfo.com:2096",
+   "host": "info.perfectinfo.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.perfectinfo.com:443",
+   "host": "info.perfectinfo.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home Page - Welcome to PerfectInformation | PerfectInformation",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Drupal",
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Highlight.js",
+    "MySQL",
+    "OWL Carousel",
+    "Onsen UI",
+    "PHP",
+    "Pingdom RUM",
+    "Slick",
+    "WOW",
+    "WP Engine",
+    "WordPress",
+    "Yoast SEO:28.6",
+    "jQuery"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.perfectinfo.com:8443",
+   "host": "info.perfectinfo.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://perfectinfo.com:443",
+   "host": "perfectinfo.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.194.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://portal.perfectinfo.com:443",
+   "host": "portal.perfectinfo.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.perfectinfo.com:2083",
+   "host": "staging.perfectinfo.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.perfectinfo.com:2087",
+   "host": "staging.perfectinfo.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.perfectinfo.com:2096",
+   "host": "staging.perfectinfo.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.perfectinfo.com:443",
+   "host": "staging.perfectinfo.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.perfectinfo.com:8443",
+   "host": "staging.perfectinfo.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.perfectinfo.com:443",
+   "host": "www.perfectinfo.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

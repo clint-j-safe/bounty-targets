@@ -1,0 +1,1286 @@
+{
+ "domain": "rapidfiretools.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 89,
+ "programs": [
+  "hackerone|kaseya"
+ ],
+ "subdomains": [
+  "api-ndglue.rapidfiretools.com",
+  "api-ndp.rapidfiretools.com",
+  "api-ndpa.rapidfiretools.com",
+  "autodiscover.rapidfiretools.com",
+  "cfdownload2.rapidfiretools.com",
+  "cfdownload25.rapidfiretools.com",
+  "ci.rapidfiretools.com",
+  "download.rapidfiretools.com",
+  "downloadbnn.rapidfiretools.com",
+  "downloadi.rapidfiretools.com",
+  "gatekeeper.rapidfiretools.com",
+  "gatekeeperbg.rapidfiretools.com",
+  "go-au.rapidfiretools.com",
+  "go-eu.rapidfiretools.com",
+  "go-eubbi.rapidfiretools.com",
+  "go.rapidfiretools.com",
+  "goc.rapidfiretools.com",
+  "healthchecks.rapidfiretools.com",
+  "healthchecks9t.rapidfiretools.com",
+  "help.rapidfiretools.com",
+  "it.rapidfiretools.com",
+  "itc.rapidfiretools.com",
+  "live.rapidfiretools.com",
+  "lp.rapidfiretools.com",
+  "lyncdiscover.rapidfiretools.com",
+  "mail.rapidfiretools.com",
+  "mail2.rapidfiretools.com",
+  "mail3.rapidfiretools.com",
+  "msp.rapidfiretools.com",
+  "nexus.rapidfiretools.com",
+  "order.rapidfiretools.com",
+  "partner.rapidfiretools.com",
+  "rapidfiretools.com",
+  "rdgateway.rapidfiretools.com",
+  "scan.rapidfiretools.com",
+  "send.rapidfiretools.com",
+  "sendc.rapidfiretools.com",
+  "support-e2t.rapidfiretools.com",
+  "support-nd.rapidfiretools.com",
+  "support-pw.rapidfiretools.com",
+  "support.rapidfiretools.com",
+  "support7.rapidfiretools.com",
+  "supportportal.rapidfiretools.com",
+  "uptime.rapidfiretools.com",
+  "uptimey.rapidfiretools.com",
+  "vpn.rapidfiretools.com",
+  "vpni.rapidfiretools.com",
+  "wcf-eu.rapidfiretools.com",
+  "wcf.rapidfiretools.com",
+  "wcfa.rapidfiretools.com",
+  "wcflb-au.rapidfiretools.com",
+  "wcflb-eu.rapidfiretools.com",
+  "wcflb.rapidfiretools.com",
+  "wcflbbb.rapidfiretools.com",
+  "wiki.rapidfiretools.com",
+  "ww2.rapidfiretools.com",
+  "www.api-ndp.rapidfiretools.com",
+  "www.cfdownload2.rapidfiretools.com",
+  "www.ci.rapidfiretools.com",
+  "www.download.rapidfiretools.com",
+  "www.gatekeeper.rapidfiretools.com",
+  "www.go.rapidfiretools.com",
+  "www.healthchecks.rapidfiretools.com",
+  "www.it.rapidfiretools.com",
+  "www.lp.rapidfiretools.com",
+  "www.mail2.rapidfiretools.com",
+  "www.mail3.rapidfiretools.com",
+  "www.msp.rapidfiretools.com",
+  "www.nexus.rapidfiretools.com",
+  "www.order.rapidfiretools.com",
+  "www.partner.rapidfiretools.com",
+  "www.rapidfiretools.com",
+  "www.rdgateway.rapidfiretools.com",
+  "www.send.rapidfiretools.com",
+  "www.support.rapidfiretools.com",
+  "www.supportportal.rapidfiretools.com",
+  "www.uptime.rapidfiretools.com",
+  "www.vpn.rapidfiretools.com",
+  "www.wcf-eu.rapidfiretools.com",
+  "www.wcf.rapidfiretools.com",
+  "www.ww2.rapidfiretools.com",
+  "www.www2.rapidfiretools.com",
+  "www1.rapidfiretools.com",
+  "www2.rapidfiretools.com",
+  "www2u.rapidfiretools.com",
+  "www9.rapidfiretools.com",
+  "wwwc.wcf.rapidfiretools.com",
+  "wwwg.order.rapidfiretools.com",
+  "wwwi.wcf-eu.rapidfiretools.com"
+ ],
+ "http": [
+  {
+   "url": "http://api-ndglue.rapidfiretools.com:80",
+   "host": "api-ndglue.rapidfiretools.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 - Unauthorized: Access is denied due to invalid credentials.",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "100.50.6.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://autodiscover.rapidfiretools.com:80",
+   "host": "autodiscover.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "40.104.189.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cfdownload2.rapidfiretools.com:2082",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "2082",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cfdownload2.rapidfiretools.com:2095",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "2095",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cfdownload2.rapidfiretools.com:80",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cfdownload2.rapidfiretools.com:8080",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "8080",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ci.rapidfiretools.com:80",
+   "host": "ci.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "184.194.109.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://download.rapidfiretools.com:2082",
+   "host": "download.rapidfiretools.com",
+   "port": "2082",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://download.rapidfiretools.com:2095",
+   "host": "download.rapidfiretools.com",
+   "port": "2095",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://download.rapidfiretools.com:80",
+   "host": "download.rapidfiretools.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://download.rapidfiretools.com:8080",
+   "host": "download.rapidfiretools.com",
+   "port": "8080",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gatekeeper.rapidfiretools.com:80",
+   "host": "gatekeeper.rapidfiretools.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.58 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.58",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "34.239.25.104",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://go.rapidfiretools.com:80",
+   "host": "go.rapidfiretools.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "13.217.67.167",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.rapidfiretools.com:80",
+   "host": "help.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "ip-10-123-124-141.ec2.internal",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.197.142.173",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://it.rapidfiretools.com:80",
+   "host": "it.rapidfiretools.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Site Not Configured | 404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.136.151.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://lp.rapidfiretools.com:2082",
+   "host": "lp.rapidfiretools.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://lp.rapidfiretools.com:2095",
+   "host": "lp.rapidfiretools.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://lp.rapidfiretools.com:80",
+   "host": "lp.rapidfiretools.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://lp.rapidfiretools.com:8080",
+   "host": "lp.rapidfiretools.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://nexus.rapidfiretools.com:80",
+   "host": "nexus.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "107.23.147.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://order.rapidfiretools.com:80",
+   "host": "order.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.83.41.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rapidfiretools.com:80",
+   "host": "rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Netlify",
+   "technologies": [
+    "Netlify"
+   ],
+   "cdn": true,
+   "ip": "15.197.167.90",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://send.rapidfiretools.com:2082",
+   "host": "send.rapidfiretools.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://send.rapidfiretools.com:2095",
+   "host": "send.rapidfiretools.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://send.rapidfiretools.com:80",
+   "host": "send.rapidfiretools.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://send.rapidfiretools.com:8080",
+   "host": "send.rapidfiretools.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:2082",
+   "host": "support.rapidfiretools.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:2083",
+   "host": "support.rapidfiretools.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:2087",
+   "host": "support.rapidfiretools.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:2095",
+   "host": "support.rapidfiretools.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:2096",
+   "host": "support.rapidfiretools.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:80",
+   "host": "support.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:8080",
+   "host": "support.rapidfiretools.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://support.rapidfiretools.com:8443",
+   "host": "support.rapidfiretools.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ww2.rapidfiretools.com:80",
+   "host": "ww2.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "ip-10-123-124-141.ec2.internal",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.197.142.173",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.rapidfiretools.com:80",
+   "host": "www.rapidfiretools.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Netlify",
+   "technologies": [
+    "Netlify"
+   ],
+   "cdn": true,
+   "ip": "3.33.186.135",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www2.rapidfiretools.com:2083",
+   "host": "www2.rapidfiretools.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www2.rapidfiretools.com:2087",
+   "host": "www2.rapidfiretools.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www2.rapidfiretools.com:2096",
+   "host": "www2.rapidfiretools.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www2.rapidfiretools.com:80",
+   "host": "www2.rapidfiretools.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www2.rapidfiretools.com:8443",
+   "host": "www2.rapidfiretools.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://api-ndglue.rapidfiretools.com:443",
+   "host": "api-ndglue.rapidfiretools.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 - Unauthorized: Access is denied due to invalid credentials.",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "100.50.6.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfdownload2.rapidfiretools.com:2083",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "2083",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfdownload2.rapidfiretools.com:2087",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "2087",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfdownload2.rapidfiretools.com:2096",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "2096",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfdownload2.rapidfiretools.com:443",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfdownload2.rapidfiretools.com:8443",
+   "host": "cfdownload2.rapidfiretools.com",
+   "port": "8443",
+   "status_code": 401,
+   "title": "Unauthorized",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.234",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ci.rapidfiretools.com:443",
+   "host": "ci.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Dashboard - Jenkins",
+   "webserver": "Jetty(12.1.8)",
+   "technologies": [
+    "Java",
+    "Jenkins:2.564",
+    "Jetty:12.1.8"
+   ],
+   "cdn": true,
+   "ip": "184.194.109.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://download.rapidfiretools.com:2083",
+   "host": "download.rapidfiretools.com",
+   "port": "2083",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://download.rapidfiretools.com:2087",
+   "host": "download.rapidfiretools.com",
+   "port": "2087",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://download.rapidfiretools.com:2096",
+   "host": "download.rapidfiretools.com",
+   "port": "2096",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://download.rapidfiretools.com:443",
+   "host": "download.rapidfiretools.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://download.rapidfiretools.com:8443",
+   "host": "download.rapidfiretools.com",
+   "port": "8443",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gatekeeper.rapidfiretools.com:443",
+   "host": "gatekeeper.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.58 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.58",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "34.239.25.104",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://go-au.rapidfiretools.com:443",
+   "host": "go-au.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "15.135.150.111",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://go-eu.rapidfiretools.com:443",
+   "host": "go-eu.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "63.188.169.65",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://go.rapidfiretools.com:443",
+   "host": "go.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "13.217.67.167",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://it.rapidfiretools.com:443",
+   "host": "it.rapidfiretools.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.136.151.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://lp.rapidfiretools.com:2083",
+   "host": "lp.rapidfiretools.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://lp.rapidfiretools.com:2087",
+   "host": "lp.rapidfiretools.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://lp.rapidfiretools.com:2096",
+   "host": "lp.rapidfiretools.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://lp.rapidfiretools.com:443",
+   "host": "lp.rapidfiretools.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://lp.rapidfiretools.com:8443",
+   "host": "lp.rapidfiretools.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://nexus.rapidfiretools.com:443",
+   "host": "nexus.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Sonatype Nexus Repository",
+   "webserver": "Nexus/3.78.2-04 (COMMUNITY)",
+   "technologies": [
+    "Bootstrap"
+   ],
+   "cdn": true,
+   "ip": "107.23.147.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://order.rapidfiretools.com:443",
+   "host": "order.rapidfiretools.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.83.41.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://partner.rapidfiretools.com:443",
+   "host": "partner.rapidfiretools.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET:4.0.30319",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "52.4.125.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rapidfiretools.com:443",
+   "host": "rapidfiretools.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Netlify",
+   "technologies": [
+    "HSTS",
+    "Netlify"
+   ],
+   "cdn": true,
+   "ip": "15.197.167.90",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://send.rapidfiretools.com:2083",
+   "host": "send.rapidfiretools.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://send.rapidfiretools.com:2087",
+   "host": "send.rapidfiretools.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://send.rapidfiretools.com:2096",
+   "host": "send.rapidfiretools.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://send.rapidfiretools.com:443",
+   "host": "send.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://send.rapidfiretools.com:8443",
+   "host": "send.rapidfiretools.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.70.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://support.rapidfiretools.com:443",
+   "host": "support.rapidfiretools.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Envoy",
+    "HSTS",
+    "Zendesk"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://wcf-eu.rapidfiretools.com:443",
+   "host": "wcf-eu.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "18.156.101.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://wcf.rapidfiretools.com:443",
+   "host": "wcf.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "32.197.176.252",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://wcflb-au.rapidfiretools.com:443",
+   "host": "wcflb-au.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "54.153.219.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://wcflb-eu.rapidfiretools.com:443",
+   "host": "wcflb-eu.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "18.156.101.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://wcflb.rapidfiretools.com:443",
+   "host": "wcflb.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "100.27.81.208",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.rapidfiretools.com:443",
+   "host": "www.rapidfiretools.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "IT Assessment Tools for IT Risk Management | RapidFire Tools",
+   "webserver": "Netlify",
+   "technologies": [
+    "Font Awesome",
+    "Google Tag Manager",
+    "HSTS",
+    "Hugo:0.131.0",
+    "Netlify"
+   ],
+   "cdn": true,
+   "ip": "3.33.186.135",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www2.rapidfiretools.com:443",
+   "host": "www2.rapidfiretools.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

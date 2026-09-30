@@ -1,0 +1,2102 @@
+{
+ "domain": "myaspect.net",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 315,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "3degrees-saastest.myaspect.net",
+  "3degrees-test.myaspect.net",
+  "3degrees.myaspect.net",
+  "act-dev.myaspect.net",
+  "act-dev9.myaspect.net",
+  "act-devt.myaspect.net",
+  "act-qa.myaspect.net",
+  "act-saastest.myaspect.net",
+  "act-test.myaspect.net",
+  "act-teste.myaspect.net",
+  "act-testsg.myaspect.net",
+  "act-uat.myaspect.net",
+  "act-uatsg.myaspect.net",
+  "act.myaspect.net",
+  "acto.myaspect.net",
+  "actsg.myaspect.net",
+  "adani-test.myaspect.net",
+  "adani-uat.myaspect.net",
+  "adani.myaspect.net",
+  "aegean-test.myaspect.net",
+  "aegean.myaspect.net",
+  "agl-dev.myaspect.net",
+  "agl-test.myaspect.net",
+  "agl.myaspect.net",
+  "ambrian-archive.myaspect.net",
+  "ambrian-archive9.myaspect.net",
+  "ambrian-test.myaspect.net",
+  "ambrian.myaspect.net",
+  "ameropa-test.myaspect.net",
+  "ameropa-uat.myaspect.net",
+  "ameropa.myaspect.net",
+  "ameropag.myaspect.net",
+  "ampolts-dev.myaspect.net",
+  "ampolts-sandbox1.myaspect.net",
+  "ampolts-sandbox2.myaspect.net",
+  "ampolts.myaspect.net",
+  "anchorage-test.myaspect.net",
+  "anchorage-uat.myaspect.net",
+  "anchorage.myaspect.net",
+  "anglo-dev1.myaspect.net",
+  "anglo-dev2.myaspect.net",
+  "anglo-pat.myaspect.net",
+  "anglo-perf.myaspect.net",
+  "anglo-perf2.myaspect.net",
+  "anglo-perf3.myaspect.net",
+  "anglo-pgmstest.myaspect.net",
+  "anglo-regression.myaspect.net",
+  "anglo-staging.myaspect.net",
+  "anglo-test.myaspect.net",
+  "anglo-test2.myaspect.net",
+  "anglo-test3.myaspect.net",
+  "anglo-test4.myaspect.net",
+  "anglo-uat.myaspect.net",
+  "anglo.myaspect.net",
+  "anglodm.myaspect.net",
+  "anglom.myaspect.net",
+  "aotenergy-test.myaspect.net",
+  "aotenergy-test1.myaspect.net",
+  "aotenergy-test1k.myaspect.net",
+  "aotenergy.myaspect.net",
+  "ashon-test.myaspect.net",
+  "ashon.myaspect.net",
+  "astron-test.myaspect.net",
+  "astron.myaspect.net",
+  "astronu.myaspect.net",
+  "at-archive.myaspect.net",
+  "at-dev.myaspect.net",
+  "at-devi.myaspect.net",
+  "at-staging.myaspect.net",
+  "at-temp.myaspect.net",
+  "at-test.myaspect.net",
+  "at-uat.myaspect.net",
+  "at-uat3.myaspect.net",
+  "at.myaspect.net",
+  "bluetide-test.myaspect.net",
+  "bluetide.myaspect.net",
+  "braskem-test.myaspect.net",
+  "braskem.myaspect.net",
+  "braskemi.myaspect.net",
+  "bwgroup-test.myaspect.net",
+  "bwgroup.myaspect.net",
+  "bwp-test.myaspect.net",
+  "bwp-testsg.myaspect.net",
+  "bwp.myaspect.net",
+  "bwp3.myaspect.net",
+  "bwpsg.myaspect.net",
+  "cargill-gold.myaspect.net",
+  "cargill-pre-prod.myaspect.net",
+  "cargill-test.myaspect.net",
+  "cargill.myaspect.net",
+  "cargillw.myaspect.net",
+  "chemoil-test.myaspect.net",
+  "chemoil.myaspect.net",
+  "chemoil5.myaspect.net",
+  "client-uat.myaspect.net",
+  "crossbridge-uat.myaspect.net",
+  "crossbridge-uato.myaspect.net",
+  "dgi-test.myaspect.net",
+  "dgi-testo.myaspect.net",
+  "dgi-uat.myaspect.net",
+  "dgi.myaspect.net",
+  "digi-test.myaspect.net",
+  "digi-uat.myaspect.net",
+  "digi.myaspect.net",
+  "dr.myaspect.net",
+  "drh.myaspect.net",
+  "elemental-test.myaspect.net",
+  "elemental.myaspect.net",
+  "freeport-test.myaspect.net",
+  "freeport.myaspect.net",
+  "gcc-test.myaspect.net",
+  "gcc-uat.myaspect.net",
+  "gcc.myaspect.net",
+  "gyxis-test.myaspect.net",
+  "ha.myaspect.net",
+  "haproxy-test.myaspect.net",
+  "haproxy-testic.myaspect.net",
+  "hartree-dev.myaspect.net",
+  "hartree-gold.myaspect.net",
+  "hartree-test.myaspect.net",
+  "hartree-uat.myaspect.net",
+  "hartree.myaspect.net",
+  "he-test.myaspect.net",
+  "he-uat.myaspect.net",
+  "he.myaspect.net",
+  "head.myaspect.net",
+  "headif.myaspect.net",
+  "holt-test.myaspect.net",
+  "joule-test.myaspect.net",
+  "kepco-test.myaspect.net",
+  "kepco.myaspect.net",
+  "klesch-test.myaspect.net",
+  "klesch-uat.myaspect.net",
+  "klesch.myaspect.net",
+  "maersk-dev.myaspect.net",
+  "maersk-dev2.myaspect.net",
+  "maersk-saas1.myaspect.net",
+  "maersk-saas2.myaspect.net",
+  "maersk-staging.myaspect.net",
+  "maersk-test.myaspect.net",
+  "maersk-uat2.myaspect.net",
+  "maersk.myaspect.net",
+  "masefield.myaspect.net",
+  "mc-test.myaspect.net",
+  "midstar-test.myaspect.net",
+  "midstar.myaspect.net",
+  "myaspect.net",
+  "noble.myaspect.net",
+  "noblesteel.dr.myaspect.net",
+  "noblesteel.myaspect.net",
+  "oando-test.myaspect.net",
+  "oando.myaspect.net",
+  "outgoing.myaspect.net",
+  "partners.myaspect.net",
+  "petrodiamond-new.myaspect.net",
+  "petrodiamond-test.myaspect.net",
+  "ppg-dev.myaspect.net",
+  "ppg-performance.myaspect.net",
+  "ppg-qa.myaspect.net",
+  "ppg-test.myaspect.net",
+  "ppg-uat.myaspect.net",
+  "ppg.myaspect.net",
+  "prax-test.myaspect.net",
+  "prax.myaspect.net",
+  "pre-sales.myaspect.net",
+  "saas-test.myaspect.net",
+  "saas.myaspect.net",
+  "saas1-test.myaspect.net",
+  "saas1.myaspect.net",
+  "saas2-test.myaspect.net",
+  "saas2.myaspect.net",
+  "saas3-test.myaspect.net",
+  "saas3.myaspect.net",
+  "scgc-dev.myaspect.net",
+  "scgc-test.myaspect.net",
+  "scgc-uat.myaspect.net",
+  "scgc.myaspect.net",
+  "seel-test.myaspect.net",
+  "seel-uat.myaspect.net",
+  "seel.myaspect.net",
+  "set.myaspect.net",
+  "southpole-test.myaspect.net",
+  "southpole.myaspect.net",
+  "test.myaspect.net",
+  "varenergi-test.myaspect.net",
+  "varenergi-uat.myaspect.net",
+  "varenergi.myaspect.net",
+  "vivo-test.myaspect.net",
+  "wmc-test.myaspect.net",
+  "wmc.myaspect.net",
+  "woodside-test.myaspect.net",
+  "woodside-uat.myaspect.net",
+  "woodside.myaspect.net",
+  "www.act-test.myaspect.net",
+  "www.act-uat.myaspect.net",
+  "www.act.myaspect.net",
+  "www.adani-uat.myaspect.net",
+  "www.aegean-test.myaspect.net",
+  "www.aegean.myaspect.net",
+  "www.ambrian-archive.myaspect.net",
+  "www.ambrian-test.myaspect.net",
+  "www.ambrian.myaspect.net",
+  "www.ameropa-test.myaspect.net",
+  "www.ameropa.myaspect.net",
+  "www.anglo-dev1.myaspect.net",
+  "www.anglo-dev2.myaspect.net",
+  "www.anglo-pat.myaspect.net",
+  "www.anglo-perf.myaspect.net",
+  "www.anglo-perf2.myaspect.net",
+  "www.anglo-perf3.myaspect.net",
+  "www.anglo-pgmstest.myaspect.net",
+  "www.anglo-regression.myaspect.net",
+  "www.anglo-staging.myaspect.net",
+  "www.anglo-test.myaspect.net",
+  "www.anglo-test2.myaspect.net",
+  "www.anglo-test3.myaspect.net",
+  "www.anglo-test4.myaspect.net",
+  "www.anglo-uat.myaspect.net",
+  "www.anglo.myaspect.net",
+  "www.aotenergy-test.myaspect.net",
+  "www.aotenergy-test1.myaspect.net",
+  "www.aotenergy.myaspect.net",
+  "www.ashon-test.myaspect.net",
+  "www.astron-test.myaspect.net",
+  "www.astron.myaspect.net",
+  "www.at-dev.myaspect.net",
+  "www.at-temp.myaspect.net",
+  "www.at-test.myaspect.net",
+  "www.at-uat.myaspect.net",
+  "www.at.myaspect.net",
+  "www.braskem-test.myaspect.net",
+  "www.braskem.myaspect.net",
+  "www.bwgroup-test.myaspect.net",
+  "www.bwgroup.myaspect.net",
+  "www.bwp-test.myaspect.net",
+  "www.bwp.myaspect.net",
+  "www.cargill-gold.myaspect.net",
+  "www.cargill-test.myaspect.net",
+  "www.cargill.myaspect.net",
+  "www.chemoil-test.myaspect.net",
+  "www.chemoil.myaspect.net",
+  "www.client-uat.myaspect.net",
+  "www.crossbridge-uat.myaspect.net",
+  "www.dgi-test.myaspect.net",
+  "www.dgi-uat.myaspect.net",
+  "www.dgi.myaspect.net",
+  "www.digi-test.myaspect.net",
+  "www.digi-uat.myaspect.net",
+  "www.digi.myaspect.net",
+  "www.elemental-test.myaspect.net",
+  "www.elemental.myaspect.net",
+  "www.freeport-test.myaspect.net",
+  "www.freeport.myaspect.net",
+  "www.gcc-test.myaspect.net",
+  "www.gcc-uat.myaspect.net",
+  "www.gcc.myaspect.net",
+  "www.gyxis-test.myaspect.net",
+  "www.hartree-dev.myaspect.net",
+  "www.hartree-test.myaspect.net",
+  "www.hartree-uat.myaspect.net",
+  "www.hartree.myaspect.net",
+  "www.he-test.myaspect.net",
+  "www.holt-test.myaspect.net",
+  "www.joule-test.myaspect.net",
+  "www.kepco-test.myaspect.net",
+  "www.kepco.myaspect.net",
+  "www.klesch-test.myaspect.net",
+  "www.klesch-uat.myaspect.net",
+  "www.klesch.myaspect.net",
+  "www.maersk-staging.myaspect.net",
+  "www.maersk-test.myaspect.net",
+  "www.maersk.myaspect.net",
+  "www.mc-test.myaspect.net",
+  "www.midstar-test.myaspect.net",
+  "www.midstar.myaspect.net",
+  "www.myaspect.net",
+  "www.oando-test.myaspect.net",
+  "www.oando.myaspect.net",
+  "www.partners.myaspect.net",
+  "www.petrodiamond-new.myaspect.net",
+  "www.petrodiamond-test.myaspect.net",
+  "www.ppg-dev.myaspect.net",
+  "www.ppg-performance.myaspect.net",
+  "www.ppg-qa.myaspect.net",
+  "www.ppg-test.myaspect.net",
+  "www.ppg-uat.myaspect.net",
+  "www.ppg.myaspect.net",
+  "www.prax-test.myaspect.net",
+  "www.prax.myaspect.net",
+  "www.pre-sales.myaspect.net",
+  "www.saas-test.myaspect.net",
+  "www.saas.myaspect.net",
+  "www.scgc-dev.myaspect.net",
+  "www.scgc-test.myaspect.net",
+  "www.scgc-uat.myaspect.net",
+  "www.scgc.myaspect.net",
+  "www.seel-test.myaspect.net",
+  "www.seel-uat.myaspect.net",
+  "www.seel.myaspect.net",
+  "www.test.myaspect.net",
+  "www.varenergi-test.myaspect.net",
+  "www.varenergi-uat.myaspect.net",
+  "www.varenergi.myaspect.net",
+  "www.vivo-test.myaspect.net",
+  "www.wmc-test.myaspect.net",
+  "www.wmc.myaspect.net",
+  "www.woodside-test.myaspect.net",
+  "www.woodside-uat.myaspect.net",
+  "www.woodside.myaspect.net",
+  "www9.saas-test.myaspect.net",
+  "wwwc.saas.myaspect.net",
+  "wwwg.anglo-perf2.myaspect.net",
+  "wwwg.anglo-perf3.myaspect.net",
+  "wwwq.anglo-regression.myaspect.net",
+  "wwwq.crossbridge-uat.myaspect.net"
+ ],
+ "http": [
+  {
+   "url": "http://3degrees-saastest.myaspect.net:80",
+   "host": "3degrees-saastest.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://3degrees-test.myaspect.net:80",
+   "host": "3degrees-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://3degrees.myaspect.net:80",
+   "host": "3degrees.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://act-dev.myaspect.net:80",
+   "host": "act-dev.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://act-qa.myaspect.net:80",
+   "host": "act-qa.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://act-saastest.myaspect.net:80",
+   "host": "act-saastest.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://act-test.myaspect.net:80",
+   "host": "act-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://act-uat.myaspect.net:80",
+   "host": "act-uat.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://act.myaspect.net:80",
+   "host": "act.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aegean-test.myaspect.net:80",
+   "host": "aegean-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aegean.myaspect.net:80",
+   "host": "aegean.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://agl-dev.myaspect.net:80",
+   "host": "agl-dev.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://agl-test.myaspect.net:80",
+   "host": "agl-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://agl.myaspect.net:80",
+   "host": "agl.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ambrian-archive.myaspect.net:80",
+   "host": "ambrian-archive.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ambrian-test.myaspect.net:80",
+   "host": "ambrian-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ambrian.myaspect.net:80",
+   "host": "ambrian.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ameropa-test.myaspect.net:80",
+   "host": "ameropa-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ameropa-uat.myaspect.net:80",
+   "host": "ameropa-uat.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ameropa.myaspect.net:80",
+   "host": "ameropa.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ampolts.myaspect.net:80",
+   "host": "ampolts.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://anchorage-test.myaspect.net:80",
+   "host": "anchorage-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://anchorage-uat.myaspect.net:80",
+   "host": "anchorage-uat.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://anchorage.myaspect.net:80",
+   "host": "anchorage.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://anglo.myaspect.net:80",
+   "host": "anglo.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.116.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aotenergy-test.myaspect.net:80",
+   "host": "aotenergy-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aotenergy-test1.myaspect.net:80",
+   "host": "aotenergy-test1.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aotenergy.myaspect.net:80",
+   "host": "aotenergy.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ashon-test.myaspect.net:80",
+   "host": "ashon-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ashon.myaspect.net:80",
+   "host": "ashon.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://astron-test.myaspect.net:80",
+   "host": "astron-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://astron.myaspect.net:80",
+   "host": "astron.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://at-archive.myaspect.net:80",
+   "host": "at-archive.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://at-dev.myaspect.net:80",
+   "host": "at-dev.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://at-staging.myaspect.net:80",
+   "host": "at-staging.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://at-temp.myaspect.net:80",
+   "host": "at-temp.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://at-uat.myaspect.net:80",
+   "host": "at-uat.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bluetide-test.myaspect.net:80",
+   "host": "bluetide-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bluetide.myaspect.net:80",
+   "host": "bluetide.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://braskem-test.myaspect.net:80",
+   "host": "braskem-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://braskem.myaspect.net:80",
+   "host": "braskem.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bwgroup-test.myaspect.net:80",
+   "host": "bwgroup-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bwgroup.myaspect.net:80",
+   "host": "bwgroup.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bwp-test.myaspect.net:80",
+   "host": "bwp-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bwp.myaspect.net:80",
+   "host": "bwp.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cargill-gold.myaspect.net:80",
+   "host": "cargill-gold.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cargill-pre-prod.myaspect.net:80",
+   "host": "cargill-pre-prod.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cargill-test.myaspect.net:80",
+   "host": "cargill-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cargill.myaspect.net:80",
+   "host": "cargill.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://client-uat.myaspect.net:80",
+   "host": "client-uat.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://crossbridge-uat.myaspect.net:80",
+   "host": "crossbridge-uat.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dgi-test.myaspect.net:80",
+   "host": "dgi-test.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dgi.myaspect.net:80",
+   "host": "dgi.myaspect.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://3degrees-saastest.myaspect.net:443",
+   "host": "3degrees-saastest.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://3degrees-test.myaspect.net:443",
+   "host": "3degrees-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://3degrees.myaspect.net:443",
+   "host": "3degrees.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://act-dev.myaspect.net:443",
+   "host": "act-dev.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://act-qa.myaspect.net:443",
+   "host": "act-qa.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://act-saastest.myaspect.net:443",
+   "host": "act-saastest.myaspect.net",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://act-test.myaspect.net:443",
+   "host": "act-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://act-uat.myaspect.net:443",
+   "host": "act-uat.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://act.myaspect.net:443",
+   "host": "act.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://adani-test.myaspect.net:443",
+   "host": "adani-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "43.204.159.201",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://adani-uat.myaspect.net:443",
+   "host": "adani-uat.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "43.204.159.201",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://adani.myaspect.net:443",
+   "host": "adani.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.111.155.127",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aegean-test.myaspect.net:443",
+   "host": "aegean-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aegean.myaspect.net:443",
+   "host": "aegean.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://agl-dev.myaspect.net:443",
+   "host": "agl-dev.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://agl-test.myaspect.net:443",
+   "host": "agl-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://agl.myaspect.net:443",
+   "host": "agl.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ambrian-archive.myaspect.net:443",
+   "host": "ambrian-archive.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ambrian-test.myaspect.net:443",
+   "host": "ambrian-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ambrian.myaspect.net:443",
+   "host": "ambrian.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ameropa-test.myaspect.net:443",
+   "host": "ameropa-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ameropa-uat.myaspect.net:443",
+   "host": "ameropa-uat.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ameropa.myaspect.net:443",
+   "host": "ameropa.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ampolts.myaspect.net:443",
+   "host": "ampolts.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anchorage-test.myaspect.net:443",
+   "host": "anchorage-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anchorage-uat.myaspect.net:443",
+   "host": "anchorage-uat.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anchorage.myaspect.net:443",
+   "host": "anchorage.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-dev1.myaspect.net:443",
+   "host": "anglo-dev1.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-dev2.myaspect.net:443",
+   "host": "anglo-dev2.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-perf2.myaspect.net:443",
+   "host": "anglo-perf2.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-perf3.myaspect.net:443",
+   "host": "anglo-perf3.myaspect.net",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.132.169.238",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-regression.myaspect.net:443",
+   "host": "anglo-regression.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-staging.myaspect.net:443",
+   "host": "anglo-staging.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-test2.myaspect.net:443",
+   "host": "anglo-test2.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-test3.myaspect.net:443",
+   "host": "anglo-test3.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-test4.myaspect.net:443",
+   "host": "anglo-test4.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.212.125.161",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo-uat.myaspect.net:443",
+   "host": "anglo-uat.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.132.169.238",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anglo.myaspect.net:443",
+   "host": "anglo.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.217.116.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aotenergy-test.myaspect.net:443",
+   "host": "aotenergy-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aotenergy-test1.myaspect.net:443",
+   "host": "aotenergy-test1.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aotenergy.myaspect.net:443",
+   "host": "aotenergy.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ashon-test.myaspect.net:443",
+   "host": "ashon-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ashon.myaspect.net:443",
+   "host": "ashon.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://astron-test.myaspect.net:443",
+   "host": "astron-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://astron.myaspect.net:443",
+   "host": "astron.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at-archive.myaspect.net:443",
+   "host": "at-archive.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at-dev.myaspect.net:443",
+   "host": "at-dev.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at-staging.myaspect.net:443",
+   "host": "at-staging.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at-temp.myaspect.net:443",
+   "host": "at-temp.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at-test.myaspect.net:443",
+   "host": "at-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.33.183.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at-uat.myaspect.net:443",
+   "host": "at-uat.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at.myaspect.net:443",
+   "host": "at.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.83.159.232",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bluetide-test.myaspect.net:443",
+   "host": "bluetide-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bluetide.myaspect.net:443",
+   "host": "bluetide.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://braskem-test.myaspect.net:443",
+   "host": "braskem-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.50.3.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://braskem.myaspect.net:443",
+   "host": "braskem.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bwgroup-test.myaspect.net:443",
+   "host": "bwgroup-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bwgroup.myaspect.net:443",
+   "host": "bwgroup.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bwp-test.myaspect.net:443",
+   "host": "bwp-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bwp.myaspect.net:443",
+   "host": "bwp.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.72.173.212",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cargill-gold.myaspect.net:443",
+   "host": "cargill-gold.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cargill-pre-prod.myaspect.net:443",
+   "host": "cargill-pre-prod.myaspect.net",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.181.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cargill-test.myaspect.net:443",
+   "host": "cargill-test.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cargill.myaspect.net:443",
+   "host": "cargill.myaspect.net",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://client-uat.myaspect.net:443",
+   "host": "client-uat.myaspect.net",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://crossbridge-uat.myaspect.net:443",
+   "host": "crossbridge-uat.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.18.121.216",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dgi-test.myaspect.net:443",
+   "host": "dgi-test.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.16.43.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dgi.myaspect.net:443",
+   "host": "dgi.myaspect.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login - Aspect Enterprise Solutions",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.19.52.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

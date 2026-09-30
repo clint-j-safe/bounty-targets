@@ -1,0 +1,134 @@
+{
+ "domain": "myroyalcanin.ro",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 20,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.myroyalcanin.ro",
+  "myroyalcanin.ro",
+  "origin.myroyalcanin.ro",
+  "origin.preprod.myroyalcanin.ro",
+  "origin.stage.myroyalcanin.ro",
+  "origin.stage.v2.myroyalcanin.ro",
+  "origina.myroyalcanin.ro",
+  "originm.stage.v2.myroyalcanin.ro",
+  "preprod.myroyalcanin.ro",
+  "stage.myroyalcanin.ro",
+  "stage.v2.myroyalcanin.ro",
+  "stagee.myroyalcanin.ro",
+  "v2.myroyalcanin.ro",
+  "www.myroyalcanin.ro",
+  "www.origin.myroyalcanin.ro",
+  "www.origin.preprod.myroyalcanin.ro",
+  "www.preprod.myroyalcanin.ro",
+  "www.stage.myroyalcanin.ro",
+  "wwwe.preprod.myroyalcanin.ro",
+  "wwwg.myroyalcanin.ro"
+ ],
+ "http": [
+  {
+   "url": "http://myroyalcanin.ro:80",
+   "host": "myroyalcanin.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.92",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://stage.myroyalcanin.ro:80",
+   "host": "stage.myroyalcanin.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.61.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.myroyalcanin.ro:80",
+   "host": "www.myroyalcanin.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.68",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myroyalcanin.ro:443",
+   "host": "myroyalcanin.ro",
+   "port": "443",
+   "status_code": 200,
+   "title": "My Royal Canin",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.92",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://stage.myroyalcanin.ro:443",
+   "host": "stage.myroyalcanin.ro",
+   "port": "443",
+   "status_code": 401,
+   "title": "MYRC",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "3.171.61.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myroyalcanin.ro:443",
+   "host": "www.myroyalcanin.ro",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.68",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

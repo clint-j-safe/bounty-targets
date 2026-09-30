@@ -1,0 +1,103 @@
+{
+ "domain": "muji.com.kw",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 9,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "2a.muji.com.kw",
+  "blog.muji.com.kw",
+  "bloge.www.muji.com.kw",
+  "blogy.2a.muji.com.kw",
+  "data.muji.com.kw",
+  "data9.muji.com.kw",
+  "muji.com.kw",
+  "www.data.muji.com.kw",
+  "www.muji.com.kw"
+ ],
+ "http": [
+  {
+   "url": "http://data.muji.com.kw:80",
+   "host": "data.muji.com.kw",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://muji.com.kw:80",
+   "host": "muji.com.kw",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.65.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.muji.com.kw:80",
+   "host": "www.muji.com.kw",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "146.75.37.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://data.muji.com.kw:443",
+   "host": "data.muji.com.kw",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://muji.com.kw:443",
+   "host": "muji.com.kw",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.65.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.muji.com.kw:443",
+   "host": "www.muji.com.kw",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "146.75.37.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

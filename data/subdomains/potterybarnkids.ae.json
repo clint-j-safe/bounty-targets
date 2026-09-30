@@ -1,0 +1,99 @@
+{
+ "domain": "potterybarnkids.ae",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.potterybarnkids.ae",
+  "potterybarnkids.ae",
+  "www.data.potterybarnkids.ae",
+  "www.potterybarnkids.ae",
+  "www1.potterybarnkids.ae"
+ ],
+ "http": [
+  {
+   "url": "http://data.potterybarnkids.ae:80",
+   "host": "data.potterybarnkids.ae",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://potterybarnkids.ae:80",
+   "host": "potterybarnkids.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.65.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.potterybarnkids.ae:80",
+   "host": "www.potterybarnkids.ae",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.161.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://data.potterybarnkids.ae:443",
+   "host": "data.potterybarnkids.ae",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://potterybarnkids.ae:443",
+   "host": "potterybarnkids.ae",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.65.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.potterybarnkids.ae:443",
+   "host": "www.potterybarnkids.ae",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.161.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

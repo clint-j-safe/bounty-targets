@@ -1,0 +1,145 @@
+{
+ "domain": "myroyalcanin.gr",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 31,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "b2b.myroyalcanin.gr",
+  "b2bm.myroyalcanin.gr",
+  "com.myroyalcanin.gr",
+  "ftp.b2b.myroyalcanin.gr",
+  "ftp.master.myroyalcanin.gr",
+  "ftp.myroyalcanin.gr",
+  "mail.b2b.myroyalcanin.gr",
+  "mail.master.myroyalcanin.gr",
+  "mail.myroyalcanin.gr",
+  "master.myroyalcanin.gr",
+  "myroyalcanin.gr",
+  "pop.b2b.myroyalcanin.gr",
+  "pop.master.myroyalcanin.gr",
+  "pop.myroyalcanin.gr",
+  "smtp.b2b.myroyalcanin.gr",
+  "smtp.master.myroyalcanin.gr",
+  "smtp.myroyalcanin.gr",
+  "stage.myroyalcanin.gr",
+  "www.b2b.myroyalcanin.gr",
+  "www.ftp.b2b.myroyalcanin.gr",
+  "www.ftp.master.myroyalcanin.gr",
+  "www.mail.b2b.myroyalcanin.gr",
+  "www.mail.master.myroyalcanin.gr",
+  "www.mail.myroyalcanin.gr",
+  "www.master.myroyalcanin.gr",
+  "www.myroyalcanin.gr",
+  "www.pop.b2b.myroyalcanin.gr",
+  "www.pop.master.myroyalcanin.gr",
+  "www.smtp.b2b.myroyalcanin.gr",
+  "www.smtp.master.myroyalcanin.gr",
+  "www.stage.myroyalcanin.gr"
+ ],
+ "http": [
+  {
+   "url": "http://myroyalcanin.gr:80",
+   "host": "myroyalcanin.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.91",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://stage.myroyalcanin.gr:80",
+   "host": "stage.myroyalcanin.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.61.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.myroyalcanin.gr:80",
+   "host": "www.myroyalcanin.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.107",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myroyalcanin.gr:443",
+   "host": "myroyalcanin.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "My Royal Canin",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.91",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://stage.myroyalcanin.gr:443",
+   "host": "stage.myroyalcanin.gr",
+   "port": "443",
+   "status_code": 401,
+   "title": "MYRC",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "3.171.61.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myroyalcanin.gr:443",
+   "host": "www.myroyalcanin.gr",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.107",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

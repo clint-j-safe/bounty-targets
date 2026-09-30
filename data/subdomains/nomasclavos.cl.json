@@ -1,0 +1,132 @@
+{
+ "domain": "nomasclavos.cl",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "nomasclavos.cl",
+  "www.nomasclavos.cl"
+ ],
+ "http": [
+  {
+   "url": "http://nomasclavos.cl:3000",
+   "host": "nomasclavos.cl",
+   "port": "3000",
+   "status_code": 200,
+   "title": "Dokploy",
+   "webserver": "",
+   "technologies": [
+    "Next.js",
+    "Node.js",
+    "React",
+    "Webpack"
+   ],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://nomasclavos.cl:80",
+   "host": "nomasclavos.cl",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://nomasclavos.cl:8080",
+   "host": "nomasclavos.cl",
+   "port": "8080",
+   "status_code": 200,
+   "title": "Transmissions",
+   "webserver": "",
+   "technologies": [
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.nomasclavos.cl:3000",
+   "host": "www.nomasclavos.cl",
+   "port": "3000",
+   "status_code": 200,
+   "title": "Dokploy",
+   "webserver": "",
+   "technologies": [
+    "Next.js",
+    "Node.js",
+    "React",
+    "Webpack"
+   ],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.nomasclavos.cl:80",
+   "host": "www.nomasclavos.cl",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.nomasclavos.cl:8080",
+   "host": "www.nomasclavos.cl",
+   "port": "8080",
+   "status_code": 200,
+   "title": "Transmissions",
+   "webserver": "",
+   "technologies": [
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://nomasclavos.cl:443",
+   "host": "nomasclavos.cl",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.nomasclavos.cl:443",
+   "host": "www.nomasclavos.cl",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "57.129.12.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

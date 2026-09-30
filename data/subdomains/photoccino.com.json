@@ -1,0 +1,338 @@
+{
+ "domain": "photoccino.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 49,
+ "programs": [
+  "hackerone|shutterfly_vdp"
+ ],
+ "subdomains": [
+  "ai-cdn.photoccino.com",
+  "ai.photoccino.com",
+  "apcmobile.photoccino.com",
+  "api.photoccino.com",
+  "apie.photoccino.com",
+  "apl-beta.photoccino.com",
+  "apl-dev.photoccino.com",
+  "apl-production.photoccino.com",
+  "apl-productiony.photoccino.com",
+  "apl.photoccino.com",
+  "appletv.photoccino.com",
+  "atlantis.photoccino.com",
+  "cloudfront.photoccino.com",
+  "container-stage.photoccino.com",
+  "container.photoccino.com",
+  "creation.photoccino.com",
+  "creationb.photoccino.com",
+  "cross-cat-rec-api-beta.photoccino.com",
+  "cross-cat-rec-api.photoccino.com",
+  "cross-cat-rec-apia.photoccino.com",
+  "grafana-stage.photoccino.com",
+  "grafana-stagee.photoccino.com",
+  "lifetouch-stage.photoccino.com",
+  "magic.photoccino.com",
+  "magica.photoccino.com",
+  "magicapi.photoccino.com",
+  "photoccino.com",
+  "products-dev.photoccino.com",
+  "products.photoccino.com",
+  "proxy.photoccino.com",
+  "sfly.photoccino.com",
+  "sflya.photoccino.com",
+  "sip.photoccino.com",
+  "smarts-dev.photoccino.com",
+  "smarts.photoccino.com",
+  "stage-magic.photoccino.com",
+  "static.photoccino.com",
+  "statice.photoccino.com",
+  "thumb.photoccino.com",
+  "thumb3.photoccino.com",
+  "www.api.photoccino.com",
+  "www.container.photoccino.com",
+  "www.magic.photoccino.com",
+  "www.magicapi.photoccino.com",
+  "www.photoccino.com",
+  "www.products.photoccino.com",
+  "www.smarts.photoccino.com",
+  "www.static.photoccino.com",
+  "www.thumb.photoccino.com"
+ ],
+ "http": [
+  {
+   "url": "http://ai-cdn.photoccino.com:80",
+   "host": "ai-cdn.photoccino.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.4",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://apcmobile.photoccino.com:80",
+   "host": "apcmobile.photoccino.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.151.28",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://creation.photoccino.com:80",
+   "host": "creation.photoccino.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cross-cat-rec-api-beta.photoccino.com:80",
+   "host": "cross-cat-rec-api-beta.photoccino.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.78",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://sip.photoccino.com:80",
+   "host": "sip.photoccino.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "Service Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "96.6.236.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://static.photoccino.com:80",
+   "host": "static.photoccino.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.28",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ai-cdn.photoccino.com:443",
+   "host": "ai-cdn.photoccino.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.4",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ai.photoccino.com:443",
+   "host": "ai.photoccino.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.21.179.155",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://apcmobile.photoccino.com:443",
+   "host": "apcmobile.photoccino.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.151.28",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://container.photoccino.com:443",
+   "host": "container.photoccino.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.224.59.80",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://creation.photoccino.com:443",
+   "host": "creation.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cross-cat-rec-api-beta.photoccino.com:443",
+   "host": "cross-cat-rec-api-beta.photoccino.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.78",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://magic.photoccino.com:443",
+   "host": "magic.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "184.193.56.187",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://magicapi.photoccino.com:443",
+   "host": "magicapi.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "98.86.134.195",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://products.photoccino.com:443",
+   "host": "products.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.217.203.96",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://proxy.photoccino.com:443",
+   "host": "proxy.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.221.27.233",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://sip.photoccino.com:443",
+   "host": "sip.photoccino.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Service Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "96.6.236.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://smarts.photoccino.com:443",
+   "host": "smarts.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "184.193.69.162",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://static.photoccino.com:443",
+   "host": "static.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.28",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://thumb.photoccino.com:443",
+   "host": "thumb.photoccino.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "96.6.236.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

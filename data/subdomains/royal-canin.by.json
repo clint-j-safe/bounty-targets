@@ -1,0 +1,84 @@
+{
+ "domain": "royal-canin.by",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 9,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "anketa.royal-canin.by",
+  "anketaq.royal-canin.by",
+  "en.royal-canin.by",
+  "preprod.anketa.royal-canin.by",
+  "preprod7.anketa.royal-canin.by",
+  "royal-canin.by",
+  "www.anketa.royal-canin.by",
+  "www.preprod.anketa.royal-canin.by",
+  "www.royal-canin.by"
+ ],
+ "http": [
+  {
+   "url": "http://anketa.royal-canin.by:80",
+   "host": "anketa.royal-canin.by",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "QRATOR",
+   "technologies": [],
+   "cdn": false,
+   "ip": "178.248.232.14",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://preprod.anketa.royal-canin.by:80",
+   "host": "preprod.anketa.royal-canin.by",
+   "port": "80",
+   "status_code": 503,
+   "title": "Server Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "85.193.72.8",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.royal-canin.by:80",
+   "host": "www.royal-canin.by",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "QRATOR",
+   "technologies": [],
+   "cdn": false,
+   "ip": "178.248.239.55",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://anketa.royal-canin.by:443",
+   "host": "anketa.royal-canin.by",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin: \u0410\u043d\u043a\u0435\u0442\u0430 \u0434\u043b\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043d\u0430 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u0435",
+   "webserver": "QRATOR",
+   "technologies": [
+    "HSTS",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "178.248.232.14",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.royal-canin.by:443",
+   "host": "www.royal-canin.by",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "QRATOR",
+   "technologies": [],
+   "cdn": false,
+   "ip": "178.248.239.55",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

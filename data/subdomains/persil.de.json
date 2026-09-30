@@ -1,0 +1,1184 @@
+{
+ "domain": "persil.de",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 85,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.persil.de",
+  "3demo.persil.kzkz.persil.de",
+  "aktion.persil.de",
+  "aktionen.persil.de",
+  "aktionenc.persil.de",
+  "campaignmaster.persil.de",
+  "customercare.persil.de",
+  "dasbeste.persil.de",
+  "duo-caps.persil.de",
+  "facebook.persil.de",
+  "fleckenhilfe.persil.de",
+  "fleckenhilfek.persil.de",
+  "gigant.persil.de",
+  "glueckskalender.persil.de",
+  "glueckskalenderv2.persil.de",
+  "gratistesten.aktion.persil.de",
+  "gratistesten.gigant.persil.de",
+  "gratistesten.persil.de",
+  "gratistestenc.persil.de",
+  "kalt-aktiv.persil.de",
+  "kalt-aktiv3.persil.de",
+  "kindertraeume.persil.de",
+  "kzkz.persil.de",
+  "m.persil.de",
+  "mail-aktionen.persil.de",
+  "mail.glueckskalender.persil.de",
+  "mail.persil.de",
+  "mail1.gratistesten.persil.de",
+  "mail1c.gratistesten.persil.de",
+  "mail2.gratistesten.persil.de",
+  "mail2k.gratistesten.persil.de",
+  "mitglied.persil.de",
+  "news.persil.de",
+  "persil.de",
+  "persil.kzkz.persil.de",
+  "staging.glueckskalender.persil.de",
+  "teilnahmebedingungendiscs.persil.de",
+  "teilnahmebedingungendiscs2.persil.de",
+  "teilnahmebedingungendiscs2q.persil.de",
+  "testumgebung.persil.de",
+  "testumgebung5.persil.de",
+  "truck.persil.de",
+  "u003egratistesten.persil.de",
+  "unichallenge.persil.de",
+  "unichallengec.persil.de",
+  "unser-bestes.persil.de",
+  "unserbestes.persil.de",
+  "waschrechner.persil.de",
+  "www.aktionen.persil.de",
+  "www.campaignmaster.persil.de",
+  "www.customercare.persil.de",
+  "www.dasbeste.persil.de",
+  "www.duo-caps.persil.de",
+  "www.fleckenhilfe.persil.de",
+  "www.glueckskalender.persil.de",
+  "www.gratistesten.aktion.persil.de",
+  "www.gratistesten.gigant.persil.de",
+  "www.gratistesten.persil.de",
+  "www.kalt-aktiv.persil.de",
+  "www.kindertraeume.persil.de",
+  "www.mail-aktionen.persil.de",
+  "www.mail.glueckskalender.persil.de",
+  "www.mitglied.persil.de",
+  "www.persil.de",
+  "www.staging.glueckskalender.persil.de",
+  "www.teilnahmebedingungendiscs.persil.de",
+  "www.teilnahmebedingungendiscs2.persil.de",
+  "www.testumgebung.persil.de",
+  "www.truck.persil.de",
+  "www.u003egratistesten.persil.de",
+  "www.unichallenge.persil.de",
+  "www.unser-bestes.persil.de",
+  "www.unserbestes.persil.de",
+  "www.waschrechner.persil.de",
+  "www.www3.persil.de",
+  "www1.testumgebung.persil.de",
+  "www3.persil.de",
+  "wwwa.dasbeste.persil.de",
+  "wwwe.campaignmaster.persil.de",
+  "wwwe.kindertraeume.persil.de",
+  "wwwe.unser-bestes.persil.de",
+  "wwwk.aktionen.persil.de",
+  "wwwk.fleckenhilfe.persil.de",
+  "wwwk.gratistesten.persil.de",
+  "wwwm.truck.persil.de"
+ ],
+ "http": [
+  {
+   "url": "http://campaignmaster.persil.de:80",
+   "host": "campaignmaster.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dasbeste.persil.de:80",
+   "host": "dasbeste.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.99",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://glueckskalender.persil.de:80",
+   "host": "glueckskalender.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gratistesten.aktion.persil.de:80",
+   "host": "gratistesten.aktion.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gratistesten.gigant.persil.de:80",
+   "host": "gratistesten.gigant.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://kalt-aktiv.persil.de:80",
+   "host": "kalt-aktiv.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://mitglied.persil.de:80",
+   "host": "mitglied.persil.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://persil.de:80",
+   "host": "persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.9.126.66",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://teilnahmebedingungendiscs.persil.de:80",
+   "host": "teilnahmebedingungendiscs.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://teilnahmebedingungendiscs2.persil.de:80",
+   "host": "teilnahmebedingungendiscs2.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://testumgebung.persil.de:80",
+   "host": "testumgebung.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.89",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://truck.persil.de:80",
+   "host": "truck.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://unichallenge.persil.de:80",
+   "host": "unichallenge.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://unser-bestes.persil.de:80",
+   "host": "unser-bestes.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.23",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://unserbestes.persil.de:80",
+   "host": "unserbestes.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.97",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://waschrechner.persil.de:80",
+   "host": "waschrechner.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.campaignmaster.persil.de:80",
+   "host": "www.campaignmaster.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.customercare.persil.de:80",
+   "host": "www.customercare.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.dasbeste.persil.de:80",
+   "host": "www.dasbeste.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.fleckenhilfe.persil.de:80",
+   "host": "www.fleckenhilfe.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.glueckskalender.persil.de:80",
+   "host": "www.glueckskalender.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.gratistesten.aktion.persil.de:80",
+   "host": "www.gratistesten.aktion.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.gratistesten.gigant.persil.de:80",
+   "host": "www.gratistesten.gigant.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.33",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.gratistesten.persil.de:80",
+   "host": "www.gratistesten.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.kalt-aktiv.persil.de:80",
+   "host": "www.kalt-aktiv.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.persil.de:80",
+   "host": "www.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.teilnahmebedingungendiscs.persil.de:80",
+   "host": "www.teilnahmebedingungendiscs.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.teilnahmebedingungendiscs2.persil.de:80",
+   "host": "www.teilnahmebedingungendiscs2.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.testumgebung.persil.de:80",
+   "host": "www.testumgebung.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.89",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.truck.persil.de:80",
+   "host": "www.truck.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.unichallenge.persil.de:80",
+   "host": "www.unichallenge.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.unser-bestes.persil.de:80",
+   "host": "www.unser-bestes.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.unserbestes.persil.de:80",
+   "host": "www.unserbestes.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.78",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.waschrechner.persil.de:80",
+   "host": "www.waschrechner.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www3.persil.de:80",
+   "host": "www3.persil.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://campaignmaster.persil.de:443",
+   "host": "campaignmaster.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dasbeste.persil.de:443",
+   "host": "dasbeste.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.99",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://glueckskalender.persil.de:443",
+   "host": "glueckskalender.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gratistesten.aktion.persil.de:443",
+   "host": "gratistesten.aktion.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gratistesten.gigant.persil.de:443",
+   "host": "gratistesten.gigant.persil.de",
+   "port": "443",
+   "status_code": 502,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://kalt-aktiv.persil.de:443",
+   "host": "kalt-aktiv.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://mitglied.persil.de:443",
+   "host": "mitglied.persil.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://persil.de:443",
+   "host": "persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "65.9.126.66",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://teilnahmebedingungendiscs.persil.de:443",
+   "host": "teilnahmebedingungendiscs.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://teilnahmebedingungendiscs2.persil.de:443",
+   "host": "teilnahmebedingungendiscs2.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://testumgebung.persil.de:443",
+   "host": "testumgebung.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.89",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://truck.persil.de:443",
+   "host": "truck.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://unichallenge.persil.de:443",
+   "host": "unichallenge.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://unser-bestes.persil.de:443",
+   "host": "unser-bestes.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.23",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://unserbestes.persil.de:443",
+   "host": "unserbestes.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.97",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://waschrechner.persil.de:443",
+   "host": "waschrechner.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.campaignmaster.persil.de:443",
+   "host": "www.campaignmaster.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.customercare.persil.de:443",
+   "host": "www.customercare.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.dasbeste.persil.de:443",
+   "host": "www.dasbeste.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.fleckenhilfe.persil.de:443",
+   "host": "www.fleckenhilfe.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.glueckskalender.persil.de:443",
+   "host": "www.glueckskalender.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.gratistesten.aktion.persil.de:443",
+   "host": "www.gratistesten.aktion.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.gratistesten.gigant.persil.de:443",
+   "host": "www.gratistesten.gigant.persil.de",
+   "port": "443",
+   "status_code": 502,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.33",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.gratistesten.persil.de:443",
+   "host": "www.gratistesten.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.kalt-aktiv.persil.de:443",
+   "host": "www.kalt-aktiv.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.persil.de:443",
+   "host": "www.persil.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "Persil | Tiefenrein. Das ist Persil.",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.teilnahmebedingungendiscs.persil.de:443",
+   "host": "www.teilnahmebedingungendiscs.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.teilnahmebedingungendiscs2.persil.de:443",
+   "host": "www.teilnahmebedingungendiscs2.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.155.202.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.testumgebung.persil.de:443",
+   "host": "www.testumgebung.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.89",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.truck.persil.de:443",
+   "host": "www.truck.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.unichallenge.persil.de:443",
+   "host": "www.unichallenge.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.56",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.unser-bestes.persil.de:443",
+   "host": "www.unser-bestes.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.unserbestes.persil.de:443",
+   "host": "www.unserbestes.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.78",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.waschrechner.persil.de:443",
+   "host": "www.waschrechner.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www3.persil.de:443",
+   "host": "www3.persil.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

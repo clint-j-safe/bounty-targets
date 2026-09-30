@@ -1,0 +1,66 @@
+{
+ "domain": "pharmawire.co.uk",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "pharmawire.co.uk",
+  "www.pharmawire.co.uk"
+ ],
+ "http": [
+  {
+   "url": "http://pharmawire.co.uk:80",
+   "host": "pharmawire.co.uk",
+   "port": "80",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "Unknown web server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pharmawire.co.uk:80",
+   "host": "www.pharmawire.co.uk",
+   "port": "80",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "Unknown web server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pharmawire.co.uk:443",
+   "host": "pharmawire.co.uk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pharmawire.co.uk:443",
+   "host": "www.pharmawire.co.uk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

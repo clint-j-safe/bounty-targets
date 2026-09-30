@@ -1,0 +1,29 @@
+{
+ "domain": "registry.latentzero.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "registry.latentzero.com",
+  "www.registry.latentzero.com"
+ ],
+ "http": [
+  {
+   "url": "http://registry.latentzero.com:80",
+   "host": "registry.latentzero.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.81",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "domain": "royalcanin-pethealthday.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 11,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.royalcanin-pethealthday.com",
+  "comg.royalcanin-pethealthday.com",
+  "dev.royalcanin-pethealthday.com",
+  "devc.royalcanin-pethealthday.com",
+  "newsletter.royalcanin-pethealthday.com",
+  "newsletterm.royalcanin-pethealthday.com",
+  "royalcanin-pethealthday.com",
+  "www.dev.royalcanin-pethealthday.com",
+  "www.newsletter.royalcanin-pethealthday.com",
+  "www.royalcanin-pethealthday.com",
+  "wwwu.royalcanin-pethealthday.com"
+ ],
+ "http": [
+  {
+   "url": "http://royalcanin-pethealthday.com:80",
+   "host": "royalcanin-pethealthday.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Error 404 - Not found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "217.160.0.243",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.royalcanin-pethealthday.com:80",
+   "host": "www.royalcanin-pethealthday.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Error 404 - Not found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "217.160.0.243",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

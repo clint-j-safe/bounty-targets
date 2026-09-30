@@ -1,0 +1,142 @@
+{
+ "domain": "pelawreport.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "aslive-www.pelawreport.com",
+  "aslive-wwwa.pelawreport.com",
+  "notifications.pelawreport.com",
+  "notificationsv.pelawreport.com",
+  "pelawreport.com",
+  "www.aslive-www.pelawreport.com",
+  "www.notifications.pelawreport.com",
+  "www.pelawreport.com"
+ ],
+ "http": [
+  {
+   "url": "http://aslive-www.pelawreport.com:80",
+   "host": "aslive-www.pelawreport.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://notifications.pelawreport.com:80",
+   "host": "notifications.pelawreport.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pelawreport.com:80",
+   "host": "pelawreport.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.208",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pelawreport.com:80",
+   "host": "www.pelawreport.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.194.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-www.pelawreport.com:443",
+   "host": "aslive-www.pelawreport.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home | Private Equity Law Report",
+   "webserver": "LHC",
+   "technologies": [
+    "HSTS",
+    "Sentry:6.13.2",
+    "Varnish",
+    "hCaptcha",
+    "jQuery",
+    "jQuery UI:1.12.1",
+    "jsDelivr",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://notifications.pelawreport.com:443",
+   "host": "notifications.pelawreport.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pelawreport.com:443",
+   "host": "pelawreport.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.208",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pelawreport.com:443",
+   "host": "www.pelawreport.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home | Private Equity Law Report",
+   "webserver": "LHC",
+   "technologies": [
+    "HSTS",
+    "Sentry:6.13.2",
+    "Varnish",
+    "hCaptcha",
+    "jQuery",
+    "jQuery UI:1.12.1",
+    "jsDelivr",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "151.101.194.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "domain": "pocketcoffee.it",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 28,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "concorso.pocketcoffee.it",
+  "dev-identity-it.pocketcoffee.it",
+  "dev-identity-it5.pocketcoffee.it",
+  "latuafrase.pocketcoffee.it",
+  "latuafrase2020.pocketcoffee.it",
+  "latuafrase2020k.pocketcoffee.it",
+  "latuafraseg.pocketcoffee.it",
+  "pasqua2025.pocketcoffee.it",
+  "pasqua2026.pocketcoffee.it",
+  "pocketcoffee.it",
+  "prod-identity-it.pocketcoffee.it",
+  "prod-identity-its.pocketcoffee.it",
+  "qa-identity-it.pocketcoffee.it",
+  "qa-identity-itw.pocketcoffee.it",
+  "qr.pocketcoffee.it",
+  "quality-pasqua2025.pocketcoffee.it",
+  "quality-pasqua2026.pocketcoffee.it",
+  "www.concorso.pocketcoffee.it",
+  "www.dev-identity-it.pocketcoffee.it",
+  "www.latuafrase.pocketcoffee.it",
+  "www.latuafrase2020.pocketcoffee.it",
+  "www.pasqua2025.pocketcoffee.it",
+  "www.pocketcoffee.it",
+  "www.prod-identity-it.pocketcoffee.it",
+  "www.qa-identity-it.pocketcoffee.it",
+  "www.qr.pocketcoffee.it",
+  "www.quality-pasqua2025.pocketcoffee.it",
+  "www5.pocketcoffee.it"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-it.pocketcoffee.it:80",
+   "host": "dev-identity-it.pocketcoffee.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.112",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pasqua2026.pocketcoffee.it:80",
+   "host": "pasqua2026.pocketcoffee.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.201",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://prod-identity-it.pocketcoffee.it:80",
+   "host": "prod-identity-it.pocketcoffee.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://qa-identity-it.pocketcoffee.it:80",
+   "host": "qa-identity-it.pocketcoffee.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://qr.pocketcoffee.it:80",
+   "host": "qr.pocketcoffee.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://quality-pasqua2025.pocketcoffee.it:80",
+   "host": "quality-pasqua2025.pocketcoffee.it",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.59.169.47",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://quality-pasqua2026.pocketcoffee.it:80",
+   "host": "quality-pasqua2026.pocketcoffee.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.209.94.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pocketcoffee.it:80",
+   "host": "www.pocketcoffee.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.209.94.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-identity-it.pocketcoffee.it:443",
+   "host": "dev-identity-it.pocketcoffee.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.112",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pasqua2026.pocketcoffee.it:443",
+   "host": "pasqua2026.pocketcoffee.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "Pasqua 2026 Pocket Coffee",
+   "webserver": "",
+   "technologies": [
+    "Akamai",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.201",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://prod-identity-it.pocketcoffee.it:443",
+   "host": "prod-identity-it.pocketcoffee.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://qa-identity-it.pocketcoffee.it:443",
+   "host": "qa-identity-it.pocketcoffee.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://qr.pocketcoffee.it:443",
+   "host": "qr.pocketcoffee.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.206",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://quality-pasqua2026.pocketcoffee.it:443",
+   "host": "quality-pasqua2026.pocketcoffee.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "Pasqua 2026 Pocket Coffee",
+   "webserver": "",
+   "technologies": [
+    "Akamai",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "23.209.94.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pocketcoffee.it:443",
+   "host": "www.pocketcoffee.it",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "F5 Distributed Cloud Services",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.209.94.236",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "domain": "myiot.be",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 10,
+ "programs": [
+  "intigriti|responsiblevulnerabilitydisclosureprogram"
+ ],
+ "subdomains": [
+  "227.myiot.be",
+  "authprofile.myiot.be",
+  "halo.myiot.be",
+  "luzidia.myiot.be",
+  "myiot.be",
+  "nimbus.myiot.be",
+  "www.authprofile.myiot.be",
+  "www.luzidia.myiot.be",
+  "www.myiot.be",
+  "www.nimbus.myiot.be"
+ ],
+ "http": [
+  {
+   "url": "http://myiot.be:2082",
+   "host": "myiot.be",
+   "port": "2082",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://myiot.be:2095",
+   "host": "myiot.be",
+   "port": "2095",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://myiot.be:80",
+   "host": "myiot.be",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://myiot.be:8080",
+   "host": "myiot.be",
+   "port": "8080",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.myiot.be:2082",
+   "host": "www.myiot.be",
+   "port": "2082",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.myiot.be:2095",
+   "host": "www.myiot.be",
+   "port": "2095",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.myiot.be:80",
+   "host": "www.myiot.be",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.myiot.be:8080",
+   "host": "www.myiot.be",
+   "port": "8080",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myiot.be:2083",
+   "host": "myiot.be",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myiot.be:2087",
+   "host": "myiot.be",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myiot.be:2096",
+   "host": "myiot.be",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myiot.be:443",
+   "host": "myiot.be",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://myiot.be:8443",
+   "host": "myiot.be",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.27.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myiot.be:2083",
+   "host": "www.myiot.be",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myiot.be:2087",
+   "host": "www.myiot.be",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myiot.be:2096",
+   "host": "www.myiot.be",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myiot.be:443",
+   "host": "www.myiot.be",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.myiot.be:8443",
+   "host": "www.myiot.be",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.169.185",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

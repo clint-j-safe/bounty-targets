@@ -1,0 +1,104 @@
+{
+ "domain": "muji.bh",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 10,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "com.muji.bh",
+  "data.muji.bh",
+  "dev.muji.bh",
+  "fls.muji.bh",
+  "metric.muji.bh",
+  "muji.bh",
+  "s3.muji.bh",
+  "test.muji.bh",
+  "www.data.muji.bh",
+  "www.muji.bh"
+ ],
+ "http": [
+  {
+   "url": "http://data.muji.bh:80",
+   "host": "data.muji.bh",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://muji.bh:80",
+   "host": "muji.bh",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.muji.bh:80",
+   "host": "www.muji.bh",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://data.muji.bh:443",
+   "host": "data.muji.bh",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://muji.bh:443",
+   "host": "muji.bh",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.muji.bh:443",
+   "host": "www.muji.bh",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

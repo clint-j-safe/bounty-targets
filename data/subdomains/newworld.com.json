@@ -1,0 +1,940 @@
+{
+ "domain": "newworld.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 229,
+ "programs": [
+  "hackerone|aws_vdp"
+ ],
+ "subdomains": [
+  "118.newworld.com",
+  "119.newworld.com",
+  "121.newworld.com",
+  "2.newworld.com",
+  "209.newworld.com",
+  "221.newworld.com",
+  "222.newworld.com",
+  "223.newworld.com",
+  "227.newworld.com",
+  "228.newworld.com",
+  "229.newworld.com",
+  "232.newworld.com",
+  "236.newworld.com",
+  "33.newworld.com",
+  "52.newworld.com",
+  "87.newworld.com",
+  "a.newworld.com",
+  "acc.newworld.com",
+  "accq.newworld.com",
+  "ad.newworld.com",
+  "ad1.newworld.com",
+  "ad3.newworld.com",
+  "ad5.newworld.com",
+  "ad8.newworld.com",
+  "ad8y.newworld.com",
+  "admin.newworld.com",
+  "adminc.newworld.com",
+  "ads.newworld.com",
+  "adsrange26-160-webmailskins.newworld.com",
+  "adsrange26-165-webmailskins.newworld.com",
+  "adsrange26-767-webmailskins.newworld.com",
+  "adsrange26-867-webmailskins.newworld.com",
+  "adsrange28-167-webmailskins.newworld.com",
+  "alphaforum.newworld.com",
+  "apac.newworld.com",
+  "api.newworld.com",
+  "api7.newworld.com",
+  "app.newworld.com",
+  "apps.newworld.com",
+  "arq.ci1.newworld.com",
+  "at.newworld.com",
+  "au.newworld.com",
+  "austin.newworld.com",
+  "austinu.newworld.com",
+  "aws.newworld.com",
+  "awsc.newworld.com",
+  "be.newworld.com",
+  "beta.help.newworld.com",
+  "beta.newworld.com",
+  "beta.prod2.newworld.com",
+  "betac.help.newworld.com",
+  "blobo.core.newworld.com",
+  "blog.newworld.com",
+  "br.newworld.com",
+  "ca.newworld.com",
+  "campus.newworld.com",
+  "campusu.newworld.com",
+  "cc.newworld.com",
+  "cci.newworld.com",
+  "ccik.newworld.com",
+  "cdn.newworld.com",
+  "ch.newworld.com",
+  "chem.newworld.com",
+  "ci.newworld.com",
+  "ci1.newworld.com",
+  "ci1k.newworld.com",
+  "ciostage.newworld.com",
+  "ciostagey.newworld.com",
+  "cleanspeak-dev.newworld.com",
+  "client.newworld.com",
+  "clienta.newworld.com",
+  "cloud.newworld.com",
+  "cms.newworld.com",
+  "cmsg.newworld.com",
+  "cn.newworld.com",
+  "co.newworld.com",
+  "com.newworld.com",
+  "coma.mx.newworld.com",
+  "comc.newworld.com",
+  "comg.br.newworld.com",
+  "coo.kr.newworld.com",
+  "core.newworld.com",
+  "corp.newworld.com",
+  "cou.uk.newworld.com",
+  "cpanel.newworld.com",
+  "cps.newworld.com",
+  "cpso.newworld.com",
+  "cs.newworld.com",
+  "csbetaa.range46.prod9.newworld.com",
+  "csbetay.range90.prod9.newworld.com",
+  "csbetay.range96.prod5.newworld.com",
+  "csbetay.range98.prod9.newworld.com",
+  "cust40-ads.toolbar.newworld.com",
+  "cust70-ads.toolbar.newworld.com",
+  "cust72-adsk.toolbar.newworld.com",
+  "cust75-adss.toolbar.newworld.com",
+  "cust79-adsk.toolbar.newworld.com",
+  "d.newworld.com",
+  "de.newworld.com",
+  "demo.newworld.com",
+  "demotest.newworld.com",
+  "demotestu.newworld.com",
+  "dev.newworld.com",
+  "dev9.newworld.com",
+  "dhcp.newworld.com",
+  "dial.newworld.com",
+  "dmz.newworld.com",
+  "dmzo.newworld.com",
+  "drm-webw.events.newworld.com",
+  "ds.newworld.com",
+  "dsl.newworld.com",
+  "dslk.newworld.com",
+  "ece.newworld.com",
+  "eceo.newworld.com",
+  "ee.newworld.com",
+  "emea.newworld.com",
+  "en.newworld.com",
+  "eng.newworld.com",
+  "es.newworld.com",
+  "eu.newworld.com",
+  "events.newworld.com",
+  "eventsw.newworld.com",
+  "ext.newworld.com",
+  "external.newworld.com",
+  "extk.newworld.com",
+  "extranet.newworld.com",
+  "extranetu.newworld.com",
+  "files.newworld.com",
+  "forums-qa.newworld.com",
+  "forums.newworld.com",
+  "forumsg.newworld.com",
+  "fr.newworld.com",
+  "game.newworld.com",
+  "gamma.help.newworld.com",
+  "gamma.map.newworld.com",
+  "gamma.newworld.com",
+  "gamma.prod2.newworld.com",
+  "gamma.prod8.newworld.com",
+  "gammak.newworld.com",
+  "gitlab-webportal.newworld.com",
+  "gitlab-webportalq.newworld.com",
+  "global.newworld.com",
+  "globalw.newworld.com",
+  "help.newworld.com",
+  "home.newworld.com",
+  "houston.newworld.com",
+  "in.newworld.com",
+  "integ-tests.beta.newworld.com",
+  "intra.newworld.com",
+  "intranet-eng.newworld.com",
+  "intranet-swagger.newworld.com",
+  "intranet-swagwwwv6-s205-wickh.newworld.com",
+  "intranet.newworld.com",
+  "kr.newworld.com",
+  "lb.beta.newworld.com",
+  "lb.gamma.newworld.com",
+  "lb.newworld.com",
+  "lbe.gamma.newworld.com",
+  "lbi.beta.newworld.com",
+  "lbi.beta.prod2.newworld.com",
+  "login.newworld.com",
+  "login9.newworld.com",
+  "mail.newworld.com",
+  "map.newworld.com",
+  "map5.newworld.com",
+  "mx.newworld.com",
+  "newworld.com",
+  "newwors23016www.newworld.com",
+  "nl.newworld.com",
+  "physics.newworld.com",
+  "preprod.newworld.com",
+  "preview.beta.newworld.com",
+  "preview.gamma.map.newworld.com",
+  "preview.gamma.newworld.com",
+  "preview.map.newworld.com",
+  "preview.newworld.com",
+  "preview.prod.newworld.com",
+  "preview7.gamma.map.newworld.com",
+  "preview7.newworld.com",
+  "previewe.gamma.newworld.com",
+  "prod.newworld.com",
+  "prod2.newworld.com",
+  "prod2c.newworld.com",
+  "prod5.newworld.com",
+  "prod8.newworld.com",
+  "prod9.newworld.com",
+  "qa.newworld.com",
+  "range46.prod9.newworld.com",
+  "range84-026-cgi-webportal.newworld.com",
+  "range90.prod9.newworld.com",
+  "range96.prod5.newworld.com",
+  "range98.prod9.newworld.com",
+  "sandbox.newworld.com",
+  "stg.newworld.com",
+  "suxv.newworld.com",
+  "toolbar.newworld.com",
+  "tw.newworld.com",
+  "uk.newworld.com",
+  "us.newworld.com",
+  "v2.newworld.com",
+  "vpn.newworld.com",
+  "webportal.newworld.com",
+  "wireless.newworld.com",
+  "www.beta.help.newworld.com",
+  "www.beta.newworld.com",
+  "www.beta.prod2.newworld.com",
+  "www.cleanspeak-dev.newworld.com",
+  "www.forums-qa.newworld.com",
+  "www.forums.newworld.com",
+  "www.gamma.help.newworld.com",
+  "www.gamma.map.newworld.com",
+  "www.gamma.newworld.com",
+  "www.help.newworld.com",
+  "www.lb.beta.newworld.com",
+  "www.lb.gamma.newworld.com",
+  "www.lb.newworld.com",
+  "www.login.newworld.com",
+  "www.map.newworld.com",
+  "www.newworld.com",
+  "www.preview.beta.newworld.com",
+  "www.preview.gamma.map.newworld.com",
+  "www.preview.gamma.newworld.com",
+  "www.preview.map.newworld.com",
+  "www.preview.newworld.com",
+  "www.preview.prod.newworld.com",
+  "www.prod.newworld.com",
+  "www.prod2.newworld.com",
+  "www.qa.newworld.com",
+  "za.newworld.com"
+ ],
+ "http": [
+  {
+   "url": "http://beta.help.newworld.com:2082",
+   "host": "beta.help.newworld.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:2083",
+   "host": "beta.help.newworld.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:2087",
+   "host": "beta.help.newworld.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:2095",
+   "host": "beta.help.newworld.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:2096",
+   "host": "beta.help.newworld.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:80",
+   "host": "beta.help.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:8080",
+   "host": "beta.help.newworld.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.help.newworld.com:8443",
+   "host": "beta.help.newworld.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://beta.newworld.com:80",
+   "host": "beta.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.128",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://forums-qa.newworld.com:80",
+   "host": "forums-qa.newworld.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://forums.newworld.com:80",
+   "host": "forums.newworld.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:2082",
+   "host": "gamma.help.newworld.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:2083",
+   "host": "gamma.help.newworld.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:2087",
+   "host": "gamma.help.newworld.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:2095",
+   "host": "gamma.help.newworld.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:2096",
+   "host": "gamma.help.newworld.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:80",
+   "host": "gamma.help.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:8080",
+   "host": "gamma.help.newworld.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.help.newworld.com:8443",
+   "host": "gamma.help.newworld.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gamma.newworld.com:80",
+   "host": "gamma.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.77",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:2082",
+   "host": "help.newworld.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:2083",
+   "host": "help.newworld.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:2087",
+   "host": "help.newworld.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:2095",
+   "host": "help.newworld.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:2096",
+   "host": "help.newworld.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:80",
+   "host": "help.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:8080",
+   "host": "help.newworld.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.newworld.com:8443",
+   "host": "help.newworld.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://integ-tests.beta.newworld.com:80",
+   "host": "integ-tests.beta.newworld.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.91",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://map.newworld.com:80",
+   "host": "map.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.188.6.219",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://newworld.com:80",
+   "host": "newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.63",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://preview.beta.newworld.com:80",
+   "host": "preview.beta.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.181.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://preview.gamma.newworld.com:80",
+   "host": "preview.gamma.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.64",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://preview.newworld.com:80",
+   "host": "preview.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://prod.newworld.com:80",
+   "host": "prod.newworld.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.60",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.newworld.com:80",
+   "host": "www.newworld.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://beta.newworld.com:443",
+   "host": "beta.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.128",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gamma.help.newworld.com:443",
+   "host": "gamma.help.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "IP address not permitted",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Envoy",
+    "HSTS",
+    "Zendesk"
+   ],
+   "cdn": false,
+   "ip": "216.198.54.12",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gamma.newworld.com:443",
+   "host": "gamma.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.77",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://help.newworld.com:443",
+   "host": "help.newworld.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Envoy",
+    "HSTS",
+    "Zendesk"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://integ-tests.beta.newworld.com:443",
+   "host": "integ-tests.beta.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.91",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://map.newworld.com:443",
+   "host": "map.newworld.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.188.6.219",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://newworld.com:443",
+   "host": "newworld.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Server",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.63",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://preview.beta.newworld.com:443",
+   "host": "preview.beta.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.181.16",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://preview.gamma.newworld.com:443",
+   "host": "preview.gamma.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.64",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://preview.newworld.com:443",
+   "host": "preview.newworld.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.newworld.com:443",
+   "host": "www.newworld.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Server",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

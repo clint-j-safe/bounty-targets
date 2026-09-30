@@ -1,0 +1,80 @@
+{
+ "domain": "mplu.com.br",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "mplu.com.br",
+  "promo.mplu.com.br",
+  "static.mplu.com.br",
+  "staticqa.mplu.com.br",
+  "staticw.mplu.com.br",
+  "www.mplu.com.br",
+  "www.static.mplu.com.br",
+  "www.staticqa.mplu.com.br"
+ ],
+ "http": [
+  {
+   "url": "http://promo.mplu.com.br:80",
+   "host": "promo.mplu.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.73.207.136",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://static.mplu.com.br:80",
+   "host": "static.mplu.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.205.107.68",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staticqa.mplu.com.br:80",
+   "host": "staticqa.mplu.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.212.249.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://static.mplu.com.br:443",
+   "host": "static.mplu.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.205.107.68",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staticqa.mplu.com.br:443",
+   "host": "staticqa.mplu.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.212.249.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

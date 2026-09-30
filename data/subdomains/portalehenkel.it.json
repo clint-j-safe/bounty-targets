@@ -1,0 +1,238 @@
+{
+ "domain": "portalehenkel.it",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "bko.portalehenkel.it",
+  "formazione.portalehenkel.it",
+  "formazioneg.portalehenkel.it",
+  "formazionew.portalehenkel.it",
+  "portalehenkel.it",
+  "www.bko.portalehenkel.it",
+  "www.formazione.portalehenkel.it",
+  "www.portalehenkel.it"
+ ],
+ "http": [
+  {
+   "url": "http://bko.portalehenkel.it:80",
+   "host": "bko.portalehenkel.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://formazione.portalehenkel.it:80",
+   "host": "formazione.portalehenkel.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://portalehenkel.it:80",
+   "host": "portalehenkel.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.bko.portalehenkel.it:80",
+   "host": "www.bko.portalehenkel.it",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.formazione.portalehenkel.it:80",
+   "host": "www.formazione.portalehenkel.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.portalehenkel.it:80",
+   "host": "www.portalehenkel.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bko.portalehenkel.it:443",
+   "host": "bko.portalehenkel.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://formazione.portalehenkel.it:443",
+   "host": "formazione.portalehenkel.it",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://formazione.portalehenkel.it:8080",
+   "host": "formazione.portalehenkel.it",
+   "port": "8080",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://formazione.portalehenkel.it:8081",
+   "host": "formazione.portalehenkel.it",
+   "port": "8081",
+   "status_code": 200,
+   "title": "Index of /",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://portalehenkel.it:443",
+   "host": "portalehenkel.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.formazione.portalehenkel.it:443",
+   "host": "www.formazione.portalehenkel.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.formazione.portalehenkel.it:8080",
+   "host": "www.formazione.portalehenkel.it",
+   "port": "8080",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.formazione.portalehenkel.it:8081",
+   "host": "www.formazione.portalehenkel.it",
+   "port": "8081",
+   "status_code": 200,
+   "title": "Index of /",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "95.217.187.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.portalehenkel.it:443",
+   "host": "www.portalehenkel.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "Benvenuto su portaleHenkel.it - Henkel Italia Srl",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "OneTrust",
+    "jQuery"
+   ],
+   "cdn": false,
+   "ip": "185.58.117.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

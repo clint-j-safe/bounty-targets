@@ -1,0 +1,125 @@
+{
+ "domain": "rcjapan.jp",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 17,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "admin.rcjapan.jp",
+  "admin3.rcjapan.jp",
+  "bsp-stg.rcjapan.jp",
+  "bsp-stg1.rcjapan.jp",
+  "bsp.rcjapan.jp",
+  "rcjapan.jp",
+  "stg.bsp-stg.rcjapan.jp",
+  "sv.rcjapan.jp",
+  "web1.bsp.rcjapan.jp",
+  "web13.bsp.rcjapan.jp",
+  "web2.bsp.rcjapan.jp",
+  "www.admin.rcjapan.jp",
+  "www.bsp-stg.rcjapan.jp",
+  "www.bsp.rcjapan.jp",
+  "www.rcjapan.jp",
+  "www.stg.bsp-stg.rcjapan.jp",
+  "www.web1.bsp.rcjapan.jp"
+ ],
+ "http": [
+  {
+   "url": "http://admin.rcjapan.jp:80",
+   "host": "admin.rcjapan.jp",
+   "port": "80",
+   "status_code": 200,
+   "title": "404 Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Bootstrap:3.3.6",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "16.76.100.48",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bsp-stg.rcjapan.jp:80",
+   "host": "bsp-stg.rcjapan.jp",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "16.76.100.48",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://bsp.rcjapan.jp:80",
+   "host": "bsp.rcjapan.jp",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Bootstrap:3.3.6",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "57.180.118.95",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://admin.rcjapan.jp:443",
+   "host": "admin.rcjapan.jp",
+   "port": "443",
+   "status_code": 200,
+   "title": "404 Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Bootstrap:3.3.6",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "16.76.100.48",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bsp-stg.rcjapan.jp:443",
+   "host": "bsp-stg.rcjapan.jp",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "16.76.100.48",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://bsp.rcjapan.jp:443",
+   "host": "bsp.rcjapan.jp",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Bootstrap:3.3.6",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "57.180.118.95",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

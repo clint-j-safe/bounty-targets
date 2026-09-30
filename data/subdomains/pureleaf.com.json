@@ -1,0 +1,731 @@
+{
+ "domain": "pureleaf.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 49,
+ "programs": [
+  "hackerone|pepsico_vdp"
+ ],
+ "subdomains": [
+  "adu.pureleaf.com",
+  "alpha.pureleaf.com",
+  "api.pureleaf.com",
+  "blog.pureleaf.com",
+  "caa.pureleaf.com",
+  "caerieon.pureleaf.com",
+  "cebu.pureleaf.com",
+  "com.pureleaf.com",
+  "comcom.pureleaf.com",
+  "croizel.pureleaf.com",
+  "dev.pureleaf.com",
+  "doc.pureleaf.com",
+  "dtm.pureleaf.com",
+  "dtm3.pureleaf.com",
+  "duo.pureleaf.com",
+  "ebs.pureleaf.com",
+  "en.pureleaf.com",
+  "fls.pureleaf.com",
+  "flse.pureleaf.com",
+  "foodservice.pureleaf.com",
+  "inspire.pureleaf.com",
+  "izumi.pureleaf.com",
+  "kazuyan.pureleaf.com",
+  "kiyohime.pureleaf.com",
+  "makuzu.pureleaf.com",
+  "milktea.pureleaf.com",
+  "misaki.pureleaf.com",
+  "mizusen.pureleaf.com",
+  "monocro.pureleaf.com",
+  "nakky.pureleaf.com",
+  "offers.pureleaf.com",
+  "offersg.pureleaf.com",
+  "para-old.pureleaf.com",
+  "psychology.pureleaf.com",
+  "pureleaf.com",
+  "rain-24.pureleaf.com",
+  "ruby.pureleaf.com",
+  "sacred.pureleaf.com",
+  "smartlabel.pureleaf.com",
+  "stage.pureleaf.com",
+  "sv.pureleaf.com",
+  "t-style.pureleaf.com",
+  "tarot.pureleaf.com",
+  "www.doc.pureleaf.com",
+  "www.foodservice.pureleaf.com",
+  "www.offers.pureleaf.com",
+  "www.pureleaf.com",
+  "www.smartlabel.pureleaf.com",
+  "www7.pureleaf.com"
+ ],
+ "http": [
+  {
+   "url": "http://doc.pureleaf.com:80",
+   "host": "doc.pureleaf.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.30.0",
+   "technologies": [
+    "Nginx:1.30.0"
+   ],
+   "cdn": true,
+   "ip": "20.238.208.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dtm.pureleaf.com:80",
+   "host": "dtm.pureleaf.com",
+   "port": "80",
+   "status_code": 204,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "159.127.41.105",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:2082",
+   "host": "foodservice.pureleaf.com",
+   "port": "2082",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:2083",
+   "host": "foodservice.pureleaf.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:2087",
+   "host": "foodservice.pureleaf.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:2095",
+   "host": "foodservice.pureleaf.com",
+   "port": "2095",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:2096",
+   "host": "foodservice.pureleaf.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:80",
+   "host": "foodservice.pureleaf.com",
+   "port": "80",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:8080",
+   "host": "foodservice.pureleaf.com",
+   "port": "8080",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://foodservice.pureleaf.com:8443",
+   "host": "foodservice.pureleaf.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:2082",
+   "host": "pureleaf.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:2095",
+   "host": "pureleaf.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:3000",
+   "host": "pureleaf.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:80",
+   "host": "pureleaf.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8000",
+   "host": "pureleaf.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8001",
+   "host": "pureleaf.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8008",
+   "host": "pureleaf.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8080",
+   "host": "pureleaf.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8081",
+   "host": "pureleaf.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8090",
+   "host": "pureleaf.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8443",
+   "host": "pureleaf.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:8888",
+   "host": "pureleaf.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:9000",
+   "host": "pureleaf.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:9090",
+   "host": "pureleaf.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pureleaf.com:9443",
+   "host": "pureleaf.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:2082",
+   "host": "www.pureleaf.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:2095",
+   "host": "www.pureleaf.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:3000",
+   "host": "www.pureleaf.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:80",
+   "host": "www.pureleaf.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8000",
+   "host": "www.pureleaf.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8001",
+   "host": "www.pureleaf.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8008",
+   "host": "www.pureleaf.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8080",
+   "host": "www.pureleaf.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8081",
+   "host": "www.pureleaf.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8090",
+   "host": "www.pureleaf.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8443",
+   "host": "www.pureleaf.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:8888",
+   "host": "www.pureleaf.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:9000",
+   "host": "www.pureleaf.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:9090",
+   "host": "www.pureleaf.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pureleaf.com:9443",
+   "host": "www.pureleaf.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pureleaf.com:2083",
+   "host": "pureleaf.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pureleaf.com:2087",
+   "host": "pureleaf.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pureleaf.com:2096",
+   "host": "pureleaf.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pureleaf.com:443",
+   "host": "pureleaf.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pureleaf.com:81",
+   "host": "pureleaf.com",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pureleaf.com:2083",
+   "host": "www.pureleaf.com",
+   "port": "2083",
+   "status_code": 200,
+   "title": "Pure Leaf",
+   "webserver": "",
+   "technologies": [
+    "Adobe Fonts",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "React",
+    "TrustArc",
+    "Typekit"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pureleaf.com:2087",
+   "host": "www.pureleaf.com",
+   "port": "2087",
+   "status_code": 200,
+   "title": "Pure Leaf",
+   "webserver": "",
+   "technologies": [
+    "Adobe Fonts",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "React",
+    "TrustArc",
+    "Typekit"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pureleaf.com:2096",
+   "host": "www.pureleaf.com",
+   "port": "2096",
+   "status_code": 200,
+   "title": "Pure Leaf",
+   "webserver": "",
+   "technologies": [
+    "Adobe Fonts",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "React",
+    "TrustArc",
+    "Typekit"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pureleaf.com:443",
+   "host": "www.pureleaf.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Pure Leaf",
+   "webserver": "",
+   "technologies": [
+    "Adobe Fonts",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "React",
+    "TrustArc",
+    "Typekit"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pureleaf.com:81",
+   "host": "www.pureleaf.com",
+   "port": "81",
+   "status_code": 200,
+   "title": "Pure Leaf",
+   "webserver": "",
+   "technologies": [
+    "Adobe Fonts",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "React",
+    "TrustArc",
+    "Typekit"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

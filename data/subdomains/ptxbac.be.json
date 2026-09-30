@@ -1,0 +1,126 @@
+{
+ "domain": "ptxbac.be",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "intigriti|responsiblevulnerabilitydisclosureprogram"
+ ],
+ "subdomains": [
+  "ptxbac.be",
+  "www.ptxbac.be"
+ ],
+ "http": [
+  {
+   "url": "http://ptxbac.be:2083",
+   "host": "ptxbac.be",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ptxbac.be:2087",
+   "host": "ptxbac.be",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ptxbac.be:2096",
+   "host": "ptxbac.be",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ptxbac.be:8443",
+   "host": "ptxbac.be",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.ptxbac.be:2083",
+   "host": "www.ptxbac.be",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.ptxbac.be:2087",
+   "host": "www.ptxbac.be",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.ptxbac.be:2096",
+   "host": "www.ptxbac.be",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.ptxbac.be:8443",
+   "host": "www.ptxbac.be",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.170.71",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

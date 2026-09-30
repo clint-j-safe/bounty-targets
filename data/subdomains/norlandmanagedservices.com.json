@@ -1,0 +1,63 @@
+{
+ "domain": "norlandmanagedservices.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 39,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "apps.norlandmanagedservices.com",
+  "appss.norlandmanagedservices.com",
+  "autodiscover.norlandmanagedservices.com",
+  "cmpext.norlandmanagedservices.com",
+  "cmpextw.norlandmanagedservices.com",
+  "cmpint.norlandmanagedservices.com",
+  "cmpinta.norlandmanagedservices.com",
+  "com.norlandmanagedservices.com",
+  "comc.norlandmanagedservices.com",
+  "corp.norlandmanagedservices.com",
+  "corpe.norlandmanagedservices.com",
+  "demo.norlandmanagedservices.com",
+  "demoe.norlandmanagedservices.com",
+  "dev.norlandmanagedservices.com",
+  "devc.norlandmanagedservices.com",
+  "fmcloud.norlandmanagedservices.com",
+  "fmcloudu.norlandmanagedservices.com",
+  "mail.norlandmanagedservices.com",
+  "norlandmanagedservices.com",
+  "officewebapp.norlandmanagedservices.com",
+  "owa.norlandmanagedservices.com",
+  "oway.norlandmanagedservices.com",
+  "smtp.norlandmanagedservices.com",
+  "smtpy.norlandmanagedservices.com",
+  "staff.norlandmanagedservices.com",
+  "staffs.norlandmanagedservices.com",
+  "webmail.norlandmanagedservices.com",
+  "webmaile.norlandmanagedservices.com",
+  "www.apps.norlandmanagedservices.com",
+  "www.autodiscover.norlandmanagedservices.com",
+  "www.cmpext.norlandmanagedservices.com",
+  "www.cmpint.norlandmanagedservices.com",
+  "www.fmcloud.norlandmanagedservices.com",
+  "www.norlandmanagedservices.com",
+  "www.officewebapp.norlandmanagedservices.com",
+  "wwwe.norlandmanagedservices.com",
+  "wwwk.officewebapp.norlandmanagedservices.com",
+  "wwwm.apps.norlandmanagedservices.com",
+  "wwwu.fmcloud.norlandmanagedservices.com"
+ ],
+ "http": [
+  {
+   "url": "http://www.norlandmanagedservices.com:80",
+   "host": "www.norlandmanagedservices.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

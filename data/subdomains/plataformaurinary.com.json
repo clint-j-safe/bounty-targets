@@ -1,0 +1,88 @@
+{
+ "domain": "plataformaurinary.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.plataformaurinary.com",
+  "mail.plataformaurinary.com",
+  "mailg.plataformaurinary.com",
+  "plataformaurinary.com",
+  "www.plataformaurinary.com"
+ ],
+ "http": [
+  {
+   "url": "http://plataformaurinary.com:80",
+   "host": "plataformaurinary.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.41",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.plataformaurinary.com:80",
+   "host": "www.plataformaurinary.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://plataformaurinary.com:443",
+   "host": "plataformaurinary.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.41",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.plataformaurinary.com:443",
+   "host": "www.plataformaurinary.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Java",
+    "Microsoft ASP.NET",
+    "Varnish",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

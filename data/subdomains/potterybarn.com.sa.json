@@ -1,0 +1,144 @@
+{
+ "domain": "potterybarn.com.sa",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 26,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.potterybarn.com.sa",
+  "datad.potterybarn.com.sa",
+  "ip1.mail.potterybarn.com.sa",
+  "ip1s.mail.potterybarn.com.sa",
+  "ip2.mail.potterybarn.com.sa",
+  "ip2m.mail.potterybarn.com.sa",
+  "ip3.mail.potterybarn.com.sa",
+  "ip3k.mail.potterybarn.com.sa",
+  "ip4.mail.potterybarn.com.sa",
+  "ip4c.mail.potterybarn.com.sa",
+  "links.mail.potterybarn.com.sa",
+  "mail.potterybarn.com.sa",
+  "mailalshaya.potterybarn.com.sa",
+  "mailalshayaq.potterybarn.com.sa",
+  "potterybarn.com.sa",
+  "ugzarn.potterybarn.com.sa",
+  "www.data.potterybarn.com.sa",
+  "www.ip1.mail.potterybarn.com.sa",
+  "www.ip2.mail.potterybarn.com.sa",
+  "www.ip3.mail.potterybarn.com.sa",
+  "www.ip4.mail.potterybarn.com.sa",
+  "www.links.mail.potterybarn.com.sa",
+  "www.mailalshaya.potterybarn.com.sa",
+  "www.potterybarn.com.sa",
+  "www.ugzarn.potterybarn.com.sa",
+  "wwwm.potterybarn.com.sa"
+ ],
+ "http": [
+  {
+   "url": "http://data.potterybarn.com.sa:80",
+   "host": "data.potterybarn.com.sa",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://links.mail.potterybarn.com.sa:80",
+   "host": "links.mail.potterybarn.com.sa",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "176.126.250.254",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://potterybarn.com.sa:80",
+   "host": "potterybarn.com.sa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ugzarn.potterybarn.com.sa:80",
+   "host": "ugzarn.potterybarn.com.sa",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "74.119.117.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.potterybarn.com.sa:80",
+   "host": "www.potterybarn.com.sa",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://data.potterybarn.com.sa:443",
+   "host": "data.potterybarn.com.sa",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://potterybarn.com.sa:443",
+   "host": "potterybarn.com.sa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.potterybarn.com.sa:443",
+   "host": "www.potterybarn.com.sa",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,835 @@
+{
+ "domain": "orbitgum.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 68,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "clean.orbitgum.com",
+  "cleanc.orbitgum.com",
+  "com.orbitgum.com",
+  "coma.orbitgum.com",
+  "dev.orbitgum.com",
+  "devc.orbitgum.com",
+  "dirtymouth.orbitgum.com",
+  "dvd.orbitgum.com",
+  "facebook.orbitgum.com",
+  "facebooka.orbitgum.com",
+  "fb01.orbitgum.com",
+  "insiders.orbitgum.com",
+  "live-mena.orbitgum.com",
+  "live.orbitgum.com",
+  "m.orbitgum.com",
+  "migration.orbitgum.com",
+  "migration.stage.m.orbitgum.com",
+  "migration.stage.orbitgum.com",
+  "migration5.stage.m.orbitgum.com",
+  "migrationc.orbitgum.com",
+  "migrationo.stage.orbitgum.com",
+  "movie.orbitgum.com",
+  "moviec.orbitgum.com",
+  "orbitgum.com",
+  "origin.dirtymouth.orbitgum.com",
+  "origin.orbitgum.com",
+  "origin.stage.m.orbitgum.com",
+  "origin.stage.orbitgum.com",
+  "originc.orbitgum.com",
+  "origini.stage.m.orbitgum.com",
+  "qa.orbitgum.com",
+  "revealer.facebook.orbitgum.com",
+  "spotlight.orbitgum.com",
+  "spotlightk.orbitgum.com",
+  "spring.orbitgum.com",
+  "springc.orbitgum.com",
+  "stage.m.orbitgum.com",
+  "stage.orbitgum.com",
+  "stage9.orbitgum.com",
+  "stages.m.orbitgum.com",
+  "style.orbitgum.com",
+  "styleo.orbitgum.com",
+  "sweeps.orbitgum.com",
+  "sweepstakes.orbitgum.com",
+  "test-mena.orbitgum.com",
+  "test-menac.orbitgum.com",
+  "test.orbitgum.com",
+  "walgreens.orbitgum.com",
+  "www.clean.orbitgum.com",
+  "www.dev.orbitgum.com",
+  "www.dvd.orbitgum.com",
+  "www.live-mena.orbitgum.com",
+  "www.live.orbitgum.com",
+  "www.m.orbitgum.com",
+  "www.movie.orbitgum.com",
+  "www.orbitgum.com",
+  "www.qa.orbitgum.com",
+  "www.spotlight.orbitgum.com",
+  "www.spring.orbitgum.com",
+  "www.style.orbitgum.com",
+  "www.sweeps.orbitgum.com",
+  "www.sweepstakes.orbitgum.com",
+  "www.test-mena.orbitgum.com",
+  "www.test.orbitgum.com",
+  "www.walgreens.orbitgum.com",
+  "www3.style.orbitgum.com",
+  "www7.movie.orbitgum.com",
+  "wwws.orbitgum.com"
+ ],
+ "http": [
+  {
+   "url": "http://clean.orbitgum.com:80",
+   "host": "clean.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.35",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev.orbitgum.com:80",
+   "host": "dev.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dvd.orbitgum.com:80",
+   "host": "dvd.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.102",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://facebook.orbitgum.com:80",
+   "host": "facebook.orbitgum.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.231.89.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://fb01.orbitgum.com:80",
+   "host": "fb01.orbitgum.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.231.89.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://m.orbitgum.com:80",
+   "host": "m.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://movie.orbitgum.com:80",
+   "host": "movie.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://orbitgum.com:80",
+   "host": "orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.60",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://qa.orbitgum.com:80",
+   "host": "qa.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://spotlight.orbitgum.com:80",
+   "host": "spotlight.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.114",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://spring.orbitgum.com:80",
+   "host": "spring.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.28",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://style.orbitgum.com:80",
+   "host": "style.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.106",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://sweeps.orbitgum.com:80",
+   "host": "sweeps.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.106",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://sweepstakes.orbitgum.com:80",
+   "host": "sweepstakes.orbitgum.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://test.orbitgum.com:80",
+   "host": "test.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://walgreens.orbitgum.com:80",
+   "host": "walgreens.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.72",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.clean.orbitgum.com:80",
+   "host": "www.clean.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.33",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.dvd.orbitgum.com:80",
+   "host": "www.dvd.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.35",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.movie.orbitgum.com:80",
+   "host": "www.movie.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.orbitgum.com:80",
+   "host": "www.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.spring.orbitgum.com:80",
+   "host": "www.spring.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.style.orbitgum.com:80",
+   "host": "www.style.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.115",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.walgreens.orbitgum.com:80",
+   "host": "www.walgreens.orbitgum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://clean.orbitgum.com:443",
+   "host": "clean.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.35",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev.orbitgum.com:443",
+   "host": "dev.orbitgum.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dvd.orbitgum.com:443",
+   "host": "dvd.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.102",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://facebook.orbitgum.com:443",
+   "host": "facebook.orbitgum.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.231.89.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://fb01.orbitgum.com:443",
+   "host": "fb01.orbitgum.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.231.89.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://m.orbitgum.com:443",
+   "host": "m.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://movie.orbitgum.com:443",
+   "host": "movie.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://orbitgum.com:443",
+   "host": "orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.60",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://qa.orbitgum.com:443",
+   "host": "qa.orbitgum.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://spotlight.orbitgum.com:443",
+   "host": "spotlight.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.114",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://spring.orbitgum.com:443",
+   "host": "spring.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.28",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://style.orbitgum.com:443",
+   "host": "style.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.106",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://sweeps.orbitgum.com:443",
+   "host": "sweeps.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.106",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://sweepstakes.orbitgum.com:443",
+   "host": "sweepstakes.orbitgum.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://test.orbitgum.com:443",
+   "host": "test.orbitgum.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://walgreens.orbitgum.com:443",
+   "host": "walgreens.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.72",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.clean.orbitgum.com:443",
+   "host": "www.clean.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.33",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.dvd.orbitgum.com:443",
+   "host": "www.dvd.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.35",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.movie.orbitgum.com:443",
+   "host": "www.movie.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.orbitgum.com:443",
+   "host": "www.orbitgum.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "ORBIT\u00ae Gum Official Site \u2013 Freshen Up Anytime",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Acquia Cloud Site Factory",
+    "Amazon Web Services",
+    "Bootstrap",
+    "Cloudflare",
+    "Drupal Multisite",
+    "Drupal:11",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust",
+    "PHP",
+    "PriceSpider",
+    "Varnish",
+    "cdnjs",
+    "jQuery",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.spring.orbitgum.com:443",
+   "host": "www.spring.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.style.orbitgum.com:443",
+   "host": "www.style.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.115",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.walgreens.orbitgum.com:443",
+   "host": "www.walgreens.orbitgum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

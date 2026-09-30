@@ -1,0 +1,594 @@
+{
+ "domain": "raffaello.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 67,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "cms.prod.raffaello.com",
+  "cms.staging-d10.raffaello.com",
+  "cms.staging-d9.raffaello.com",
+  "cms.staging.raffaello.com",
+  "cmso.staging-d10.raffaello.com",
+  "cmsq.prod.raffaello.com",
+  "cmsq.staging-d9.raffaello.com",
+  "dev-identity-fr.raffaello.com",
+  "dev-identity-it.raffaello.com",
+  "dev-identity-itw.raffaello.com",
+  "live.prod.raffaello.com",
+  "live.staging-d10.raffaello.com",
+  "live.staging-d9.raffaello.com",
+  "live.staging.raffaello.com",
+  "liveq.staging-d9.raffaello.com",
+  "lives.staging.raffaello.com",
+  "livew.staging-d10.raffaello.com",
+  "mail.raffaello.com",
+  "playground.prod.raffaello.com",
+  "playground.staging.raffaello.com",
+  "playgroundc.staging.raffaello.com",
+  "playgroundo.prod.raffaello.com",
+  "prod-identity-fr.raffaello.com",
+  "prod-identity-it.raffaello.com",
+  "prod-identity-ity.raffaello.com",
+  "prod.raffaello.com",
+  "promo.raffaello.com",
+  "qa-identity-fr.raffaello.com",
+  "qa-identity-it.raffaello.com",
+  "qa-identity-ite.raffaello.com",
+  "qr.raffaello.com",
+  "quality.prod.raffaello.com",
+  "quality.staging-d10.raffaello.com",
+  "quality.staging-d9.raffaello.com",
+  "quality.staging.raffaello.com",
+  "quality9.staging-d9.raffaello.com",
+  "qualityi.staging.raffaello.com",
+  "qualityk.prod.raffaello.com",
+  "qualitys.staging-d10.raffaello.com",
+  "raffaello.com",
+  "staging-d10.raffaello.com",
+  "staging-d9.raffaello.com",
+  "staging.raffaello.com",
+  "www.cms.prod.raffaello.com",
+  "www.cms.staging-d10.raffaello.com",
+  "www.cms.staging-d9.raffaello.com",
+  "www.cms.staging.raffaello.com",
+  "www.dev-identity-it.raffaello.com",
+  "www.live.prod.raffaello.com",
+  "www.live.staging-d10.raffaello.com",
+  "www.live.staging-d9.raffaello.com",
+  "www.live.staging.raffaello.com",
+  "www.playground.prod.raffaello.com",
+  "www.playground.staging.raffaello.com",
+  "www.prod-identity-fr.raffaello.com",
+  "www.prod-identity-it.raffaello.com",
+  "www.prod.raffaello.com",
+  "www.qa-identity-fr.raffaello.com",
+  "www.qa-identity-it.raffaello.com",
+  "www.qr.raffaello.com",
+  "www.quality.prod.raffaello.com",
+  "www.quality.staging-d10.raffaello.com",
+  "www.quality.staging-d9.raffaello.com",
+  "www.quality.staging.raffaello.com",
+  "www.raffaello.com",
+  "www.staging-d9.raffaello.com",
+  "www.staging.raffaello.com"
+ ],
+ "http": [
+  {
+   "url": "http://cms.prod.raffaello.com:80",
+   "host": "cms.prod.raffaello.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.133.43",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cms.staging.raffaello.com:80",
+   "host": "cms.staging.raffaello.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.64.114.57",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-identity-fr.raffaello.com:80",
+   "host": "dev-identity-fr.raffaello.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.159.227.58",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-identity-it.raffaello.com:80",
+   "host": "dev-identity-it.raffaello.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.81",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://live.prod.raffaello.com:80",
+   "host": "live.prod.raffaello.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://live.staging.raffaello.com:80",
+   "host": "live.staging.raffaello.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://playground.prod.raffaello.com:80",
+   "host": "playground.prod.raffaello.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.133.29",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://playground.staging.raffaello.com:80",
+   "host": "playground.staging.raffaello.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://prod-identity-fr.raffaello.com:80",
+   "host": "prod-identity-fr.raffaello.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.51",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://prod-identity-it.raffaello.com:80",
+   "host": "prod-identity-it.raffaello.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.185.23",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://qa-identity-fr.raffaello.com:80",
+   "host": "qa-identity-fr.raffaello.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.2",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://qa-identity-it.raffaello.com:80",
+   "host": "qa-identity-it.raffaello.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://qr.raffaello.com:80",
+   "host": "qr.raffaello.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "Service Unavailable",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.133.26",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://quality.prod.raffaello.com:80",
+   "host": "quality.prod.raffaello.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://quality.staging.raffaello.com:80",
+   "host": "quality.staging.raffaello.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.47.72.4",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://raffaello.com:80",
+   "host": "raffaello.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.raffaello.com:80",
+   "host": "www.raffaello.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cms.prod.raffaello.com:443",
+   "host": "cms.prod.raffaello.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "F5 Distributed Cloud Services",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.200.133.43",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cms.staging.raffaello.com:443",
+   "host": "cms.staging.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.64.114.57",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-identity-fr.raffaello.com:443",
+   "host": "dev-identity-fr.raffaello.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.159.227.58",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-identity-it.raffaello.com:443",
+   "host": "dev-identity-it.raffaello.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.81",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://live.prod.raffaello.com:443",
+   "host": "live.prod.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://live.staging.raffaello.com:443",
+   "host": "live.staging.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://playground.prod.raffaello.com:443",
+   "host": "playground.prod.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.133.29",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://playground.staging.raffaello.com:443",
+   "host": "playground.staging.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://prod-identity-fr.raffaello.com:443",
+   "host": "prod-identity-fr.raffaello.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.51",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://prod-identity-it.raffaello.com:443",
+   "host": "prod-identity-it.raffaello.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.185.23",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://qa-identity-fr.raffaello.com:443",
+   "host": "qa-identity-fr.raffaello.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.2",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://qa-identity-it.raffaello.com:443",
+   "host": "qa-identity-it.raffaello.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.62",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://qr.raffaello.com:443",
+   "host": "qr.raffaello.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Service Unavailable",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.133.26",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://quality.prod.raffaello.com:443",
+   "host": "quality.prod.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.75",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://quality.staging.raffaello.com:443",
+   "host": "quality.staging.raffaello.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.47.72.4",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://raffaello.com:443",
+   "host": "raffaello.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://raffaello.com:8443",
+   "host": "raffaello.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://raffaello.com:9443",
+   "host": "raffaello.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.raffaello.com:443",
+   "host": "www.raffaello.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

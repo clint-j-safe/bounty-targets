@@ -1,0 +1,433 @@
+{
+ "domain": "royalcanin.be",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 90,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "account.royalcanin.be",
+  "accounti.royalcanin.be",
+  "backend.weborder.royalcanin.be",
+  "breeders.royalcanin.be",
+  "breedersi.royalcanin.be",
+  "clubs.royalcanin.be",
+  "clubsc.royalcanin.be",
+  "com.royalcanin.be",
+  "deals.royalcanin.be",
+  "dealsc.royalcanin.be",
+  "e-mag.royalcanin.be",
+  "emag.royalcanin.be",
+  "emag1.royalcanin.be",
+  "email.mailgun.royalcanin.be",
+  "galleries.royalcanin.be",
+  "ithelpdesk.royalcanin.be",
+  "kiosk.royalcanin.be",
+  "kioske.royalcanin.be",
+  "l.deals.royalcanin.be",
+  "loyalty.royalcanin.be",
+  "loyaltyshop.royalcanin.be",
+  "mail.royalcanin.be",
+  "maps.royalcanin.be",
+  "mapsi.royalcanin.be",
+  "mobility.royalcanin.be",
+  "multifonction.royalcanin.be",
+  "multifonctionm.royalcanin.be",
+  "multifunction.royalcanin.be",
+  "multifunction9.royalcanin.be",
+  "my.royalcanin.be",
+  "myc.royalcanin.be",
+  "mypetfollowup.royalcanin.be",
+  "nurses.royalcanin.be",
+  "offer.royalcanin.be",
+  "order.royalcanin.be",
+  "origin.royalcanin.be",
+  "partner.royalcanin.be",
+  "partnera.royalcanin.be",
+  "partnerfidelity.royalcanin.be",
+  "promo.royalcanin.be",
+  "promoa.royalcanin.be",
+  "rctools.royalcanin.be",
+  "route.royalcanin.be",
+  "royalcanin.be",
+  "royalty.royalcanin.be",
+  "royalty2.royalcanin.be",
+  "royaltyshop.royalcanin.be",
+  "scan.offer.royalcanin.be",
+  "shop.royalcanin.be",
+  "support.royalcanin.be",
+  "supporti.royalcanin.be",
+  "survey.royalcanin.be",
+  "tv.royalcanin.be",
+  "vetfidelity.royalcanin.be",
+  "vetfollowup.royalcanin.be",
+  "vetservices.royalcanin.be",
+  "weborder.royalcanin.be",
+  "weborderq.royalcanin.be",
+  "wifi.royalcanin.be",
+  "www.backend.weborder.royalcanin.be",
+  "www.breeders.royalcanin.be",
+  "www.catbreednutrition.royalcanin.be",
+  "www.deals.royalcanin.be",
+  "www.dogbreednutrition.royalcanin.be",
+  "www.e-mag.royalcanin.be",
+  "www.eetbakje.royalcanin.be",
+  "www.emag.royalcanin.be",
+  "www.gamelle.royalcanin.be",
+  "www.kiosk.royalcanin.be",
+  "www.maps.royalcanin.be",
+  "www.multifonction.royalcanin.be",
+  "www.multifunction.royalcanin.be",
+  "www.my.royalcanin.be",
+  "www.offer.royalcanin.be",
+  "www.order.royalcanin.be",
+  "www.partner.royalcanin.be",
+  "www.partnerfidelity.royalcanin.be",
+  "www.promo.royalcanin.be",
+  "www.rctools.royalcanin.be",
+  "www.royalcanin.be",
+  "www.royalty.royalcanin.be",
+  "www.shop.royalcanin.be",
+  "www.support.royalcanin.be",
+  "www.survey.royalcanin.be",
+  "www.tv.royalcanin.be",
+  "www.vetfidelity.royalcanin.be",
+  "www.vetservices.royalcanin.be",
+  "wwwg.partnerfidelity.royalcanin.be",
+  "wwwi.my.royalcanin.be",
+  "wwwm.vetfidelity.royalcanin.be"
+ ],
+ "http": [
+  {
+   "url": "http://breeders.royalcanin.be:80",
+   "host": "breeders.royalcanin.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.59",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://e-mag.royalcanin.be:80",
+   "host": "e-mag.royalcanin.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.30",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emag.royalcanin.be:2082",
+   "host": "emag.royalcanin.be",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emag.royalcanin.be:2083",
+   "host": "emag.royalcanin.be",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emag.royalcanin.be:2087",
+   "host": "emag.royalcanin.be",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emag.royalcanin.be:2095",
+   "host": "emag.royalcanin.be",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emag.royalcanin.be:2096",
+   "host": "emag.royalcanin.be",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emag.royalcanin.be:80",
+   "host": "emag.royalcanin.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://email.mailgun.royalcanin.be:80",
+   "host": "email.mailgun.royalcanin.be",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ithelpdesk.royalcanin.be:80",
+   "host": "ithelpdesk.royalcanin.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.80",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://multifunction.royalcanin.be:80",
+   "host": "multifunction.royalcanin.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.43",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://promo.royalcanin.be:80",
+   "host": "promo.royalcanin.be",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rctools.royalcanin.be:80",
+   "host": "rctools.royalcanin.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.129",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.promo.royalcanin.be:80",
+   "host": "www.promo.royalcanin.be",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.93",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://breeders.royalcanin.be:443",
+   "host": "breeders.royalcanin.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.59",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://e-mag.royalcanin.be:443",
+   "host": "e-mag.royalcanin.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.30",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://emag.royalcanin.be:443",
+   "host": "emag.royalcanin.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "23.235.197.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://email.mailgun.royalcanin.be:443",
+   "host": "email.mailgun.royalcanin.be",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ithelpdesk.royalcanin.be:443",
+   "host": "ithelpdesk.royalcanin.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.80",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://multifunction.royalcanin.be:443",
+   "host": "multifunction.royalcanin.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.43",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://promo.royalcanin.be:443",
+   "host": "promo.royalcanin.be",
+   "port": "443",
+   "status_code": 200,
+   "title": "Page Not Found",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.164",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rctools.royalcanin.be:443",
+   "host": "rctools.royalcanin.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.129",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.promo.royalcanin.be:443",
+   "host": "www.promo.royalcanin.be",
+   "port": "443",
+   "status_code": 200,
+   "title": "Page Not Found",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.93",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

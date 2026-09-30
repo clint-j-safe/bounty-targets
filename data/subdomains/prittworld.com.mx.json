@@ -1,0 +1,82 @@
+{
+ "domain": "prittworld.com.mx",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "naturalgluingpower.prittworld.com.mx",
+  "naturalgluingpowerg.prittworld.com.mx",
+  "prittworld.com.mx",
+  "www.naturalgluingpower.prittworld.com.mx",
+  "www.prittworld.com.mx"
+ ],
+ "http": [
+  {
+   "url": "http://prittworld.com.mx:80",
+   "host": "prittworld.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.157.142.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.prittworld.com.mx:80",
+   "host": "www.prittworld.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.31",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://prittworld.com.mx:443",
+   "host": "prittworld.com.mx",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.157.142.116",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.prittworld.com.mx:443",
+   "host": "www.prittworld.com.mx",
+   "port": "443",
+   "status_code": 200,
+   "title": "Bienvenido al mundo de Pritt",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.31",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

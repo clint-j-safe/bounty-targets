@@ -1,0 +1,82 @@
+{
+ "domain": "resistol.com.mx",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "mail.resistol.com.mx",
+  "resistol.com.mx",
+  "www.mail.resistol.com.mx",
+  "www.resistol.com.mx",
+  "www9.resistol.com.mx"
+ ],
+ "http": [
+  {
+   "url": "http://resistol.com.mx:80",
+   "host": "resistol.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.41.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.resistol.com.mx:80",
+   "host": "www.resistol.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://resistol.com.mx:443",
+   "host": "resistol.com.mx",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.41.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.resistol.com.mx:443",
+   "host": "www.resistol.com.mx",
+   "port": "443",
+   "status_code": 200,
+   "title": "Resistol",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.25",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

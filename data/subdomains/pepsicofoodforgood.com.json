@@ -1,0 +1,63 @@
+{
+ "domain": "pepsicofoodforgood.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|pepsico_vdp"
+ ],
+ "subdomains": [
+  "pepsicofoodforgood.com",
+  "www.pepsicofoodforgood.com",
+  "wwwc.pepsicofoodforgood.com"
+ ],
+ "http": [
+  {
+   "url": "http://pepsicofoodforgood.com:80",
+   "host": "pepsicofoodforgood.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.233.87.58",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pepsicofoodforgood.com:80",
+   "host": "www.pepsicofoodforgood.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.233.87.58",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pepsicofoodforgood.com:443",
+   "host": "pepsicofoodforgood.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.233.87.58",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pepsicofoodforgood.com:443",
+   "host": "www.pepsicofoodforgood.com",
+   "port": "443",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.233.87.58",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "domain": "prittworld.es",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 25,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "aniversario.prittworld.es",
+  "deportes.prittworld.es",
+  "deportesw.prittworld.es",
+  "mail.aniversario.prittworld.es",
+  "mailk.aniversario.prittworld.es",
+  "naturalgluingpower.prittworld.es",
+  "office.prittworld.es",
+  "officei.prittworld.es",
+  "prittworld.es",
+  "promo.prittworld.es",
+  "promo9.prittworld.es",
+  "qr.prittworld.es",
+  "webmail.aniversario.prittworld.es",
+  "webmailq.aniversario.prittworld.es",
+  "www.aniversario.prittworld.es",
+  "www.deportes.prittworld.es",
+  "www.mail.aniversario.prittworld.es",
+  "www.naturalgluingpower.prittworld.es",
+  "www.office.prittworld.es",
+  "www.prittworld.es",
+  "www.promo.prittworld.es",
+  "www.qr.prittworld.es",
+  "www.webmail.aniversario.prittworld.es",
+  "wwwc.deportes.prittworld.es",
+  "wwwe.naturalgluingpower.prittworld.es"
+ ],
+ "http": [
+  {
+   "url": "http://aniversario.prittworld.es:80",
+   "host": "aniversario.prittworld.es",
+   "port": "80",
+   "status_code": 200,
+   "title": "Disponible en breve",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://deportes.prittworld.es:80",
+   "host": "deportes.prittworld.es",
+   "port": "80",
+   "status_code": 200,
+   "title": "Disponible en breve",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://mail.aniversario.prittworld.es:80",
+   "host": "mail.aniversario.prittworld.es",
+   "port": "80",
+   "status_code": 200,
+   "title": "Disponible en breve",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://office.prittworld.es:80",
+   "host": "office.prittworld.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://prittworld.es:80",
+   "host": "prittworld.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.245.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://promo.prittworld.es:80",
+   "host": "promo.prittworld.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://webmail.aniversario.prittworld.es:80",
+   "host": "webmail.aniversario.prittworld.es",
+   "port": "80",
+   "status_code": 200,
+   "title": "Disponible en breve",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.aniversario.prittworld.es:80",
+   "host": "www.aniversario.prittworld.es",
+   "port": "80",
+   "status_code": 200,
+   "title": "Disponible en breve",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.deportes.prittworld.es:80",
+   "host": "www.deportes.prittworld.es",
+   "port": "80",
+   "status_code": 200,
+   "title": "Disponible en breve",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.office.prittworld.es:80",
+   "host": "www.office.prittworld.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.84",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.prittworld.es:80",
+   "host": "www.prittworld.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.126",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.promo.prittworld.es:80",
+   "host": "www.promo.prittworld.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://office.prittworld.es:443",
+   "host": "office.prittworld.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://prittworld.es:443",
+   "host": "prittworld.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.156.245.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://promo.prittworld.es:443",
+   "host": "promo.prittworld.es",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.office.prittworld.es:443",
+   "host": "www.office.prittworld.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.84",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.prittworld.es:443",
+   "host": "www.prittworld.es",
+   "port": "443",
+   "status_code": 200,
+   "title": "Bienvenido al mundo de Pritt",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.126",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.promo.prittworld.es:443",
+   "host": "www.promo.prittworld.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.230",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,515 @@
+{
+ "domain": "perwoll.de",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 38,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "careundrepair.perwoll.de",
+  "dm-gewinnspiel.perwoll.de",
+  "gewinnspiel.perwoll.de",
+  "gewinnspielo.perwoll.de",
+  "gratistesten.perwoll.de",
+  "gratistesten2020.perwoll.de",
+  "mail.perwoll.de",
+  "mail1.gratistesten.perwoll.de",
+  "mail1m.gratistesten.perwoll.de",
+  "mail2.gratistesten.perwoll.de",
+  "mail2k.gratistesten.perwoll.de",
+  "news.perwoll.de",
+  "perwoll.de",
+  "renew-secret.perwoll.de",
+  "renew3d.perwoll.de",
+  "renew3dq.perwoll.de",
+  "testumgebung.perwoll.de",
+  "worldoffashion.perwoll.de",
+  "worldofsecret.perwoll.de",
+  "www.careundrepair.perwoll.de",
+  "www.dm-gewinnspiel.perwoll.de",
+  "www.gewinnspiel.perwoll.de",
+  "www.gratistesten.perwoll.de",
+  "www.gratistesten2020.perwoll.de",
+  "www.news.perwoll.de",
+  "www.perwoll.de",
+  "www.renew-secret.perwoll.de",
+  "www.renew3d.perwoll.de",
+  "www.worldoffashion.perwoll.de",
+  "www.worldofsecret.perwoll.de",
+  "www3.renew-secret.perwoll.de",
+  "www5.dm-gewinnspiel.perwoll.de",
+  "wwwc.renew3d.perwoll.de",
+  "wwwg.news.perwoll.de",
+  "wwwm.gewinnspiel.perwoll.de",
+  "wwwm.worldofsecret.perwoll.de",
+  "wwwo.worldoffashion.perwoll.de",
+  "wwwq.gratistesten.perwoll.de"
+ ],
+ "http": [
+  {
+   "url": "http://careundrepair.perwoll.de:80",
+   "host": "careundrepair.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dm-gewinnspiel.perwoll.de:80",
+   "host": "dm-gewinnspiel.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://gewinnspiel.perwoll.de:80",
+   "host": "gewinnspiel.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://news.perwoll.de:80",
+   "host": "news.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://perwoll.de:80",
+   "host": "perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.5",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://renew-secret.perwoll.de:80",
+   "host": "renew-secret.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://worldoffashion.perwoll.de:80",
+   "host": "worldoffashion.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://worldofsecret.perwoll.de:80",
+   "host": "worldofsecret.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.careundrepair.perwoll.de:80",
+   "host": "www.careundrepair.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.dm-gewinnspiel.perwoll.de:80",
+   "host": "www.dm-gewinnspiel.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.gewinnspiel.perwoll.de:80",
+   "host": "www.gewinnspiel.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.news.perwoll.de:80",
+   "host": "www.news.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.renew-secret.perwoll.de:80",
+   "host": "www.renew-secret.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.worldoffashion.perwoll.de:80",
+   "host": "www.worldoffashion.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.worldofsecret.perwoll.de:80",
+   "host": "www.worldofsecret.perwoll.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://careundrepair.perwoll.de:443",
+   "host": "careundrepair.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dm-gewinnspiel.perwoll.de:443",
+   "host": "dm-gewinnspiel.perwoll.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "Frag Team Clean - Perwoll Gewinnspiel",
+   "webserver": "nginx",
+   "technologies": [
+    "Bootstrap",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "jQuery:3.6.0",
+    "reCAPTCHA"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gewinnspiel.perwoll.de:443",
+   "host": "gewinnspiel.perwoll.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "Frag Team Clean - Perwoll Gewinnspiel",
+   "webserver": "nginx",
+   "technologies": [
+    "Bootstrap",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "jQuery:3.6.0",
+    "reCAPTCHA"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://news.perwoll.de:443",
+   "host": "news.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://perwoll.de:443",
+   "host": "perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.5",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://renew-secret.perwoll.de:443",
+   "host": "renew-secret.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.53",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://worldoffashion.perwoll.de:443",
+   "host": "worldoffashion.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://worldofsecret.perwoll.de:443",
+   "host": "worldofsecret.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.careundrepair.perwoll.de:443",
+   "host": "www.careundrepair.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.dm-gewinnspiel.perwoll.de:443",
+   "host": "www.dm-gewinnspiel.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.gewinnspiel.perwoll.de:443",
+   "host": "www.gewinnspiel.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "51.15.191.109",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.news.perwoll.de:443",
+   "host": "www.news.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.renew-secret.perwoll.de:443",
+   "host": "www.renew-secret.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.worldoffashion.perwoll.de:443",
+   "host": "www.worldoffashion.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.worldofsecret.perwoll.de:443",
+   "host": "www.worldofsecret.perwoll.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

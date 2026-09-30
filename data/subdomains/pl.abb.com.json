@@ -1,0 +1,310 @@
+{
+ "domain": "pl.abb.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 73,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "admin.osprzet-elektroinstalcyjny.pl.abb.com",
+  "admin5.osprzet-elektroinstalcyjny.pl.abb.com",
+  "api.dev.el-is-projects.pl.abb.com",
+  "api.el-is-projects.pl.abb.com",
+  "api.stage.el-is-projects.pl.abb.com",
+  "apia.dev.el-is-projects.pl.abb.com",
+  "apiy.stage.el-is-projects.pl.abb.com",
+  "appc.dev.industrialsolutions.pl.abb.com",
+  "ara.dev.industrialsolutions.pl.abb.com",
+  "ata.dev.industrialsolutions.pl.abb.com",
+  "bra.dev.industrialsolutions.pl.abb.com",
+  "ccecluster.pl.abb.com",
+  "ccecluster5.pl.abb.com",
+  "cceclusteru.pl.abb.com",
+  "comc.dev.industrialsolutions.pl.abb.com",
+  "csa.dev.industrialsolutions.pl.abb.com",
+  "dea.dev.industrialsolutions.pl.abb.com",
+  "dev.el-is-projects.pl.abb.com",
+  "dev.industrialsolutions.pl.abb.com",
+  "dev3.industrialsolutions.pl.abb.com",
+  "deve.el-is-projects.pl.abb.com",
+  "dns.pl.abb.com",
+  "el-is-projects.pl.abb.com",
+  "ena.dev.industrialsolutions.pl.abb.com",
+  "esa.dev.industrialsolutions.pl.abb.com",
+  "expwe.ipt.pl.abb.com",
+  "expwea.ipt.pl.abb.com",
+  "firstaiders.pl.abb.com",
+  "firstaidersg.pl.abb.com",
+  "fra.dev.industrialsolutions.pl.abb.com",
+  "ibmbw1.pl.abb.com",
+  "industrialsolutions.pl.abb.com",
+  "industrialsolutionss.pl.abb.com",
+  "ipt.pl.abb.com",
+  "leanoffice.pl.abb.com",
+  "leanoffice3.pl.abb.com",
+  "lod.pl.abb.com",
+  "motors-cmms.pl.abb.com",
+  "motors-cmmsi.pl.abb.com",
+  "osprzet-elektroinstalcyjny.pl.abb.com",
+  "osprzet-elektroinstalcyjnyg.pl.abb.com",
+  "osprzet.pl.abb.com",
+  "pl-w-7324080.pl.abb.com",
+  "pl.abb.com",
+  "powergrids.leanoffice.pl.abb.com",
+  "sbc1.lod.pl.abb.com",
+  "sbc1.pl.abb.com",
+  "sbc1.sbc1.lod.pl.abb.com",
+  "sbc2.pl.abb.com",
+  "sbc2.sbc2.pia.pl.abb.com",
+  "sip.ccecluster.pl.abb.com",
+  "sip.pl.abb.com",
+  "sip.sbc1.lod.pl.abb.com",
+  "sip.sbc1.pl.abb.com",
+  "sip.sbc2.pia.pl.abb.com",
+  "sip.sbc2.pl.abb.com",
+  "sip9.sbc2.pl.abb.com",
+  "sipi.sbc1.pl.abb.com",
+  "sp13-ca-tst-colldev.pl.abb.com",
+  "sp13-ca-tst-colldev3.pl.abb.com",
+  "stage.el-is-projects.pl.abb.com",
+  "stage.rejestrgosci.pl.abb.com",
+  "stagee.el-is-projects.pl.abb.com",
+  "subscribe.dzisiaj.pl.abb.com",
+  "test.firstaiders.pl.abb.com",
+  "test.industrialsolutions.pl.abb.com",
+  "test9.industrialsolutions.pl.abb.com",
+  "testo.firstaiders.pl.abb.com",
+  "visit-research.pl.abb.com",
+  "www.dev.industrialsolutions.pl.abb.com",
+  "www.expwe.ipt.pl.abb.com",
+  "www.industrialsolutions.pl.abb.com",
+  "www.pl.abb.com"
+ ],
+ "http": [
+  {
+   "url": "http://admin.osprzet-elektroinstalcyjny.pl.abb.com:80",
+   "host": "admin.osprzet-elektroinstalcyjny.pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "172.104.228.19",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://firstaiders.pl.abb.com:80",
+   "host": "firstaiders.pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.105.216.5",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://leanoffice.pl.abb.com:80",
+   "host": "leanoffice.pl.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "4.207.244.99",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://osprzet-elektroinstalcyjny.pl.abb.com:80",
+   "host": "osprzet-elektroinstalcyjny.pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "172.104.228.19",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://osprzet.pl.abb.com:80",
+   "host": "osprzet.pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "172.104.228.19",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pl.abb.com:80",
+   "host": "pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.30.5",
+   "technologies": [
+    "Nginx:1.30.5"
+   ],
+   "cdn": true,
+   "ip": "34.247.3.24",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://stage.rejestrgosci.pl.abb.com:80",
+   "host": "stage.rejestrgosci.pl.abb.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.105.232.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://test.firstaiders.pl.abb.com:80",
+   "host": "test.firstaiders.pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.215.12.0",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pl.abb.com:80",
+   "host": "www.pl.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.30.5",
+   "technologies": [
+    "Nginx:1.30.5"
+   ],
+   "cdn": true,
+   "ip": "34.247.3.24",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://admin.osprzet-elektroinstalcyjny.pl.abb.com:443",
+   "host": "admin.osprzet-elektroinstalcyjny.pl.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "172.104.228.19",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://firstaiders.pl.abb.com:443",
+   "host": "firstaiders.pl.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "First Aiders Digital List",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Azure",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "React",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "20.105.216.5",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://leanoffice.pl.abb.com:443",
+   "host": "leanoffice.pl.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "4.207.244.99",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://osprzet-elektroinstalcyjny.pl.abb.com:443",
+   "host": "osprzet-elektroinstalcyjny.pl.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "172.104.228.19",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://osprzet.pl.abb.com:443",
+   "host": "osprzet.pl.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "ABB",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "172.104.228.19",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://stage.rejestrgosci.pl.abb.com:443",
+   "host": "stage.rejestrgosci.pl.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.105.232.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://test.firstaiders.pl.abb.com:443",
+   "host": "test.firstaiders.pl.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "First Aiders Digital List",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Azure",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "React",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "20.215.12.0",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "domain": "pizzaexpresskw.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "pizzaexpresskw.com",
+  "www.pizzaexpresskw.com",
+  "www5.pizzaexpresskw.com"
+ ],
+ "http": [
+  {
+   "url": "http://pizzaexpresskw.com:80",
+   "host": "pizzaexpresskw.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.65.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pizzaexpresskw.com:80",
+   "host": "www.pizzaexpresskw.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pizzaexpresskw.com:443",
+   "host": "pizzaexpresskw.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.65.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pizzaexpresskw.com:443",
+   "host": "www.pizzaexpresskw.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

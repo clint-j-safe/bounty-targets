@@ -1,0 +1,95 @@
+{
+ "domain": "pi-ecminsight.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "download.pi-ecminsight.com",
+  "pi-ecminsight.com",
+  "www.download.pi-ecminsight.com",
+  "www.pi-ecminsight.com",
+  "wwwk.pi-ecminsight.com"
+ ],
+ "http": [
+  {
+   "url": "http://download.pi-ecminsight.com:80",
+   "host": "download.pi-ecminsight.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pi-ecminsight.com:80",
+   "host": "pi-ecminsight.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pi-ecminsight.com:80",
+   "host": "www.pi-ecminsight.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://download.pi-ecminsight.com:443",
+   "host": "download.pi-ecminsight.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "ECM Insight Download",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pi-ecminsight.com:443",
+   "host": "pi-ecminsight.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pi-ecminsight.com:443",
+   "host": "www.pi-ecminsight.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.23.214.198",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

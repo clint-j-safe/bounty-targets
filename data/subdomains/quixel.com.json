@@ -1,0 +1,1912 @@
+{
+ "domain": "quixel.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 329,
+ "programs": [
+  "hackerone|epicgames-vdp"
+ ],
+ "subdomains": [
+  "048.quixel.com",
+  "1.oca.quixel.com",
+  "1.quixel.com",
+  "112.quixel.com",
+  "118.quixel.com",
+  "119.quixel.com",
+  "121.quixel.com",
+  "2.quixel.com",
+  "209.quixel.com",
+  "221.quixel.com",
+  "222.quixel.com",
+  "223.quixel.com",
+  "227.quixel.com",
+  "228.quixel.com",
+  "229.quixel.com",
+  "232.quixel.com",
+  "234.quixel.com",
+  "236.quixel.com",
+  "238.quixel.com",
+  "2d7dde.cdn.quixel.com",
+  "33.quixel.com",
+  "3com.quixel.sese.quixel.com",
+  "52.quixel.com",
+  "a.quixel.com",
+  "a1.top.quixel.com",
+  "accounts-dev.quixel.com",
+  "accounts-epicgamedev.quixel.com",
+  "accounts-staging.quixel.com",
+  "accounts-stagingq.quixel.com",
+  "accounts.quixel.com",
+  "accounts1.quixel.com",
+  "ad.quixel.com",
+  "admin-9am217.quixel.com",
+  "admin.quixel.com",
+  "admindev.quixel.com",
+  "admindeve.quixel.com",
+  "adminstaging1-9am217.quixel.com",
+  "adminstaging1-9am2177.quixel.com",
+  "adminstaging1.quixel.com",
+  "adminstaging2-9am217.quixel.com",
+  "adminstaging2-9am2175.quixel.com",
+  "adminstaging2.quixel.com",
+  "am.quixel.com",
+  "analytics.quixel.com",
+  "analyticsw.quixel.com",
+  "api-staging3-9am217.quixel.com",
+  "api-staging3-9am217g.quixel.com",
+  "api-staging3.quixel.com",
+  "api.quixel.com",
+  "app.quixel.com",
+  "apps.quixel.com",
+  "ar.quixel.com",
+  "aruba.quixel.com",
+  "aruba5.quixel.com",
+  "assetdownloads-staging.quixel.com",
+  "assetdownloads-staginge.quixel.com",
+  "assetdownloads.quixel.com",
+  "at.quixel.com",
+  "au.quixel.com",
+  "aws.quixel.com",
+  "bb.quixel.com",
+  "beta.quixel.com",
+  "blobc.core.quixel.com",
+  "blog.quixel.com",
+  "blogs.quixel.com",
+  "blogspot.quixel.com",
+  "br.quixel.com",
+  "c.quixel.com",
+  "cable.quixel.com",
+  "cable5.quixel.com",
+  "cc.quixel.com",
+  "cdn-assets.quixel.com",
+  "cdn-plugins-previews-staging.quixel.com",
+  "cdn-plugins-staging.quixel.com",
+  "cdn-plugins-stagingy.quixel.com",
+  "cdn.quixel.com",
+  "cfci-staging.quixel.com",
+  "cfci.quixel.com",
+  "chata.api.quixel.com",
+  "chem.quixel.com",
+  "ci.quixel.com",
+  "cloud.quixel.com",
+  "cloudc.quixel.com",
+  "cloudflareorigin.quixel.com",
+  "cloudflarestaging-prod.quixel.com",
+  "cloudflarestaging.quixel.com",
+  "cn.quixel.com",
+  "co.quixel.com",
+  "cobrowse.quixel.com",
+  "cobrowsea.quixel.com",
+  "com.quixel.com",
+  "comcom.quixel.com",
+  "compute.quixel.com",
+  "content-staging-dashboard-v2.quixel.com",
+  "content-staging-dashboard.quixel.com",
+  "content-staging-dashboardc.quixel.com",
+  "content-staging.quixel.com",
+  "content-staginga.quixel.com",
+  "contenthub-dev.quixel.com",
+  "contenthub-qa.quixel.com",
+  "contenthub.quixel.com",
+  "contenthube.quixel.com",
+  "core.quixel.com",
+  "corp.quixel.com",
+  "cs.quixel.com",
+  "csg.quixel.com",
+  "cust.quixel.com",
+  "dashboard-staging.quixel.com",
+  "dashboard-staging1.quixel.com",
+  "dashboard-staging2.quixel.com",
+  "dashboard-staging2a.quixel.com",
+  "dashboard.quixel.com",
+  "dashboardi.quixel.com",
+  "de.quixel.com",
+  "demo.quixel.com",
+  "deploy.quixel.com",
+  "dev-staging-9am217.quixel.com",
+  "dev-staging-9am2175.quixel.com",
+  "dev-staging-fb.quixel.com",
+  "dev-staging.quixel.com",
+  "dev-staging3.quixel.com",
+  "dev.quixel.com",
+  "dhcp.quixel.com",
+  "dial.quixel.com",
+  "dm-staging.quixel.com",
+  "dm-stagingu.quixel.com",
+  "dm.quixel.com",
+  "dmonitor.quixel.com",
+  "docs.quixel.com",
+  "downloadf.quixel.com",
+  "downloadf5.quixel.com",
+  "downloadfree.quixel.com",
+  "downloadp.quixel.com",
+  "ds.metric.quixel.com",
+  "ds.quixel.com",
+  "dsa-user-tracking-production.quixel.com",
+  "dsa-user-tracking-staging.quixel.com",
+  "dsa-user-tracking-staginge.quixel.com",
+  "dsl.quixel.com",
+  "dyn.quixel.com",
+  "e-unsubscribe-staging.quixel.com",
+  "e-unsubscribe-staging3.quixel.com",
+  "e-unsubscribe.quixel.com",
+  "ee.quixel.com",
+  "eks.quixel.com",
+  "elb.quixel.com",
+  "emails-staging.quixel.com",
+  "emea.quixel.com",
+  "en.quixel.com",
+  "eng.quixel.com",
+  "epic-staging.quixel.com",
+  "es.quixel.com",
+  "eu-central-1.quixel.com",
+  "eu.quixel.com",
+  "ex.quixel.com",
+  "ext.quixel.com",
+  "extern.quixel.com",
+  "fe-staging.quixel.com",
+  "feednews.quixel.com",
+  "feednewso.quixel.com",
+  "ff.quixel.com",
+  "files.quixel.com",
+  "fls.quixel.com",
+  "fna.quixel.com",
+  "forms.quixel.com",
+  "forum.quixel.com",
+  "foruma.quixel.com",
+  "fr.quixel.com",
+  "ftl.quixel.com",
+  "gatekeeper-us-east-1.quixel.com",
+  "gatekeeper-us-west-1.quixel.com",
+  "gatekeeper-us-west-19.quixel.com",
+  "gatekeeper-us-west-2.quixel.com",
+  "gatekeeper-us-west-2a.quixel.com",
+  "gay.quixel.com",
+  "global.quixel.com",
+  "help.quixel.com",
+  "home.quixel.com",
+  "hotel.quixel.com",
+  "housenet.quixel.com",
+  "i.quixel.com",
+  "idm.quixel.com",
+  "image-resize-prod.quixel.com",
+  "image-resize-staging.quixel.com",
+  "image-resize-staging5.quixel.com",
+  "imap.quixel.com",
+  "informatik.quixel.com",
+  "init.quixel.com",
+  "internal.quixel.com",
+  "ip.quixel.com",
+  "ip1.quixel.com",
+  "it.quixel.com",
+  "itcs.quixel.com",
+  "its.quixel.com",
+  "ix.quixel.com",
+  "js.quixel.com",
+  "k12.quixel.com",
+  "kunden.quixel.com",
+  "l.quixel.com",
+  "l4.quixel.com",
+  "le-test.quixel.com",
+  "lib.quixel.com",
+  "library.quixel.com",
+  "log.quixel.com",
+  "love.quixel.com",
+  "m.quixel.com",
+  "mail.quixel.com",
+  "math.quixel.com",
+  "mcloud.quixel.com",
+  "medizin.quixel.com",
+  "megaflix-ae84jb3q.quixel.com",
+  "meta-downloads.quixel.com",
+  "meta.quixel.com",
+  "metric.quixel.com",
+  "mhc-api-staging.quixel.com",
+  "mhc-api-stagingi.quixel.com",
+  "mhc-api.quixel.com",
+  "msk.quixel.com",
+  "mycars.quixel.com",
+  "n.quixel.com",
+  "n4.quixel.com",
+  "nuid.quixel.com",
+  "oca.quixel.com",
+  "outbound-mail.quixel.com",
+  "p.quixel.com",
+  "pop.quixel.com",
+  "ppls.quixel.com",
+  "ppp.quixel.com",
+  "preprod.quixel.com",
+  "proxy-algolia-prodbdh.quixel.com",
+  "pub.quixel.com",
+  "pwo.quixel.com",
+  "quixel.com",
+  "quixel.sese.quixel.com",
+  "r.quixel.com",
+  "resnet.quixel.com",
+  "rooms.quixel.com",
+  "roslin.quixel.com",
+  "rp-staging.quixel.com",
+  "rp-staging3.quixel.com",
+  "rp-stagingm.quixel.com",
+  "rp.quixel.com",
+  "rps-stage.quixel.com",
+  "rps-stage3.quixel.com",
+  "rps-stage7.quixel.com",
+  "rps.quixel.com",
+  "rsc.quixel.com",
+  "rz.quixel.com",
+  "s.quixel.com",
+  "s3.quixel.com",
+  "s4.quixel.com",
+  "safeframe.quixel.com",
+  "sasg.quixel.com",
+  "secure0036.quixel.com",
+  "secure022.quixel.com",
+  "sepport.quixel.com",
+  "services.quixel.com",
+  "sese.quixel.com",
+  "sftp.quixel.com",
+  "sjc.quixel.com",
+  "smtp.quixel.com",
+  "ssl.quixel.com",
+  "sso-stage.quixel.com",
+  "sso-stageg.quixel.com",
+  "stage.quixel.com",
+  "staging-9am217.quixel.com",
+  "staging.quixel.com",
+  "staging1.quixel.com",
+  "staging1k.quixel.com",
+  "stagingquixelrefactoring.quixel.com",
+  "stagingquixelrefactoringu.quixel.com",
+  "state.quixel.com",
+  "static.quixel.com",
+  "stats.quixel.com",
+  "status.quixel.com",
+  "stg.quixel.com",
+  "stulawn.quixel.com",
+  "svnalpha.quixel.com",
+  "sync.quixel.com",
+  "t.quixel.com",
+  "tc.quixel.com",
+  "tdum.quixel.com",
+  "test.quixel.com",
+  "tm-staging.quixel.com",
+  "token-staging.quixel.com",
+  "top.quixel.com",
+  "u.quixel.com",
+  "uat.quixel.com",
+  "us-east-1.quixel.com",
+  "us-east-2.quixel.com",
+  "us-west-2.quixel.com",
+  "us.quixel.com",
+  "users.quixel.com",
+  "v4.quixel.com",
+  "v6.quixel.com",
+  "wc.quixel.com",
+  "webmail.quixel.com",
+  "webmail3.quixel.com",
+  "workdayresults.quixel.com",
+  "wowza.quixel.com",
+  "www.accounts-staging.quixel.com",
+  "www.accounts.quixel.com",
+  "www.analytics.quixel.com",
+  "www.cdn-assets.quixel.com",
+  "www.cdn.quixel.com",
+  "www.cfci-staging.quixel.com",
+  "www.cfci.quixel.com",
+  "www.cloudflarestaging-prod.quixel.com",
+  "www.cloudflarestaging.quixel.com",
+  "www.content-staging.quixel.com",
+  "www.dm.quixel.com",
+  "www.docs.quixel.com",
+  "www.e-unsubscribe-staging.quixel.com",
+  "www.e-unsubscribe.quixel.com",
+  "www.help.quixel.com",
+  "www.image-resize-prod.quixel.com",
+  "www.image-resize-staging.quixel.com",
+  "www.mhc-api.quixel.com",
+  "www.quixel.com",
+  "www.rps.quixel.com",
+  "www.staging.quixel.com",
+  "www2.quixel.com",
+  "www3.quixel.com",
+  "zendesk1.quixel.com",
+  "zendesk19.quixel.com",
+  "zendesk2k.quixel.com",
+  "zendesk3.quixel.com",
+  "zendesk3u.quixel.com",
+  "zendesk43.quixel.com"
+ ],
+ "http": [
+  {
+   "url": "http://accounts-epicgamedev.quixel.com:80",
+   "host": "accounts-epicgamedev.quixel.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Uh oh! Nothing here!",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "174.129.38.63",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://accounts-staging.quixel.com:80",
+   "host": "accounts-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.88.1.127",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://accounts.quixel.com:80",
+   "host": "accounts.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.155.105.68",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://admin.quixel.com:80",
+   "host": "admin.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.185.197.87",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://adminstaging1.quixel.com:80",
+   "host": "adminstaging1.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.40.94.17",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://assetdownloads-staging.quixel.com:80",
+   "host": "assetdownloads-staging.quixel.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.224.113.231",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://assetdownloads.quixel.com:80",
+   "host": "assetdownloads.quixel.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "75.2.107.166",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://at.quixel.com:80",
+   "host": "at.quixel.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "13.56.43.187",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://blog.quixel.com:80",
+   "host": "blog.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.219.42.180",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cdn-assets.quixel.com:80",
+   "host": "cdn-assets.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.82",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cdn-plugins-previews-staging.quixel.com:80",
+   "host": "cdn-plugins-previews-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.101",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cdn-plugins-staging.quixel.com:80",
+   "host": "cdn-plugins-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cdn.quixel.com:80",
+   "host": "cdn.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.127",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cfci-staging.quixel.com:80",
+   "host": "cfci-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cfci.quixel.com:80",
+   "host": "cfci.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.110.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cloudflareorigin.quixel.com:2082",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cloudflareorigin.quixel.com:2095",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cloudflareorigin.quixel.com:80",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cloudflareorigin.quixel.com:8080",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://content-staging-dashboard-v2.quixel.com:80",
+   "host": "content-staging-dashboard-v2.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.82.189.42",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://content-staging-dashboard.quixel.com:80",
+   "host": "content-staging-dashboard.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.233.0.171",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://content-staging.quixel.com:80",
+   "host": "content-staging.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.12.191.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dashboard-staging.quixel.com:80",
+   "host": "dashboard-staging.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.226.91.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dashboard.quixel.com:80",
+   "host": "dashboard.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.225.21.113",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://deploy.quixel.com:80",
+   "host": "deploy.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.184.203.104",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-staging.quixel.com:80",
+   "host": "dev-staging.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "184.44.0.95",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-staging3.quixel.com:80",
+   "host": "dev-staging3.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "184.44.0.95",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dm-staging.quixel.com:80",
+   "host": "dm-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.82",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dm.quixel.com:80",
+   "host": "dm.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.7",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dmonitor.quixel.com:80",
+   "host": "dmonitor.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://docs.quixel.com:80",
+   "host": "docs.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.240.60.253",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://downloadf.quixel.com:80",
+   "host": "downloadf.quixel.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.241.3.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://downloadfree.quixel.com:80",
+   "host": "downloadfree.quixel.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.241.3.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://downloadp.quixel.com:80",
+   "host": "downloadp.quixel.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.241.3.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dsa-user-tracking-production.quixel.com:80",
+   "host": "dsa-user-tracking-production.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dsa-user-tracking-staging.quixel.com:80",
+   "host": "dsa-user-tracking-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://e-unsubscribe-staging.quixel.com:80",
+   "host": "e-unsubscribe-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://e-unsubscribe.quixel.com:80",
+   "host": "e-unsubscribe.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.78",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://emails-staging.quixel.com:80",
+   "host": "emails-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.88",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://epic-staging.quixel.com:80",
+   "host": "epic-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "100.20.218.239",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://help.quixel.com:80",
+   "host": "help.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.215.68.224",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://image-resize-prod.quixel.com:80",
+   "host": "image-resize-prod.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.47",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://image-resize-staging.quixel.com:80",
+   "host": "image-resize-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.159.227.43",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://meta.quixel.com:80",
+   "host": "meta.quixel.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.57.103.73",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://mhc-api-staging.quixel.com:80",
+   "host": "mhc-api-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.231.138.188",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://mhc-api.quixel.com:80",
+   "host": "mhc-api.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.8.220.57",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rp-staging.quixel.com:80",
+   "host": "rp-staging.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.64.183.61",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rp-staging3.quixel.com:80",
+   "host": "rp-staging3.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.225.114",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rp.quixel.com:80",
+   "host": "rp.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.15",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rps-stage.quixel.com:80",
+   "host": "rps-stage.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rps-stage3.quixel.com:80",
+   "host": "rps-stage3.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.97",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://rps.quixel.com:80",
+   "host": "rps.quixel.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.65",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://accounts-epicgamedev.quixel.com:443",
+   "host": "accounts-epicgamedev.quixel.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Uh oh! Nothing here!",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "174.129.38.63",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://accounts-staging.quixel.com:443",
+   "host": "accounts-staging.quixel.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Uh oh! Nothing here!",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.88.1.127",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://accounts.quixel.com:443",
+   "host": "accounts.quixel.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Uh oh! Nothing here!",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.155.105.68",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://admin.quixel.com:443",
+   "host": "admin.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.185.197.87",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://adminstaging1.quixel.com:443",
+   "host": "adminstaging1.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.40.94.17",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://assetdownloads-staging.quixel.com:443",
+   "host": "assetdownloads-staging.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.224.113.231",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://assetdownloads.quixel.com:443",
+   "host": "assetdownloads.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "75.2.107.166",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://at.quixel.com:443",
+   "host": "at.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "13.56.43.187",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://blog.quixel.com:443",
+   "host": "blog.quixel.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.219.42.180",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cdn-assets.quixel.com:443",
+   "host": "cdn-assets.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.82",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cdn-plugins-previews-staging.quixel.com:443",
+   "host": "cdn-plugins-previews-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.101",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cdn-plugins-staging.quixel.com:443",
+   "host": "cdn-plugins-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cdn.quixel.com:443",
+   "host": "cdn.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.127",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfci-staging.quixel.com:443",
+   "host": "cfci-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.36",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cfci.quixel.com:443",
+   "host": "cfci.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.110.11",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cloudflareorigin.quixel.com:2083",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cloudflareorigin.quixel.com:2087",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cloudflareorigin.quixel.com:2096",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cloudflareorigin.quixel.com:443",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cloudflareorigin.quixel.com:8443",
+   "host": "cloudflareorigin.quixel.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.227",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://content-staging-dashboard-v2.quixel.com:443",
+   "host": "content-staging-dashboard-v2.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.82.189.42",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://content-staging-dashboard.quixel.com:443",
+   "host": "content-staging-dashboard.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.233.0.171",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://content-staging.quixel.com:443",
+   "host": "content-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.12.191.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dashboard-staging.quixel.com:443",
+   "host": "dashboard-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.226.91.199",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dashboard.quixel.com:443",
+   "host": "dashboard.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.225.21.113",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://deploy.quixel.com:443",
+   "host": "deploy.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "32.184.203.104",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-staging.quixel.com:443",
+   "host": "dev-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "184.44.0.95",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-staging3.quixel.com:443",
+   "host": "dev-staging3.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "184.44.0.95",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dm-staging.quixel.com:443",
+   "host": "dm-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.82",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dm.quixel.com:443",
+   "host": "dm.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.7",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dmonitor.quixel.com:443",
+   "host": "dmonitor.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://docs.quixel.com:443",
+   "host": "docs.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Error",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.240.60.253",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://downloadf.quixel.com:443",
+   "host": "downloadf.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.241.3.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://downloadfree.quixel.com:443",
+   "host": "downloadfree.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.241.3.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://downloadp.quixel.com:443",
+   "host": "downloadp.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "restify",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.241.3.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dsa-user-tracking-production.quixel.com:443",
+   "host": "dsa-user-tracking-production.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.46",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dsa-user-tracking-staging.quixel.com:443",
+   "host": "dsa-user-tracking-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.40",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://e-unsubscribe-staging.quixel.com:443",
+   "host": "e-unsubscribe-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://e-unsubscribe.quixel.com:443",
+   "host": "e-unsubscribe.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.78",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://emails-staging.quixel.com:443",
+   "host": "emails-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.88",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://epic-staging.quixel.com:443",
+   "host": "epic-staging.quixel.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Uh oh! Nothing here!",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "100.20.218.239",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gatekeeper-us-east-1.quixel.com:443",
+   "host": "gatekeeper-us-east-1.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "98.94.188.38",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gatekeeper-us-west-1.quixel.com:443",
+   "host": "gatekeeper-us-west-1.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "54.153.16.242",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://gatekeeper-us-west-2.quixel.com:443",
+   "host": "gatekeeper-us-west-2.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.27.112.138",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://help.quixel.com:443",
+   "host": "help.quixel.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.215.68.224",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://image-resize-prod.quixel.com:443",
+   "host": "image-resize-prod.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.47",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://image-resize-staging.quixel.com:443",
+   "host": "image-resize-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.159.227.43",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://meta.quixel.com:443",
+   "host": "meta.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.57.103.73",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://mhc-api-staging.quixel.com:443",
+   "host": "mhc-api-staging.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "44.231.138.188",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://mhc-api.quixel.com:443",
+   "host": "mhc-api.quixel.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.8.220.57",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://quixel.com:443",
+   "host": "quixel.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Quixel Megascans | High-quality 3D assets for games, film, and beyond - Quixel",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Next.js",
+    "Node.js",
+    "React",
+    "Webpack",
+    "hCaptcha:1"
+   ],
+   "cdn": true,
+   "ip": "54.153.16.242",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rp-staging.quixel.com:443",
+   "host": "rp-staging.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.64.183.61",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rp-staging3.quixel.com:443",
+   "host": "rp-staging3.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.225.114",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rp.quixel.com:443",
+   "host": "rp.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.15",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rps-stage.quixel.com:443",
+   "host": "rps-stage.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.74",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rps-stage3.quixel.com:443",
+   "host": "rps-stage3.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.97",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://rps.quixel.com:443",
+   "host": "rps.quixel.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.65",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

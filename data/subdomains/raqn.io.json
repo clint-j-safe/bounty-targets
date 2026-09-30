@@ -1,0 +1,1927 @@
+{
+ "domain": "raqn.io",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 420,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.raqn.io",
+  "admin.d2c.dcp.raqn.io",
+  "admin.dcp.raqn.io",
+  "adming.dev.dcp.raqn.io",
+  "admink.d2c.dcp.raqn.io",
+  "api-dev.raqn.io",
+  "api.dcp.raqn.io",
+  "api.dev.dcp.raqn.io",
+  "api.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+  "api.ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+  "api.raqn.io",
+  "apia.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+  "apps.raqn.io",
+  "ar-test.raqn.io",
+  "ar.raqn.io",
+  "cdn.learning.web.raqn.io",
+  "ceresit-com.prod.web.raqn.io",
+  "ceresit-fr.prod.web.raqn.io",
+  "ceresit-ro.prod.web.raqn.io",
+  "ciot-mobile.raqn.io",
+  "ciot.emqx.raqn.io",
+  "ciot.raqn.io",
+  "commerce.raqn.io",
+  "community.raqn.io",
+  "control-center.raqn.io",
+  "control-centerq.raqn.io",
+  "d2c.dcp.raqn.io",
+  "dcp.raqn.io",
+  "dev-admin.d2c.dcp.raqn.io",
+  "dev-api.raqn.io",
+  "dev-ccs.raqn.io",
+  "dev-community.raqn.io",
+  "dev-developer.raqn.io",
+  "dev-developeri.raqn.io",
+  "dev-edge.raqn.io",
+  "dev-edge3.raqn.io",
+  "dev-hcp.raqn.io",
+  "dev-identity.raqn.io",
+  "dev-identityg.raqn.io",
+  "dev-management.raqn.io",
+  "dev-managementi.raqn.io",
+  "dev-pss.raqn.io",
+  "dev-schema.raqn.io",
+  "dev-schemas.raqn.io",
+  "dev-short.raqn.io",
+  "dev.ciot-mobile.raqn.io",
+  "dev.ciot.emqx.raqn.io",
+  "dev.ciot.raqn.io",
+  "dev.dcp.raqn.io",
+  "dev.raqn.io",
+  "dev.web.raqn.io",
+  "dev03-admine.marketplace.dcp.raqn.io",
+  "dev03-admino.d2c.dcp.raqn.io",
+  "dev04-admin.d2c.dcp.raqn.io",
+  "dev04-admin.dcp.raqn.io",
+  "dev04-admin.marketplace.dcp.raqn.io",
+  "dev04-admine.marketplace.dcp.raqn.io",
+  "dev2.web.raqn.io",
+  "dev2a.web.raqn.io",
+  "dev3.web.raqn.io",
+  "dev3a.web.raqn.io",
+  "developer.api-dev.raqn.io",
+  "developer.raqn.io",
+  "developera.api.raqn.io",
+  "devq.ciot.raqn.io",
+  "docs.raqn.io",
+  "ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+  "ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+  "edge.raqn.io",
+  "emqx.raqn.io",
+  "fairform.raqn.io",
+  "fr.skpeacademy.member.ref.web.raqn.io",
+  "fr.web.raqn.io",
+  "fr5.skpeacademy.member.ref.web.raqn.io",
+  "glooly.raqn.io",
+  "guide-raqn-io.dev.web.raqn.io",
+  "guide-raqn-io.test.web.raqn.io",
+  "guide.raqn.io",
+  "hero.dev.raqn.io",
+  "hero.raqn.io",
+  "hero.ref.raqn.io",
+  "hero.test.raqn.io",
+  "heroc.dev.raqn.io",
+  "heror.raqn.io",
+  "identity-dev.raqn.io",
+  "identity.raqn.io",
+  "identity.web.raqn.io",
+  "lab-api-cn.raqn.io",
+  "lab-api.raqn.io",
+  "lab-developer.raqn.io",
+  "lab-developer1.raqn.io",
+  "lab-management.raqn.io",
+  "learning.web.raqn.io",
+  "login.web.raqn.io",
+  "lrs.learning.web.raqn.io",
+  "management.raqn.io",
+  "marketplace.dcp.raqn.io",
+  "member-uk.prod.web.raqn.io",
+  "member-uk3.prod.web.raqn.io",
+  "member.ref.web.raqn.io",
+  "migration-api.raqn.io",
+  "migration-developer.raqn.io",
+  "migration-management.raqn.io",
+  "migration.web.raqn.io",
+  "mitglied.prod.web.raqn.io",
+  "mitglied.web.raqn.io",
+  "observability.raqn.io",
+  "ops.dcp.raqn.io",
+  "prod.web.raqn.io",
+  "pss-poc-swa.raqn.io",
+  "pss-poc.raqn.io",
+  "pss.raqn.io",
+  "raqn.io",
+  "raqnweb-test-api.raqn.io",
+  "rde.web.raqn.io",
+  "ref.raqn.io",
+  "ref.web.raqn.io",
+  "schema.raqn.io",
+  "search.dev.web.raqn.io",
+  "search.prod.web.raqn.io",
+  "search.ref.web.raqn.io",
+  "search.test.web.raqn.io",
+  "searchi.ref.web.raqn.io",
+  "searchq.dev.web.raqn.io",
+  "short.raqn.io",
+  "skpeacademy.member.ref.web.raqn.io",
+  "smarterinitiative.fr.web.raqn.io",
+  "stage-admin.d2c.dcp.raqn.io",
+  "stage.raqn.io",
+  "stage.web.raqn.io",
+  "status.raqn.io",
+  "test-admin.d2c.dcp.raqn.io",
+  "test-api.raqn.io",
+  "test-community.raqn.io",
+  "test-developer.raqn.io",
+  "test-edge.raqn.io",
+  "test-fairform.raqn.io",
+  "test-hcp.raqn.io",
+  "test-identity.raqn.io",
+  "test-management.raqn.io",
+  "test-pss.raqn.io",
+  "test-schema.raqn.io",
+  "test-short.raqn.io",
+  "test.ciot-mobile.raqn.io",
+  "test.ciot.emqx.raqn.io",
+  "test.ciot.raqn.io",
+  "test.raqn.io",
+  "test.web.raqn.io",
+  "token.raqn.io",
+  "tst-api.raqn.io",
+  "tst-developer.raqn.io",
+  "tst-management.raqn.io",
+  "uat.web.raqn.io",
+  "web.raqn.io",
+  "wildcard.dev.web.raqn.io",
+  "wildcard.dev2.web.raqn.io",
+  "wildcard.dev3.web.raqn.io",
+  "wildcard.migration.web.raqn.io",
+  "wildcard.prod.web.raqn.io",
+  "wildcard.rde.web.raqn.io",
+  "wildcard.ref.web.raqn.io",
+  "wildcard.stage.raqn.io",
+  "wildcard.stage.web.raqn.io",
+  "wildcard.test.web.raqn.io",
+  "wildcard.uat.web.raqn.io",
+  "www-abc-pl.prod.web.raqn.io",
+  "www-askteamclean-com.prod.web.raqn.io",
+  "www-authenticbeautyconcept-com-ar.prod.web.raqn.io",
+  "www-authenticbeautyconcept-us.prod.web.raqn.io",
+  "www-bekron-cl.prod.web.raqn.io",
+  "www-bloo-com.prod.web.raqn.io",
+  "www-bref-be.prod.web.raqn.io",
+  "www-bref-co-nz.prod.web.raqn.io",
+  "www-bref-com-mx.prod.web.raqn.io",
+  "www-bref-com.prod.web.raqn.io",
+  "www-bref-kz.prod.web.raqn.io",
+  "www-bref-ro.prod.web.raqn.io",
+  "www-bref-ru.prod.web.raqn.io",
+  "www-bref-tw.prod.web.raqn.io",
+  "www-breftoiletcare-com-au.prod.web.raqn.io",
+  "www-brefwc-gr.prod.web.raqn.io",
+  "www-brefwc-it.prod.web.raqn.io",
+  "www-coldpower-co-nz.prod.web.raqn.io",
+  "www-colourcatcher-pl.prod.web.raqn.io",
+  "www-dialprofessional-com.prod.web.raqn.io",
+  "www-dixan-com-cy.prod.web.raqn.io",
+  "www-dixan-gr.prod.web.raqn.io",
+  "www-dixan-it.prod.web.raqn.io",
+  "www-dw-master-com.prod.web.raqn.io",
+  "www-dynamo-com-au.prod.web.raqn.io",
+  "www-dynamolaundry-co-nz.prod.web.raqn.io",
+  "www-earthwise-nz.prod.web.raqn.io",
+  "www-fa-master-com.prod.web.raqn.io",
+  "www-fleuril-nl.prod.web.raqn.io",
+  "www-frag-team-clean-de.dev.web.raqn.io",
+  "www-frag-team-clean-de.ref.web.raqn.io",
+  "www-got2b-language-masters-com.prod.web.raqn.io",
+  "www-heliux-developers.prod.web.raqn.io",
+  "www-henkel-reiniger-de.prod.web.raqn.io",
+  "www-lechat-fr.prod.web.raqn.io",
+  "www-loctite-br.prod.web.raqn.io",
+  "www-loctite-co.prod.web.raqn.io",
+  "www-loctite-dk.prod.web.raqn.io",
+  "www-loctite-it.prod.web.raqn.io",
+  "www-loctite-nl.prod.web.raqn.io",
+  "www-lovableslaundry-com-au.prod.web.raqn.io",
+  "www-nadhif-tn.prod.web.raqn.io",
+  "www-nature-box-fr.prod.web.raqn.io",
+  "www-natureboxbeauty-be.prod.web.raqn.io",
+  "www-natureboxbeauty-com-ua.prod.web.raqn.io",
+  "www-natureboxbeauty-cz.prod.web.raqn.io",
+  "www-natureboxbeauty-hu.prod.web.raqn.io",
+  "www-natureboxbeauty-ro.prod.web.raqn.io",
+  "www-natureboxbeauty-rs.prod.web.raqn.io",
+  "www-nelsen-it.prod.web.raqn.io",
+  "www-next-language-masters-henkel-adhesives-com.prod.web.raqn.io",
+  "www-osi-us.prod.web.raqn.io",
+  "www-palette-gr.prod.web.raqn.io",
+  "www-palette-sk.prod.web.raqn.io",
+  "www-pattex-cn.prod.web.raqn.io",
+  "www-pattex-cz.prod.web.raqn.io",
+  "www-pattex-hu.prod.web.raqn.io",
+  "www-pattex-it.prod.web.raqn.io",
+  "www-pattex-language-masters-com.prod.web.raqn.io",
+  "www-perlan-es.prod.web.raqn.io",
+  "www-perlana-it.prod.web.raqn.io",
+  "www-persil-at.prod.web.raqn.io",
+  "www-persil-az.prod.web.raqn.io",
+  "www-persil-be.prod.web.raqn.io",
+  "www-persil-bg.prod.web.raqn.io",
+  "www-persil-ch.prod.web.raqn.io",
+  "www-persil-co-il.prod.web.raqn.io",
+  "www-persil-co-kr.prod.web.raqn.io",
+  "www-persil-com-hr.prod.web.raqn.io",
+  "www-persil-com-mx.prod.web.raqn.io",
+  "www-persil-com-tr.prod.web.raqn.io",
+  "www-persil-cz.prod.web.raqn.io",
+  "www-persil-de.prod.web.raqn.io",
+  "www-persil-ee.prod.web.raqn.io",
+  "www-persil-gr.prod.web.raqn.io",
+  "www-persil-hu.prod.web.raqn.io",
+  "www-persil-kz-com.prod.web.raqn.io",
+  "www-persil-language-masters-com.prod.web.raqn.io",
+  "www-persil-lt.prod.web.raqn.io",
+  "www-persil-nl.prod.web.raqn.io",
+  "www-persil-pl.prod.web.raqn.io",
+  "www-persil-pt.prod.web.raqn.io",
+  "www-persil-ro.prod.web.raqn.io",
+  "www-persil-rs.prod.web.raqn.io",
+  "www-persil-si.prod.web.raqn.io",
+  "www-persil-sk.prod.web.raqn.io",
+  "www-persil-tw.prod.web.raqn.io",
+  "www-persil-ua.prod.web.raqn.io",
+  "www-persilarabia-com.prod.web.raqn.io",
+  "www-persilegypt-com.prod.web.raqn.io",
+  "www-persilproclean-com.prod.web.raqn.io",
+  "www-perwoll-az.prod.web.raqn.io",
+  "www-perwoll-bg.prod.web.raqn.io",
+  "www-perwoll-com-hr.prod.web.raqn.io",
+  "www-perwoll-ge.prod.web.raqn.io",
+  "www-perwoll-gr.prod.web.raqn.io",
+  "www-perwoll-kz.prod.web.raqn.io",
+  "www-perwoll-si.prod.web.raqn.io",
+  "www-perwoll-ua.prod.web.raqn.io",
+  "www-pril-com-tr.prod.web.raqn.io",
+  "www-pril-isis-com.prod.web.raqn.io",
+  "www-pril-levant-com.prod.web.raqn.io",
+  "www-renuzit-com.prod.web.raqn.io",
+  "www-schauma-com.prod.web.raqn.io",
+  "www-schwarzkopf-be.prod.web.raqn.io",
+  "www-schwarzkopf-ch.prod.web.raqn.io",
+  "www-schwarzkopf-co-uk.prod.web.raqn.io",
+  "www-schwarzkopf-com.prod.web.raqn.io",
+  "www-schwarzkopf-de.dev.web.raqn.io",
+  "www-schwarzkopf-de7.dev.web.raqn.io",
+  "www-schwarzkopf-es.prod.web.raqn.io",
+  "www-silan-be.prod.web.raqn.io",
+  "www-silan-hu.prod.web.raqn.io",
+  "www-silan-nl.prod.web.raqn.io",
+  "www-silan-pl.prod.web.raqn.io",
+  "www-skp-e-academy-language-masters-com.prod.web.raqn.io",
+  "www-snuggle-ca.prod.web.raqn.io",
+  "www-somat-com-cy.prod.web.raqn.io",
+  "www-somat-com-pl.prod.web.raqn.io",
+  "www-somat-ee.prod.web.raqn.io",
+  "www-somat-hu.prod.web.raqn.io",
+  "www-somat-kz.prod.web.raqn.io",
+  "www-somat-lt.prod.web.raqn.io",
+  "www-somat-lv.prod.web.raqn.io",
+  "www-somat-mx.prod.web.raqn.io",
+  "www-somat-rs.prod.web.raqn.io",
+  "www-somat-sandbox-com.prod.web.raqn.io",
+  "www-somat-si.prod.web.raqn.io",
+  "www-somatdishwashing-com-au.prod.web.raqn.io",
+  "www-sonasolwc-pt.prod.web.raqn.io",
+  "www-syoss-be.prod.web.raqn.io",
+  "www-syoss-de.prod.web.raqn.io",
+  "www-syoss-es.prod.web.raqn.io",
+  "www-syoss-fi.prod.web.raqn.io",
+  "www-syoss-gr.prod.web.raqn.io",
+  "www-teroson-bg.prod.web.raqn.io",
+  "www-umbrella-cy.prod.web.raqn.io",
+  "www-vernel-com-tr.prod.web.raqn.io",
+  "www-vernel-es.prod.web.raqn.io",
+  "www-vernel-it.prod.web.raqn.io",
+  "www-vernel-pt.prod.web.raqn.io",
+  "www-vernel-ru.prod.web.raqn.io",
+  "www-wcbref-fi.prod.web.raqn.io",
+  "www-wcbref-gr.prod.web.raqn.io",
+  "www-wippeexpress-es.prod.web.raqn.io",
+  "www-zotos-ca.prod.web.raqn.io",
+  "www.admin.d2c.dcp.raqn.io",
+  "www.admin.dcp.raqn.io",
+  "www.api-dev.raqn.io",
+  "www.api.dcp.raqn.io",
+  "www.api.dev.dcp.raqn.io",
+  "www.api.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+  "www.api.ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+  "www.api.raqn.io",
+  "www.apps.raqn.io",
+  "www.ar-test.raqn.io",
+  "www.ar.raqn.io",
+  "www.cdn.learning.web.raqn.io",
+  "www.ciot-mobile.raqn.io",
+  "www.ciot.emqx.raqn.io",
+  "www.ciot.raqn.io",
+  "www.commerce.raqn.io",
+  "www.community.raqn.io",
+  "www.control-center.raqn.io",
+  "www.dcp.raqn.io",
+  "www.dev-admin.d2c.dcp.raqn.io",
+  "www.dev-api.raqn.io",
+  "www.dev-community.raqn.io",
+  "www.dev-developer.raqn.io",
+  "www.dev-edge.raqn.io",
+  "www.dev-hcp.raqn.io",
+  "www.dev-identity.raqn.io",
+  "www.dev-management.raqn.io",
+  "www.dev-pss.raqn.io",
+  "www.dev-schema.raqn.io",
+  "www.dev-short.raqn.io",
+  "www.dev.ciot-mobile.raqn.io",
+  "www.dev.ciot.emqx.raqn.io",
+  "www.dev.ciot.raqn.io",
+  "www.dev.web.raqn.io",
+  "www.dev04-admin.dcp.raqn.io",
+  "www.dev04-admin.marketplace.dcp.raqn.io",
+  "www.dev3.web.raqn.io",
+  "www.developer.raqn.io",
+  "www.docs.raqn.io",
+  "www.edge.raqn.io",
+  "www.fairform.raqn.io",
+  "www.fr.web.raqn.io",
+  "www.glooly.raqn.io",
+  "www.guide-raqn-io.dev.web.raqn.io",
+  "www.guide-raqn-io.test.web.raqn.io",
+  "www.guide.raqn.io",
+  "www.hero.raqn.io",
+  "www.identity.raqn.io",
+  "www.identity.web.raqn.io",
+  "www.lab-api.raqn.io",
+  "www.lab-developer.raqn.io",
+  "www.lab-management.raqn.io",
+  "www.learning.web.raqn.io",
+  "www.login.web.raqn.io",
+  "www.management.raqn.io",
+  "www.marketplace.dcp.raqn.io",
+  "www.member-uk.prod.web.raqn.io",
+  "www.migration-developer.raqn.io",
+  "www.migration-management.raqn.io",
+  "www.migration.web.raqn.io",
+  "www.mitglied.prod.web.raqn.io",
+  "www.mitglied.web.raqn.io",
+  "www.observability.raqn.io",
+  "www.ops.dcp.raqn.io",
+  "www.prod.web.raqn.io",
+  "www.pss-poc-swa.raqn.io",
+  "www.pss-poc.raqn.io",
+  "www.pss.raqn.io",
+  "www.raqn.io",
+  "www.raqnweb-test-api.raqn.io",
+  "www.rde.web.raqn.io",
+  "www.ref.web.raqn.io",
+  "www.schema.raqn.io",
+  "www.short.raqn.io",
+  "www.smarterinitiative.fr.web.raqn.io",
+  "www.stage-admin.d2c.dcp.raqn.io",
+  "www.stage.web.raqn.io",
+  "www.status.raqn.io",
+  "www.test-admin.d2c.dcp.raqn.io",
+  "www.test-api.raqn.io",
+  "www.test-community.raqn.io",
+  "www.test-developer.raqn.io",
+  "www.test-edge.raqn.io",
+  "www.test-fairform.raqn.io",
+  "www.test-identity.raqn.io",
+  "www.test-management.raqn.io",
+  "www.test-pss.raqn.io",
+  "www.test-schema.raqn.io",
+  "www.test-short.raqn.io",
+  "www.test.ciot-mobile.raqn.io",
+  "www.test.ciot.emqx.raqn.io",
+  "www.test.ciot.raqn.io",
+  "www.test.web.raqn.io",
+  "www.token.raqn.io",
+  "www.tst-api.raqn.io",
+  "www.tst-developer.raqn.io",
+  "www.tst-management.raqn.io",
+  "www.uat.web.raqn.io",
+  "www.web.raqn.io",
+  "www.www-bref-be.prod.web.raqn.io",
+  "www.www-bref-com.prod.web.raqn.io",
+  "www.www-dw-master-com.prod.web.raqn.io",
+  "www.www-fa-master-com.prod.web.raqn.io",
+  "www.www-heliux-developers.prod.web.raqn.io",
+  "www.www-schwarzkopf-de.dev.web.raqn.io",
+  "www.www-somat-sandbox-com.prod.web.raqn.io",
+  "www7.status.raqn.io",
+  "wwwe.test-management.raqn.io",
+  "wwwq.ciot.raqn.io"
+ ],
+ "http": [
+  {
+   "url": "http://admin.d2c.dcp.raqn.io:80",
+   "host": "admin.d2c.dcp.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://api.ecommerce.www-frag-team-clean-de.dev.web.raqn.io:80",
+   "host": "api.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://api.ecommerce.www-frag-team-clean-de.ref.web.raqn.io:80",
+   "host": "api.ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.168.86.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://api.raqn.io:80",
+   "host": "api.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://apia.ecommerce.www-frag-team-clean-de.dev.web.raqn.io:80",
+   "host": "apia.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.93",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://apps.raqn.io:80",
+   "host": "apps.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ar-test.raqn.io:80",
+   "host": "ar-test.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ar.raqn.io:80",
+   "host": "ar.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://cdn.learning.web.raqn.io:80",
+   "host": "cdn.learning.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.203.211.30",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ceresit-com.prod.web.raqn.io:80",
+   "host": "ceresit-com.prod.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ceresit-fr.prod.web.raqn.io:80",
+   "host": "ceresit-fr.prod.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ceresit-ro.prod.web.raqn.io:80",
+   "host": "ceresit-ro.prod.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ciot-mobile.raqn.io:80",
+   "host": "ciot-mobile.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ciot.raqn.io:80",
+   "host": "ciot.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://commerce.raqn.io:80",
+   "host": "commerce.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://community.raqn.io:80",
+   "host": "community.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-admin.d2c.dcp.raqn.io:80",
+   "host": "dev-admin.d2c.dcp.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-api.raqn.io:80",
+   "host": "dev-api.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-community.raqn.io:80",
+   "host": "dev-community.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-developer.raqn.io:80",
+   "host": "dev-developer.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-edge.raqn.io:80",
+   "host": "dev-edge.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.148",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-identity.raqn.io:80",
+   "host": "dev-identity.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.148",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-management.raqn.io:80",
+   "host": "dev-management.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-pss.raqn.io:80",
+   "host": "dev-pss.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-schema.raqn.io:80",
+   "host": "dev-schema.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev-short.raqn.io:80",
+   "host": "dev-short.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev.ciot-mobile.raqn.io:80",
+   "host": "dev.ciot-mobile.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev.ciot.raqn.io:80",
+   "host": "dev.ciot.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev04-admin.dcp.raqn.io:80",
+   "host": "dev04-admin.dcp.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev04-admin.marketplace.dcp.raqn.io:80",
+   "host": "dev04-admin.marketplace.dcp.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://developer.raqn.io:80",
+   "host": "developer.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://docs.raqn.io:80",
+   "host": "docs.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ecommerce.www-frag-team-clean-de.dev.web.raqn.io:80",
+   "host": "ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.93",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://ecommerce.www-frag-team-clean-de.ref.web.raqn.io:80",
+   "host": "ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.168.86.17",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://edge.raqn.io:80",
+   "host": "edge.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://fr.skpeacademy.member.ref.web.raqn.io:80",
+   "host": "fr.skpeacademy.member.ref.web.raqn.io",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.151.23",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://guide-raqn-io.dev.web.raqn.io:80",
+   "host": "guide-raqn-io.dev.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://guide-raqn-io.test.web.raqn.io:80",
+   "host": "guide-raqn-io.test.web.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://guide.raqn.io:80",
+   "host": "guide.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://identity.raqn.io:80",
+   "host": "identity.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://learning.web.raqn.io:80",
+   "host": "learning.web.raqn.io",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "WebServer",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.196.6.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://login.web.raqn.io:80",
+   "host": "login.web.raqn.io",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://lrs.learning.web.raqn.io:80",
+   "host": "lrs.learning.web.raqn.io",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "WebServer",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.184.104.141",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://management.raqn.io:80",
+   "host": "management.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://member-uk.prod.web.raqn.io:80",
+   "host": "member-uk.prod.web.raqn.io",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.105",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://member-uk3.prod.web.raqn.io:80",
+   "host": "member-uk3.prod.web.raqn.io",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://mitglied.web.raqn.io:80",
+   "host": "mitglied.web.raqn.io",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.86.5",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://pss.raqn.io:80",
+   "host": "pss.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://raqnweb-test-api.raqn.io:80",
+   "host": "raqnweb-test-api.raqn.io",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://admin.d2c.dcp.raqn.io:443",
+   "host": "admin.d2c.dcp.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "RAQN Digital Commerce BackOffice",
+   "webserver": "",
+   "technologies": [
+    "Alibaba Cloud CDN",
+    "Azure",
+    "Azure Edge Network",
+    "Azure Front Door",
+    "Lodash"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://api.ecommerce.www-frag-team-clean-de.dev.web.raqn.io:443",
+   "host": "api.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://api.ecommerce.www-frag-team-clean-de.ref.web.raqn.io:443",
+   "host": "api.ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.168.86.18",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://api.raqn.io:443",
+   "host": "api.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://apia.ecommerce.www-frag-team-clean-de.dev.web.raqn.io:443",
+   "host": "apia.ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.93",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://apps.raqn.io:443",
+   "host": "apps.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "RAQN Apps",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ar-test.raqn.io:443",
+   "host": "ar-test.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ar.raqn.io:443",
+   "host": "ar.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://cdn.learning.web.raqn.io:443",
+   "host": "cdn.learning.web.raqn.io",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.203.211.30",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ceresit-com.prod.web.raqn.io:443",
+   "host": "ceresit-com.prod.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ceresit-fr.prod.web.raqn.io:443",
+   "host": "ceresit-fr.prod.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.22",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ceresit-ro.prod.web.raqn.io:443",
+   "host": "ceresit-ro.prod.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.79",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ciot-mobile.raqn.io:443",
+   "host": "ciot-mobile.raqn.io",
+   "port": "443",
+   "status_code": 502,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ciot.raqn.io:443",
+   "host": "ciot.raqn.io",
+   "port": "443",
+   "status_code": 502,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://commerce.raqn.io:443",
+   "host": "commerce.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "RAQN Digital Commerce BackOffice",
+   "webserver": "",
+   "technologies": [
+    "Alibaba Cloud CDN",
+    "Azure",
+    "Azure Edge Network",
+    "Azure Front Door",
+    "Lodash"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://community.raqn.io:443",
+   "host": "community.raqn.io",
+   "port": "443",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-admin.d2c.dcp.raqn.io:443",
+   "host": "dev-admin.d2c.dcp.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "RAQN Digital Commerce BackOffice",
+   "webserver": "",
+   "technologies": [
+    "Alibaba Cloud CDN",
+    "Azure",
+    "Azure Edge Network",
+    "Azure Front Door",
+    "Lodash"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-api.raqn.io:443",
+   "host": "dev-api.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-community.raqn.io:443",
+   "host": "dev-community.raqn.io",
+   "port": "443",
+   "status_code": 502,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-developer.raqn.io:443",
+   "host": "dev-developer.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home - Henkel dx - Developer portal",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-edge.raqn.io:443",
+   "host": "dev-edge.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.148",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-identity.raqn.io:443",
+   "host": "dev-identity.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.148",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-management.raqn.io:443",
+   "host": "dev-management.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-pss.raqn.io:443",
+   "host": "dev-pss.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "pss",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-schema.raqn.io:443",
+   "host": "dev-schema.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev-short.raqn.io:443",
+   "host": "dev-short.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev.ciot-mobile.raqn.io:443",
+   "host": "dev.ciot-mobile.raqn.io",
+   "port": "443",
+   "status_code": 502,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev.ciot.raqn.io:443",
+   "host": "dev.ciot.raqn.io",
+   "port": "443",
+   "status_code": 502,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.146",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev04-admin.dcp.raqn.io:443",
+   "host": "dev04-admin.dcp.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "RAQN Digital Commerce BackOffice",
+   "webserver": "",
+   "technologies": [
+    "Alibaba Cloud CDN",
+    "Azure",
+    "Azure Edge Network",
+    "Azure Front Door",
+    "Lodash"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev04-admin.marketplace.dcp.raqn.io:443",
+   "host": "dev04-admin.marketplace.dcp.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "WebContentNotFound",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://developer.raqn.io:443",
+   "host": "developer.raqn.io",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://docs.raqn.io:443",
+   "host": "docs.raqn.io",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.70",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ecommerce.www-frag-team-clean-de.dev.web.raqn.io:443",
+   "host": "ecommerce.www-frag-team-clean-de.dev.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.93",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://ecommerce.www-frag-team-clean-de.ref.web.raqn.io:443",
+   "host": "ecommerce.www-frag-team-clean-de.ref.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.168.86.17",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://edge.raqn.io:443",
+   "host": "edge.raqn.io",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://fr.skpeacademy.member.ref.web.raqn.io:443",
+   "host": "fr.skpeacademy.member.ref.web.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.151.23",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://guide-raqn-io.dev.web.raqn.io:443",
+   "host": "guide-raqn-io.dev.web.raqn.io",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.239.199.49",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://guide-raqn-io.test.web.raqn.io:443",
+   "host": "guide-raqn-io.test.web.raqn.io",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://guide.raqn.io:443",
+   "host": "guide.raqn.io",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.152",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://identity.raqn.io:443",
+   "host": "identity.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://learning.web.raqn.io:443",
+   "host": "learning.web.raqn.io",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "WebServer",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.196.6.10",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://login.web.raqn.io:443",
+   "host": "login.web.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://lrs.learning.web.raqn.io:443",
+   "host": "lrs.learning.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "WebServer",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.184.104.141",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://management.raqn.io:443",
+   "host": "management.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://member-uk.prod.web.raqn.io:443",
+   "host": "member-uk.prod.web.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.38.105",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://member-uk3.prod.web.raqn.io:443",
+   "host": "member-uk3.prod.web.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.74.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://mitglied.web.raqn.io:443",
+   "host": "mitglied.web.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.86.5",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pss.raqn.io:443",
+   "host": "pss.raqn.io",
+   "port": "443",
+   "status_code": 200,
+   "title": "pss",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.154",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://raqnweb-test-api.raqn.io:443",
+   "host": "raqnweb-test-api.raqn.io",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.153",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

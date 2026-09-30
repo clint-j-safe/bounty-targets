@@ -1,0 +1,640 @@
+{
+ "domain": "parr-global.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 23,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "admin.parr-global.com",
+  "app.parr-global.com",
+  "aslive-admin.parr-global.com",
+  "aslive-app.parr-global.com",
+  "aslive-info.parr-global.com",
+  "aslive-info1.parr-global.com",
+  "aslive-www.parr-global.com",
+  "events.parr-global.com",
+  "eventsk.parr-global.com",
+  "info.parr-global.com",
+  "notifications.parr-global.com",
+  "parr-global.com",
+  "staging.parr-global.com",
+  "try.parr-global.com",
+  "www.app.parr-global.com",
+  "www.aslive-info.parr-global.com",
+  "www.aslive-www.parr-global.com",
+  "www.events.parr-global.com",
+  "www.info.parr-global.com",
+  "www.notifications.parr-global.com",
+  "www.parr-global.com",
+  "www.staging.parr-global.com",
+  "www.try.parr-global.com"
+ ],
+ "http": [
+  {
+   "url": "http://admin.parr-global.com:80",
+   "host": "admin.parr-global.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.142",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://app.parr-global.com:80",
+   "host": "app.parr-global.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.142",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aslive-admin.parr-global.com:80",
+   "host": "aslive-admin.parr-global.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.139",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aslive-app.parr-global.com:80",
+   "host": "aslive-app.parr-global.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://aslive-www.parr-global.com:80",
+   "host": "aslive-www.parr-global.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.141",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://events.parr-global.com:80",
+   "host": "events.parr-global.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Redirecting to https://events.parr-global.com",
+   "webserver": "nginx/1.24.0",
+   "technologies": [
+    "HSTS",
+    "Nginx:1.24.0"
+   ],
+   "cdn": true,
+   "ip": "3.79.126.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.parr-global.com:2082",
+   "host": "info.parr-global.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.parr-global.com:2095",
+   "host": "info.parr-global.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.parr-global.com:80",
+   "host": "info.parr-global.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://info.parr-global.com:8080",
+   "host": "info.parr-global.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://notifications.parr-global.com:80",
+   "host": "notifications.parr-global.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.parr-global.com:2082",
+   "host": "staging.parr-global.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.parr-global.com:2095",
+   "host": "staging.parr-global.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.parr-global.com:80",
+   "host": "staging.parr-global.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://staging.parr-global.com:8080",
+   "host": "staging.parr-global.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://try.parr-global.com:2083",
+   "host": "try.parr-global.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://try.parr-global.com:2087",
+   "host": "try.parr-global.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://try.parr-global.com:2096",
+   "host": "try.parr-global.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://try.parr-global.com:80",
+   "host": "try.parr-global.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://try.parr-global.com:8443",
+   "host": "try.parr-global.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.parr-global.com:80",
+   "host": "www.parr-global.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.149",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://admin.parr-global.com:443",
+   "host": "admin.parr-global.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.142",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://app.parr-global.com:443",
+   "host": "app.parr-global.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.142",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-admin.parr-global.com:443",
+   "host": "aslive-admin.parr-global.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.139",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-app.parr-global.com:443",
+   "host": "aslive-app.parr-global.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.132",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://aslive-www.parr-global.com:443",
+   "host": "aslive-www.parr-global.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.141",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://events.parr-global.com:443",
+   "host": "events.parr-global.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Domain not mapped",
+   "webserver": "nginx/1.24.0",
+   "technologies": [
+    "HSTS",
+    "Nginx:1.24.0"
+   ],
+   "cdn": true,
+   "ip": "3.79.126.52",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.parr-global.com:2083",
+   "host": "info.parr-global.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.parr-global.com:2087",
+   "host": "info.parr-global.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.parr-global.com:2096",
+   "host": "info.parr-global.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.parr-global.com:443",
+   "host": "info.parr-global.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home - PaRR Global",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "Onsen UI",
+    "PHP",
+    "WP Engine",
+    "WordPress",
+    "Yoast SEO:28.6",
+    "jQuery",
+    "jQuery Migrate:3.4.1"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://info.parr-global.com:8443",
+   "host": "info.parr-global.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://notifications.parr-global.com:443",
+   "host": "notifications.parr-global.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.parr-global.com:2083",
+   "host": "staging.parr-global.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.parr-global.com:2087",
+   "host": "staging.parr-global.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.parr-global.com:2096",
+   "host": "staging.parr-global.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.parr-global.com:443",
+   "host": "staging.parr-global.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://staging.parr-global.com:8443",
+   "host": "staging.parr-global.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://try.parr-global.com:443",
+   "host": "try.parr-global.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.parr-global.com:443",
+   "host": "www.parr-global.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.149",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

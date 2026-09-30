@@ -1,0 +1,62 @@
+{
+ "domain": "nordicunquote.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "nordicunquote.com",
+  "www.nordicunquote.com"
+ ],
+ "http": [
+  {
+   "url": "http://nordicunquote.com:80",
+   "host": "nordicunquote.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.123.207",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.nordicunquote.com:80",
+   "host": "www.nordicunquote.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.122.1",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://nordicunquote.com:443",
+   "host": "nordicunquote.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.123.207",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.nordicunquote.com:443",
+   "host": "www.nordicunquote.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.122.1",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "domain": "potterybarnkids.com.kw",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.potterybarnkids.com.kw",
+  "datak.potterybarnkids.com.kw",
+  "potterybarnkids.com.kw",
+  "www.data.potterybarnkids.com.kw",
+  "www.potterybarnkids.com.kw",
+  "wwwi.potterybarnkids.com.kw"
+ ],
+ "http": [
+  {
+   "url": "http://data.potterybarnkids.com.kw:80",
+   "host": "data.potterybarnkids.com.kw",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.38.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://potterybarnkids.com.kw:80",
+   "host": "potterybarnkids.com.kw",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.potterybarnkids.com.kw:80",
+   "host": "www.potterybarnkids.com.kw",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://data.potterybarnkids.com.kw:443",
+   "host": "data.potterybarnkids.com.kw",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.38.21",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://potterybarnkids.com.kw:443",
+   "host": "potterybarnkids.com.kw",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.potterybarnkids.com.kw:443",
+   "host": "www.potterybarnkids.com.kw",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "domain": "pril-isis.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "pril-isis.com",
+  "www.pril-isis.com"
+ ],
+ "http": [
+  {
+   "url": "http://pril-isis.com:80",
+   "host": "pril-isis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.pril-isis.com:80",
+   "host": "www.pril-isis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://pril-isis.com:443",
+   "host": "pril-isis.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.pril-isis.com:443",
+   "host": "www.pril-isis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u0628\u0631\u064a\u0644 | \u0633\u0627\u0626\u0644 \u063a\u0633\u064a\u0644 \u0627\u0644\u0635\u062d\u0648\u0646",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.120",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

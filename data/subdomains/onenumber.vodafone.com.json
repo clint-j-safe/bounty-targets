@@ -1,0 +1,261 @@
+{
+ "domain": "onenumber.vodafone.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 27,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "api.onenumber.vodafone.com",
+  "apiq.onenumber.vodafone.com",
+  "be.int.onenumber.vodafone.com",
+  "bec.int.onenumber.vodafone.com",
+  "dev.api.onenumber.vodafone.com",
+  "dev.be.int.onenumber.vodafone.com",
+  "dev.fed.api.onenumber.vodafone.com",
+  "dev.onenumber.vodafone.com",
+  "dev5.onenumber.vodafone.com",
+  "fed.api.onenumber.vodafone.com",
+  "fedo.api.onenumber.vodafone.com",
+  "int.onenumber.vodafone.com",
+  "jenkins.onenumber.vodafone.com",
+  "offers.onenumber.vodafone.com",
+  "onb-shell-rio.dev.onenumber.vodafone.com",
+  "onb-shell-rio.onenumber.vodafone.com",
+  "onb-shell-rio.preprod.onenumber.vodafone.com",
+  "onb-shell-rio.test.onenumber.vodafone.com",
+  "onenumber.vodafone.com",
+  "preprod.api.onenumber.vodafone.com",
+  "preprod.be.int.onenumber.vodafone.com",
+  "preprod.fed.api.onenumber.vodafone.com",
+  "preprod.onenumber.vodafone.com",
+  "preprode.fed.api.onenumber.vodafone.com",
+  "test.onenumber.vodafone.com",
+  "www.offers.onenumber.vodafone.com",
+  "wwwq.offers.onenumber.vodafone.com"
+ ],
+ "http": [
+  {
+   "url": "http://dev.fed.api.onenumber.vodafone.com:80",
+   "host": "dev.fed.api.onenumber.vodafone.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.61",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://dev.onenumber.vodafone.com:80",
+   "host": "dev.onenumber.vodafone.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://fed.api.onenumber.vodafone.com:80",
+   "host": "fed.api.onenumber.vodafone.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.97",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://onenumber.vodafone.com:80",
+   "host": "onenumber.vodafone.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://preprod.fed.api.onenumber.vodafone.com:80",
+   "host": "preprod.fed.api.onenumber.vodafone.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.40.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://preprod.onenumber.vodafone.com:80",
+   "host": "preprod.onenumber.vodafone.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://api.onenumber.vodafone.com:443",
+   "host": "api.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.156.11.159",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev.api.onenumber.vodafone.com:443",
+   "host": "dev.api.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.69.200.33",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev.fed.api.onenumber.vodafone.com:443",
+   "host": "dev.fed.api.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.61",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://dev.onenumber.vodafone.com:443",
+   "host": "dev.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://fed.api.onenumber.vodafone.com:443",
+   "host": "fed.api.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.97",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://onenumber.vodafone.com:443",
+   "host": "onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://preprod.api.onenumber.vodafone.com:443",
+   "host": "preprod.api.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.126.173.44",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://preprod.fed.api.onenumber.vodafone.com:443",
+   "host": "preprod.fed.api.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.40.37",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://preprod.onenumber.vodafone.com:443",
+   "host": "preprod.onenumber.vodafone.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

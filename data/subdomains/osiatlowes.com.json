@@ -1,0 +1,82 @@
+{
+ "domain": "osiatlowes.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "osiatlowes.com",
+  "www.osiatlowes.com"
+ ],
+ "http": [
+  {
+   "url": "http://osiatlowes.com:80",
+   "host": "osiatlowes.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "13.107.253.51",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://www.osiatlowes.com:80",
+   "host": "www.osiatlowes.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://osiatlowes.com:443",
+   "host": "osiatlowes.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Color Match Tool | Lowes - OSI Color Match Tools",
+   "webserver": "",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Azure",
+    "Azure Front Door",
+    "HSTS",
+    "Java",
+    "OneTrust"
+   ],
+   "cdn": true,
+   "ip": "13.107.253.51",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "https://www.osiatlowes.com:443",
+   "host": "www.osiatlowes.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Color Match Tool | Lowes - OSI Color Match Tools",
+   "webserver": "",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Azure",
+    "Azure Front Door",
+    "HSTS",
+    "Java",
+    "OneTrust"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}

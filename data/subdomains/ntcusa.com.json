@@ -1,0 +1,60 @@
+{
+ "domain": "ntcusa.com",
+ "last_run": "2026-09-30T11:41:36+00:00",
+ "count": 24,
+ "programs": [
+  "hackerone|equifax"
+ ],
+ "subdomains": [
+  "2a.ntcusa.com",
+  "api-uat.ntcusa.com",
+  "api.ntcusa.com",
+  "cn.ntcusa.com",
+  "demo.ntcusa.com",
+  "desc.ntcusa.com",
+  "dev.ntcusa.com",
+  "digitalpublishing.ntcusa.com",
+  "digitalpublishingq.ntcusa.com",
+  "en.ntcusa.com",
+  "fm.ntcusa.com",
+  "hglover.ntcusa.com",
+  "hglover3.ntcusa.com",
+  "hms-uat.ntcusa.com",
+  "hms.ntcusa.com",
+  "nrl.ntcusa.com",
+  "ntcusa.com",
+  "reports.ntcusa.com",
+  "sc.ntcusa.com",
+  "smtp.ntcusa.com",
+  "wsq.ntcusa.com",
+  "www.demo.ntcusa.com",
+  "www.hms.ntcusa.com",
+  "www.ntcusa.com"
+ ],
+ "http": [
+  {
+   "url": "http://api-uat.ntcusa.com:80",
+   "host": "api-uat.ntcusa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "147.146.245.137",
+   "checked": "2026-09-30T11:41:36+00:00"
+  },
+  {
+   "url": "http://hms-uat.ntcusa.com:80",
+   "host": "hms-uat.ntcusa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "147.146.245.135",
+   "checked": "2026-09-30T11:41:36+00:00"
+  }
+ ]
+}
