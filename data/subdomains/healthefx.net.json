@@ -1,0 +1,49 @@
+{
+ "domain": "healthefx.net",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 21,
+ "programs": [
+  "hackerone|equifax"
+ ],
+ "subdomains": [
+  "adfs.healthefx.net",
+  "adfs1.healthefx.net",
+  "api.healthefx.net",
+  "aws.healthefx.net",
+  "blog.healthefx.net",
+  "cdn.healthefx.net",
+  "chatg.api.healthefx.net",
+  "cloud.healthefx.net",
+  "clouds.healthefx.net",
+  "code-docs.healthefx.net",
+  "containers.healthefx.net",
+  "dev-logstash.healthefx.net",
+  "dev-logstashq.healthefx.net",
+  "dev.healthefx.net",
+  "eks.healthefx.net",
+  "files.healthefx.net",
+  "fls.healthefx.net",
+  "healthefx.net",
+  "hfx-main.healthefx.net",
+  "www.adfs.healthefx.net",
+  "www.healthefx.net"
+ ],
+ "http": [
+  {
+   "url": "https://adfs.healthefx.net:443",
+   "host": "adfs.healthefx.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "52.70.160.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

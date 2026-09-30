@@ -1,0 +1,299 @@
+{
+ "domain": "fiestaferrero.it",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 14,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "app.fiestaferrero.it",
+  "dev-identity-it.fiestaferrero.it",
+  "fiestaferrero.it",
+  "fiestasceglime.fiestaferrero.it",
+  "prod-identity-it.fiestaferrero.it",
+  "qa-identity-it.fiestaferrero.it",
+  "qa-identity-ita.fiestaferrero.it",
+  "quality.fiestaferrero.it",
+  "www.app.fiestaferrero.it",
+  "www.dev-identity-it.fiestaferrero.it",
+  "www.fiestaferrero.it",
+  "www.prod-identity-it.fiestaferrero.it",
+  "www.qa-identity-it.fiestaferrero.it",
+  "www.quality.fiestaferrero.it"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-it.fiestaferrero.it:80",
+   "host": "dev-identity-it.fiestaferrero.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.35",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fiestaferrero.it:80",
+   "host": "fiestaferrero.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fiestasceglime.fiestaferrero.it:2083",
+   "host": "fiestasceglime.fiestaferrero.it",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "46.252.156.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fiestasceglime.fiestaferrero.it:2095",
+   "host": "fiestasceglime.fiestaferrero.it",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "46.252.156.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fiestasceglime.fiestaferrero.it:2096",
+   "host": "fiestasceglime.fiestaferrero.it",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "46.252.156.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fiestasceglime.fiestaferrero.it:80",
+   "host": "fiestasceglime.fiestaferrero.it",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "46.252.156.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod-identity-it.fiestaferrero.it:80",
+   "host": "prod-identity-it.fiestaferrero.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.3.120",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa-identity-it.fiestaferrero.it:80",
+   "host": "qa-identity-it.fiestaferrero.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.41.44",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://quality.fiestaferrero.it:80",
+   "host": "quality.fiestaferrero.it",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.212.250.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fiestaferrero.it:80",
+   "host": "www.fiestaferrero.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.53.35.170",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-identity-it.fiestaferrero.it:443",
+   "host": "dev-identity-it.fiestaferrero.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.35",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fiestaferrero.it:443",
+   "host": "fiestaferrero.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fiestaferrero.it:8443",
+   "host": "fiestaferrero.it",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fiestaferrero.it:9443",
+   "host": "fiestaferrero.it",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fiestasceglime.fiestaferrero.it:443",
+   "host": "fiestasceglime.fiestaferrero.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "Redirect...",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "46.252.156.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod-identity-it.fiestaferrero.it:443",
+   "host": "prod-identity-it.fiestaferrero.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.3.120",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa-identity-it.fiestaferrero.it:443",
+   "host": "qa-identity-it.fiestaferrero.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.41.44",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://quality.fiestaferrero.it:443",
+   "host": "quality.fiestaferrero.it",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.212.250.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.fiestaferrero.it:443",
+   "host": "www.fiestaferrero.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "Fiesta | Ferrero",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Drupal:10",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "23.53.35.170",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

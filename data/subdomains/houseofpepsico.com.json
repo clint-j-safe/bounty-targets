@@ -1,0 +1,361 @@
+{
+ "domain": "houseofpepsico.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|pepsico_vdp"
+ ],
+ "subdomains": [
+  "dev.houseofpepsico.com",
+  "dev2.houseofpepsico.com",
+  "devm.houseofpepsico.com",
+  "houseofpepsico.com",
+  "orders.houseofpepsico.com",
+  "www.dev.houseofpepsico.com",
+  "www.dev2.houseofpepsico.com",
+  "www.houseofpepsico.com",
+  "www.orders.houseofpepsico.com",
+  "wwwe.dev2.houseofpepsico.com",
+  "wwwg.dev.houseofpepsico.com",
+  "wwwi.houseofpepsico.com"
+ ],
+ "http": [
+  {
+   "url": "http://houseofpepsico.com:2082",
+   "host": "houseofpepsico.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://houseofpepsico.com:2095",
+   "host": "houseofpepsico.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://houseofpepsico.com:80",
+   "host": "houseofpepsico.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://houseofpepsico.com:8080",
+   "host": "houseofpepsico.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://orders.houseofpepsico.com:80",
+   "host": "orders.houseofpepsico.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.225.46.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.houseofpepsico.com:2082",
+   "host": "www.houseofpepsico.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.houseofpepsico.com:2095",
+   "host": "www.houseofpepsico.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.houseofpepsico.com:80",
+   "host": "www.houseofpepsico.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.houseofpepsico.com:8080",
+   "host": "www.houseofpepsico.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.orders.houseofpepsico.com:80",
+   "host": "www.orders.houseofpepsico.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.225.46.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://houseofpepsico.com:2083",
+   "host": "houseofpepsico.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://houseofpepsico.com:2087",
+   "host": "houseofpepsico.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://houseofpepsico.com:2096",
+   "host": "houseofpepsico.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://houseofpepsico.com:443",
+   "host": "houseofpepsico.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "House of PepsiCo",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Alpine.js",
+    "Cloudflare",
+    "CookieYes",
+    "HSTS",
+    "HTTP/3",
+    "Klaviyo",
+    "Shopify"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://houseofpepsico.com:8443",
+   "host": "houseofpepsico.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://orders.houseofpepsico.com:443",
+   "host": "orders.houseofpepsico.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Express",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "18.225.46.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.houseofpepsico.com:2083",
+   "host": "www.houseofpepsico.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.houseofpepsico.com:2087",
+   "host": "www.houseofpepsico.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.houseofpepsico.com:2096",
+   "host": "www.houseofpepsico.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.houseofpepsico.com:443",
+   "host": "www.houseofpepsico.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3",
+    "Shopify"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.houseofpepsico.com:8443",
+   "host": "www.houseofpepsico.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Access denied",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.227.38.74",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.orders.houseofpepsico.com:443",
+   "host": "www.orders.houseofpepsico.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Express",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "18.225.46.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

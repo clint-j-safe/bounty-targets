@@ -1,0 +1,758 @@
+{
+ "domain": "fanniemay.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 111,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "9ww42.fanniemay.com",
+  "a.ns.email.fanniemay.com",
+  "api.locations.fanniemay.com",
+  "apio.locations.fanniemay.com",
+  "assets.locations.fanniemay.com",
+  "assetsm.locations.fanniemay.com",
+  "aws.fanniemay.com",
+  "b.ns.email.fanniemay.com",
+  "blog.fanniemay.com",
+  "blogqxpe.fanniemay.com",
+  "business.fanniemay.com",
+  "businessg.fanniemay.com",
+  "businessq.fanniemay.com",
+  "c.mx.email.fanniemay.com",
+  "c.ns.email.fanniemay.com",
+  "cdn1.fanniemay.com",
+  "cdn1e.fanniemay.com",
+  "cdn2.fanniemay.com",
+  "cdn29.fanniemay.com",
+  "cdn3.fanniemay.com",
+  "cdn4.fanniemay.com",
+  "clicks.em.fanniemay.com",
+  "corporate.fanniemay.com",
+  "corporate.ww42.fanniemay.com",
+  "corporateo.ww52.fanniemay.com",
+  "d.mx.email.fanniemay.com",
+  "d.ns.email.fanniemay.com",
+  "dev-identity-us.fanniemay.com",
+  "dev.fanniemay.com",
+  "dev9.ww42.fanniemay.com",
+  "e.ns.email.fanniemay.com",
+  "eks.fanniemay.com",
+  "em.fanniemay.com",
+  "email.fanniemay.com",
+  "email1.fanniemay.com",
+  "email9.fanniemay.com",
+  "emi.fanniemay.com",
+  "f.ns.email.fanniemay.com",
+  "fanniemay.com",
+  "fls1.a.ns.email.fanniemay.com",
+  "flsm.ww42.fanniemay.com",
+  "fna.fanniemay.com",
+  "images.fanniemay.com",
+  "links.fanniemay.com",
+  "locations.fanniemay.com",
+  "m.fanniemay.com",
+  "m.www.fanniemay.com",
+  "mail.fanniemay.com",
+  "maps.locations.fanniemay.com",
+  "mstage.fanniemay.com",
+  "mstage.www.fanniemay.com",
+  "mta.em.fanniemay.com",
+  "mx.email.fanniemay.com",
+  "ns.email.fanniemay.com",
+  "occ-staging.fanniemay.com",
+  "occ.fanniemay.com",
+  "origin-cache.fanniemay.com",
+  "origin-nocache.fanniemay.com",
+  "origin-nocache2.fanniemay.com",
+  "origin-nocachek.fanniemay.com",
+  "preview.fanniemay.com",
+  "prod-identity-us.fanniemay.com",
+  "prod.fanniemay.com",
+  "prodm.fanniemay.com",
+  "qa-identity-us.fanniemay.com",
+  "rstatic.locations.fanniemay.com",
+  "rstatics.locations.fanniemay.com",
+  "sip.fanniemay.com",
+  "staging.fanniemay.com",
+  "test-akamai.fanniemay.com",
+  "view.em.fanniemay.com",
+  "ww42.fanniemay.com",
+  "ww51.fanniemay.com",
+  "ww52.fanniemay.com",
+  "ww53.fanniemay.com",
+  "ww54.fanniemay.com",
+  "ww55.fanniemay.com",
+  "www.a.ns.email.fanniemay.com",
+  "www.api.locations.fanniemay.com",
+  "www.assets.locations.fanniemay.com",
+  "www.b.ns.email.fanniemay.com",
+  "www.blog.fanniemay.com",
+  "www.business.fanniemay.com",
+  "www.c.mx.email.fanniemay.com",
+  "www.c.ns.email.fanniemay.com",
+  "www.d.mx.email.fanniemay.com",
+  "www.d.ns.email.fanniemay.com",
+  "www.dev-identity-us.fanniemay.com",
+  "www.dev.fanniemay.com",
+  "www.e.ns.email.fanniemay.com",
+  "www.email.fanniemay.com",
+  "www.f.ns.email.fanniemay.com",
+  "www.fanniemay.com",
+  "www.links.fanniemay.com",
+  "www.locations.fanniemay.com",
+  "www.m.www.fanniemay.com",
+  "www.mail.fanniemay.com",
+  "www.maps.locations.fanniemay.com",
+  "www.mx.email.fanniemay.com",
+  "www.ns.email.fanniemay.com",
+  "www.occ-staging.fanniemay.com",
+  "www.occ.fanniemay.com",
+  "www.origin-nocache.fanniemay.com",
+  "www.prod.fanniemay.com",
+  "www.rstatic.locations.fanniemay.com",
+  "www.staging.fanniemay.com",
+  "www.test-akamai.fanniemay.com",
+  "www.www2.fanniemay.com",
+  "www.www3.fanniemay.com",
+  "www2.fanniemay.com",
+  "www3.fanniemay.com"
+ ],
+ "http": [
+  {
+   "url": "http://api.locations.fanniemay.com:80",
+   "host": "api.locations.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://assets.locations.fanniemay.com:80",
+   "host": "assets.locations.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://business.fanniemay.com:80",
+   "host": "business.fanniemay.com",
+   "port": "80",
+   "status_code": 400,
+   "title": "Invalid URL",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "2.17.88.160",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev-identity-us.fanniemay.com:80",
+   "host": "dev-identity-us.fanniemay.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.79",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.fanniemay.com:80",
+   "host": "dev.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "*",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.71.121.2",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fanniemay.com:80",
+   "host": "fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fanniemay.com:9443",
+   "host": "fanniemay.com",
+   "port": "9443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://links.fanniemay.com:2083",
+   "host": "links.fanniemay.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.254",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://links.fanniemay.com:2087",
+   "host": "links.fanniemay.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.254",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://links.fanniemay.com:2096",
+   "host": "links.fanniemay.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.254",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://links.fanniemay.com:80",
+   "host": "links.fanniemay.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.254",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://links.fanniemay.com:8443",
+   "host": "links.fanniemay.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.254",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.fanniemay.com:80",
+   "host": "locations.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.198.94.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://m.www.fanniemay.com:80",
+   "host": "m.www.fanniemay.com",
+   "port": "80",
+   "status_code": 400,
+   "title": "Invalid URL",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.45.46.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://maps.locations.fanniemay.com:80",
+   "host": "maps.locations.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://occ-staging.fanniemay.com:80",
+   "host": "occ-staging.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.50.52.252",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://occ.fanniemay.com:80",
+   "host": "occ.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.45.46.27",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://origin-nocache.fanniemay.com:80",
+   "host": "origin-nocache.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.45.46.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod-identity-us.fanniemay.com:80",
+   "host": "prod-identity-us.fanniemay.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.116",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod.fanniemay.com:80",
+   "host": "prod.fanniemay.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.45.46.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa-identity-us.fanniemay.com:80",
+   "host": "qa-identity-us.fanniemay.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.91.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rstatic.locations.fanniemay.com:80",
+   "host": "rstatic.locations.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging.fanniemay.com:80",
+   "host": "staging.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.50.52.252",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test-akamai.fanniemay.com:80",
+   "host": "test-akamai.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.213.53.39",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fanniemay.com:80",
+   "host": "www.fanniemay.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api.locations.fanniemay.com:443",
+   "host": "api.locations.fanniemay.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Access Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://assets.locations.fanniemay.com:443",
+   "host": "assets.locations.fanniemay.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Access Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://business.fanniemay.com:443",
+   "host": "business.fanniemay.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "Invalid URL",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "2.17.88.160",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-identity-us.fanniemay.com:443",
+   "host": "dev-identity-us.fanniemay.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.79",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.fanniemay.com:443",
+   "host": "dev.fanniemay.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "SAP Commerce Cloud - Forbidden",
+   "webserver": "*",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.71.121.2",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fanniemay.com:443",
+   "host": "fanniemay.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fanniemay.com:8443",
+   "host": "fanniemay.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://links.fanniemay.com:443",
+   "host": "links.fanniemay.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.254",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.fanniemay.com:443",
+   "host": "locations.fanniemay.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Gourmet Chocolate Shop & Candy Store Locator | Fannie May Locations",
+   "webserver": "",
+   "technologies": [
+    "Google Analytics",
+    "Google Maps",
+    "HSTS",
+    "Slick",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "54.198.94.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://maps.locations.fanniemay.com:443",
+   "host": "maps.locations.fanniemay.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://occ-staging.fanniemay.com:443",
+   "host": "occ-staging.fanniemay.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "HTTP Status 404 \u2013 Not Found",
+   "webserver": "*",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.50.52.252",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://occ.fanniemay.com:443",
+   "host": "occ.fanniemay.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "HTTP Status 404 \u2013 Not Found",
+   "webserver": "*",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.45.46.27",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://origin-nocache.fanniemay.com:443",
+   "host": "origin-nocache.fanniemay.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Premium Gourmet Chocolates & Gift Baskets from Fannie May",
+   "webserver": "*",
+   "technologies": [
+    "Akamai",
+    "Dynatrace",
+    "Dynatrace RUM",
+    "Express",
+    "HSTS",
+    "Java",
+    "Node.js",
+    "SAP Commerce Cloud"
+   ],
+   "cdn": false,
+   "ip": "23.45.46.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod-identity-us.fanniemay.com:443",
+   "host": "prod-identity-us.fanniemay.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.116",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod.fanniemay.com:443",
+   "host": "prod.fanniemay.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.45.46.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa-identity-us.fanniemay.com:443",
+   "host": "qa-identity-us.fanniemay.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.91.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rstatic.locations.fanniemay.com:443",
+   "host": "rstatic.locations.fanniemay.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Access Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.202.151.247",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging.fanniemay.com:443",
+   "host": "staging.fanniemay.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.50.52.252",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test-akamai.fanniemay.com:443",
+   "host": "test-akamai.fanniemay.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Service Unavailable",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.213.53.39",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.fanniemay.com:443",
+   "host": "www.fanniemay.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

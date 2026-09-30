@@ -1,0 +1,78 @@
+{
+ "domain": "insectia.es",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "insectia.es",
+  "www.insectia.es"
+ ],
+ "http": [
+  {
+   "url": "http://insectia.es:80",
+   "host": "insectia.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.230.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.insectia.es:80",
+   "host": "www.insectia.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.230.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://insectia.es:443",
+   "host": "insectia.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.230.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.insectia.es:443",
+   "host": "www.insectia.es",
+   "port": "443",
+   "status_code": 200,
+   "title": "Bloom y Cucal | Protecci\u00f3n contra los insectos",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "13.32.230.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "domain": "gluh.co",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 33,
+ "programs": [
+  "hackerone|kaseya"
+ ],
+ "subdomains": [
+  "andrew.gluh.co",
+  "api.gluh.co",
+  "app.gluh.co",
+  "authweb.gluh.co",
+  "authweb.test.gluh.co",
+  "authweb7.test.gluh.co",
+  "autodiscover.gluh.co",
+  "autodiscoveri.gluh.co",
+  "cdn.gluh.co",
+  "demo-us.gluh.co",
+  "demo.gluh.co",
+  "gluh.co",
+  "help.gluh.co",
+  "post.gluh.co",
+  "roadmap.gluh.co",
+  "start.gluh.co",
+  "test.gluh.co",
+  "test1.gluh.co",
+  "test1b.gluh.co",
+  "test2.gluh.co",
+  "test2b.gluh.co",
+  "test3.gluh.co",
+  "test3b.gluh.co",
+  "www.andrew.gluh.co",
+  "www.api.gluh.co",
+  "www.app.gluh.co",
+  "www.demo-us.gluh.co",
+  "www.demo.gluh.co",
+  "www.gluh.co",
+  "www.help.gluh.co",
+  "www.roadmap.gluh.co",
+  "www1.roadmap.gluh.co",
+  "www3.demo.gluh.co"
+ ],
+ "http": [
+  {
+   "url": "http://api.gluh.co:80",
+   "host": "api.gluh.co",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.gluh.co:80",
+   "host": "autodiscover.gluh.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.165.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://demo.gluh.co:80",
+   "host": "demo.gluh.co",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://help.gluh.co:80",
+   "host": "help.gluh.co",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://roadmap.gluh.co:80",
+   "host": "roadmap.gluh.co",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gluh.co:80",
+   "host": "www.gluh.co",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api.gluh.co:443",
+   "host": "api.gluh.co",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://demo.gluh.co:443",
+   "host": "demo.gluh.co",
+   "port": "443",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://help.gluh.co:443",
+   "host": "help.gluh.co",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://roadmap.gluh.co:443",
+   "host": "roadmap.gluh.co",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gluh.co:443",
+   "host": "www.gluh.co",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

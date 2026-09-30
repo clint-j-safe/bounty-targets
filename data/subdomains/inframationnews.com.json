@@ -1,0 +1,356 @@
+{
+ "domain": "inframationnews.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 25,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "alternate.inframationnews.com",
+  "alternatek.inframationnews.com",
+  "alternaten.inframationnews.com",
+  "aslive-ak-infralogic.inframationnews.com",
+  "aslive-click.mail.inframationnews.com",
+  "aslive-infralogic.inframationnews.com",
+  "aslive-notifications.mail.inframationnews.com",
+  "aslive-www.inframationnews.com",
+  "aslive.inframationnews.com",
+  "cdn.inframationnews.com",
+  "click.mail.inframationnews.com",
+  "infralogic.inframationnews.com",
+  "inframationnews.com",
+  "mail.inframationnews.com",
+  "notifications.mail.inframationnews.com",
+  "notificationsq.mail.inframationnews.com",
+  "staging-aslive.inframationnews.com",
+  "www.alternate.inframationnews.com",
+  "www.aslive-notifications.mail.inframationnews.com",
+  "www.aslive-www.inframationnews.com",
+  "www.aslive.inframationnews.com",
+  "www.infralogic.inframationnews.com",
+  "www.inframationnews.com",
+  "www.notifications.mail.inframationnews.com",
+  "www.staging-aslive.inframationnews.com"
+ ],
+ "http": [
+  {
+   "url": "http://alternate.inframationnews.com:80",
+   "host": "alternate.inframationnews.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "216.137.39.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aslive-infralogic.inframationnews.com:80",
+   "host": "aslive-infralogic.inframationnews.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.199.232.84",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aslive-notifications.mail.inframationnews.com:80",
+   "host": "aslive-notifications.mail.inframationnews.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aslive-www.inframationnews.com:80",
+   "host": "aslive-www.inframationnews.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.43.51.11",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aslive.inframationnews.com:80",
+   "host": "aslive.inframationnews.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.223.234.138",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn.inframationnews.com:80",
+   "host": "cdn.inframationnews.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://infralogic.inframationnews.com:80",
+   "host": "infralogic.inframationnews.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.199.232.80",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://inframationnews.com:80",
+   "host": "inframationnews.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "88.221.25.42",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://notifications.mail.inframationnews.com:80",
+   "host": "notifications.mail.inframationnews.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-aslive.inframationnews.com:80",
+   "host": "staging-aslive.inframationnews.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.3.93.48",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.inframationnews.com:80",
+   "host": "www.inframationnews.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.43.51.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://alternate.inframationnews.com:443",
+   "host": "alternate.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "216.137.39.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aslive-click.mail.inframationnews.com:443",
+   "host": "aslive-click.mail.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "99.81.182.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aslive-infralogic.inframationnews.com:443",
+   "host": "aslive-infralogic.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.199.232.84",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aslive-notifications.mail.inframationnews.com:443",
+   "host": "aslive-notifications.mail.inframationnews.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aslive-www.inframationnews.com:443",
+   "host": "aslive-www.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.43.51.11",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aslive.inframationnews.com:443",
+   "host": "aslive.inframationnews.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "173.223.234.138",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cdn.inframationnews.com:443",
+   "host": "cdn.inframationnews.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "LHC",
+   "technologies": [
+    "Amazon Web Services",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://click.mail.inframationnews.com:443",
+   "host": "click.mail.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.17.125.189",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://infralogic.inframationnews.com:443",
+   "host": "infralogic.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.199.232.80",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://inframationnews.com:443",
+   "host": "inframationnews.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "88.221.25.42",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://notifications.mail.inframationnews.com:443",
+   "host": "notifications.mail.inframationnews.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-aslive.inframationnews.com:443",
+   "host": "staging-aslive.inframationnews.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.3.93.48",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.inframationnews.com:443",
+   "host": "www.inframationnews.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.43.51.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

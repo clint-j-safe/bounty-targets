@@ -1,0 +1,1862 @@
+{
+ "domain": "fidessa.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 264,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "amer.fidessa.com",
+  "ap.fidessa.com",
+  "autodiscover.fidessa.com",
+  "ca.fidessa.com",
+  "content.fidessa.com",
+  "contentk.fidessa.com",
+  "contentrf.fidessa.com",
+  "ctmuatbnp.hk2-ugw-mq-87.ap.fidessa.com",
+  "ctmuathk.hk2-ugw-mq-87.ap.fidessa.com",
+  "ctmuathki.hk2-ugw-mq-87.ap.fidessa.com",
+  "ctmuatjp.tk1-ujtp-mq-1.jp.fidessa.com",
+  "customer-uat2.fidessa.com",
+  "customer-uat2x.fidessa.com",
+  "customer.fidessa.com",
+  "customer2.fidessa.com",
+  "customer21.fidessa.com",
+  "customere.fidessa.com",
+  "data.fidessa.com",
+  "dataa.fidessa.com",
+  "dc1-ryb-dmz-348.fidessa.com",
+  "dc1-ryb-dmz-3483.fidessa.com",
+  "dc1-ryb-dmz-349.fidessa.com",
+  "dc1-ryb-dmz-349a.fidessa.com",
+  "dc1-ryb-dmz-349y0.fidessa.com",
+  "dc1-ryb-wmq-664.fidessa.com",
+  "dc1-ryb-wmq-664m.fidessa.com",
+  "dc1-ryb-wmq-664y0.fidessa.com",
+  "dc1-uat-wmq-663.fidessa.com",
+  "dc2-ryb-dmz-349.fidessa.com",
+  "dc2-ryb-dmz-349g.fidessa.com",
+  "downloads.fidessa.com",
+  "edge.fidessa.com",
+  "edge5.fidessa.com",
+  "eu.fidessa.com",
+  "eu1hosting.fidessa.com",
+  "eu1hostingo.fidessa.com",
+  "eu2hosting.fidessa.com",
+  "eu2hostingi.fidessa.com",
+  "extranet.fidessa.com",
+  "extranet7.fidessa.com",
+  "fidessa.com",
+  "fidessaepoch.fidessa.com",
+  "fidessas.priv.lb.fidessa.com",
+  "fidessauatepoch.fidessa.com",
+  "fidessauatepochq.fidessa.com",
+  "fidqd1.dc1-uat-wmq-663.fidessa.com",
+  "fidqd1q.dc1-uat-wmq-663.fidessa.com",
+  "fidqp.hk1-pgw-mq-41.ap.fidessa.com",
+  "fidqp1.dc1-ryb-wmq-664.fidessa.com",
+  "fidqp1.hk1-pgw-mq-41.ap.fidessa.com",
+  "fidqp1c.dc1-ryb-wmq-664.fidessa.com",
+  "fidqp1hk1-pgw-mq-41.ap.fidessa.com",
+  "fidqp2.hk1-pgw-mq-41.ap.fidessa.com",
+  "fidqp30.fnet-ctm-mqm1.fidessa.com",
+  "fidqp30.fnet-ctm-mqm2.fidessa.com",
+  "fidqp307.fnet-ctm-mqm1.fidessa.com",
+  "fidqp30o.fnet-ctm-mqm2.fidessa.com",
+  "fidtkpqm.tk1-pjtp-mq-1.jp.fidessa.com",
+  "fileserver01s.lb.fidessa.com",
+  "fnet-ctm-mqm1.fidessa.com",
+  "fnet-ctm-mqm2.fidessa.com",
+  "fnet-xch3z-mqm.fidessa.com",
+  "fragmentation.fidessa.com",
+  "fs.fidessa.com",
+  "ftpw.ap.fidessa.com",
+  "hk1hosting.ap.fidessa.com",
+  "hk2-ugw-mq-87.ap.fidessa.com",
+  "hk2hosting.ap.fidessa.com",
+  "hkct-traffic1.fidessa.com",
+  "hybrid.fidessa.com",
+  "hybrid7.fidessa.com",
+  "hybridap.fidessa.com",
+  "hybridap9.fidessa.com",
+  "hybridapdr.fidessa.com",
+  "hybridca.fidessa.com",
+  "hybridcac.fidessa.com",
+  "hybridcadr.fidessa.com",
+  "hybridjp.fidessa.com",
+  "hybridjpc.fidessa.com",
+  "hybridjpdr.fidessa.com",
+  "hybridus1.fidessa.com",
+  "hybridus1c.fidessa.com",
+  "hybridus2.fidessa.com",
+  "hybridus2a.fidessa.com",
+  "its.us.fidessa.com",
+  "itsm.fidessa.com",
+  "itsm.lb.fidessa.com",
+  "itsm2.fidessa.com",
+  "itsmi.fidessa.com",
+  "jp.fidessa.com",
+  "lb.fidessa.com",
+  "mail.fidessa.com",
+  "mail.jp.fidessa.com",
+  "mail1.fidessa.com",
+  "mailhost.ap.fidessa.com",
+  "mailhost.fidessa.com",
+  "mailhost.jp.fidessa.com",
+  "mailhost1.us.fidessa.com",
+  "mailhost2.ap.fidessa.com",
+  "mailhost2.fidessa.com",
+  "mailhost2.jp.fidessa.com",
+  "mailhost2.us.fidessa.com",
+  "mailhost3.fidessa.com",
+  "mailhost4.fidessa.com",
+  "mailhost5.fidessa.com",
+  "mdwtraining.fidessa.com",
+  "mrsap.fidessa.com",
+  "mrseu.fidessa.com",
+  "mrsjp.fidessa.com",
+  "mrsna.fidessa.com",
+  "myportal-uat.fidessa.com",
+  "myportal.fidessa.com",
+  "myportal3.fidessa.com",
+  "pcs-uat.us.fidessa.com",
+  "pcs.fidessa.com",
+  "pcs.portal.fidessa.com",
+  "pcs.us.fidessa.com",
+  "pcs5.us.fidessa.com",
+  "portal-uat.ap.fidessa.com",
+  "portal-uat.fidessa.com",
+  "portal-uat.jp.fidessa.com",
+  "portal-uat.us.fidessa.com",
+  "portal.ap.fidessa.com",
+  "portal.ca.fidessa.com",
+  "portal.fidessa.com",
+  "portal.jp.fidessa.com",
+  "portal.us.fidessa.com",
+  "portal2-uat.us.fidessa.com",
+  "portal2-uat7.us.fidessa.com",
+  "portal2.ap.fidessa.com",
+  "portal2.fidessa.com",
+  "portal2.jp.fidessa.com",
+  "portal2.us.fidessa.com",
+  "portal2e.fidessa.com",
+  "portal2o.jp.fidessa.com",
+  "portal7.jp.fidessa.com",
+  "portalk.ap.fidessa.com",
+  "portalo.us.fidessa.com",
+  "post-trade.fidessa.com",
+  "post-tradei.fidessa.com",
+  "priv.lb.fidessa.com",
+  "rc.fidessa.com",
+  "rc2.fidessa.com",
+  "regulation.fidessa.com",
+  "regulationm.fidessa.com",
+  "remote-test.support.fidessa.com",
+  "remote.support.fidessa.com",
+  "remotei.support.fidessa.com",
+  "services.fidessa.com",
+  "so1-pops-dmz-20.fidessa.com",
+  "so1-pops-dmz-20s.fidessa.com",
+  "so1reports.amer.fidessa.com",
+  "so2-pops-dmz-21.fidessa.com",
+  "so2-pops-dmz-21i.fidessa.com",
+  "so2reports.amer.fidessa.com",
+  "staging-customer.fidessa.com",
+  "staging-data.fidessa.com",
+  "support-test.eu.fidessa.com",
+  "support.ca.fidessa.com",
+  "support.eu.fidessa.com",
+  "support.fidessa.com",
+  "support.us.fidessa.com",
+  "test.downloads.fidessa.com",
+  "test.rc.fidessa.com",
+  "test.services.fidessa.com",
+  "timesheet.fidessa.com",
+  "timework.fidessa.com",
+  "uat-hub.fidessa.com",
+  "uatportal.ca.fidessa.com",
+  "uatvpn.ap.fidessa.com",
+  "uk_ctm_uat.fnet-xch3z-mqm.fidessa.com",
+  "ukctmuat.fnet-xch3z-mqm.fidessa.com",
+  "uklon-gw1.fidessa.com",
+  "ukwok-gw1.fidessa.com",
+  "ukwok-master2.fidessa.com",
+  "ukwok-traffic1.fidessa.com",
+  "us.fidessa.com",
+  "us1hosting.us.fidessa.com",
+  "us1hostingb.us.fidessa.com",
+  "us1reports.amer.fidessa.com",
+  "us2hosting.us.fidessa.com",
+  "us2hostingb.us.fidessa.com",
+  "us2reports.amer.fidessa.com",
+  "usnj-master1.fidessa.com",
+  "usnj-traffic1.fidessa.com",
+  "www.ap.fidessa.com",
+  "www.autodiscover.fidessa.com",
+  "www.content.fidessa.com",
+  "www.ctmuathk.hk2-ugw-mq-87.ap.fidessa.com",
+  "www.customer-uat2.fidessa.com",
+  "www.customer.fidessa.com",
+  "www.customer2.fidessa.com",
+  "www.data.fidessa.com",
+  "www.dc1-ryb-dmz-348.fidessa.com",
+  "www.dc1-uat-wmq-663.fidessa.com",
+  "www.dc2-ryb-dmz-349.fidessa.com",
+  "www.downloads.fidessa.com",
+  "www.edge.fidessa.com",
+  "www.eu1hosting.fidessa.com",
+  "www.eu2hosting.fidessa.com",
+  "www.extranet.fidessa.com",
+  "www.fidessa.com",
+  "www.fidessaepoch.fidessa.com",
+  "www.fidqd1.dc1-uat-wmq-663.fidessa.com",
+  "www.fidqp1.dc1-ryb-wmq-664.fidessa.com",
+  "www.fidqp1hk1-pgw-mq-41.ap.fidessa.com",
+  "www.fidqp30.fnet-ctm-mqm1.fidessa.com",
+  "www.fidqp30.fnet-ctm-mqm2.fidessa.com",
+  "www.fnet-ctm-mqm1.fidessa.com",
+  "www.fnet-ctm-mqm2.fidessa.com",
+  "www.fragmentation.fidessa.com",
+  "www.fs.fidessa.com",
+  "www.hk1hosting.ap.fidessa.com",
+  "www.hk2hosting.ap.fidessa.com",
+  "www.hkct-traffic1.fidessa.com",
+  "www.itsm.fidessa.com",
+  "www.itsm.lb.fidessa.com",
+  "www.itsm2.fidessa.com",
+  "www.jp.fidessa.com",
+  "www.mailhost.ap.fidessa.com",
+  "www.mailhost1.us.fidessa.com",
+  "www.mailhost2.fidessa.com",
+  "www.mailhost2.us.fidessa.com",
+  "www.mailhost3.fidessa.com",
+  "www.mdwtraining.fidessa.com",
+  "www.myportal-uat.fidessa.com",
+  "www.myportal.fidessa.com",
+  "www.pcs-uat.us.fidessa.com",
+  "www.pcs.portal.fidessa.com",
+  "www.pcs.us.fidessa.com",
+  "www.portal.ap.fidessa.com",
+  "www.portal.ca.fidessa.com",
+  "www.portal.fidessa.com",
+  "www.portal.jp.fidessa.com",
+  "www.portal.us.fidessa.com",
+  "www.portal2.ap.fidessa.com",
+  "www.portal2.fidessa.com",
+  "www.portal2.jp.fidessa.com",
+  "www.portal2.us.fidessa.com",
+  "www.post-trade.fidessa.com",
+  "www.rc.fidessa.com",
+  "www.rc2.fidessa.com",
+  "www.regulation.fidessa.com",
+  "www.remote.support.fidessa.com",
+  "www.services.fidessa.com",
+  "www.so1-pops-dmz-20.fidessa.com",
+  "www.so1reports.amer.fidessa.com",
+  "www.so2-pops-dmz-21.fidessa.com",
+  "www.so2reports.amer.fidessa.com",
+  "www.support.eu.fidessa.com",
+  "www.support.fidessa.com",
+  "www.ukwok-traffic1.fidessa.com",
+  "www.us.fidessa.com",
+  "www.us1hosting.us.fidessa.com",
+  "www.us1reports.amer.fidessa.com",
+  "www.us2hosting.us.fidessa.com",
+  "www.us2reports.amer.fidessa.com",
+  "www.usnj-master1.fidessa.com",
+  "www.usnj-traffic1.fidessa.com",
+  "www1.hk2hosting.ap.fidessa.com",
+  "www1.itsm.fidessa.com",
+  "wwwi.hk1hosting.ap.fidessa.com",
+  "wwwm.data.fidessa.com",
+  "wwwy.us2hosting.us.fidessa.com"
+ ],
+ "http": [
+  {
+   "url": "http://customer.fidessa.com:2082",
+   "host": "customer.fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://customer.fidessa.com:2095",
+   "host": "customer.fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://customer.fidessa.com:80",
+   "host": "customer.fidessa.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://customer.fidessa.com:8080",
+   "host": "customer.fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://data.fidessa.com:2082",
+   "host": "data.fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://data.fidessa.com:2095",
+   "host": "data.fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://data.fidessa.com:80",
+   "host": "data.fidessa.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://data.fidessa.com:8080",
+   "host": "data.fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fidessa.com:2082",
+   "host": "fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fidessa.com:2095",
+   "host": "fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fidessa.com:80",
+   "host": "fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fidessa.com:8080",
+   "host": "fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://myportal-uat.fidessa.com:80",
+   "host": "myportal-uat.fidessa.com",
+   "port": "80",
+   "status_code": 504,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.202.236.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://post-trade.fidessa.com:2082",
+   "host": "post-trade.fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://post-trade.fidessa.com:2095",
+   "host": "post-trade.fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://post-trade.fidessa.com:80",
+   "host": "post-trade.fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://post-trade.fidessa.com:8080",
+   "host": "post-trade.fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://regulation.fidessa.com:2082",
+   "host": "regulation.fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://regulation.fidessa.com:2095",
+   "host": "regulation.fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://regulation.fidessa.com:80",
+   "host": "regulation.fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://regulation.fidessa.com:8080",
+   "host": "regulation.fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:2082",
+   "host": "remote-test.support.fidessa.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:2083",
+   "host": "remote-test.support.fidessa.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:2087",
+   "host": "remote-test.support.fidessa.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:2095",
+   "host": "remote-test.support.fidessa.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:2096",
+   "host": "remote-test.support.fidessa.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:80",
+   "host": "remote-test.support.fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:8080",
+   "host": "remote-test.support.fidessa.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote-test.support.fidessa.com:8443",
+   "host": "remote-test.support.fidessa.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:2082",
+   "host": "remote.support.fidessa.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:2083",
+   "host": "remote.support.fidessa.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:2087",
+   "host": "remote.support.fidessa.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:2095",
+   "host": "remote.support.fidessa.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:2096",
+   "host": "remote.support.fidessa.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:80",
+   "host": "remote.support.fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:8080",
+   "host": "remote.support.fidessa.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remote.support.fidessa.com:8443",
+   "host": "remote.support.fidessa.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-customer.fidessa.com:2082",
+   "host": "staging-customer.fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-customer.fidessa.com:2095",
+   "host": "staging-customer.fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-customer.fidessa.com:80",
+   "host": "staging-customer.fidessa.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-customer.fidessa.com:8080",
+   "host": "staging-customer.fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-data.fidessa.com:2082",
+   "host": "staging-data.fidessa.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-data.fidessa.com:2095",
+   "host": "staging-data.fidessa.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-data.fidessa.com:80",
+   "host": "staging-data.fidessa.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://staging-data.fidessa.com:8080",
+   "host": "staging-data.fidessa.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:2082",
+   "host": "support-test.eu.fidessa.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:2083",
+   "host": "support-test.eu.fidessa.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:2087",
+   "host": "support-test.eu.fidessa.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:2095",
+   "host": "support-test.eu.fidessa.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:2096",
+   "host": "support-test.eu.fidessa.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:80",
+   "host": "support-test.eu.fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:8080",
+   "host": "support-test.eu.fidessa.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support-test.eu.fidessa.com:8443",
+   "host": "support-test.eu.fidessa.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:2082",
+   "host": "support.eu.fidessa.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:2083",
+   "host": "support.eu.fidessa.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:2087",
+   "host": "support.eu.fidessa.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:2095",
+   "host": "support.eu.fidessa.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:2096",
+   "host": "support.eu.fidessa.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:80",
+   "host": "support.eu.fidessa.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:8080",
+   "host": "support.eu.fidessa.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://support.eu.fidessa.com:8443",
+   "host": "support.eu.fidessa.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://customer.fidessa.com:2083",
+   "host": "customer.fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://customer.fidessa.com:2087",
+   "host": "customer.fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://customer.fidessa.com:2096",
+   "host": "customer.fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://customer.fidessa.com:443",
+   "host": "customer.fidessa.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://customer.fidessa.com:8443",
+   "host": "customer.fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.fidessa.com:2083",
+   "host": "data.fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.fidessa.com:2087",
+   "host": "data.fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.fidessa.com:2096",
+   "host": "data.fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.fidessa.com:443",
+   "host": "data.fidessa.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "ION Group",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.fidessa.com:8443",
+   "host": "data.fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fidessa.com:2083",
+   "host": "fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fidessa.com:2087",
+   "host": "fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fidessa.com:2096",
+   "host": "fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fidessa.com:443",
+   "host": "fidessa.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fidessa.com:8443",
+   "host": "fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://myportal-uat.fidessa.com:443",
+   "host": "myportal-uat.fidessa.com",
+   "port": "443",
+   "status_code": 504,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.202.236.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://post-trade.fidessa.com:2083",
+   "host": "post-trade.fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://post-trade.fidessa.com:2087",
+   "host": "post-trade.fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://post-trade.fidessa.com:2096",
+   "host": "post-trade.fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://post-trade.fidessa.com:443",
+   "host": "post-trade.fidessa.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://post-trade.fidessa.com:8443",
+   "host": "post-trade.fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://regulation.fidessa.com:2083",
+   "host": "regulation.fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://regulation.fidessa.com:2087",
+   "host": "regulation.fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://regulation.fidessa.com:2096",
+   "host": "regulation.fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://regulation.fidessa.com:443",
+   "host": "regulation.fidessa.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://regulation.fidessa.com:8443",
+   "host": "regulation.fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://remote-test.support.fidessa.com:443",
+   "host": "remote-test.support.fidessa.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Fidessa Support",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://remote.support.fidessa.com:443",
+   "host": "remote.support.fidessa.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Fidessa Support",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://so1reports.amer.fidessa.com:443",
+   "host": "so1reports.amer.fidessa.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k",
+   "technologies": [
+    "Apache HTTP Server:2.4.37",
+    "Basic",
+    "HSTS",
+    "OpenSSL:1.1.1k",
+    "Red Hat"
+   ],
+   "cdn": false,
+   "ip": "146.82.234.138",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://so2reports.amer.fidessa.com:443",
+   "host": "so2reports.amer.fidessa.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k",
+   "technologies": [
+    "Apache HTTP Server:2.4.37",
+    "Basic",
+    "HSTS",
+    "OpenSSL:1.1.1k",
+    "Red Hat"
+   ],
+   "cdn": false,
+   "ip": "146.82.234.238",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-customer.fidessa.com:2083",
+   "host": "staging-customer.fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-customer.fidessa.com:2087",
+   "host": "staging-customer.fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-customer.fidessa.com:2096",
+   "host": "staging-customer.fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-customer.fidessa.com:443",
+   "host": "staging-customer.fidessa.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-customer.fidessa.com:8443",
+   "host": "staging-customer.fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-data.fidessa.com:2083",
+   "host": "staging-data.fidessa.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-data.fidessa.com:2087",
+   "host": "staging-data.fidessa.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-data.fidessa.com:2096",
+   "host": "staging-data.fidessa.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-data.fidessa.com:443",
+   "host": "staging-data.fidessa.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://staging-data.fidessa.com:8443",
+   "host": "staging-data.fidessa.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://support-test.eu.fidessa.com:443",
+   "host": "support-test.eu.fidessa.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Support Portal",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://support.eu.fidessa.com:443",
+   "host": "support.eu.fidessa.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Support Portal",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.22.93",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

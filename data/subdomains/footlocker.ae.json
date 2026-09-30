@@ -1,0 +1,272 @@
+{
+ "domain": "footlocker.ae",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 19,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.footlocker.ae",
+  "drdtnj.footlocker.ae",
+  "drdtnj1.footlocker.ae",
+  "footlocker.ae",
+  "ip1.mail.footlocker.ae",
+  "ip2.mail.footlocker.ae",
+  "ip3.mail.footlocker.ae",
+  "ip4.mail.footlocker.ae",
+  "links.mail.footlocker.ae",
+  "locations.footlocker.ae",
+  "mail.footlocker.ae",
+  "www.data.footlocker.ae",
+  "www.drdtnj.footlocker.ae",
+  "www.footlocker.ae",
+  "www.ip1.mail.footlocker.ae",
+  "www.ip2.mail.footlocker.ae",
+  "www.ip3.mail.footlocker.ae",
+  "www.ip4.mail.footlocker.ae",
+  "www.links.mail.footlocker.ae"
+ ],
+ "http": [
+  {
+   "url": "http://data.footlocker.ae:80",
+   "host": "data.footlocker.ae",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://footlocker.ae:80",
+   "host": "footlocker.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.129.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://links.mail.footlocker.ae:80",
+   "host": "links.mail.footlocker.ae",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "46.248.181.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.ae:2082",
+   "host": "locations.footlocker.ae",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.ae:2095",
+   "host": "locations.footlocker.ae",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.ae:80",
+   "host": "locations.footlocker.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.ae:8080",
+   "host": "locations.footlocker.ae",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.footlocker.ae:80",
+   "host": "www.footlocker.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.footlocker.ae:443",
+   "host": "data.footlocker.ae",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://footlocker.ae:443",
+   "host": "footlocker.ae",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.129.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.ae:2083",
+   "host": "locations.footlocker.ae",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.ae:2087",
+   "host": "locations.footlocker.ae",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.ae:2096",
+   "host": "locations.footlocker.ae",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.ae:443",
+   "host": "locations.footlocker.ae",
+   "port": "443",
+   "status_code": 200,
+   "title": "All Foot Locker Store Locations in UAE",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.ae:8443",
+   "host": "locations.footlocker.ae",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.footlocker.ae:443",
+   "host": "www.footlocker.ae",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

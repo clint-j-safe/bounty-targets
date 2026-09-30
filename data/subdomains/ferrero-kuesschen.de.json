@@ -1,0 +1,212 @@
+{
+ "domain": "ferrero-kuesschen.de",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 19,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "api.ferrero-kuesschen.de",
+  "aws.ferrero-kuesschen.de",
+  "dev-identity-de.ferrero-kuesschen.de",
+  "dev-identity-deq.ferrero-kuesschen.de",
+  "dev.ferrero-kuesschen.de",
+  "eks.ferrero-kuesschen.de",
+  "ferrero-kuesschen.de",
+  "freundschaftsdoppel.ferrero-kuesschen.de",
+  "prod-identity-de.ferrero-kuesschen.de",
+  "qa-identity-de.ferrero-kuesschen.de",
+  "quality.ferrero-kuesschen.de",
+  "quality.freundschaftsdoppel.ferrero-kuesschen.de",
+  "qualityo.freundschaftsdoppel.ferrero-kuesschen.de",
+  "qualityw.ferrero-kuesschen.de",
+  "www.dev-identity-de.ferrero-kuesschen.de",
+  "www.ferrero-kuesschen.de",
+  "www.prod-identity-de.ferrero-kuesschen.de",
+  "www.qa-identity-de.ferrero-kuesschen.de",
+  "www2.ferrero-kuesschen.de"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-de.ferrero-kuesschen.de:80",
+   "host": "dev-identity-de.ferrero-kuesschen.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.63",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ferrero-kuesschen.de:80",
+   "host": "ferrero-kuesschen.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod-identity-de.ferrero-kuesschen.de:80",
+   "host": "prod-identity-de.ferrero-kuesschen.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.109",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa-identity-de.ferrero-kuesschen.de:80",
+   "host": "qa-identity-de.ferrero-kuesschen.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.69",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.ferrero-kuesschen.de:80",
+   "host": "www.ferrero-kuesschen.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-identity-de.ferrero-kuesschen.de:443",
+   "host": "dev-identity-de.ferrero-kuesschen.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.63",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ferrero-kuesschen.de:443",
+   "host": "ferrero-kuesschen.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ferrero-kuesschen.de:8443",
+   "host": "ferrero-kuesschen.de",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ferrero-kuesschen.de:9443",
+   "host": "ferrero-kuesschen.de",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod-identity-de.ferrero-kuesschen.de:443",
+   "host": "prod-identity-de.ferrero-kuesschen.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.109",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa-identity-de.ferrero-kuesschen.de:443",
+   "host": "qa-identity-de.ferrero-kuesschen.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.69",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.ferrero-kuesschen.de:443",
+   "host": "www.ferrero-kuesschen.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "Guten Freunden gibt man ein K\u00fcsschen!",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

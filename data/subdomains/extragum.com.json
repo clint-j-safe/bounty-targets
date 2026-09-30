@@ -1,0 +1,781 @@
+{
+ "domain": "extragum.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 67,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "120daygetfit.extragum.com",
+  "api.extragum.com",
+  "bts.extragum.com",
+  "caas.extragum.com",
+  "com.extragum.com",
+  "comcom.extragum.com",
+  "dev-loadtest.extragum.com",
+  "dev.extragum.com",
+  "dev9.extragum.com",
+  "extragum.com",
+  "giveitup.extragum.com",
+  "giveitups.extragum.com",
+  "giveitupux.extragum.com",
+  "gumswap.extragum.com",
+  "gumswapg.extragum.com",
+  "gumswapz.extragum.com",
+  "live-loadtest.extragum.com",
+  "live-mena.extragum.com",
+  "live.extragum.com",
+  "loadtest.extragum.com",
+  "m.extragum.com",
+  "m.stage.extragum.com",
+  "migration.extragum.com",
+  "migration.stage.extragum.com",
+  "migrations.stage.extragum.com",
+  "orgin.m.stage.extragum.com",
+  "origin.api.extragum.com",
+  "origin.extragum.com",
+  "origin.m.stage.extragum.com",
+  "origin.preprod.api.extragum.com",
+  "origin.stage.api.extragum.com",
+  "origin.stage.bts.extragum.com",
+  "origin.stage.extragum.com",
+  "preprod.api.extragum.com",
+  "preprod.bts.extragum.com",
+  "promo.extragum.com",
+  "qa-loadtest.extragum.com",
+  "qa.extragum.com",
+  "refreshers.extragum.com",
+  "sample.extragum.com",
+  "stage.api.extragum.com",
+  "stage.bts.extragum.com",
+  "stage.extragum.com",
+  "stage.promo.extragum.com",
+  "test-loadtest.extragum.com",
+  "test-mena.extragum.com",
+  "test.extragum.com",
+  "test1.extragum.com",
+  "walgreens.extragum.com",
+  "www.120daygetfit.extragum.com",
+  "www.api.extragum.com",
+  "www.bts.extragum.com",
+  "www.dev.extragum.com",
+  "www.extragum.com",
+  "www.giveitup.extragum.com",
+  "www.gumswap.extragum.com",
+  "www.live-mena.extragum.com",
+  "www.preprod.api.extragum.com",
+  "www.preprod.bts.extragum.com",
+  "www.promo.extragum.com",
+  "www.qa.extragum.com",
+  "www.refreshers.extragum.com",
+  "www.test-mena.extragum.com",
+  "www.test.extragum.com",
+  "www.walgreens.extragum.com",
+  "wwws.walgreens.extragum.com",
+  "wwwu.extragum.com"
+ ],
+ "http": [
+  {
+   "url": "http://120daygetfit.extragum.com:80",
+   "host": "120daygetfit.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.79",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://api.extragum.com:80",
+   "host": "api.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.76",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://bts.extragum.com:80",
+   "host": "bts.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.extragum.com:80",
+   "host": "dev.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://extragum.com:80",
+   "host": "extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.40",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://giveitup.extragum.com:80",
+   "host": "giveitup.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.89",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gumswap.extragum.com:80",
+   "host": "gumswap.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.50",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://loadtest.extragum.com:80",
+   "host": "loadtest.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.extragum.com:80",
+   "host": "qa.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://refreshers.extragum.com:80",
+   "host": "refreshers.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.62",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sample.extragum.com:80",
+   "host": "sample.extragum.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://stage.api.extragum.com:80",
+   "host": "stage.api.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.168.40.51",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://stage.bts.extragum.com:80",
+   "host": "stage.bts.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.extragum.com:80",
+   "host": "test.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://walgreens.extragum.com:80",
+   "host": "walgreens.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.28",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.api.extragum.com:80",
+   "host": "www.api.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.107",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.bts.extragum.com:80",
+   "host": "www.bts.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.7",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.extragum.com:80",
+   "host": "www.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.giveitup.extragum.com:80",
+   "host": "www.giveitup.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gumswap.extragum.com:80",
+   "host": "www.gumswap.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.walgreens.extragum.com:80",
+   "host": "www.walgreens.extragum.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.116",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://120daygetfit.extragum.com:443",
+   "host": "120daygetfit.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.79",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api.extragum.com:443",
+   "host": "api.extragum.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.30.4",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Express",
+    "HTTP/3",
+    "Nginx:1.30.4",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.76",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://bts.extragum.com:443",
+   "host": "bts.extragum.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Buy 2 Packs of EXTRA & Win Weekly Prizes",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.extragum.com:443",
+   "host": "dev.extragum.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://extragum.com:443",
+   "host": "extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.40",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://giveitup.extragum.com:443",
+   "host": "giveitup.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.89",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://gumswap.extragum.com:443",
+   "host": "gumswap.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.50",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa.extragum.com:443",
+   "host": "qa.extragum.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://refreshers.extragum.com:443",
+   "host": "refreshers.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.62",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sample.extragum.com:443",
+   "host": "sample.extragum.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://stage.api.extragum.com:443",
+   "host": "stage.api.extragum.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.30.4",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Express",
+    "HTTP/3",
+    "Nginx:1.30.4",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "3.168.40.51",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://stage.bts.extragum.com:443",
+   "host": "stage.bts.extragum.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Buy 2 Packs of EXTRA & Win Weekly Prizes",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.extragum.com:443",
+   "host": "test.extragum.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://walgreens.extragum.com:443",
+   "host": "walgreens.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.28",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.api.extragum.com:443",
+   "host": "www.api.extragum.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.30.4",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Express",
+    "HTTP/3",
+    "Nginx:1.30.4",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.107",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.bts.extragum.com:443",
+   "host": "www.bts.extragum.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Buy 2 Packs of EXTRA & Win Weekly Prizes",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.7",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.extragum.com:443",
+   "host": "www.extragum.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Explore Extra\u00ae Gum Official Website | Discover Extra\u00ae",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Acquia Cloud Site Factory",
+    "Amazon Web Services",
+    "Bootstrap",
+    "Cloudflare",
+    "Drupal Multisite",
+    "Drupal:11",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust",
+    "PHP",
+    "PriceSpider",
+    "Varnish",
+    "cdnjs",
+    "jQuery",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.giveitup.extragum.com:443",
+   "host": "www.giveitup.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gumswap.extragum.com:443",
+   "host": "www.gumswap.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.walgreens.extragum.com:443",
+   "host": "www.walgreens.extragum.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.116",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

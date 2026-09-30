@@ -1,0 +1,81 @@
+{
+ "domain": "henkelhomecare.co.kr",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "henkelhomecare.co.kr",
+  "image.henkelhomecare.co.kr",
+  "m.henkelhomecare.co.kr",
+  "mall.henkelhomecare.co.kr",
+  "persil.henkelhomecare.co.kr",
+  "www.henkelhomecare.co.kr"
+ ],
+ "http": [
+  {
+   "url": "http://henkelhomecare.co.kr:80",
+   "host": "henkelhomecare.co.kr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "211.47.74.37",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.henkelhomecare.co.kr:80",
+   "host": "www.henkelhomecare.co.kr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "211.47.74.37",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://henkelhomecare.co.kr:443",
+   "host": "henkelhomecare.co.kr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "211.47.74.37",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.henkelhomecare.co.kr:443",
+   "host": "www.henkelhomecare.co.kr",
+   "port": "443",
+   "status_code": 200,
+   "title": "\ud5e8\ucf08 \ucee8\uc288\uba38\ube0c\ub79c\ub4dc\ucf54\ub9ac\uc544 - Henkel Homecare",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Google Tag Manager",
+    "Onsen UI",
+    "YouTube",
+    "bxSlider",
+    "jQuery CDN",
+    "jQuery UI",
+    "jQuery:3.6.0"
+   ],
+   "cdn": true,
+   "ip": "211.47.74.37",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

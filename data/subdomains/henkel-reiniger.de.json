@@ -1,0 +1,193 @@
+{
+ "domain": "henkel-reiniger.de",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 11,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "gratistesten.henkel-reiniger.de",
+  "henkel-reiniger.de",
+  "mail.henkel-reiniger.de",
+  "news.henkel-reiniger.de",
+  "testumgebung.henkel-reiniger.de",
+  "www.gratistesten.henkel-reiniger.de",
+  "www.henkel-reiniger.de",
+  "www.news.henkel-reiniger.de",
+  "www.www2.henkel-reiniger.de",
+  "www2.henkel-reiniger.de",
+  "wwwc.henkel-reiniger.de"
+ ],
+ "http": [
+  {
+   "url": "http://henkel-reiniger.de:80",
+   "host": "henkel-reiniger.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://news.henkel-reiniger.de:80",
+   "host": "news.henkel-reiniger.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.70",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://testumgebung.henkel-reiniger.de:80",
+   "host": "testumgebung.henkel-reiniger.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.22",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.henkel-reiniger.de:80",
+   "host": "www.henkel-reiniger.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.7",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.news.henkel-reiniger.de:80",
+   "host": "www.news.henkel-reiniger.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.70",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www2.henkel-reiniger.de:80",
+   "host": "www2.henkel-reiniger.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.22",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://henkel-reiniger.de:443",
+   "host": "henkel-reiniger.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://news.henkel-reiniger.de:443",
+   "host": "news.henkel-reiniger.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.70",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.henkel-reiniger.de:443",
+   "host": "www.henkel-reiniger.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.7",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.news.henkel-reiniger.de:443",
+   "host": "www.news.henkel-reiniger.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.70",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www2.henkel-reiniger.de:443",
+   "host": "www2.henkel-reiniger.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.169.149.22",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

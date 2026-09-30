@@ -1,0 +1,446 @@
+{
+ "domain": "findroyalcanin.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 43,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "click.marketing.findroyalcanin.com",
+  "cloud.marketing.findroyalcanin.com",
+  "com.findroyalcanin.com",
+  "comcom.findroyalcanin.com",
+  "dev.findroyalcanin.com",
+  "dev7.findroyalcanin.com",
+  "disclaimer.findroyalcanin.com",
+  "findroyalcanin.com",
+  "governance.findroyalcanin.com",
+  "image.marketing.findroyalcanin.com",
+  "live.findroyalcanin.com",
+  "marketing.findroyalcanin.com",
+  "pediatrics-1.findroyalcanin.com",
+  "petdetails.findroyalcanin.com",
+  "petdetailsm.findroyalcanin.com",
+  "pinloc.findroyalcanin.com",
+  "qa.findroyalcanin.com",
+  "test.findroyalcanin.com",
+  "tracking.findroyalcanin.com",
+  "trackingc.findroyalcanin.com",
+  "typttv.findroyalcanin.com",
+  "vet.findroyalcanin.com",
+  "vetm.findroyalcanin.com",
+  "view.marketing.findroyalcanin.com",
+  "www.click.marketing.findroyalcanin.com",
+  "www.cloud.marketing.findroyalcanin.com",
+  "www.dev.findroyalcanin.com",
+  "www.disclaimer.findroyalcanin.com",
+  "www.findroyalcanin.com",
+  "www.governance.findroyalcanin.com",
+  "www.image.marketing.findroyalcanin.com",
+  "www.live.findroyalcanin.com",
+  "www.marketing.findroyalcanin.com",
+  "www.pediatrics.findroyalcanin.com",
+  "www.petdetails.findroyalcanin.com",
+  "www.pinloc.findroyalcanin.com",
+  "www.qa.findroyalcanin.com",
+  "www.test.findroyalcanin.com",
+  "www.tracking.findroyalcanin.com",
+  "www.typttv.findroyalcanin.com",
+  "www.vet.findroyalcanin.com",
+  "www.view.marketing.findroyalcanin.com",
+  "wwwc.findroyalcanin.com"
+ ],
+ "http": [
+  {
+   "url": "http://dev.findroyalcanin.com:80",
+   "host": "dev.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://disclaimer.findroyalcanin.com:80",
+   "host": "disclaimer.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://findroyalcanin.com:80",
+   "host": "findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://governance.findroyalcanin.com:80",
+   "host": "governance.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://live.findroyalcanin.com:80",
+   "host": "live.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pediatrics-1.findroyalcanin.com:80",
+   "host": "pediatrics-1.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pinloc.findroyalcanin.com:80",
+   "host": "pinloc.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.findroyalcanin.com:80",
+   "host": "test.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://tracking.findroyalcanin.com:80",
+   "host": "tracking.findroyalcanin.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.22.1",
+   "technologies": [
+    "Firebase",
+    "Font Awesome",
+    "HSTS",
+    "HTTP/3",
+    "Nginx:1.22.1"
+   ],
+   "cdn": true,
+   "ip": "35.200.234.181",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.disclaimer.findroyalcanin.com:80",
+   "host": "www.disclaimer.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.findroyalcanin.com:80",
+   "host": "www.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.pediatrics.findroyalcanin.com:80",
+   "host": "www.pediatrics.findroyalcanin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.findroyalcanin.com:443",
+   "host": "dev.findroyalcanin.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://disclaimer.findroyalcanin.com:443",
+   "host": "disclaimer.findroyalcanin.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Bootstrap",
+    "Google Analytics",
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://findroyalcanin.com:443",
+   "host": "findroyalcanin.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://governance.findroyalcanin.com:443",
+   "host": "governance.findroyalcanin.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://live.findroyalcanin.com:443",
+   "host": "live.findroyalcanin.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "RC Registration form",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Acquia Cloud Site Factory",
+    "Amazon Web Services",
+    "Cloudflare",
+    "Drupal Multisite",
+    "Drupal:11",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust",
+    "PHP",
+    "Varnish",
+    "cdnjs",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://pediatrics-1.findroyalcanin.com:443",
+   "host": "pediatrics-1.findroyalcanin.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin's Paediatric Vet Care Program",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://pinloc.findroyalcanin.com:443",
+   "host": "pinloc.findroyalcanin.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.findroyalcanin.com:443",
+   "host": "test.findroyalcanin.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://tracking.findroyalcanin.com:443",
+   "host": "tracking.findroyalcanin.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.22.1",
+   "technologies": [
+    "Firebase",
+    "Font Awesome",
+    "HSTS",
+    "HTTP/3",
+    "Nginx:1.22.1"
+   ],
+   "cdn": true,
+   "ip": "35.200.234.181",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.disclaimer.findroyalcanin.com:443",
+   "host": "www.disclaimer.findroyalcanin.com",
+   "port": "443",
+   "status_code": 500,
+   "title": "500 Internal Server Error",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.findroyalcanin.com:443",
+   "host": "www.findroyalcanin.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.pediatrics.findroyalcanin.com:443",
+   "host": "www.pediatrics.findroyalcanin.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.26.2",
+   "technologies": [
+    "Bootstrap",
+    "Google Analytics",
+    "Google Tag Manager",
+    "Nginx:1.26.2"
+   ],
+   "cdn": true,
+   "ip": "13.201.211.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

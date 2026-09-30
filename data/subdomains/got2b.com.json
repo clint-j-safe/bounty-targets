@@ -1,0 +1,1949 @@
+{
+ "domain": "got2b.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 75,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.got2b.com",
+  "browlift.got2b.com",
+  "bttss.got2b.com",
+  "casino.got2b.com",
+  "cee.got2b.com",
+  "contest.got2b.com",
+  "crlzmenstylcrm200.got2b.com",
+  "crlzmenstylfm200.got2b.com",
+  "crlzmenstyljly150.got2b.com",
+  "crlzmenvstylpdr10.got2b.com",
+  "curlzdf.got2b.com",
+  "curlzfcm.got2b.com",
+  "curlzmd.got2b.com",
+  "curlzrdom.got2b.com",
+  "curlzsc.got2b.com",
+  "curlztm.got2b.com",
+  "dry-shampoo-brunette-400ml.got2b.com",
+  "dry-shampoo-brunette.got2b.com",
+  "dry-shampoo-fresh-400ml.got2b.com",
+  "dry-shampoo-fresh-de.got2b.com",
+  "dry-shampoo-sensitive-400ml.got2b.com",
+  "dry-shampoo-sensitive.got2b.com",
+  "dry-shampoo-volume-400ml.got2b.com",
+  "gahps.got2b.com",
+  "gluedbrowsblack.got2b.com",
+  "gluedbrowsbrown.got2b.com",
+  "gluedbrowswaterproof.got2b.com",
+  "gluedbrowswaterproofu.got2b.com",
+  "gluedwaxstick.got2b.com",
+  "got2b.com",
+  "m.cee.got2b.com",
+  "new.cee.got2b.com",
+  "new.got2b.com",
+  "ollsco.got2b.com",
+  "pride2025.got2b.com",
+  "soafl.got2b.com",
+  "unglued.got2b.com",
+  "volumania-volumizing-blowoutjelly.got2b.com",
+  "volumania-volumizing-powderspray.got2b.com",
+  "www.browlift.got2b.com",
+  "www.bttss.got2b.com",
+  "www.crlzmenstylcrm200.got2b.com",
+  "www.crlzmenstylfm200.got2b.com",
+  "www.crlzmenstyljly150.got2b.com",
+  "www.crlzmenvstylpdr10.got2b.com",
+  "www.curlzdf.got2b.com",
+  "www.curlzfcm.got2b.com",
+  "www.curlzmd.got2b.com",
+  "www.curlzrdom.got2b.com",
+  "www.curlzsc.got2b.com",
+  "www.curlztm.got2b.com",
+  "www.dry-shampoo-brunette-400ml.got2b.com",
+  "www.dry-shampoo-brunette.got2b.com",
+  "www.dry-shampoo-fresh-400ml.got2b.com",
+  "www.dry-shampoo-fresh-de.got2b.com",
+  "www.dry-shampoo-sensitive-400ml.got2b.com",
+  "www.dry-shampoo-sensitive.got2b.com",
+  "www.dry-shampoo-volume-400ml.got2b.com",
+  "www.gahps.got2b.com",
+  "www.gluedbrowsblack.got2b.com",
+  "www.gluedbrowsbrown.got2b.com",
+  "www.gluedbrowswaterproof.got2b.com",
+  "www.gluedwaxstick.got2b.com",
+  "www.got2b.com",
+  "www.m.cee.got2b.com",
+  "www.new.cee.got2b.com",
+  "www.new.got2b.com",
+  "www.ollsco.got2b.com",
+  "www.pride2025.got2b.com",
+  "www.soafl.got2b.com",
+  "www.unglued.got2b.com",
+  "www.volumania-volumizing-blowoutjelly.got2b.com",
+  "www.volumania-volumizing-powderspray.got2b.com",
+  "www1.new.cee.got2b.com",
+  "www5.m.cee.got2b.com"
+ ],
+ "http": [
+  {
+   "url": "http://browlift.got2b.com:80",
+   "host": "browlift.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.161.6.108",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://bttss.got2b.com:80",
+   "host": "bttss.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://crlzmenstylcrm200.got2b.com:80",
+   "host": "crlzmenstylcrm200.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://crlzmenstylfm200.got2b.com:80",
+   "host": "crlzmenstylfm200.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://crlzmenstyljly150.got2b.com:80",
+   "host": "crlzmenstyljly150.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://crlzmenvstylpdr10.got2b.com:80",
+   "host": "crlzmenvstylpdr10.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://curlzdf.got2b.com:80",
+   "host": "curlzdf.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://curlzfcm.got2b.com:80",
+   "host": "curlzfcm.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://curlzmd.got2b.com:80",
+   "host": "curlzmd.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://curlzrdom.got2b.com:80",
+   "host": "curlzrdom.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://curlzsc.got2b.com:80",
+   "host": "curlzsc.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://curlztm.got2b.com:80",
+   "host": "curlztm.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-brunette-400ml.got2b.com:80",
+   "host": "dry-shampoo-brunette-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-brunette.got2b.com:80",
+   "host": "dry-shampoo-brunette.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-fresh-400ml.got2b.com:80",
+   "host": "dry-shampoo-fresh-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.94",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-fresh-de.got2b.com:80",
+   "host": "dry-shampoo-fresh-de.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.14",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-sensitive-400ml.got2b.com:80",
+   "host": "dry-shampoo-sensitive-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.107",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-sensitive.got2b.com:80",
+   "host": "dry-shampoo-sensitive.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dry-shampoo-volume-400ml.got2b.com:80",
+   "host": "dry-shampoo-volume-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.107",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gahps.got2b.com:80",
+   "host": "gahps.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gluedbrowsblack.got2b.com:80",
+   "host": "gluedbrowsblack.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gluedbrowsbrown.got2b.com:80",
+   "host": "gluedbrowsbrown.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.126",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gluedbrowswaterproof.got2b.com:80",
+   "host": "gluedbrowswaterproof.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.75",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gluedwaxstick.got2b.com:80",
+   "host": "gluedwaxstick.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.126",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://got2b.com:80",
+   "host": "got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.81",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://m.cee.got2b.com:80",
+   "host": "m.cee.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.81",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pride2025.got2b.com:80",
+   "host": "pride2025.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.94.97",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://unglued.got2b.com:80",
+   "host": "unglued.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.87",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://volumania-volumizing-blowoutjelly.got2b.com:80",
+   "host": "volumania-volumizing-blowoutjelly.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.1.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://volumania-volumizing-powderspray.got2b.com:80",
+   "host": "volumania-volumizing-powderspray.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.browlift.got2b.com:80",
+   "host": "www.browlift.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.87",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.bttss.got2b.com:80",
+   "host": "www.bttss.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.50",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.crlzmenstylcrm200.got2b.com:80",
+   "host": "www.crlzmenstylcrm200.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.crlzmenstylfm200.got2b.com:80",
+   "host": "www.crlzmenstylfm200.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.crlzmenstyljly150.got2b.com:80",
+   "host": "www.crlzmenstyljly150.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.crlzmenvstylpdr10.got2b.com:80",
+   "host": "www.crlzmenvstylpdr10.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.curlzdf.got2b.com:80",
+   "host": "www.curlzdf.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.curlzfcm.got2b.com:80",
+   "host": "www.curlzfcm.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.curlzmd.got2b.com:80",
+   "host": "www.curlzmd.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.curlzrdom.got2b.com:80",
+   "host": "www.curlzrdom.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.curlzsc.got2b.com:80",
+   "host": "www.curlzsc.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.curlztm.got2b.com:80",
+   "host": "www.curlztm.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-brunette-400ml.got2b.com:80",
+   "host": "www.dry-shampoo-brunette-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.118",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-brunette.got2b.com:80",
+   "host": "www.dry-shampoo-brunette.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-fresh-400ml.got2b.com:80",
+   "host": "www.dry-shampoo-fresh-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-fresh-de.got2b.com:80",
+   "host": "www.dry-shampoo-fresh-de.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.45",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-sensitive-400ml.got2b.com:80",
+   "host": "www.dry-shampoo-sensitive-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.118",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-sensitive.got2b.com:80",
+   "host": "www.dry-shampoo-sensitive.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.45",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.dry-shampoo-volume-400ml.got2b.com:80",
+   "host": "www.dry-shampoo-volume-400ml.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gahps.got2b.com:80",
+   "host": "www.gahps.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gluedbrowsblack.got2b.com:80",
+   "host": "www.gluedbrowsblack.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.127",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gluedbrowsbrown.got2b.com:80",
+   "host": "www.gluedbrowsbrown.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.123",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gluedbrowswaterproof.got2b.com:80",
+   "host": "www.gluedbrowswaterproof.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.127",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gluedwaxstick.got2b.com:80",
+   "host": "www.gluedwaxstick.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.161.6.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.got2b.com:80",
+   "host": "www.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.115",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.m.cee.got2b.com:80",
+   "host": "www.m.cee.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.80",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.pride2025.got2b.com:80",
+   "host": "www.pride2025.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.7",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.unglued.got2b.com:80",
+   "host": "www.unglued.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.126",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.volumania-volumizing-blowoutjelly.got2b.com:80",
+   "host": "www.volumania-volumizing-blowoutjelly.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.1.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.volumania-volumizing-powderspray.got2b.com:80",
+   "host": "www.volumania-volumizing-powderspray.got2b.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://browlift.got2b.com:443",
+   "host": "browlift.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.161.6.108",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://bttss.got2b.com:443",
+   "host": "bttss.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://crlzmenstylcrm200.got2b.com:443",
+   "host": "crlzmenstylcrm200.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://crlzmenstylfm200.got2b.com:443",
+   "host": "crlzmenstylfm200.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://crlzmenstyljly150.got2b.com:443",
+   "host": "crlzmenstyljly150.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://crlzmenvstylpdr10.got2b.com:443",
+   "host": "crlzmenvstylpdr10.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://curlzdf.got2b.com:443",
+   "host": "curlzdf.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://curlzfcm.got2b.com:443",
+   "host": "curlzfcm.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://curlzmd.got2b.com:443",
+   "host": "curlzmd.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://curlzrdom.got2b.com:443",
+   "host": "curlzrdom.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://curlzsc.got2b.com:443",
+   "host": "curlzsc.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://curlztm.got2b.com:443",
+   "host": "curlztm.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-brunette-400ml.got2b.com:443",
+   "host": "dry-shampoo-brunette-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-brunette.got2b.com:443",
+   "host": "dry-shampoo-brunette.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-fresh-400ml.got2b.com:443",
+   "host": "dry-shampoo-fresh-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.94",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-fresh-de.got2b.com:443",
+   "host": "dry-shampoo-fresh-de.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.14",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-sensitive-400ml.got2b.com:443",
+   "host": "dry-shampoo-sensitive-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.107",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-sensitive.got2b.com:443",
+   "host": "dry-shampoo-sensitive.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dry-shampoo-volume-400ml.got2b.com:443",
+   "host": "dry-shampoo-volume-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.107",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://gahps.got2b.com:443",
+   "host": "gahps.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://gluedbrowsblack.got2b.com:443",
+   "host": "gluedbrowsblack.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://gluedbrowsbrown.got2b.com:443",
+   "host": "gluedbrowsbrown.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.126",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://gluedbrowswaterproof.got2b.com:443",
+   "host": "gluedbrowswaterproof.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.75",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://gluedwaxstick.got2b.com:443",
+   "host": "gluedwaxstick.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.126",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://got2b.com:443",
+   "host": "got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.81",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://m.cee.got2b.com:443",
+   "host": "m.cee.got2b.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.81",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://pride2025.got2b.com:443",
+   "host": "pride2025.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.138.94.97",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://unglued.got2b.com:443",
+   "host": "unglued.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.87",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://volumania-volumizing-blowoutjelly.got2b.com:443",
+   "host": "volumania-volumizing-blowoutjelly.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.1.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://volumania-volumizing-powderspray.got2b.com:443",
+   "host": "volumania-volumizing-powderspray.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.browlift.got2b.com:443",
+   "host": "www.browlift.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.87",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.bttss.got2b.com:443",
+   "host": "www.bttss.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.50",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.crlzmenstylcrm200.got2b.com:443",
+   "host": "www.crlzmenstylcrm200.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.crlzmenstylfm200.got2b.com:443",
+   "host": "www.crlzmenstylfm200.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.crlzmenstyljly150.got2b.com:443",
+   "host": "www.crlzmenstyljly150.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.crlzmenvstylpdr10.got2b.com:443",
+   "host": "www.crlzmenvstylpdr10.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.curlzdf.got2b.com:443",
+   "host": "www.curlzdf.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.curlzfcm.got2b.com:443",
+   "host": "www.curlzfcm.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.curlzmd.got2b.com:443",
+   "host": "www.curlzmd.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.16",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.curlzrdom.got2b.com:443",
+   "host": "www.curlzrdom.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.86",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.curlzsc.got2b.com:443",
+   "host": "www.curlzsc.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.110",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.curlztm.got2b.com:443",
+   "host": "www.curlztm.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-brunette-400ml.got2b.com:443",
+   "host": "www.dry-shampoo-brunette-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.118",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-brunette.got2b.com:443",
+   "host": "www.dry-shampoo-brunette.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-fresh-400ml.got2b.com:443",
+   "host": "www.dry-shampoo-fresh-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-fresh-de.got2b.com:443",
+   "host": "www.dry-shampoo-fresh-de.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.45",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-sensitive-400ml.got2b.com:443",
+   "host": "www.dry-shampoo-sensitive-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.118",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-sensitive.got2b.com:443",
+   "host": "www.dry-shampoo-sensitive.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.45",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.dry-shampoo-volume-400ml.got2b.com:443",
+   "host": "www.dry-shampoo-volume-400ml.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gahps.got2b.com:443",
+   "host": "www.gahps.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gluedbrowsblack.got2b.com:443",
+   "host": "www.gluedbrowsblack.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.127",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gluedbrowsbrown.got2b.com:443",
+   "host": "www.gluedbrowsbrown.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.123",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gluedbrowswaterproof.got2b.com:443",
+   "host": "www.gluedbrowswaterproof.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.65.238.127",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.gluedwaxstick.got2b.com:443",
+   "host": "www.gluedwaxstick.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.161.6.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.got2b.com:443",
+   "host": "www.got2b.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "HOME",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.115",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.m.cee.got2b.com:443",
+   "host": "www.m.cee.got2b.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "It works! Apache httpd",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.238.80",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.pride2025.got2b.com:443",
+   "host": "www.pride2025.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.7",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.unglued.got2b.com:443",
+   "host": "www.unglued.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.126",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.volumania-volumizing-blowoutjelly.got2b.com:443",
+   "host": "www.volumania-volumizing-blowoutjelly.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.1.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.volumania-volumizing-powderspray.got2b.com:443",
+   "host": "www.volumania-volumizing-powderspray.got2b.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.31",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

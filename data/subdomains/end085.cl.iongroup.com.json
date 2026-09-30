@@ -1,0 +1,29 @@
+{
+ "domain": "end085.cl.iongroup.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "end085.cl.iongroup.com",
+  "www.end085.cl.iongroup.com"
+ ],
+ "http": [
+  {
+   "url": "https://end085.cl.iongroup.com:443",
+   "host": "end085.cl.iongroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "3.121.246.35",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

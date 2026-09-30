@@ -1,0 +1,840 @@
+{
+ "domain": "floridavaluation.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 34,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "118c.wickedpedia.floridavaluation.com",
+  "209c.wickedpedia.floridavaluation.com",
+  "221c.wickedpedia.floridavaluation.com",
+  "222k.wickedpedia.floridavaluation.com",
+  "222m.autodiscover.floridavaluation.com",
+  "227k.wickedpedia.floridavaluation.com",
+  "227s.autodiscover.floridavaluation.com",
+  "229c.wickedpedia.floridavaluation.com",
+  "236c.wickedpedia.floridavaluation.com",
+  "25.w2k8sbs.teamisw.floridavaluation.com",
+  "2a.wickedpedia.floridavaluation.com",
+  "33.w2k8sbs.teamisw.floridavaluation.com",
+  "autodiscover.floridavaluation.com",
+  "autodiscoverw.floridavaluation.com",
+  "com.floridavaluation.com",
+  "coms.autodiscover.floridavaluation.com",
+  "corp.floridavaluation.com",
+  "corp.w2k8sbs.teamisw.floridavaluation.com",
+  "corp.wickedpedia.floridavaluation.com",
+  "cs.w2k8sbs.teamisw.floridavaluation.com",
+  "demo.floridavaluation.com",
+  "demo.wickedpedia.floridavaluation.com",
+  "dev.floridavaluation.com",
+  "dial.w2k8sbs.teamisw.floridavaluation.com",
+  "diale.wickedpedia.floridavaluation.com",
+  "dsl.w2k8sbs.teamisw.floridavaluation.com",
+  "dslk.wickedpedia.floridavaluation.com",
+  "floridavaluation.com",
+  "fra.wickedpedia.floridavaluation.com",
+  "msoid.floridavaluation.com",
+  "teamisw.floridavaluation.com",
+  "w2k8sbs.teamisw.floridavaluation.com",
+  "wickedpedia.floridavaluation.com",
+  "www.floridavaluation.com"
+ ],
+ "http": [
+  {
+   "url": "http://118c.wickedpedia.floridavaluation.com:80",
+   "host": "118c.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://209c.wickedpedia.floridavaluation.com:80",
+   "host": "209c.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://221c.wickedpedia.floridavaluation.com:80",
+   "host": "221c.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://222k.wickedpedia.floridavaluation.com:80",
+   "host": "222k.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://227k.wickedpedia.floridavaluation.com:80",
+   "host": "227k.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://229c.wickedpedia.floridavaluation.com:80",
+   "host": "229c.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://236c.wickedpedia.floridavaluation.com:80",
+   "host": "236c.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://25.w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "25.w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://2a.wickedpedia.floridavaluation.com:80",
+   "host": "2a.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://33.w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "33.w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.floridavaluation.com:80",
+   "host": "autodiscover.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "40.99.232.120",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscoverw.floridavaluation.com:80",
+   "host": "autodiscoverw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://com.floridavaluation.com:80",
+   "host": "com.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://corp.floridavaluation.com:80",
+   "host": "corp.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://corp.w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "corp.w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://corp.wickedpedia.floridavaluation.com:80",
+   "host": "corp.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cs.w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "cs.w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://demo.floridavaluation.com:80",
+   "host": "demo.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://demo.wickedpedia.floridavaluation.com:80",
+   "host": "demo.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.floridavaluation.com:80",
+   "host": "dev.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dial.w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "dial.w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://diale.wickedpedia.floridavaluation.com:80",
+   "host": "diale.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dsl.w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "dsl.w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dslk.wickedpedia.floridavaluation.com:80",
+   "host": "dslk.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:2082",
+   "host": "floridavaluation.com",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:2095",
+   "host": "floridavaluation.com",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:3000",
+   "host": "floridavaluation.com",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:80",
+   "host": "floridavaluation.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8000",
+   "host": "floridavaluation.com",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8001",
+   "host": "floridavaluation.com",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8008",
+   "host": "floridavaluation.com",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8080",
+   "host": "floridavaluation.com",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8081",
+   "host": "floridavaluation.com",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8090",
+   "host": "floridavaluation.com",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:81",
+   "host": "floridavaluation.com",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8443",
+   "host": "floridavaluation.com",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:8888",
+   "host": "floridavaluation.com",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:9000",
+   "host": "floridavaluation.com",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:9090",
+   "host": "floridavaluation.com",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://floridavaluation.com:9443",
+   "host": "floridavaluation.com",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.175.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fra.wickedpedia.floridavaluation.com:80",
+   "host": "fra.wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://msoid.floridavaluation.com:80",
+   "host": "msoid.floridavaluation.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.190.151.67",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://teamisw.floridavaluation.com:80",
+   "host": "teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://w2k8sbs.teamisw.floridavaluation.com:80",
+   "host": "w2k8sbs.teamisw.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wickedpedia.floridavaluation.com:80",
+   "host": "wickedpedia.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:2082",
+   "host": "www.floridavaluation.com",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:2095",
+   "host": "www.floridavaluation.com",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:3000",
+   "host": "www.floridavaluation.com",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:80",
+   "host": "www.floridavaluation.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8000",
+   "host": "www.floridavaluation.com",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8001",
+   "host": "www.floridavaluation.com",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8008",
+   "host": "www.floridavaluation.com",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8080",
+   "host": "www.floridavaluation.com",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8081",
+   "host": "www.floridavaluation.com",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8090",
+   "host": "www.floridavaluation.com",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8443",
+   "host": "www.floridavaluation.com",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:8888",
+   "host": "www.floridavaluation.com",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:9000",
+   "host": "www.floridavaluation.com",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:9090",
+   "host": "www.floridavaluation.com",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.floridavaluation.com:9443",
+   "host": "www.floridavaluation.com",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://msoid.floridavaluation.com:443",
+   "host": "msoid.floridavaluation.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.190.151.67",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

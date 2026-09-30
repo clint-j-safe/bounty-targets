@@ -1,0 +1,1271 @@
+{
+ "domain": "evcharging.abb.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 216,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "acc.adminapp.evcharging.abb.com",
+  "acc.customer.evcharging.abb.com",
+  "acc.login.evcharging.abb.com",
+  "acc.service.evcharging.abb.com",
+  "acc.tgp-commissioning.evcharging.abb.com",
+  "acc7.service.evcharging.abb.com",
+  "accc.customer.evcharging.abb.com",
+  "accept.evcharging.abb.com",
+  "accept.wallbox.evcharging.abb.com",
+  "accq.adminapp.evcharging.abb.com",
+  "accu.login.evcharging.abb.com",
+  "admin.accept.evcharging.abb.com",
+  "admin.dev.evcharging.abb.com",
+  "admin.evcharging.abb.com",
+  "admin.testlab.evcharging.abb.com",
+  "admin.us.evcharging.abb.com",
+  "admina.testlab.evcharging.abb.com",
+  "adminapp.evcharging.abb.com",
+  "admink.dev.evcharging.abb.com",
+  "adminw.us.evcharging.abb.com",
+  "api.accept.evcharging.abb.com",
+  "api.accept.wallbox.evcharging.abb.com",
+  "api.commissioning.evcharging.abb.com",
+  "api.dev.evcharging.abb.com",
+  "api.dev.wallbox.evcharging.abb.com",
+  "api.evcharging.abb.com",
+  "api.test.wallbox.evcharging.abb.com",
+  "api.testlab.evcharging.abb.com",
+  "api.us.evcharging.abb.com",
+  "api.wallbox.evcharging.abb.com",
+  "apim.commissioning.evcharging.abb.com",
+  "apio.dev.wallbox.evcharging.abb.com",
+  "apiq.evcharging.abb.com",
+  "apiw.accept.wallbox.evcharging.abb.com",
+  "apiy.accept.evcharging.abb.com",
+  "apiy.test.wallbox.evcharging.abb.com",
+  "apiy.wallbox.evcharging.abb.com",
+  "apps.api.evcharging.abb.com",
+  "auth.accept.wallbox.evcharging.abb.com",
+  "auth.dev.wallbox.evcharging.abb.com",
+  "auth.service.accept.evcharging.abb.com",
+  "auth.service.dev.evcharging.abb.com",
+  "auth.service.evcharging.abb.com",
+  "auth.service.testlab.evcharging.abb.com",
+  "auth.service.us.evcharging.abb.com",
+  "auth.test.wallbox.evcharging.abb.com",
+  "auth.wallbox.evcharging.abb.com",
+  "auth1.service.accept.evcharging.abb.com",
+  "auth5.accept.wallbox.evcharging.abb.com",
+  "auth5.dev.wallbox.evcharging.abb.com",
+  "authe.test.wallbox.evcharging.abb.com",
+  "authq.service.dev.evcharging.abb.com",
+  "authq.service.us.evcharging.abb.com",
+  "backoffice.commissioning.evcharging.abb.com",
+  "blogsw.api.evcharging.abb.com",
+  "blogu.api.evcharging.abb.com",
+  "chargers.accept.evcharging.abb.com",
+  "chargers.dev.evcharging.abb.com",
+  "chargers.evcharging.abb.com",
+  "chargers.testlab.evcharging.abb.com",
+  "chargers.us.evcharging.abb.com",
+  "chargers5.testlab.evcharging.abb.com",
+  "chargersk.accept.evcharging.abb.com",
+  "chargerso.us.evcharging.abb.com",
+  "checkmate.evcharging.abb.com",
+  "commissioning.evcharging.abb.com",
+  "commissioning3.evcharging.abb.com",
+  "coms.api.evcharging.abb.com",
+  "csms.evcharging.abb.com",
+  "customer-service.accept.wallbox.evcharging.abb.com",
+  "customer-service.dev.wallbox.evcharging.abb.com",
+  "customer-service.test.wallbox.evcharging.abb.com",
+  "customer-service.wallbox.evcharging.abb.com",
+  "customer-service9.test.wallbox.evcharging.abb.com",
+  "customer-serviceg.dev.wallbox.evcharging.abb.com",
+  "customer-serviceg.wallbox.evcharging.abb.com",
+  "customer-servicei.accept.wallbox.evcharging.abb.com",
+  "customer.accept.wallbox.evcharging.abb.com",
+  "customer.dev.wallbox.evcharging.abb.com",
+  "customer.evcharging.abb.com",
+  "customer.test.wallbox.evcharging.abb.com",
+  "customer.wallbox.evcharging.abb.com",
+  "customer1.evcharging.abb.com",
+  "dev.adminapp.evcharging.abb.com",
+  "dev.csms.evcharging.abb.com",
+  "dev.customer.evcharging.abb.com",
+  "dev.evcharging.abb.com",
+  "dev.login.evcharging.abb.com",
+  "dev.service.evcharging.abb.com",
+  "dev.tgp-commissioning.evcharging.abb.com",
+  "dev.wallbox.evcharging.abb.com",
+  "dev3.evcharging.abb.com",
+  "dev7.service.evcharging.abb.com",
+  "deva.csms.evcharging.abb.com",
+  "devs.customer.evcharging.abb.com",
+  "evcharging.abb.com",
+  "hublite.service.evcharging.abb.com",
+  "installation-partner.accept.wallbox.evcharging.abb.com",
+  "installation-partner.dev.wallbox.evcharging.abb.com",
+  "installation-partner.test.wallbox.evcharging.abb.com",
+  "installation-partner.wallbox.evcharging.abb.com",
+  "login.evcharging.abb.com",
+  "mfe.chargers.accept.evcharging.abb.com",
+  "mfe.chargers.dev.evcharging.abb.com",
+  "mfe.chargers.evcharging.abb.com",
+  "mfe.chargers.testlab.evcharging.abb.com",
+  "ocpp.accept.evcharging.abb.com",
+  "ocpp.dev.evcharging.abb.com",
+  "ocpp.evcharging.abb.com",
+  "ocpp.testlab.evcharging.abb.com",
+  "ocpp.us.evcharging.abb.com",
+  "ocppa.dev.evcharging.abb.com",
+  "ocppauth.accept.evcharging.abb.com",
+  "ocppauth.dev.evcharging.abb.com",
+  "ocppauth.evcharging.abb.com",
+  "ocppauth.testlab.evcharging.abb.com",
+  "ocppauth.us.evcharging.abb.com",
+  "ocppauthg.dev.evcharging.abb.com",
+  "ocppauthg.evcharging.abb.com",
+  "ocppauthk.testlab.evcharging.abb.com",
+  "ocppauthm.accept.evcharging.abb.com",
+  "ocppe.accept.evcharging.abb.com",
+  "ocppe.testlab.evcharging.abb.com",
+  "ocppg.us.evcharging.abb.com",
+  "office.installation-partner.accept.wallbox.evcharging.abb.com",
+  "office.installation-partner.dev.wallbox.evcharging.abb.com",
+  "office.installation-partner.test.wallbox.evcharging.abb.com",
+  "office.installation-partner.wallbox.evcharging.abb.com",
+  "office7.installation-partner.wallbox.evcharging.abb.com",
+  "qa.checkmate.evcharging.abb.com",
+  "service.accept.evcharging.abb.com",
+  "service.dev.evcharging.abb.com",
+  "service.evcharging.abb.com",
+  "service.installation-partner.accept.wallbox.evcharging.abb.com",
+  "service.installation-partner.dev.wallbox.evcharging.abb.com",
+  "service.installation-partner.test.wallbox.evcharging.abb.com",
+  "service.installation-partner.wallbox.evcharging.abb.com",
+  "service.testlab.evcharging.abb.com",
+  "service.us.evcharging.abb.com",
+  "servicea.evcharging.abb.com",
+  "services.accept.evcharging.abb.com",
+  "services.dev.evcharging.abb.com",
+  "services.evcharging.abb.com",
+  "servicesa.dev.evcharging.abb.com",
+  "servicesw.evcharging.abb.com",
+  "static.accept.wallbox.evcharging.abb.com",
+  "static.dev.wallbox.evcharging.abb.com",
+  "static.test.wallbox.evcharging.abb.com",
+  "static.wallbox.evcharging.abb.com",
+  "statice.test.wallbox.evcharging.abb.com",
+  "staticg.wallbox.evcharging.abb.com",
+  "test.adminapp.evcharging.abb.com",
+  "test.checkmate.evcharging.abb.com",
+  "test.customer.evcharging.abb.com",
+  "test.login.evcharging.abb.com",
+  "test.wallbox.evcharging.abb.com",
+  "testlab.backoffice.commissioning.evcharging.abb.com",
+  "testlab.commissioning.evcharging.abb.com",
+  "testlab.evcharging.abb.com",
+  "tgp-commissioning.evcharging.abb.com",
+  "theme-a.customer.accept.wallbox.evcharging.abb.com",
+  "theme-a.customer.dev.wallbox.evcharging.abb.com",
+  "theme-a.customer.test.wallbox.evcharging.abb.com",
+  "theme-a.customer.wallbox.evcharging.abb.com",
+  "theme-a5.customer.wallbox.evcharging.abb.com",
+  "theme-ai.customer.dev.wallbox.evcharging.abb.com",
+  "theme-aq.customer.test.wallbox.evcharging.abb.com",
+  "theme-f.customer.accept.wallbox.evcharging.abb.com",
+  "theme-f.customer.dev.wallbox.evcharging.abb.com",
+  "theme-f.customer.test.wallbox.evcharging.abb.com",
+  "theme-f.customer.wallbox.evcharging.abb.com",
+  "theme-f3.customer.test.wallbox.evcharging.abb.com",
+  "theme-fe.customer.accept.wallbox.evcharging.abb.com",
+  "theme-fe.customer.wallbox.evcharging.abb.com",
+  "theme-s.customer.accept.wallbox.evcharging.abb.com",
+  "theme-s.customer.dev.wallbox.evcharging.abb.com",
+  "theme-s.customer.test.wallbox.evcharging.abb.com",
+  "theme-s.customer.wallbox.evcharging.abb.com",
+  "theme-sa.customer.dev.wallbox.evcharging.abb.com",
+  "theme-sg.customer.wallbox.evcharging.abb.com",
+  "transfer.accept.evcharging.abb.com",
+  "transfer.dev.evcharging.abb.com",
+  "transfer.evcharging.abb.com",
+  "transfer.service.accept.evcharging.abb.com",
+  "transfer.service.dev.evcharging.abb.com",
+  "transfer.service.evcharging.abb.com",
+  "transfer.service.testlab.evcharging.abb.com",
+  "transfer.service.us.evcharging.abb.com",
+  "transfer.testlab.evcharging.abb.com",
+  "transfer.us.evcharging.abb.com",
+  "transfer3.evcharging.abb.com",
+  "transfer5.service.accept.evcharging.abb.com",
+  "transfer9.testlab.evcharging.abb.com",
+  "transferg.service.testlab.evcharging.abb.com",
+  "transferg.us.evcharging.abb.com",
+  "transferm.service.evcharging.abb.com",
+  "transferw.accept.evcharging.abb.com",
+  "transferw.dev.evcharging.abb.com",
+  "us.evcharging.abb.com",
+  "wallbox.evcharging.abb.com",
+  "www.admin.testlab.evcharging.abb.com",
+  "www.evcharging.abb.com",
+  "www.ocpp.evcharging.abb.com",
+  "www.ocpp.testlab.evcharging.abb.com",
+  "www.xmpp.evcharging.abb.com",
+  "www7.admin.testlab.evcharging.abb.com",
+  "wwwe.ocpp.testlab.evcharging.abb.com",
+  "wwwm.ocpp.evcharging.abb.com",
+  "xmpp.accept.evcharging.abb.com",
+  "xmpp.dev.evcharging.abb.com",
+  "xmpp.evcharging.abb.com",
+  "xmpp.testlab.evcharging.abb.com",
+  "xmpp.us.evcharging.abb.com",
+  "xmpp9.us.evcharging.abb.com",
+  "xmppk.dev.evcharging.abb.com",
+  "xmppw.accept.evcharging.abb.com"
+ ],
+ "http": [
+  {
+   "url": "http://acc.adminapp.evcharging.abb.com:80",
+   "host": "acc.adminapp.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://acc.customer.evcharging.abb.com:80",
+   "host": "acc.customer.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://acc.login.evcharging.abb.com:80",
+   "host": "acc.login.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://acc.service.evcharging.abb.com:80",
+   "host": "acc.service.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://acc.tgp-commissioning.evcharging.abb.com:80",
+   "host": "acc.tgp-commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.106.1.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://adminapp.evcharging.abb.com:80",
+   "host": "adminapp.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://api.commissioning.evcharging.abb.com:80",
+   "host": "api.commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.service.accept.evcharging.abb.com:80",
+   "host": "auth.service.accept.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.209",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.service.dev.evcharging.abb.com:80",
+   "host": "auth.service.dev.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.service.evcharging.abb.com:80",
+   "host": "auth.service.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.178",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.service.testlab.evcharging.abb.com:80",
+   "host": "auth.service.testlab.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://backoffice.commissioning.evcharging.abb.com:80",
+   "host": "backoffice.commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://commissioning.evcharging.abb.com:80",
+   "host": "commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://customer.evcharging.abb.com:80",
+   "host": "customer.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.adminapp.evcharging.abb.com:80",
+   "host": "dev.adminapp.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.customer.evcharging.abb.com:80",
+   "host": "dev.customer.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.login.evcharging.abb.com:80",
+   "host": "dev.login.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.178",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.service.evcharging.abb.com:80",
+   "host": "dev.service.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.tgp-commissioning.evcharging.abb.com:80",
+   "host": "dev.tgp-commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.106.1.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://login.evcharging.abb.com:80",
+   "host": "login.evcharging.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://service.evcharging.abb.com:80",
+   "host": "service.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.customer.evcharging.abb.com:80",
+   "host": "test.customer.evcharging.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://testlab.backoffice.commissioning.evcharging.abb.com:80",
+   "host": "testlab.backoffice.commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://testlab.commissioning.evcharging.abb.com:80",
+   "host": "testlab.commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://tgp-commissioning.evcharging.abb.com:80",
+   "host": "tgp-commissioning.evcharging.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.106.1.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://acc.adminapp.evcharging.abb.com:443",
+   "host": "acc.adminapp.evcharging.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Admin Portal",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://acc.customer.evcharging.abb.com:443",
+   "host": "acc.customer.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://acc.login.evcharging.abb.com:443",
+   "host": "acc.login.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://acc.service.evcharging.abb.com:443",
+   "host": "acc.service.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://acc.tgp-commissioning.evcharging.abb.com:443",
+   "host": "acc.tgp-commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.106.1.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin.accept.evcharging.abb.com:443",
+   "host": "admin.accept.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.31.96.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin.dev.evcharging.abb.com:443",
+   "host": "admin.dev.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "13.94.228.161",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin.evcharging.abb.com:443",
+   "host": "admin.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.31.200.142",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin.testlab.evcharging.abb.com:443",
+   "host": "admin.testlab.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.93.218.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://adminapp.evcharging.abb.com:443",
+   "host": "adminapp.evcharging.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Admin Portal",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api.commissioning.evcharging.abb.com:443",
+   "host": "api.commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth.service.accept.evcharging.abb.com:443",
+   "host": "auth.service.accept.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.209",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth.service.dev.evcharging.abb.com:443",
+   "host": "auth.service.dev.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth.service.evcharging.abb.com:443",
+   "host": "auth.service.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.178",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth.service.testlab.evcharging.abb.com:443",
+   "host": "auth.service.testlab.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://backoffice.commissioning.evcharging.abb.com:443",
+   "host": "backoffice.commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Sage tool",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://chargers.accept.evcharging.abb.com:443",
+   "host": "chargers.accept.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.31.96.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://chargers.dev.evcharging.abb.com:443",
+   "host": "chargers.dev.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "13.94.228.161",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://chargers.evcharging.abb.com:443",
+   "host": "chargers.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.31.200.142",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://chargers.testlab.evcharging.abb.com:443",
+   "host": "chargers.testlab.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.93.218.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://checkmate.evcharging.abb.com:443",
+   "host": "checkmate.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to https://checkmate.evcharging.abb.com/nitrogen",
+   "webserver": "Apache/2.4.57 (Debian)",
+   "technologies": [
+    "Apache HTTP Server:2.4.57",
+    "Debian",
+    "HSTS",
+    "PHP:8.1.25"
+   ],
+   "cdn": true,
+   "ip": "172.205.240.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://commissioning.evcharging.abb.com:443",
+   "host": "commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Commissioning tool",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://customer.evcharging.abb.com:443",
+   "host": "customer.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.adminapp.evcharging.abb.com:443",
+   "host": "dev.adminapp.evcharging.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Admin Portal",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.45.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.customer.evcharging.abb.com:443",
+   "host": "dev.customer.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.login.evcharging.abb.com:443",
+   "host": "dev.login.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.178",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.service.evcharging.abb.com:443",
+   "host": "dev.service.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.tgp-commissioning.evcharging.abb.com:443",
+   "host": "dev.tgp-commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.106.1.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://login.evcharging.abb.com:443",
+   "host": "login.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.211",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mfe.chargers.dev.evcharging.abb.com:443",
+   "host": "mfe.chargers.dev.evcharging.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "nginx/1.26.3",
+   "technologies": [
+    "HSTS",
+    "Nginx:1.26.3"
+   ],
+   "cdn": true,
+   "ip": "13.94.228.161",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mfe.chargers.evcharging.abb.com:443",
+   "host": "mfe.chargers.evcharging.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "nginx/1.26.3",
+   "technologies": [
+    "HSTS",
+    "Nginx:1.26.3"
+   ],
+   "cdn": true,
+   "ip": "20.31.200.142",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mfe.chargers.testlab.evcharging.abb.com:443",
+   "host": "mfe.chargers.testlab.evcharging.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "nginx/1.26.3",
+   "technologies": [
+    "HSTS",
+    "Nginx:1.26.3"
+   ],
+   "cdn": true,
+   "ip": "20.93.218.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa.checkmate.evcharging.abb.com:443",
+   "host": "qa.checkmate.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to https://qa.checkmate.evcharging.abb.com/nitrogen",
+   "webserver": "Apache/2.4.57 (Debian)",
+   "technologies": [
+    "Apache HTTP Server:2.4.57",
+    "Debian",
+    "PHP:8.1.25"
+   ],
+   "cdn": true,
+   "ip": "20.56.34.69",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://service.evcharging.abb.com:443",
+   "host": "service.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.checkmate.evcharging.abb.com:443",
+   "host": "test.checkmate.evcharging.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to https://test.checkmate.evcharging.abb.com/nitrogen",
+   "webserver": "Apache/2.4.68 (Debian)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Debian",
+    "HSTS",
+    "PHP:8.5.10"
+   ],
+   "cdn": true,
+   "ip": "68.219.180.109",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.customer.evcharging.abb.com:443",
+   "host": "test.customer.evcharging.abb.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.221.43.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://testlab.backoffice.commissioning.evcharging.abb.com:443",
+   "host": "testlab.backoffice.commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Sage tool",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://testlab.commissioning.evcharging.abb.com:443",
+   "host": "testlab.commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Service unavailable",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.184",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://tgp-commissioning.evcharging.abb.com:443",
+   "host": "tgp-commissioning.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.106.1.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.accept.evcharging.abb.com:443",
+   "host": "transfer.accept.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.31.96.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.dev.evcharging.abb.com:443",
+   "host": "transfer.dev.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "13.94.228.161",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.evcharging.abb.com:443",
+   "host": "transfer.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.31.200.142",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.service.accept.evcharging.abb.com:443",
+   "host": "transfer.service.accept.evcharging.abb.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "68.219.122.249",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.service.dev.evcharging.abb.com:443",
+   "host": "transfer.service.dev.evcharging.abb.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "4.231.249.167",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.service.evcharging.abb.com:443",
+   "host": "transfer.service.evcharging.abb.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "20.82.231.169",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.service.testlab.evcharging.abb.com:443",
+   "host": "transfer.service.testlab.evcharging.abb.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "20.238.8.102",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://transfer.testlab.evcharging.abb.com:443",
+   "host": "transfer.testlab.evcharging.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.93.218.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

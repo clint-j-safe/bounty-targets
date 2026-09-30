@@ -1,0 +1,44 @@
+{
+ "domain": "ihbnext-col-db.cedacri.it",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "ihbnext-col-db.cedacri.it",
+  "www.ihbnext-col-db.cedacri.it"
+ ],
+ "http": [
+  {
+   "url": "http://ihbnext-col-db.cedacri.it:80",
+   "host": "ihbnext-col-db.cedacri.it",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud"
+   ],
+   "cdn": false,
+   "ip": "159.60.134.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ihbnext-col-db.cedacri.it:443",
+   "host": "ihbnext-col-db.cedacri.it",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "server",
+   "technologies": [
+    "Envoy",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "159.60.134.78",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

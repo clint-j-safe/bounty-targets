@@ -1,0 +1,324 @@
+{
+ "domain": "famousamos.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "dev-identity-ca.famousamos.com",
+  "dev-identity-us.famousamos.com",
+  "famousamos.com",
+  "prod-identity-ca.famousamos.com",
+  "prod-identity-us.famousamos.com",
+  "prod.famousamos.com",
+  "qa-identity-ca.famousamos.com",
+  "qa-identity-us.famousamos.com",
+  "qa.famousamos.com",
+  "www.famousamos.com",
+  "www.prod.famousamos.com",
+  "wwwc.famousamos.com"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-ca.famousamos.com:80",
+   "host": "dev-identity-ca.famousamos.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev-identity-us.famousamos.com:80",
+   "host": "dev-identity-us.famousamos.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://famousamos.com:80",
+   "host": "famousamos.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod-identity-ca.famousamos.com:80",
+   "host": "prod-identity-ca.famousamos.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod-identity-us.famousamos.com:80",
+   "host": "prod-identity-us.famousamos.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod.famousamos.com:80",
+   "host": "prod.famousamos.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.66.127.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa-identity-ca.famousamos.com:80",
+   "host": "qa-identity-ca.famousamos.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.45",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa-identity-us.famousamos.com:80",
+   "host": "qa-identity-us.famousamos.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.famousamos.com:80",
+   "host": "www.famousamos.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.66.127.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-identity-ca.famousamos.com:443",
+   "host": "dev-identity-ca.famousamos.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.65",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-identity-us.famousamos.com:443",
+   "host": "dev-identity-us.famousamos.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famousamos.com:443",
+   "host": "famousamos.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famousamos.com:8443",
+   "host": "famousamos.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famousamos.com:9443",
+   "host": "famousamos.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod-identity-ca.famousamos.com:443",
+   "host": "prod-identity-ca.famousamos.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod-identity-us.famousamos.com:443",
+   "host": "prod-identity-us.famousamos.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.4",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod.famousamos.com:443",
+   "host": "prod.famousamos.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Error",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.66.127.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa-identity-ca.famousamos.com:443",
+   "host": "qa-identity-ca.famousamos.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.45",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa-identity-us.famousamos.com:443",
+   "host": "qa-identity-us.famousamos.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.43",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.famousamos.com:443",
+   "host": "www.famousamos.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Bite Size Cookies with Big Taste | Famous Amos",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Adobe Fonts",
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Drupal:10",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS",
+    "PHP",
+    "Typekit",
+    "jQuery"
+   ],
+   "cdn": false,
+   "ip": "23.66.127.151",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

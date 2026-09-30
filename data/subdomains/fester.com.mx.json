@@ -1,0 +1,159 @@
+{
+ "domain": "fester.com.mx",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "fester.com.mx",
+  "member.fester.com.mx",
+  "memberi.fester.com.mx",
+  "mta-sts.fester.com.mx",
+  "www.fester.com.mx",
+  "www.member.fester.com.mx"
+ ],
+ "http": [
+  {
+   "url": "http://fester.com.mx:80",
+   "host": "fester.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.103.85",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://member.fester.com.mx:80",
+   "host": "member.fester.com.mx",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mta-sts.fester.com.mx:80",
+   "host": "mta-sts.fester.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.69.116",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fester.com.mx:80",
+   "host": "www.fester.com.mx",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.103.123",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.member.fester.com.mx:80",
+   "host": "www.member.fester.com.mx",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.72",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fester.com.mx:443",
+   "host": "fester.com.mx",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.162.103.85",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://member.fester.com.mx:443",
+   "host": "member.fester.com.mx",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.25",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mta-sts.fester.com.mx:443",
+   "host": "mta-sts.fester.com.mx",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.69.116",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.fester.com.mx:443",
+   "host": "www.fester.com.mx",
+   "port": "443",
+   "status_code": 200,
+   "title": "Fester - L\u00edder en soluciones para la construcci\u00f3n",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "3.162.103.123",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

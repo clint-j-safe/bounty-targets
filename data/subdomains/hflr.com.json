@@ -1,0 +1,68 @@
+{
+ "domain": "hflr.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "hflr.com",
+  "old.hflr.com",
+  "www.hflr.com",
+  "www.old.hflr.com"
+ ],
+ "http": [
+  {
+   "url": "http://hflr.com:80",
+   "host": "hflr.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "178.79.175.153",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hflr.com:80",
+   "host": "www.hflr.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "178.79.175.153",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://hflr.com:443",
+   "host": "hflr.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "178.79.175.153",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.hflr.com:443",
+   "host": "www.hflr.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "178.79.175.153",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

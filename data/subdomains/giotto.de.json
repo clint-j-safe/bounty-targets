@@ -1,0 +1,202 @@
+{
+ "domain": "giotto.de",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "dev-identity-de.giotto.de",
+  "giotto.de",
+  "prod-identity-de.giotto.de",
+  "qa-identity-de.giotto.de",
+  "www.dev-identity-de.giotto.de",
+  "www.giotto.de",
+  "www.prod-identity-de.giotto.de",
+  "www.qa-identity-de.giotto.de"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-de.giotto.de:80",
+   "host": "dev-identity-de.giotto.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.60",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://giotto.de:80",
+   "host": "giotto.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://prod-identity-de.giotto.de:80",
+   "host": "prod-identity-de.giotto.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.75",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa-identity-de.giotto.de:80",
+   "host": "qa-identity-de.giotto.de",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.94.95",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.giotto.de:80",
+   "host": "www.giotto.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.41.4.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-identity-de.giotto.de:443",
+   "host": "dev-identity-de.giotto.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.60",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://giotto.de:443",
+   "host": "giotto.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://giotto.de:8443",
+   "host": "giotto.de",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://giotto.de:9443",
+   "host": "giotto.de",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://prod-identity-de.giotto.de:443",
+   "host": "prod-identity-de.giotto.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.101.75",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa-identity-de.giotto.de:443",
+   "host": "qa-identity-de.giotto.de",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.94.95",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.giotto.de:443",
+   "host": "www.giotto.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "Ciao GiOTTO!",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "23.41.4.90",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

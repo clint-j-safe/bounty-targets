@@ -1,0 +1,62 @@
+{
+ "domain": "gb.abb.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 10,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "autodiscover.gb.abb.com",
+  "energy-assessment.gb.abb.com",
+  "energy-assessment3.gb.abb.com",
+  "gb.abb.com",
+  "gbsmtp.gb.abb.com",
+  "lyncdiscover.gb.abb.com",
+  "mo-engineeringvault.gb.abb.com",
+  "origin-086xc01ngf-test.energy-assessment.gb.abb.com",
+  "test.energy-assessment.gb.abb.com",
+  "www.gb.abb.com"
+ ],
+ "http": [
+  {
+   "url": "http://autodiscover.gb.abb.com:80",
+   "host": "autodiscover.gb.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.110.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gb.abb.com:80",
+   "host": "gb.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.30.5",
+   "technologies": [
+    "Nginx:1.30.5"
+   ],
+   "cdn": true,
+   "ip": "34.247.3.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mo-engineeringvault.gb.abb.com:80",
+   "host": "mo-engineeringvault.gb.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.212.62.207",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "domain": "inframationamericas.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "inframationamericas.com",
+  "www.inframationamericas.com"
+ ],
+ "http": [
+  {
+   "url": "http://inframationamericas.com:80",
+   "host": "inframationamericas.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "Unknown web server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.inframationamericas.com:80",
+   "host": "www.inframationamericas.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "Unknown web server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://inframationamericas.com:443",
+   "host": "inframationamericas.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.inframationamericas.com:443",
+   "host": "www.inframationamericas.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

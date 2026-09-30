@@ -1,0 +1,40 @@
+{
+ "domain": "eu.ibam.iongroup.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "eu.ibam.iongroup.com",
+  "uat.eu.ibam.iongroup.com",
+  "www.eu.ibam.iongroup.com",
+  "www.uat.eu.ibam.iongroup.com"
+ ],
+ "http": [
+  {
+   "url": "https://eu.ibam.iongroup.com:443",
+   "host": "eu.ibam.iongroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.197.66.88",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://uat.eu.ibam.iongroup.com:443",
+   "host": "uat.eu.ibam.iongroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.197.160.67",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "domain": "henkeldx.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 35,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "api-dev.henkeldx.com",
+  "api-dev7.henkeldx.com",
+  "api-test.henkeldx.com",
+  "api.henkeldx.com",
+  "api.ltsd-dev.henkeldx.com",
+  "api5.henkeldx.com",
+  "apipy.henkeldx.com",
+  "auth.ltsd-dev.henkeldx.com",
+  "developers.henkeldx.com",
+  "developersy.henkeldx.com",
+  "henkeldx.com",
+  "integration.henkeldx.com",
+  "iot.henkeldx.com",
+  "ltsd-dev.henkeldx.com",
+  "qasalesapp.henkeldx.com",
+  "remap.henkeldx.com",
+  "saifty.remap.henkeldx.com",
+  "ttrr.henkeldx.com",
+  "velo.henkeldx.com",
+  "www.api-dev.henkeldx.com",
+  "www.api-test.henkeldx.com",
+  "www.api.henkeldx.com",
+  "www.api.ltsd-dev.henkeldx.com",
+  "www.auth.ltsd-dev.henkeldx.com",
+  "www.developers.henkeldx.com",
+  "www.henkeldx.com",
+  "www.integration.henkeldx.com",
+  "www.iot.henkeldx.com",
+  "www.ltsd-dev.henkeldx.com",
+  "www.qasalesapp.henkeldx.com",
+  "www.remap.henkeldx.com",
+  "www.saifty.remap.henkeldx.com",
+  "www.ttrr.henkeldx.com",
+  "www.velo.henkeldx.com",
+  "wwws.henkeldx.com"
+ ],
+ "http": [
+  {
+   "url": "http://developers.henkeldx.com:80",
+   "host": "developers.henkeldx.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "BigIP",
+   "technologies": [
+    "F5 BigIP"
+   ],
+   "cdn": false,
+   "ip": "155.56.229.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://henkeldx.com:80",
+   "host": "henkeldx.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.132.25.11",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://remap.henkeldx.com:80",
+   "host": "remap.henkeldx.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.124.208.223",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://saifty.remap.henkeldx.com:80",
+   "host": "saifty.remap.henkeldx.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.67.14.140",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ttrr.henkeldx.com:80",
+   "host": "ttrr.henkeldx.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.124.222.77",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.developers.henkeldx.com:80",
+   "host": "www.developers.henkeldx.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "BigIP",
+   "technologies": [
+    "F5 BigIP"
+   ],
+   "cdn": false,
+   "ip": "155.56.229.71",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.henkeldx.com:80",
+   "host": "www.henkeldx.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.132.25.11",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.saifty.remap.henkeldx.com:80",
+   "host": "www.saifty.remap.henkeldx.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.79.90.75",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api-dev.henkeldx.com:443",
+   "host": "api-dev.henkeldx.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.122.187.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api-test.henkeldx.com:443",
+   "host": "api-test.henkeldx.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.125.67.253",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://api.henkeldx.com:443",
+   "host": "api.henkeldx.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.59.65.179",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://henkeldx.com:443",
+   "host": "henkeldx.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.132.25.11",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://remap.henkeldx.com:443",
+   "host": "remap.henkeldx.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.124.208.223",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://saifty.remap.henkeldx.com:443",
+   "host": "saifty.remap.henkeldx.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SAIFTY",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy"
+   ],
+   "cdn": true,
+   "ip": "3.67.14.140",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ttrr.henkeldx.com:443",
+   "host": "ttrr.henkeldx.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.124.222.77",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://velo.henkeldx.com:443",
+   "host": "velo.henkeldx.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "132.220.51.209",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.henkeldx.com:443",
+   "host": "www.henkeldx.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.132.25.11",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.saifty.remap.henkeldx.com:443",
+   "host": "www.saifty.remap.henkeldx.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SAIFTY",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy"
+   ],
+   "cdn": true,
+   "ip": "3.79.90.75",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

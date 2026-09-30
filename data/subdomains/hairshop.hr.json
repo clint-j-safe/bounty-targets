@@ -1,0 +1,877 @@
+{
+ "domain": "hairshop.hr",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 23,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "autoconfig.hairshop.hr",
+  "autodiscover.hairshop.hr",
+  "cpanel.hairshop.hr",
+  "cpanelm.hairshop.hr",
+  "cpcalendars.hairshop.hr",
+  "cpcontacts.hairshop.hr",
+  "cpcontactsu.hairshop.hr",
+  "dev.hairshop.hr",
+  "hairshop.hr",
+  "mail.hairshop.hr",
+  "maili.hairshop.hr",
+  "webdisk.hairshop.hr",
+  "webdisko.hairshop.hr",
+  "webmail.hairshop.hr",
+  "webmailo.hairshop.hr",
+  "www.cpanel.hairshop.hr",
+  "www.cpcalendars.hairshop.hr",
+  "www.cpcontacts.hairshop.hr",
+  "www.dev.hairshop.hr",
+  "www.hairshop.hr",
+  "www.mail.hairshop.hr",
+  "www.webdisk.hairshop.hr",
+  "www.webmail.hairshop.hr"
+ ],
+ "http": [
+  {
+   "url": "http://autoconfig.hairshop.hr:2082",
+   "host": "autoconfig.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autoconfig.hairshop.hr:2095",
+   "host": "autoconfig.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autoconfig.hairshop.hr:2096",
+   "host": "autoconfig.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autoconfig.hairshop.hr:80",
+   "host": "autoconfig.hairshop.hr",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed",
+    "LiteSpeed Cache",
+    "Litespeed Cache"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.hairshop.hr:2082",
+   "host": "autodiscover.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.hairshop.hr:2095",
+   "host": "autodiscover.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.hairshop.hr:2096",
+   "host": "autodiscover.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.hairshop.hr:80",
+   "host": "autodiscover.hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed",
+    "LiteSpeed Cache",
+    "Litespeed Cache"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.hairshop.hr:2082",
+   "host": "cpanel.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.hairshop.hr:2095",
+   "host": "cpanel.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.hairshop.hr:2096",
+   "host": "cpanel.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.hairshop.hr:80",
+   "host": "cpanel.hairshop.hr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.hairshop.hr:2082",
+   "host": "cpcalendars.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.hairshop.hr:2095",
+   "host": "cpcalendars.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.hairshop.hr:2096",
+   "host": "cpcalendars.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.hairshop.hr:80",
+   "host": "cpcalendars.hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.hairshop.hr:2082",
+   "host": "cpcontacts.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.hairshop.hr:2095",
+   "host": "cpcontacts.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.hairshop.hr:2096",
+   "host": "cpcontacts.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.hairshop.hr:80",
+   "host": "cpcontacts.hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hairshop.hr:2082",
+   "host": "hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hairshop.hr:2095",
+   "host": "hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hairshop.hr:2096",
+   "host": "hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hairshop.hr:80",
+   "host": "hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.hairshop.hr:2082",
+   "host": "mail.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.hairshop.hr:2095",
+   "host": "mail.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.hairshop.hr:2096",
+   "host": "mail.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.hairshop.hr:80",
+   "host": "mail.hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.hairshop.hr:2082",
+   "host": "webdisk.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.hairshop.hr:2095",
+   "host": "webdisk.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.hairshop.hr:2096",
+   "host": "webdisk.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.hairshop.hr:80",
+   "host": "webdisk.hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.hairshop.hr:2082",
+   "host": "webmail.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.hairshop.hr:2095",
+   "host": "webmail.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.hairshop.hr:2096",
+   "host": "webmail.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.hairshop.hr:80",
+   "host": "webmail.hairshop.hr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hairshop.hr:2082",
+   "host": "www.hairshop.hr",
+   "port": "2082",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hairshop.hr:2095",
+   "host": "www.hairshop.hr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hairshop.hr:2096",
+   "host": "www.hairshop.hr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hairshop.hr:80",
+   "host": "www.hairshop.hr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://autoconfig.hairshop.hr:2083",
+   "host": "autoconfig.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://autoconfig.hairshop.hr:443",
+   "host": "autoconfig.hairshop.hr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed",
+    "LiteSpeed Cache",
+    "Litespeed Cache"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://autodiscover.hairshop.hr:2083",
+   "host": "autodiscover.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://autodiscover.hairshop.hr:443",
+   "host": "autodiscover.hairshop.hr",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed",
+    "LiteSpeed Cache",
+    "Litespeed Cache"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpanel.hairshop.hr:2083",
+   "host": "cpanel.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpanel.hairshop.hr:443",
+   "host": "cpanel.hairshop.hr",
+   "port": "443",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed",
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpcalendars.hairshop.hr:2083",
+   "host": "cpcalendars.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpcalendars.hairshop.hr:443",
+   "host": "cpcalendars.hairshop.hr",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "Basic",
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpcontacts.hairshop.hr:2083",
+   "host": "cpcontacts.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpcontacts.hairshop.hr:443",
+   "host": "cpcontacts.hairshop.hr",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "Basic",
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://hairshop.hr:2083",
+   "host": "hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://hairshop.hr:443",
+   "host": "hairshop.hr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mail.hairshop.hr:2083",
+   "host": "mail.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mail.hairshop.hr:443",
+   "host": "mail.hairshop.hr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webdisk.hairshop.hr:2083",
+   "host": "webdisk.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webdisk.hairshop.hr:443",
+   "host": "webdisk.hairshop.hr",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "Basic",
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webmail.hairshop.hr:2083",
+   "host": "webmail.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webmail.hairshop.hr:443",
+   "host": "webmail.hairshop.hr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.hairshop.hr:2083",
+   "host": "www.hairshop.hr",
+   "port": "2083",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "openresty/1.31.1.1",
+   "technologies": [
+    "Nginx",
+    "OpenResty:1.31.1.1"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.hairshop.hr:443",
+   "host": "www.hairshop.hr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "194.56.74.112",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

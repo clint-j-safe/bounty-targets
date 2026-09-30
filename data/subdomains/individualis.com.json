@@ -1,0 +1,641 @@
+{
+ "domain": "individualis.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 52,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "admin-dev.individualis.com",
+  "admin-preprod.individualis.com",
+  "admin-qa.individualis.com",
+  "admin.individualis.com",
+  "automation.individualis.com",
+  "distribution-preprod.individualis.com",
+  "distribution-qa.individualis.com",
+  "distribution-vetdiet-test.individualis.com",
+  "distribution.individualis.com",
+  "go.individualis.com",
+  "goe.individualis.com",
+  "individualis.com",
+  "jasper-test.individualis.com",
+  "jasper.individualis.com",
+  "jp-dev.individualis.com",
+  "jp-dr.individualis.com",
+  "jp-drc.individualis.com",
+  "jp-qa.individualis.com",
+  "jp.individualis.com",
+  "jp7.individualis.com",
+  "management-dev.individualis.com",
+  "o10.sg.individualis.com",
+  "sg.individualis.com",
+  "shop.individualis.com",
+  "vet-dev.individualis.com",
+  "vet-preprod.individualis.com",
+  "vet-qa.individualis.com",
+  "vet.individualis.com",
+  "www.admin-dev.individualis.com",
+  "www.admin-preprod.individualis.com",
+  "www.admin-qa.individualis.com",
+  "www.admin.individualis.com",
+  "www.automation.individualis.com",
+  "www.distribution-preprod.individualis.com",
+  "www.distribution-qa.individualis.com",
+  "www.distribution.individualis.com",
+  "www.go.individualis.com",
+  "www.individualis.com",
+  "www.jasper-test.individualis.com",
+  "www.jasper.individualis.com",
+  "www.jp-dev.individualis.com",
+  "www.jp-dr.individualis.com",
+  "www.jp-qa.individualis.com",
+  "www.jp.individualis.com",
+  "www.management-dev.individualis.com",
+  "www.o10.sg.individualis.com",
+  "www.shop.individualis.com",
+  "www.vet-dev.individualis.com",
+  "www.vet-preprod.individualis.com",
+  "www.vet-qa.individualis.com",
+  "www.vet.individualis.com",
+  "wwwc.individualis.com"
+ ],
+ "http": [
+  {
+   "url": "http://admin-dev.individualis.com:80",
+   "host": "admin-dev.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.108",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://admin-preprod.individualis.com:80",
+   "host": "admin-preprod.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.35",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://admin.individualis.com:80",
+   "host": "admin.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.42",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://distribution-preprod.individualis.com:80",
+   "host": "distribution-preprod.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.2",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://distribution.individualis.com:80",
+   "host": "distribution.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.40.117",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://go.individualis.com:80",
+   "host": "go.individualis.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "Sign In",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap",
+    "Prototype",
+    "Salesforce Marketing Cloud Account Engagement",
+    "jQuery Migrate:3.3.0",
+    "jQuery UI",
+    "jQuery:3.5.1"
+   ],
+   "cdn": true,
+   "ip": "34.237.219.119",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://individualis.com:80",
+   "host": "individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.43.43.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://jp-dev.individualis.com:80",
+   "host": "jp-dev.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://jp-qa.individualis.com:80",
+   "host": "jp-qa.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://jp.individualis.com:80",
+   "host": "jp.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://management-dev.individualis.com:80",
+   "host": "management-dev.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.56",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://shop.individualis.com:80",
+   "host": "shop.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.43.43.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://vet-dev.individualis.com:80",
+   "host": "vet-dev.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.200.59",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://vet-preprod.individualis.com:80",
+   "host": "vet-preprod.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://vet-qa.individualis.com:80",
+   "host": "vet-qa.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.69",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://vet.individualis.com:80",
+   "host": "vet.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.30",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.individualis.com:80",
+   "host": "www.individualis.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.43.43.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.vet.individualis.com:80",
+   "host": "www.vet.individualis.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.30",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin-dev.individualis.com:443",
+   "host": "admin-dev.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Individualis - Admin",
+   "webserver": "Apache/2.4.67 (Debian)",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server:2.4.67",
+    "Debian",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.164.108",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin-preprod.individualis.com:443",
+   "host": "admin-preprod.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Individualis - Admin",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.35",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://admin.individualis.com:443",
+   "host": "admin.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Individualis - Admin",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.42",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://automation.individualis.com:443",
+   "host": "automation.individualis.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.75.247.212",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://distribution-preprod.individualis.com:443",
+   "host": "distribution-preprod.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Individualis - Distribution",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "Bootstrap",
+    "HSTS",
+    "jQuery:3.6.3"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.2",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://distribution.individualis.com:443",
+   "host": "distribution.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Individualis - Distribution",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "Bootstrap",
+    "HSTS",
+    "jQuery:3.6.3"
+   ],
+   "cdn": true,
+   "ip": "3.168.40.117",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://individualis.com:443",
+   "host": "individualis.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Azure",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.43.43.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://jp-dev.individualis.com:443",
+   "host": "jp-dev.individualis.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "140.248.147.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://jp-qa.individualis.com:443",
+   "host": "jp-qa.individualis.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://jp.individualis.com:443",
+   "host": "jp.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u30ed\u30a4\u30e4\u30eb\u30ab\u30ca\u30f3 \u30a4\u30f3\u30c7\u30a3\u30f4\u30a3\u30b8\u30e5\u30a2\u30ea\u30b9",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Cloudflare",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Laravel",
+    "Moment.js",
+    "OneTrust",
+    "PHP",
+    "Varnish",
+    "cdnjs",
+    "jQuery UI",
+    "jQuery:3.5.0"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://management-dev.individualis.com:443",
+   "host": "management-dev.individualis.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "Jetty(10.0.13)",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "Jenkins:2.387.3",
+    "Jetty:10.0.13"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.56",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://shop.individualis.com:443",
+   "host": "shop.individualis.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to /myaccount/login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Azure",
+    "HSTS",
+    "Klarna Checkout"
+   ],
+   "cdn": true,
+   "ip": "20.43.43.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://vet-dev.individualis.com:443",
+   "host": "vet-dev.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin - Vet App",
+   "webserver": "Apache/2.4.67 (Debian)",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server:2.4.67",
+    "Debian",
+    "Font Awesome",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.200.59",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://vet-preprod.individualis.com:443",
+   "host": "vet-preprod.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin - Vet App",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "Font Awesome",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.18",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://vet-qa.individualis.com:443",
+   "host": "vet-qa.individualis.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.69",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://vet.individualis.com:443",
+   "host": "vet.individualis.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin - Vet App",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "Font Awesome",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.30",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.individualis.com:443",
+   "host": "www.individualis.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Azure",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.43.43.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

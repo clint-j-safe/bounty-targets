@@ -1,0 +1,86 @@
+{
+ "domain": "eukanubasportingdog.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.eukanubasportingdog.com",
+  "comm.eukanubasportingdog.com",
+  "eukanubasportingdog.com",
+  "stg.eukanubasportingdog.com",
+  "stg7.eukanubasportingdog.com",
+  "www.eukanubasportingdog.com",
+  "www.stg.eukanubasportingdog.com",
+  "wwwm.eukanubasportingdog.com"
+ ],
+ "http": [
+  {
+   "url": "http://eukanubasportingdog.com:80",
+   "host": "eukanubasportingdog.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.eukanubasportingdog.com:80",
+   "host": "www.eukanubasportingdog.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://eukanubasportingdog.com:443",
+   "host": "eukanubasportingdog.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.eukanubasportingdog.com:443",
+   "host": "www.eukanubasportingdog.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

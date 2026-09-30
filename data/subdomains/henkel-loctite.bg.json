@@ -1,0 +1,135 @@
+{
+ "domain": "henkel-loctite.bg",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.henkel-loctite.bg",
+  "227g.henkel-loctite.bg",
+  "dev.henkel-loctite.bg",
+  "henkel-loctite.bg",
+  "promo.henkel-loctite.bg",
+  "www.henkel-loctite.bg",
+  "www.promo.henkel-loctite.bg",
+  "wwwk.henkel-loctite.bg"
+ ],
+ "http": [
+  {
+   "url": "http://henkel-loctite.bg:80",
+   "host": "henkel-loctite.bg",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.26",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://promo.henkel-loctite.bg:80",
+   "host": "promo.henkel-loctite.bg",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "93.123.16.173",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.henkel-loctite.bg:80",
+   "host": "www.henkel-loctite.bg",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.promo.henkel-loctite.bg:80",
+   "host": "www.promo.henkel-loctite.bg",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "93.123.16.173",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://henkel-loctite.bg:443",
+   "host": "henkel-loctite.bg",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.26",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://promo.henkel-loctite.bg:443",
+   "host": "promo.henkel-loctite.bg",
+   "port": "443",
+   "status_code": 200,
+   "title": "Loctite Porsche Motorsport | HenkelPromo",
+   "webserver": "",
+   "technologies": [
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "93.123.16.173",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.henkel-loctite.bg:443",
+   "host": "www.henkel-loctite.bg",
+   "port": "443",
+   "status_code": 200,
+   "title": "Loctite",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.47",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.promo.henkel-loctite.bg:443",
+   "host": "www.promo.henkel-loctite.bg",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "93.123.16.173",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

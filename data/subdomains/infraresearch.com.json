@@ -1,0 +1,26 @@
+{
+ "domain": "infraresearch.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "infraresearch.com",
+  "www.infraresearch.com"
+ ],
+ "http": [
+  {
+   "url": "http://www.infraresearch.com:80",
+   "host": "www.infraresearch.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Domain Registered at Safenames",
+   "webserver": "Unknown web server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

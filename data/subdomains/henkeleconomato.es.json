@@ -1,0 +1,86 @@
+{
+ "domain": "henkeleconomato.es",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "henkeleconomato.es",
+  "test.henkeleconomato.es",
+  "www.henkeleconomato.es",
+  "www.test.henkeleconomato.es"
+ ],
+ "http": [
+  {
+   "url": "http://henkeleconomato.es:80",
+   "host": "henkeleconomato.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "Documento movido",
+   "webserver": "Microsoft-IIS/8.5",
+   "technologies": [
+    "HSTS",
+    "IIS:8.5",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "51.103.33.152",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.henkeleconomato.es:80",
+   "host": "www.henkeleconomato.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "Documento movido",
+   "webserver": "Microsoft-IIS/8.5",
+   "technologies": [
+    "HSTS",
+    "IIS:8.5",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "51.103.33.152",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://henkeleconomato.es:443",
+   "host": "henkeleconomato.es",
+   "port": "443",
+   "status_code": 200,
+   "title": "Henkel Economato",
+   "webserver": "Microsoft-IIS/8.5",
+   "technologies": [
+    "HSTS",
+    "IIS:8.5",
+    "Microsoft ASP.NET:4.0.30319",
+    "SweetAlert",
+    "Windows Server",
+    "jQuery:2.2.4"
+   ],
+   "cdn": true,
+   "ip": "51.103.33.152",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.henkeleconomato.es:443",
+   "host": "www.henkeleconomato.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "Documento movido",
+   "webserver": "Microsoft-IIS/8.5",
+   "technologies": [
+    "HSTS",
+    "IIS:8.5",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "51.103.33.152",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

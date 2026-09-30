@@ -1,0 +1,371 @@
+{
+ "domain": "famecoretail.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 29,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "005kumuhreadcosta-trackingdb-tw-okta-023kumuhreadread.fameco2821.famecoretail.com",
+  "007kumuhreadcosta-trackingdb-tw-okta-391kumuhreadread.www.famecoretail.com",
+  "2227.synologyxpe.airsuitedemo01.famecoretail.com",
+  "2275.ipsec.famecoretail.com",
+  "2277.synologyxpe.airsuitedemo01.famecoretail.com",
+  "airsuitedemo01.famecoretail.com",
+  "airsuitedemo01c.famecoretail.com",
+  "autodiscover.famecoretail.com",
+  "autodiscoverm.famecoretail.com",
+  "com5.ipsec.famecoretail.com",
+  "conf.famecoretail.com",
+  "confi.famecoretail.com",
+  "corp7.ipsec.famecoretail.com",
+  "exch2008.famecoretail.com",
+  "fameco2821.famecoretail.com",
+  "famecopm.famecoretail.com",
+  "famecoretail.com",
+  "ipsec.famecoretail.com",
+  "looplink.famecoretail.com",
+  "mail.famecoretail.com",
+  "mailq.famecoretail.com",
+  "synologyxpe.airsuitedemo01.famecoretail.com",
+  "www.autodiscover.famecoretail.com",
+  "www.conf.famecoretail.com",
+  "www.fameco2821.famecoretail.com",
+  "www.famecopm.famecoretail.com",
+  "www.famecoretail.com",
+  "www.looplink.famecoretail.com",
+  "www.mail.famecoretail.com"
+ ],
+ "http": [
+  {
+   "url": "http://famecoretail.com:2082",
+   "host": "famecoretail.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://famecoretail.com:2095",
+   "host": "famecoretail.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://famecoretail.com:80",
+   "host": "famecoretail.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://famecoretail.com:8080",
+   "host": "famecoretail.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://looplink.famecoretail.com:80",
+   "host": "looplink.famecoretail.com",
+   "port": "80",
+   "status_code": 400,
+   "title": "Invalid URL",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.10.221.13",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.famecoretail.com:2082",
+   "host": "www.famecoretail.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.famecoretail.com:2095",
+   "host": "www.famecoretail.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.famecoretail.com:80",
+   "host": "www.famecoretail.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.famecoretail.com:8080",
+   "host": "www.famecoretail.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famecoretail.com:2083",
+   "host": "famecoretail.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famecoretail.com:2087",
+   "host": "famecoretail.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famecoretail.com:2096",
+   "host": "famecoretail.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famecoretail.com:443",
+   "host": "famecoretail.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://famecoretail.com:8443",
+   "host": "famecoretail.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://looplink.famecoretail.com:443",
+   "host": "looplink.famecoretail.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "Invalid URL",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.10.221.13",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.famecoretail.com:2083",
+   "host": "www.famecoretail.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.famecoretail.com:2087",
+   "host": "www.famecoretail.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.famecoretail.com:2096",
+   "host": "www.famecoretail.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.famecoretail.com:443",
+   "host": "www.famecoretail.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.famecoretail.com:8443",
+   "host": "www.famecoretail.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.60.172",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

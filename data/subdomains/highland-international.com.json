@@ -1,0 +1,609 @@
+{
+ "domain": "highland-international.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 18,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "cpanel.highland-international.com",
+  "cpanel9.highland-international.com",
+  "cpcalendars.highland-international.com",
+  "cpcontacts.highland-international.com",
+  "highland-international.com",
+  "mail.highland-international.com",
+  "webdisk.highland-international.com",
+  "webdiskk.highland-international.com",
+  "webmail.highland-international.com",
+  "webmailu.highland-international.com",
+  "www.cpanel.highland-international.com",
+  "www.cpcalendars.highland-international.com",
+  "www.cpcontacts.highland-international.com",
+  "www.highland-international.com",
+  "www.mail.highland-international.com",
+  "www.webdisk.highland-international.com",
+  "www.webmail.highland-international.com",
+  "wwwm.highland-international.com"
+ ],
+ "http": [
+  {
+   "url": "http://cpanel.highland-international.com:2082",
+   "host": "cpanel.highland-international.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.highland-international.com:2083",
+   "host": "cpanel.highland-international.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.highland-international.com:2087",
+   "host": "cpanel.highland-international.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.highland-international.com:2095",
+   "host": "cpanel.highland-international.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.highland-international.com:2096",
+   "host": "cpanel.highland-international.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpanel.highland-international.com:80",
+   "host": "cpanel.highland-international.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.highland-international.com:2082",
+   "host": "cpcalendars.highland-international.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.highland-international.com:2083",
+   "host": "cpcalendars.highland-international.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.highland-international.com:2087",
+   "host": "cpcalendars.highland-international.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.highland-international.com:2095",
+   "host": "cpcalendars.highland-international.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.highland-international.com:2096",
+   "host": "cpcalendars.highland-international.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcalendars.highland-international.com:80",
+   "host": "cpcalendars.highland-international.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.highland-international.com:2082",
+   "host": "cpcontacts.highland-international.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.highland-international.com:2083",
+   "host": "cpcontacts.highland-international.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.highland-international.com:2087",
+   "host": "cpcontacts.highland-international.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.highland-international.com:2095",
+   "host": "cpcontacts.highland-international.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.highland-international.com:2096",
+   "host": "cpcontacts.highland-international.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cpcontacts.highland-international.com:80",
+   "host": "cpcontacts.highland-international.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://highland-international.com:80",
+   "host": "highland-international.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.highland-international.com:2082",
+   "host": "mail.highland-international.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.highland-international.com:2083",
+   "host": "mail.highland-international.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.highland-international.com:2087",
+   "host": "mail.highland-international.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.highland-international.com:2095",
+   "host": "mail.highland-international.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.highland-international.com:2096",
+   "host": "mail.highland-international.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mail.highland-international.com:80",
+   "host": "mail.highland-international.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.highland-international.com:2082",
+   "host": "webdisk.highland-international.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.highland-international.com:2083",
+   "host": "webdisk.highland-international.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.highland-international.com:2087",
+   "host": "webdisk.highland-international.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.highland-international.com:2095",
+   "host": "webdisk.highland-international.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.highland-international.com:2096",
+   "host": "webdisk.highland-international.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webdisk.highland-international.com:80",
+   "host": "webdisk.highland-international.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.highland-international.com:2082",
+   "host": "webmail.highland-international.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.highland-international.com:2083",
+   "host": "webmail.highland-international.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.highland-international.com:2087",
+   "host": "webmail.highland-international.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.highland-international.com:2095",
+   "host": "webmail.highland-international.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.highland-international.com:2096",
+   "host": "webmail.highland-international.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webmail.highland-international.com:80",
+   "host": "webmail.highland-international.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.highland-international.com:80",
+   "host": "www.highland-international.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpanel.highland-international.com:443",
+   "host": "cpanel.highland-international.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpcalendars.highland-international.com:443",
+   "host": "cpcalendars.highland-international.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cpcontacts.highland-international.com:443",
+   "host": "cpcontacts.highland-international.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://highland-international.com:443",
+   "host": "highland-international.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mail.highland-international.com:443",
+   "host": "mail.highland-international.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webdisk.highland-international.com:443",
+   "host": "webdisk.highland-international.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webmail.highland-international.com:443",
+   "host": "webmail.highland-international.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.highland-international.com:443",
+   "host": "www.highland-international.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

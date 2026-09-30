@@ -1,0 +1,87 @@
+{
+ "domain": "henkel-adhesives.cn",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 13,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.henkel-adhesives.cn",
+  "cdp.henkel-adhesives.cn",
+  "dev-api.cdp.henkel-adhesives.cn",
+  "dev-apie.cdp.henkel-adhesives.cn",
+  "dev-backoffice.cdp.henkel-adhesives.cn",
+  "eshop.henkel-adhesives.cn",
+  "henkel-adhesives.cn",
+  "partner.henkel-adhesives.cn",
+  "www.dev-api.cdp.henkel-adhesives.cn",
+  "www.dev-backoffice.cdp.henkel-adhesives.cn",
+  "www.eshop.henkel-adhesives.cn",
+  "www.henkel-adhesives.cn",
+  "www.partner.henkel-adhesives.cn"
+ ],
+ "http": [
+  {
+   "url": "http://henkel-adhesives.cn:80",
+   "host": "henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.henkel-adhesives.cn:80",
+   "host": "www.henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://henkel-adhesives.cn:443",
+   "host": "henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.henkel-adhesives.cn:443",
+   "host": "www.henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

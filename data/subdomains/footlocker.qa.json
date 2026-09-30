@@ -1,0 +1,253 @@
+{
+ "domain": "footlocker.qa",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "cm.footlocker.qa",
+  "cmcm.footlocker.qa",
+  "data.footlocker.qa",
+  "datak.footlocker.qa",
+  "footlocker.qa",
+  "locations.footlocker.qa",
+  "www.data.footlocker.qa",
+  "www.footlocker.qa"
+ ],
+ "http": [
+  {
+   "url": "http://data.footlocker.qa:80",
+   "host": "data.footlocker.qa",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.34.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://footlocker.qa:80",
+   "host": "footlocker.qa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.qa:2082",
+   "host": "locations.footlocker.qa",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.qa:2095",
+   "host": "locations.footlocker.qa",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.qa:80",
+   "host": "locations.footlocker.qa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://locations.footlocker.qa:8080",
+   "host": "locations.footlocker.qa",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.footlocker.qa:80",
+   "host": "www.footlocker.qa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://data.footlocker.qa:443",
+   "host": "data.footlocker.qa",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.34.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://footlocker.qa:443",
+   "host": "footlocker.qa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.qa:2083",
+   "host": "locations.footlocker.qa",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.qa:2087",
+   "host": "locations.footlocker.qa",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.qa:2096",
+   "host": "locations.footlocker.qa",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.qa:443",
+   "host": "locations.footlocker.qa",
+   "port": "443",
+   "status_code": 200,
+   "title": "All Foot Locker Store Locations in Qatar",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://locations.footlocker.qa:8443",
+   "host": "locations.footlocker.qa",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.185",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.footlocker.qa:443",
+   "host": "www.footlocker.qa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

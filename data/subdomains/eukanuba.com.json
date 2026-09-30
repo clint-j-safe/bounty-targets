@@ -1,0 +1,1632 @@
+{
+ "domain": "eukanuba.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 169,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "2013-aenc.eukanuba.com",
+  "aenc-2014.eukanuba.com",
+  "allevatori.eukanuba.com",
+  "ar.eukanuba.com",
+  "au.eukanuba.com",
+  "blog.eukanuba.com",
+  "breedexperts.eukanuba.com",
+  "breedsmartpartners.eukanuba.com",
+  "breedsmartpartnerse.eukanuba.com",
+  "ca.eukanuba.com",
+  "cdn.eukanuba.com",
+  "cl.eukanuba.com",
+  "click.email.eukanuba.com",
+  "coupon.eukanuba.com",
+  "criadoresla.eukanuba.com",
+  "crufts.eukanuba.com",
+  "dev-au.eukanuba.com",
+  "dev-ca.eukanuba.com",
+  "dev-jp.eukanuba.com",
+  "dev-mx.eukanuba.com",
+  "dev-us.eukanuba.com",
+  "dev-usi.eukanuba.com",
+  "dev-za.eukanuba.com",
+  "dev.ar.eukanuba.com",
+  "dev.au.eukanuba.com",
+  "dev.ca.eukanuba.com",
+  "dev.cl.eukanuba.com",
+  "dev.eukanuba.com",
+  "dev.jp.eukanuba.com",
+  "dev.mx.eukanuba.com",
+  "dev.nz.eukanuba.com",
+  "dev.za.eukanuba.com",
+  "dev1.eukanuba.com",
+  "dev9.mx.eukanuba.com",
+  "deve.ar.eukanuba.com",
+  "devg.jp.eukanuba.com",
+  "devi.nz.eukanuba.com",
+  "email.eukanuba.com",
+  "email5.eukanuba.com",
+  "eu.eukanuba.com",
+  "eukanuba.com",
+  "facebook.eukanuba.com",
+  "firsts.eukanuba.com",
+  "firstsq.eukanuba.com",
+  "image.email.eukanuba.com",
+  "jp.eukanuba.com",
+  "kit.eukanuba.com",
+  "live-au.eukanuba.com",
+  "live-ca.eukanuba.com",
+  "live-jp.eukanuba.com",
+  "live-mx.eukanuba.com",
+  "live-us.eukanuba.com",
+  "live-za.eukanuba.com",
+  "live.ar.eukanuba.com",
+  "live.au.eukanuba.com",
+  "live.ca.eukanuba.com",
+  "live.cl.eukanuba.com",
+  "live.eukanuba.com",
+  "live.jp.eukanuba.com",
+  "live.mx.eukanuba.com",
+  "live.nz.eukanuba.com",
+  "live.za.eukanuba.com",
+  "m.eukanuba.com",
+  "mail.breedsmartpartners.eukanuba.com",
+  "mail.eukanuba.com",
+  "media.eukanuba.com",
+  "media5.eukanuba.com",
+  "migration.eukanuba.com",
+  "migration.performancegames.eukanuba.com",
+  "migration.stage.eukanuba.com",
+  "mta.email.eukanuba.com",
+  "mx.eukanuba.com",
+  "news.eukanuba.com",
+  "newsletter.eukanuba.com",
+  "newsletter.jp.eukanuba.com",
+  "nz.eukanuba.com",
+  "origin.eukanuba.com",
+  "origin.performancegames.eukanuba.com",
+  "origin.stage.eukanuba.com",
+  "originc.eukanuba.com",
+  "performancegames.eukanuba.com",
+  "performancegamesi.eukanuba.com",
+  "petapi.eukanuba.com",
+  "preference-center.eukanuba.com",
+  "preference-centerc.eukanuba.com",
+  "qa-au.eukanuba.com",
+  "qa-ca.eukanuba.com",
+  "qa-jp.eukanuba.com",
+  "qa-mx.eukanuba.com",
+  "qa-us.eukanuba.com",
+  "qa-za.eukanuba.com",
+  "qa.ar.eukanuba.com",
+  "qa.au.eukanuba.com",
+  "qa.ca.eukanuba.com",
+  "qa.cl.eukanuba.com",
+  "qa.eukanuba.com",
+  "qa.jp.eukanuba.com",
+  "qa.mx.eukanuba.com",
+  "qa.nz.eukanuba.com",
+  "qa.za.eukanuba.com",
+  "reviews.eukanuba.com",
+  "reviewso.eukanuba.com",
+  "ru.eukanuba.com",
+  "stage-newsletter.eukanuba.com",
+  "stage.eukanuba.com",
+  "stage5.eukanuba.com",
+  "stg.eukanuba.com",
+  "stores.eukanuba.com",
+  "test-au.eukanuba.com",
+  "test-ca.eukanuba.com",
+  "test-jp.eukanuba.com",
+  "test-mx.eukanuba.com",
+  "test-us.eukanuba.com",
+  "test-za.eukanuba.com",
+  "test.ar.eukanuba.com",
+  "test.au.eukanuba.com",
+  "test.ca.eukanuba.com",
+  "test.cl.eukanuba.com",
+  "test.eukanuba.com",
+  "test.jp.eukanuba.com",
+  "test.mx.eukanuba.com",
+  "test.nz.eukanuba.com",
+  "test.za.eukanuba.com",
+  "us.eukanuba.com",
+  "view.email.eukanuba.com",
+  "w.eukanuba.com",
+  "webshop.eukanuba.com",
+  "webshop9.eukanuba.com",
+  "www.allevatori.eukanuba.com",
+  "www.blog.eukanuba.com",
+  "www.breedsmartpartners.eukanuba.com",
+  "www.criadoresla.eukanuba.com",
+  "www.dev-us.eukanuba.com",
+  "www.dev.eukanuba.com",
+  "www.email.eukanuba.com",
+  "www.eu.eukanuba.com",
+  "www.eukanuba.com",
+  "www.firsts.eukanuba.com",
+  "www.kit.eukanuba.com",
+  "www.live-ca.eukanuba.com",
+  "www.live.ar.eukanuba.com",
+  "www.live.au.eukanuba.com",
+  "www.live.cl.eukanuba.com",
+  "www.live.eukanuba.com",
+  "www.live.jp.eukanuba.com",
+  "www.live.mx.eukanuba.com",
+  "www.live.nz.eukanuba.com",
+  "www.live.za.eukanuba.com",
+  "www.mail.breedsmartpartners.eukanuba.com",
+  "www.mta.email.eukanuba.com",
+  "www.performancegames.eukanuba.com",
+  "www.petapi.eukanuba.com",
+  "www.preference-center.eukanuba.com",
+  "www.reviews.eukanuba.com",
+  "www.stg.eukanuba.com",
+  "www.test-us.eukanuba.com",
+  "www.test.ar.eukanuba.com",
+  "www.test.au.eukanuba.com",
+  "www.test.cl.eukanuba.com",
+  "www.test.eukanuba.com",
+  "www.test.jp.eukanuba.com",
+  "www.test.mx.eukanuba.com",
+  "www.test.za.eukanuba.com",
+  "www.us.eukanuba.com",
+  "www.webshop.eukanuba.com",
+  "www7.eukanuba.com",
+  "wwwc.allevatori.eukanuba.com",
+  "wwws.performancegames.eukanuba.com",
+  "za.eukanuba.com"
+ ],
+ "http": [
+  {
+   "url": "http://ar.eukanuba.com:80",
+   "host": "ar.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://au.eukanuba.com:80",
+   "host": "au.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ca.eukanuba.com:80",
+   "host": "ca.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "199.232.155.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cl.eukanuba.com:80",
+   "host": "cl.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://click.email.eukanuba.com:80",
+   "host": "click.email.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "128.17.32.1",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://criadoresla.eukanuba.com:80",
+   "host": "criadoresla.eukanuba.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.182.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev-ca.eukanuba.com:80",
+   "host": "dev-ca.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.ar.eukanuba.com:80",
+   "host": "dev.ar.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.au.eukanuba.com:80",
+   "host": "dev.au.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.cl.eukanuba.com:80",
+   "host": "dev.cl.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.eukanuba.com:80",
+   "host": "dev.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.jp.eukanuba.com:80",
+   "host": "dev.jp.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.mx.eukanuba.com:80",
+   "host": "dev.mx.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.nz.eukanuba.com:80",
+   "host": "dev.nz.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.za.eukanuba.com:80",
+   "host": "dev.za.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://eukanuba.com:80",
+   "host": "eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.8",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://firsts.eukanuba.com:80",
+   "host": "firsts.eukanuba.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "nginx/1.17.5",
+   "technologies": [
+    "Nginx:1.17.5"
+   ],
+   "cdn": true,
+   "ip": "3.219.144.121",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://image.email.eukanuba.com:80",
+   "host": "image.email.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.103",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://jp.eukanuba.com:80",
+   "host": "jp.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://live.eukanuba.com:80",
+   "host": "live.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mx.eukanuba.com:80",
+   "host": "mx.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://nz.eukanuba.com:80",
+   "host": "nz.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://performancegames.eukanuba.com:80",
+   "host": "performancegames.eukanuba.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.231.89.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.eukanuba.com:80",
+   "host": "qa.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://reviews.eukanuba.com:80",
+   "host": "reviews.eukanuba.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.182.89",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test-ca.eukanuba.com:80",
+   "host": "test-ca.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.ar.eukanuba.com:80",
+   "host": "test.ar.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.au.eukanuba.com:80",
+   "host": "test.au.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.cl.eukanuba.com:80",
+   "host": "test.cl.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.eukanuba.com:80",
+   "host": "test.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.jp.eukanuba.com:80",
+   "host": "test.jp.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.mx.eukanuba.com:80",
+   "host": "test.mx.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.nz.eukanuba.com:80",
+   "host": "test.nz.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.za.eukanuba.com:80",
+   "host": "test.za.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://us.eukanuba.com:80",
+   "host": "us.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://view.email.eukanuba.com:80",
+   "host": "view.email.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "128.17.48.1",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webshop.eukanuba.com:2083",
+   "host": "webshop.eukanuba.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webshop.eukanuba.com:2087",
+   "host": "webshop.eukanuba.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webshop.eukanuba.com:2096",
+   "host": "webshop.eukanuba.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webshop.eukanuba.com:80",
+   "host": "webshop.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://webshop.eukanuba.com:8443",
+   "host": "webshop.eukanuba.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.blog.eukanuba.com:80",
+   "host": "www.blog.eukanuba.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.182.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.criadoresla.eukanuba.com:80",
+   "host": "www.criadoresla.eukanuba.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.60",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.eukanuba.com:80",
+   "host": "www.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.performancegames.eukanuba.com:80",
+   "host": "www.performancegames.eukanuba.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.webshop.eukanuba.com:2083",
+   "host": "www.webshop.eukanuba.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.webshop.eukanuba.com:2087",
+   "host": "www.webshop.eukanuba.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.webshop.eukanuba.com:2096",
+   "host": "www.webshop.eukanuba.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.webshop.eukanuba.com:80",
+   "host": "www.webshop.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.webshop.eukanuba.com:8443",
+   "host": "www.webshop.eukanuba.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://za.eukanuba.com:80",
+   "host": "za.eukanuba.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ar.eukanuba.com:443",
+   "host": "ar.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://au.eukanuba.com:443",
+   "host": "au.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ca.eukanuba.com:443",
+   "host": "ca.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "199.232.155.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cl.eukanuba.com:443",
+   "host": "cl.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://click.email.eukanuba.com:443",
+   "host": "click.email.eukanuba.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "128.17.32.1",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev-ca.eukanuba.com:443",
+   "host": "dev-ca.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.ar.eukanuba.com:443",
+   "host": "dev.ar.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.au.eukanuba.com:443",
+   "host": "dev.au.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.cl.eukanuba.com:443",
+   "host": "dev.cl.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.eukanuba.com:443",
+   "host": "dev.eukanuba.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.jp.eukanuba.com:443",
+   "host": "dev.jp.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.mx.eukanuba.com:443",
+   "host": "dev.mx.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.nz.eukanuba.com:443",
+   "host": "dev.nz.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://dev.za.eukanuba.com:443",
+   "host": "dev.za.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://eukanuba.com:443",
+   "host": "eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.8",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://firsts.eukanuba.com:443",
+   "host": "firsts.eukanuba.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "nginx/1.17.5",
+   "technologies": [
+    "Nginx:1.17.5"
+   ],
+   "cdn": true,
+   "ip": "3.219.144.121",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://image.email.eukanuba.com:443",
+   "host": "image.email.eukanuba.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.103",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://jp.eukanuba.com:443",
+   "host": "jp.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://live.eukanuba.com:443",
+   "host": "live.eukanuba.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mx.eukanuba.com:443",
+   "host": "mx.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://nz.eukanuba.com:443",
+   "host": "nz.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://performancegames.eukanuba.com:443",
+   "host": "performancegames.eukanuba.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.231.89.53",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://petapi.eukanuba.com:443",
+   "host": "petapi.eukanuba.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home page - EukanubaCRMConsentSignUp",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Bootstrap:4.5.2",
+    "BootstrapCDN:4.5.2",
+    "HSTS",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "172.177.55.9",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa.eukanuba.com:443",
+   "host": "qa.eukanuba.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Page Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://reviews.eukanuba.com:443",
+   "host": "reviews.eukanuba.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.182.89",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test-ca.eukanuba.com:443",
+   "host": "test-ca.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.ar.eukanuba.com:443",
+   "host": "test.ar.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.au.eukanuba.com:443",
+   "host": "test.au.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.cl.eukanuba.com:443",
+   "host": "test.cl.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.eukanuba.com:443",
+   "host": "test.eukanuba.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.jp.eukanuba.com:443",
+   "host": "test.jp.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.mx.eukanuba.com:443",
+   "host": "test.mx.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.nz.eukanuba.com:443",
+   "host": "test.nz.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.za.eukanuba.com:443",
+   "host": "test.za.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://us.eukanuba.com:443",
+   "host": "us.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.75.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://view.email.eukanuba.com:443",
+   "host": "view.email.eukanuba.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "128.17.48.1",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://webshop.eukanuba.com:443",
+   "host": "webshop.eukanuba.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Algolia",
+    "Cloudflare",
+    "HSTS",
+    "PHP",
+    "PayPal"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.eukanuba.com:443",
+   "host": "www.eukanuba.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Eukanuba Dog Food | Performance Nutrition for Active Dogs",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Acquia Cloud Site Factory",
+    "Amazon Web Services",
+    "Cloudflare",
+    "Drupal Multisite",
+    "Drupal:11",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust",
+    "PHP",
+    "PriceSpider",
+    "Varnish",
+    "cdnjs",
+    "jQuery",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.performancegames.eukanuba.com:443",
+   "host": "www.performancegames.eukanuba.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.webshop.eukanuba.com:443",
+   "host": "www.webshop.eukanuba.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Algolia",
+    "Cloudflare",
+    "HSTS",
+    "PHP",
+    "PayPal"
+   ],
+   "cdn": true,
+   "ip": "104.18.31.205",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://za.eukanuba.com:443",
+   "host": "za.eukanuba.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

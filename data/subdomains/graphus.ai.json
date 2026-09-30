@@ -1,0 +1,596 @@
+{
+ "domain": "graphus.ai",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|kaseya"
+ ],
+ "subdomains": [
+  "go.graphus.ai",
+  "graphus.ai",
+  "it.graphus.ai",
+  "msp.graphus.ai",
+  "page.graphus.ai",
+  "secure.graphus.ai",
+  "www.go.graphus.ai",
+  "www.graphus.ai",
+  "www.it.graphus.ai",
+  "www.msp.graphus.ai",
+  "www.page.graphus.ai",
+  "www.secure.graphus.ai"
+ ],
+ "http": [
+  {
+   "url": "http://go.graphus.ai:2082",
+   "host": "go.graphus.ai",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://go.graphus.ai:2095",
+   "host": "go.graphus.ai",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://go.graphus.ai:80",
+   "host": "go.graphus.ai",
+   "port": "80",
+   "status_code": 200,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://go.graphus.ai:8080",
+   "host": "go.graphus.ai",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://graphus.ai:2082",
+   "host": "graphus.ai",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://graphus.ai:2095",
+   "host": "graphus.ai",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://graphus.ai:80",
+   "host": "graphus.ai",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://graphus.ai:8080",
+   "host": "graphus.ai",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://page.graphus.ai:2082",
+   "host": "page.graphus.ai",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://page.graphus.ai:2095",
+   "host": "page.graphus.ai",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://page.graphus.ai:80",
+   "host": "page.graphus.ai",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://page.graphus.ai:8080",
+   "host": "page.graphus.ai",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.graphus.ai:2082",
+   "host": "www.graphus.ai",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.graphus.ai:2095",
+   "host": "www.graphus.ai",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.graphus.ai:80",
+   "host": "www.graphus.ai",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.graphus.ai:8080",
+   "host": "www.graphus.ai",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://go.graphus.ai:2083",
+   "host": "go.graphus.ai",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://go.graphus.ai:2087",
+   "host": "go.graphus.ai",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://go.graphus.ai:2096",
+   "host": "go.graphus.ai",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://go.graphus.ai:443",
+   "host": "go.graphus.ai",
+   "port": "443",
+   "status_code": 200,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://go.graphus.ai:8443",
+   "host": "go.graphus.ai",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://graphus.ai:2083",
+   "host": "graphus.ai",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://graphus.ai:2087",
+   "host": "graphus.ai",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://graphus.ai:2096",
+   "host": "graphus.ai",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://graphus.ai:443",
+   "host": "graphus.ai",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://graphus.ai:8443",
+   "host": "graphus.ai",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://page.graphus.ai:2083",
+   "host": "page.graphus.ai",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://page.graphus.ai:2087",
+   "host": "page.graphus.ai",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://page.graphus.ai:2096",
+   "host": "page.graphus.ai",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://page.graphus.ai:443",
+   "host": "page.graphus.ai",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://page.graphus.ai:8443",
+   "host": "page.graphus.ai",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.graphus.ai:2083",
+   "host": "www.graphus.ai",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.graphus.ai:2087",
+   "host": "www.graphus.ai",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.graphus.ai:2096",
+   "host": "www.graphus.ai",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.graphus.ai:443",
+   "host": "www.graphus.ai",
+   "port": "443",
+   "status_code": 200,
+   "title": "Graphus | Anti Phishing Software | Cloud Email Security",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Download Monitor:5.1.6",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress",
+    "Yoast SEO:26.6",
+    "jQuery",
+    "jQuery Migrate:3.4.1"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.graphus.ai:8443",
+   "host": "www.graphus.ai",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "domain": "hflawreport.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 15,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "aslive-www.hflawreport.com",
+  "hflawreport.com",
+  "host.hflawreport.com",
+  "mail.hflawreport.com",
+  "notifications.hflawreport.com",
+  "old.hflawreport.com",
+  "www.aslive-www.hflawreport.com",
+  "www.hflawreport.com",
+  "www.host.hflawreport.com",
+  "www.mail.hflawreport.com",
+  "www.notifications.hflawreport.com",
+  "www.old.hflawreport.com",
+  "www.www2.hflawreport.com",
+  "www2.hflawreport.com",
+  "www3.hflawreport.com"
+ ],
+ "http": [
+  {
+   "url": "http://aslive-www.hflawreport.com:80",
+   "host": "aslive-www.hflawreport.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hflawreport.com:80",
+   "host": "hflawreport.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://notifications.hflawreport.com:80",
+   "host": "notifications.hflawreport.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.110.180.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hflawreport.com:80",
+   "host": "www.hflawreport.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.129.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www2.hflawreport.com:80",
+   "host": "www2.hflawreport.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.3.93.48",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aslive-www.hflawreport.com:443",
+   "host": "aslive-www.hflawreport.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home | Hedge Fund Law Report",
+   "webserver": "LHC",
+   "technologies": [
+    "HSTS",
+    "Sentry:6.13.2",
+    "Varnish",
+    "hCaptcha",
+    "jQuery",
+    "jQuery UI:1.12.1",
+    "jsDelivr",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://hflawreport.com:443",
+   "host": "hflawreport.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://notifications.hflawreport.com:443",
+   "host": "notifications.hflawreport.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.110.180.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.hflawreport.com:443",
+   "host": "www.hflawreport.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home | Hedge Fund Law Report",
+   "webserver": "LHC",
+   "technologies": [
+    "HSTS",
+    "Sentry:6.13.2",
+    "Varnish",
+    "hCaptcha",
+    "jQuery",
+    "jQuery UI:1.12.1",
+    "jsDelivr",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "151.101.129.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www2.hflawreport.com:443",
+   "host": "www2.hflawreport.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.3.93.48",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

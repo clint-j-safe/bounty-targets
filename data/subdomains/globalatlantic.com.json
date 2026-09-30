@@ -1,0 +1,2168 @@
+{
+ "domain": "globalatlantic.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 86,
+ "programs": [
+  "hackerone|kkr_vdp"
+ ],
+ "subdomains": [
+  "123-nonexistant-dnsjedi-456.globalatlantic.com",
+  "acquia.globalatlantic.com",
+  "advisors.globalatlantic.com",
+  "advisorsdev.globalatlantic.com",
+  "advisorsg.globalatlantic.com",
+  "advisorso.globalatlantic.com",
+  "advisorsqa.globalatlantic.com",
+  "alder.planahead.globalatlantic.com",
+  "auth-ga.login.globalatlantic.com",
+  "auth.login.globalatlantic.com",
+  "authg.login.globalatlantic.com",
+  "autodiscover.globalatlantic.com",
+  "b2b-qa.globalatlantic.com",
+  "b2b-qap.globalatlantic.com",
+  "b2b.globalatlantic.com",
+  "b2bg.globalatlantic.com",
+  "b2bp.globalatlantic.com",
+  "bn0d6e94u8t61j0i7m0f37mphrdvu8tl.globalatlantic.com",
+  "bnb5rtgnjvh2mhafh85gpqeqttcjai3l.globalatlantic.com",
+  "bol3marrs1sfne097v1stpeqtcl2ph04.globalatlantic.com",
+  "c50jrjtqdpg6ui5am0c5mgs3kagvfjdk.globalatlantic.com",
+  "commonwealth.globalatlantic.com",
+  "cstn.planahead.globalatlantic.com",
+  "email.globalatlantic.com",
+  "g4p7t1p24ggkschr2amh1cdajshuvftl.globalatlantic.com",
+  "ga-test.acquia.globalatlantic.com",
+  "ga-test.globalatlantic.com",
+  "ga.acquia.globalatlantic.com",
+  "globalatlantic.com",
+  "go.globalatlantic.com",
+  "goy.globalatlantic.com",
+  "imo.globalatlantic.com",
+  "ivyllc-prod-ow2.acquia.globalatlantic.com",
+  "login-test.globalatlantic.com",
+  "login.globalatlantic.com",
+  "mail.globalatlantic.com",
+  "mobile.globalatlantic.com",
+  "mygalife.globalatlantic.com",
+  "ow2.globalatlantic.com",
+  "owa.globalatlantic.com",
+  "pages.globalatlantic.com",
+  "planahead.globalatlantic.com",
+  "planaheado.globalatlantic.com",
+  "preneed.globalatlantic.com",
+  "preprod.login.globalatlantic.com",
+  "pro.globalatlantic.com",
+  "professionals-gafg3.ow2.globalatlantic.com",
+  "professionals-test.globalatlantic.com",
+  "professionals.globalatlantic.com",
+  "qa.globalatlantic.com",
+  "rates2go.globalatlantic.com",
+  "register.globalatlantic.com",
+  "sjv1te64qqiqalcr983ur9nhjka0sf4v.globalatlantic.com",
+  "sso-test.globalatlantic.com",
+  "sso.globalatlantic.com",
+  "stage.login.globalatlantic.com",
+  "t8ko111qtgp4rl8d45e0lml2bln8uiik.globalatlantic.com",
+  "wildcard.acquia.globalatlantic.com",
+  "wildcard.login-test.globalatlantic.com",
+  "wildcard.login.globalatlantic.com",
+  "wildcard.ow2.globalatlantic.com",
+  "woodlawnfh.planahead.globalatlantic.com",
+  "www.acquia.globalatlantic.com",
+  "www.advisors.globalatlantic.com",
+  "www.auth.login.globalatlantic.com",
+  "www.b2b-qa.globalatlantic.com",
+  "www.b2b.globalatlantic.com",
+  "www.cstn.planahead.globalatlantic.com",
+  "www.email.globalatlantic.com",
+  "www.globalatlantic.com",
+  "www.go.globalatlantic.com",
+  "www.imo.globalatlantic.com",
+  "www.login-test.globalatlantic.com",
+  "www.login.globalatlantic.com",
+  "www.mail.globalatlantic.com",
+  "www.mygalife.globalatlantic.com",
+  "www.pages.globalatlantic.com",
+  "www.planahead.globalatlantic.com",
+  "www.preneed.globalatlantic.com",
+  "www.pro.globalatlantic.com",
+  "www.professionals.globalatlantic.com",
+  "www.qa.globalatlantic.com",
+  "www.wildcard.acquia.globalatlantic.com",
+  "www.wildcard.login-test.globalatlantic.com",
+  "www.wildcard.login.globalatlantic.com",
+  "www.wildcard.ow2.globalatlantic.com"
+ ],
+ "http": [
+  {
+   "url": "http://advisors.globalatlantic.com:2082",
+   "host": "advisors.globalatlantic.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://advisors.globalatlantic.com:2095",
+   "host": "advisors.globalatlantic.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://advisors.globalatlantic.com:80",
+   "host": "advisors.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://advisors.globalatlantic.com:8080",
+   "host": "advisors.globalatlantic.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://advisorsdev.globalatlantic.com:80",
+   "host": "advisorsdev.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://advisorsqa.globalatlantic.com:80",
+   "host": "advisorsqa.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth-ga.login.globalatlantic.com:80",
+   "host": "auth-ga.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.login.globalatlantic.com:2083",
+   "host": "auth.login.globalatlantic.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.login.globalatlantic.com:2087",
+   "host": "auth.login.globalatlantic.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.login.globalatlantic.com:80",
+   "host": "auth.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://auth.login.globalatlantic.com:8443",
+   "host": "auth.login.globalatlantic.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://authg.login.globalatlantic.com:80",
+   "host": "authg.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.globalatlantic.com:80",
+   "host": "autodiscover.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.165.24",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://b2b.globalatlantic.com:80",
+   "host": "b2b.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://commonwealth.globalatlantic.com:80",
+   "host": "commonwealth.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://email.globalatlantic.com:2082",
+   "host": "email.globalatlantic.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://email.globalatlantic.com:2095",
+   "host": "email.globalatlantic.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://email.globalatlantic.com:80",
+   "host": "email.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://email.globalatlantic.com:8080",
+   "host": "email.globalatlantic.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ga-test.acquia.globalatlantic.com:80",
+   "host": "ga-test.acquia.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ga-test.globalatlantic.com:80",
+   "host": "ga-test.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ga.acquia.globalatlantic.com:80",
+   "host": "ga.acquia.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://globalatlantic.com:2082",
+   "host": "globalatlantic.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://globalatlantic.com:2095",
+   "host": "globalatlantic.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://globalatlantic.com:80",
+   "host": "globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://globalatlantic.com:8080",
+   "host": "globalatlantic.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://go.globalatlantic.com:80",
+   "host": "go.globalatlantic.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Salesforce Marketing Cloud Account Engagement"
+   ],
+   "cdn": true,
+   "ip": "52.54.96.194",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://imo.globalatlantic.com:80",
+   "host": "imo.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ivyllc-prod-ow2.acquia.globalatlantic.com:80",
+   "host": "ivyllc-prod-ow2.acquia.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://login-test.globalatlantic.com:80",
+   "host": "login-test.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.175.34.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://login.globalatlantic.com:80",
+   "host": "login.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.81",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://mygalife.globalatlantic.com:80",
+   "host": "mygalife.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.1.87",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://preneed.globalatlantic.com:2082",
+   "host": "preneed.globalatlantic.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://preneed.globalatlantic.com:2095",
+   "host": "preneed.globalatlantic.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://preneed.globalatlantic.com:80",
+   "host": "preneed.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://preneed.globalatlantic.com:8080",
+   "host": "preneed.globalatlantic.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://preprod.login.globalatlantic.com:80",
+   "host": "preprod.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:2082",
+   "host": "pro.globalatlantic.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:2083",
+   "host": "pro.globalatlantic.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:2087",
+   "host": "pro.globalatlantic.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:2095",
+   "host": "pro.globalatlantic.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:2096",
+   "host": "pro.globalatlantic.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:80",
+   "host": "pro.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:8080",
+   "host": "pro.globalatlantic.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://pro.globalatlantic.com:8443",
+   "host": "pro.globalatlantic.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals-gafg3.ow2.globalatlantic.com:80",
+   "host": "professionals-gafg3.ow2.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals-test.globalatlantic.com:80",
+   "host": "professionals-test.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals.globalatlantic.com:2083",
+   "host": "professionals.globalatlantic.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals.globalatlantic.com:2087",
+   "host": "professionals.globalatlantic.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals.globalatlantic.com:2096",
+   "host": "professionals.globalatlantic.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals.globalatlantic.com:80",
+   "host": "professionals.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://professionals.globalatlantic.com:8443",
+   "host": "professionals.globalatlantic.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.globalatlantic.com:2083",
+   "host": "qa.globalatlantic.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.globalatlantic.com:2087",
+   "host": "qa.globalatlantic.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.globalatlantic.com:2096",
+   "host": "qa.globalatlantic.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.globalatlantic.com:80",
+   "host": "qa.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://qa.globalatlantic.com:8443",
+   "host": "qa.globalatlantic.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://register.globalatlantic.com:80",
+   "host": "register.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.59.234.44",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sso.globalatlantic.com:80",
+   "host": "sso.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.225.123.19",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://stage.login.globalatlantic.com:80",
+   "host": "stage.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wildcard.acquia.globalatlantic.com:80",
+   "host": "wildcard.acquia.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wildcard.login-test.globalatlantic.com:80",
+   "host": "wildcard.login-test.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wildcard.login.globalatlantic.com:80",
+   "host": "wildcard.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wildcard.ow2.globalatlantic.com:80",
+   "host": "wildcard.ow2.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.acquia.globalatlantic.com:80",
+   "host": "www.acquia.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.globalatlantic.com:2083",
+   "host": "www.globalatlantic.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.globalatlantic.com:2087",
+   "host": "www.globalatlantic.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.globalatlantic.com:2096",
+   "host": "www.globalatlantic.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.globalatlantic.com:80",
+   "host": "www.globalatlantic.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.globalatlantic.com:8443",
+   "host": "www.globalatlantic.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.login-test.globalatlantic.com:80",
+   "host": "www.login-test.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.login.globalatlantic.com:80",
+   "host": "www.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.professionals.globalatlantic.com:2083",
+   "host": "www.professionals.globalatlantic.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.professionals.globalatlantic.com:2087",
+   "host": "www.professionals.globalatlantic.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.professionals.globalatlantic.com:2096",
+   "host": "www.professionals.globalatlantic.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.professionals.globalatlantic.com:80",
+   "host": "www.professionals.globalatlantic.com",
+   "port": "80",
+   "status_code": 500,
+   "title": "Fastly error: unknown domain www.professionals.globalatlantic.com",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.professionals.globalatlantic.com:8443",
+   "host": "www.professionals.globalatlantic.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.wildcard.acquia.globalatlantic.com:80",
+   "host": "www.wildcard.acquia.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.wildcard.login-test.globalatlantic.com:80",
+   "host": "www.wildcard.login-test.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.wildcard.login.globalatlantic.com:80",
+   "host": "www.wildcard.login.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.wildcard.ow2.globalatlantic.com:80",
+   "host": "www.wildcard.ow2.globalatlantic.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisors.globalatlantic.com:2083",
+   "host": "advisors.globalatlantic.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisors.globalatlantic.com:2087",
+   "host": "advisors.globalatlantic.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisors.globalatlantic.com:2096",
+   "host": "advisors.globalatlantic.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisors.globalatlantic.com:443",
+   "host": "advisors.globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisors.globalatlantic.com:8443",
+   "host": "advisors.globalatlantic.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisorsdev.globalatlantic.com:443",
+   "host": "advisorsdev.globalatlantic.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://advisorsqa.globalatlantic.com:443",
+   "host": "advisorsqa.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth-ga.login.globalatlantic.com:443",
+   "host": "auth-ga.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access denied | Global Atlantic",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "AddToAny",
+    "Adobe Fonts",
+    "Amazon Web Services",
+    "Drupal:10",
+    "Google Tag Manager",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "Popper",
+    "Typekit",
+    "Varnish",
+    "jQuery",
+    "jQuery UI"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth.login.globalatlantic.com:2096",
+   "host": "auth.login.globalatlantic.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://auth.login.globalatlantic.com:443",
+   "host": "auth.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://authg.login.globalatlantic.com:443",
+   "host": "authg.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://b2b.globalatlantic.com:443",
+   "host": "b2b.globalatlantic.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://commonwealth.globalatlantic.com:443",
+   "host": "commonwealth.globalatlantic.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Commonwealth Annuity and Life Insurance Company | commonwealth",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Drupal:10",
+    "Google Tag Manager",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://email.globalatlantic.com:2083",
+   "host": "email.globalatlantic.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://email.globalatlantic.com:2087",
+   "host": "email.globalatlantic.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://email.globalatlantic.com:2096",
+   "host": "email.globalatlantic.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://email.globalatlantic.com:443",
+   "host": "email.globalatlantic.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://email.globalatlantic.com:8443",
+   "host": "email.globalatlantic.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.73.206",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ga-test.acquia.globalatlantic.com:443",
+   "host": "ga-test.acquia.globalatlantic.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ga-test.globalatlantic.com:443",
+   "host": "ga-test.globalatlantic.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ga.acquia.globalatlantic.com:443",
+   "host": "ga.acquia.globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://globalatlantic.com:2083",
+   "host": "globalatlantic.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://globalatlantic.com:2087",
+   "host": "globalatlantic.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://globalatlantic.com:2096",
+   "host": "globalatlantic.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://globalatlantic.com:443",
+   "host": "globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://globalatlantic.com:8443",
+   "host": "globalatlantic.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://go.globalatlantic.com:443",
+   "host": "go.globalatlantic.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Salesforce Marketing Cloud Account Engagement"
+   ],
+   "cdn": true,
+   "ip": "52.54.96.194",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://imo.globalatlantic.com:443",
+   "host": "imo.globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "Redirecting to https://globalatlantic.com/professionals",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Drupal:10",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://ivyllc-prod-ow2.acquia.globalatlantic.com:443",
+   "host": "ivyllc-prod-ow2.acquia.globalatlantic.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "| Ivyllc",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Bootstrap:3.4.5",
+    "Drupal:10",
+    "Google Tag Manager",
+    "Nginx",
+    "PHP",
+    "Varnish",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://login-test.globalatlantic.com:443",
+   "host": "login-test.globalatlantic.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.175.34.32",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://login.globalatlantic.com:443",
+   "host": "login.globalatlantic.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.160.81",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://mygalife.globalatlantic.com:443",
+   "host": "mygalife.globalatlantic.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Life Customer Portal",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "HSTS",
+    "React"
+   ],
+   "cdn": true,
+   "ip": "143.204.1.87",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://preneed.globalatlantic.com:2083",
+   "host": "preneed.globalatlantic.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://preneed.globalatlantic.com:2087",
+   "host": "preneed.globalatlantic.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://preneed.globalatlantic.com:2096",
+   "host": "preneed.globalatlantic.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://preneed.globalatlantic.com:443",
+   "host": "preneed.globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://preneed.globalatlantic.com:8443",
+   "host": "preneed.globalatlantic.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://preprod.login.globalatlantic.com:443",
+   "host": "preprod.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://pro.globalatlantic.com:443",
+   "host": "pro.globalatlantic.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.17.34",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://professionals-gafg3.ow2.globalatlantic.com:443",
+   "host": "professionals-gafg3.ow2.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://professionals-test.globalatlantic.com:443",
+   "host": "professionals-test.globalatlantic.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "For Financial Professionals | Global Atlantic | For Financial Professionals",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "AddToAny",
+    "Adobe Fonts",
+    "Amazon Web Services",
+    "Drupal:10",
+    "Google Tag Manager",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "Typekit",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://professionals.globalatlantic.com:443",
+   "host": "professionals.globalatlantic.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://qa.globalatlantic.com:443",
+   "host": "qa.globalatlantic.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "Cloudflare",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "104.18.2.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://register.globalatlantic.com:443",
+   "host": "register.globalatlantic.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access to this page has been denied",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "16.59.234.44",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sso.globalatlantic.com:443",
+   "host": "sso.globalatlantic.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.225.123.19",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://stage.login.globalatlantic.com:443",
+   "host": "stage.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://wildcard.acquia.globalatlantic.com:443",
+   "host": "wildcard.acquia.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://wildcard.login-test.globalatlantic.com:443",
+   "host": "wildcard.login-test.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://wildcard.login.globalatlantic.com:443",
+   "host": "wildcard.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://wildcard.ow2.globalatlantic.com:443",
+   "host": "wildcard.ow2.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.acquia.globalatlantic.com:443",
+   "host": "www.acquia.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.globalatlantic.com:443",
+   "host": "www.globalatlantic.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Annuities, Insurance, and Retirement Solutions | Global Atlantic",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Cloudflare",
+    "HSTS",
+    "Java",
+    "OneTrust"
+   ],
+   "cdn": true,
+   "ip": "104.18.3.124",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.login-test.globalatlantic.com:443",
+   "host": "www.login-test.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.login.globalatlantic.com:443",
+   "host": "www.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.wildcard.acquia.globalatlantic.com:443",
+   "host": "www.wildcard.acquia.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.wildcard.login-test.globalatlantic.com:443",
+   "host": "www.wildcard.login-test.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.wildcard.login.globalatlantic.com:443",
+   "host": "www.wildcard.login.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.wildcard.ow2.globalatlantic.com:443",
+   "host": "www.wildcard.ow2.globalatlantic.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Web Site Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.204.26.244",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "domain": "gowifi.be",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 9,
+ "programs": [
+  "intigriti|responsiblevulnerabilitydisclosureprogram"
+ ],
+ "subdomains": [
+  "227.gowifi.be",
+  "gowifi.be",
+  "ns1.gowifi.be",
+  "ns2.gowifi.be",
+  "wildcard.gowifi.be",
+  "www.gowifi.be",
+  "www.ns1.gowifi.be",
+  "www.ns2.gowifi.be",
+  "www.wildcard.gowifi.be"
+ ],
+ "http": [
+  {
+   "url": "http://227.gowifi.be:80",
+   "host": "227.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://gowifi.be:80",
+   "host": "gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ns1.gowifi.be:80",
+   "host": "ns1.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ns2.gowifi.be:80",
+   "host": "ns2.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wildcard.gowifi.be:80",
+   "host": "wildcard.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.gowifi.be:80",
+   "host": "www.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.ns1.gowifi.be:80",
+   "host": "www.ns1.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.ns2.gowifi.be:80",
+   "host": "www.ns2.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.wildcard.gowifi.be:80",
+   "host": "www.wildcard.gowifi.be",
+   "port": "80",
+   "status_code": 200,
+   "title": "Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.64",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

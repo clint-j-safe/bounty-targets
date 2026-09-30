@@ -1,0 +1,471 @@
+{
+ "domain": "fi.abb.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 69,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "abb-fiext-hub02.fi.abb.com",
+  "abb-fiext-hub02u.fi.abb.com",
+  "abbtestmaintenance.fi.abb.com",
+  "abbtestmaintenance1.fi.abb.com",
+  "abbtestmaintenance9.fi.abb.com",
+  "abbtm.fi.abb.com",
+  "ara.dev.industrialsolutions.fi.abb.com",
+  "bra.dev.industrialsolutions.fi.abb.com",
+  "comc.dev.industrialsolutions.fi.abb.com",
+  "daconfig.fi.abb.com",
+  "daconfiga.fi.abb.com",
+  "dev.industrialsolutions.fi.abb.com",
+  "dev.mesfimot.fi.abb.com",
+  "ena.dev.industrialsolutions.fi.abb.com",
+  "ext01.fi.abb.com",
+  "ext01i.fi.abb.com",
+  "fi-s-fastmode.fi.abb.com",
+  "fi-s-search.fi.abb.com",
+  "fi.abb.com",
+  "fidrivesfw01.fi.abb.com",
+  "fidrivesfw21.fi.abb.com",
+  "fihel-cvp0.fi.abb.com",
+  "fihel-cvp0w.fi.abb.com",
+  "fivaa-s-te00041.fi.abb.com",
+  "fivaa-s-te00041k.fi.abb.com",
+  "fivaa-s-te00141.fi.abb.com",
+  "fivaa-s-te00141y.fi.abb.com",
+  "fra.dev.industrialsolutions.fi.abb.com",
+  "industrialsolutions.fi.abb.com",
+  "industrialsolutionss.fi.abb.com",
+  "lct.fi.abb.com",
+  "liquidsun.energydigital.fi.abb.com",
+  "materialpricing.fi.abb.com",
+  "newsletter.fi.abb.com",
+  "newslettero.fi.abb.com",
+  "prod.mesfimot.fi.abb.com",
+  "singledriveconfigurator.fi.abb.com",
+  "singledriveconfiguratorm.fi.abb.com",
+  "softwarelibrary.fi.abb.com",
+  "softwarelibrarys.fi.abb.com",
+  "ssl.fi.abb.com",
+  "stage.mesfimot.fi.abb.com",
+  "stage.singledriveconfigurator.fi.abb.com",
+  "test.industrialsolutions.fi.abb.com",
+  "test.materialpricing.fi.abb.com",
+  "testg.industrialsolutions.fi.abb.com",
+  "toolupdate-p.fi.abb.com",
+  "toolupdate.fi.abb.com",
+  "vpn.ssl.fi.abb.com",
+  "vpn1.ssl.fi.abb.com",
+  "vpn1o.ssl.fi.abb.com",
+  "vpn2.ssl.fi.abb.com",
+  "vpn23.ssl.fi.abb.com",
+  "www.dev.industrialsolutions.fi.abb.com",
+  "www.industrialsolutions.fi.abb.com",
+  "www500.fi.abb.com",
+  "www501.fi.abb.com",
+  "www502.fi.abb.com",
+  "www503.fi.abb.com",
+  "www504.fi.abb.com",
+  "www505.fi.abb.com",
+  "www506.fi.abb.com",
+  "www5dev03.fi.abb.com",
+  "www5dev03m.fi.abb.com",
+  "www5test03.fi.abb.com",
+  "www5test03e.fi.abb.com",
+  "www9.industrialsolutions.fi.abb.com",
+  "wwwmotors.fi.abb.com",
+  "wwwmotorse.fi.abb.com"
+ ],
+ "http": [
+  {
+   "url": "http://abb-fiext-hub02.fi.abb.com:80",
+   "host": "abb-fiext-hub02.fi.abb.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "Site Error",
+   "webserver": "AkamaiNetStorage",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.39.174.154",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://abbtestmaintenance.fi.abb.com:80",
+   "host": "abbtestmaintenance.fi.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.178",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://abbtm.fi.abb.com:80",
+   "host": "abbtm.fi.abb.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.38",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://daconfig.fi.abb.com:80",
+   "host": "daconfig.fi.abb.com",
+   "port": "80",
+   "status_code": 400,
+   "title": "Invalid URL",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.202.230.208",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fivaa-s-te00041.fi.abb.com:80",
+   "host": "fivaa-s-te00041.fi.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": false,
+   "ip": "137.133.9.2",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fivaa-s-te00141.fi.abb.com:80",
+   "host": "fivaa-s-te00141.fi.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": false,
+   "ip": "137.133.9.8",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://lct.fi.abb.com:80",
+   "host": "lct.fi.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": false,
+   "ip": "23.48.203.186",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://materialpricing.fi.abb.com:80",
+   "host": "materialpricing.fi.abb.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.12.31.1",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://newsletter.fi.abb.com:80",
+   "host": "newsletter.fi.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.88.18.194",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://singledriveconfigurator.fi.abb.com:80",
+   "host": "singledriveconfigurator.fi.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.166",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://stage.singledriveconfigurator.fi.abb.com:80",
+   "host": "stage.singledriveconfigurator.fi.abb.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.38",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://test.materialpricing.fi.abb.com:80",
+   "host": "test.materialpricing.fi.abb.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.12.31.17",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://toolupdate-p.fi.abb.com:80",
+   "host": "toolupdate-p.fi.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "52.169.182.199",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://toolupdate.fi.abb.com:80",
+   "host": "toolupdate.fi.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "23.48.203.186",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wwwmotors.fi.abb.com:80",
+   "host": "wwwmotors.fi.abb.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "ABB - LV Motors - Optimizer",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.74.248.202",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://abb-fiext-hub02.fi.abb.com:443",
+   "host": "abb-fiext-hub02.fi.abb.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Site Error",
+   "webserver": "AkamaiNetStorage",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.39.174.154",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://abbtestmaintenance.fi.abb.com:443",
+   "host": "abbtestmaintenance.fi.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.178",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://abbtm.fi.abb.com:443",
+   "host": "abbtm.fi.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.38",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fidrivesfw01.fi.abb.com:443",
+   "host": "fidrivesfw01.fi.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "193.210.34.219",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://lct.fi.abb.com:443",
+   "host": "lct.fi.abb.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Site Error",
+   "webserver": "AkamaiNetStorage",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.186",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://liquidsun.energydigital.fi.abb.com:443",
+   "host": "liquidsun.energydigital.fi.abb.com",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "ABB Mia/1.1",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": true,
+   "ip": "51.12.208.57",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://materialpricing.fi.abb.com:443",
+   "host": "materialpricing.fi.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.12.31.1",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://newsletter.fi.abb.com:443",
+   "host": "newsletter.fi.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.88.18.194",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://singledriveconfigurator.fi.abb.com:443",
+   "host": "singledriveconfigurator.fi.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.166",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://stage.singledriveconfigurator.fi.abb.com:443",
+   "host": "stage.singledriveconfigurator.fi.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.38",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://test.materialpricing.fi.abb.com:443",
+   "host": "test.materialpricing.fi.abb.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.12.31.17",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://toolupdate-p.fi.abb.com:443",
+   "host": "toolupdate-p.fi.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.169.182.199",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://toolupdate.fi.abb.com:443",
+   "host": "toolupdate.fi.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "ABB Distribution Solutions",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.48.203.186",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://vpn.ssl.fi.abb.com:443",
+   "host": "vpn.ssl.fi.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "137.133.8.68",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://wwwmotors.fi.abb.com:443",
+   "host": "wwwmotors.fi.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "ABB - LV Motors - Optimizer",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.74.248.202",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

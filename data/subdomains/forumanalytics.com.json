@@ -1,0 +1,66 @@
+{
+ "domain": "forumanalytics.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "autodiscover.forumanalytics.com",
+  "com.forumanalytics.com",
+  "comcom.forumanalytics.com",
+  "corp.forumanalytics.com",
+  "demo.forumanalytics.com",
+  "dev.forumanalytics.com",
+  "devg.forumanalytics.com",
+  "dunham.forumanalytics.com",
+  "forumanalytics.com",
+  "remote.forumanalytics.com",
+  "www.forumanalytics.com",
+  "wwwk.forumanalytics.com"
+ ],
+ "http": [
+  {
+   "url": "http://autodiscover.forumanalytics.com:80",
+   "host": "autodiscover.forumanalytics.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.165.120",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://forumanalytics.com:80",
+   "host": "forumanalytics.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": false,
+   "ip": "12.167.4.235",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.forumanalytics.com:80",
+   "host": "www.forumanalytics.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": false,
+   "ip": "12.167.4.235",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

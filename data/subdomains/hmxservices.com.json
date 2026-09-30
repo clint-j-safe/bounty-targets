@@ -1,0 +1,1143 @@
+{
+ "domain": "hmxservices.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 320,
+ "programs": [
+  "hackerone|epicgames-vdp"
+ ],
+ "subdomains": [
+  "1.hmxservices.com",
+  "1.oca.hmxservices.com",
+  "118.hmxservices.com",
+  "119.hmxservices.com",
+  "121.hmxservices.com",
+  "18.hmxservices.com",
+  "189.hmxservices.com",
+  "190.hmxservices.com",
+  "2.hmxservices.com",
+  "208.hmxservices.com",
+  "209.hmxservices.com",
+  "221.hmxservices.com",
+  "222.hmxservices.com",
+  "2221.hmxservices.com",
+  "223.hmxservices.com",
+  "227.hmxservices.com",
+  "2271.hmxservices.com",
+  "228.hmxservices.com",
+  "229.hmxservices.com",
+  "2291.hmxservices.com",
+  "232.hmxservices.com",
+  "236.hmxservices.com",
+  "2361.hmxservices.com",
+  "238.hmxservices.com",
+  "33.hmxservices.com",
+  "339.hmxservices.com",
+  "52.hmxservices.com",
+  "529.hmxservices.com",
+  "87.hmxservices.com",
+  "879.hmxservices.com",
+  "a.hmxservices.com",
+  "aa.hmxservices.com",
+  "aa3.hmxservices.com",
+  "ad.hmxservices.com",
+  "ad9.hmxservices.com",
+  "admin.hmxservices.com",
+  "adming.hmxservices.com",
+  "api.hmxservices.com",
+  "apii.hmxservices.com",
+  "app.hmxservices.com",
+  "app5.hmxservices.com",
+  "apple.hmxservices.com",
+  "apps-dev.hmxservices.com",
+  "apps.hmxservices.com",
+  "appsg.hmxservices.com",
+  "ar1.ci1.hmxservices.com",
+  "au.hmxservices.com",
+  "autodiscover.hmxservices.com",
+  "autodiscoverk.hmxservices.com",
+  "aws-legacy.hmxservices.com",
+  "aws-misc.hmxservices.com",
+  "aws-priv-docker-03.hmxservices.com",
+  "aws-priv-docker-03k.hmxservices.com",
+  "aws.hmxservices.com",
+  "aws5.hmxservices.com",
+  "azure-int-proxy.hmxservices.com",
+  "azure-int-proxyc.hmxservices.com",
+  "be.hmxservices.com",
+  "be9.hmxservices.com",
+  "blitz-admin.hmxservices.com",
+  "blitz.hmxservices.com",
+  "blog.hmxservices.com",
+  "blog9.hmxservices.com",
+  "cardsdb-sync-dev.hmxservices.com",
+  "cardsdb-sync-devw.hmxservices.com",
+  "cc.hmxservices.com",
+  "cc9.hmxservices.com",
+  "cdn-rb.hmxservices.com",
+  "cdn-rba.hmxservices.com",
+  "cdn.hmxservices.com",
+  "cdnw.hmxservices.com",
+  "cf1.hmxservices.com",
+  "chem.hmxservices.com",
+  "chiu.v6.hmxservices.com",
+  "chronograf.hmxservices.com",
+  "chronografc.hmxservices.com",
+  "ci1.hmxservices.com",
+  "ci15.hmxservices.com",
+  "ciostage.hmxservices.com",
+  "cld.hmxservices.com",
+  "cld3.hmxservices.com",
+  "cloud.hmxservices.com",
+  "cloudg.hmxservices.com",
+  "co.hmxservices.com",
+  "com.hmxservices.com",
+  "comcom.hmxservices.com",
+  "connect.hmxservices.com",
+  "core.hmxservices.com",
+  "corp.hmxservices.com",
+  "corp5.hmxservices.com",
+  "cs.hmxservices.com",
+  "cust.hmxservices.com",
+  "d.aa.hmxservices.com",
+  "de.hmxservices.com",
+  "de7.hmxservices.com",
+  "demo.hmxservices.com",
+  "demo7.hmxservices.com",
+  "demotest.hmxservices.com",
+  "dev-dingo.hmxservices.com",
+  "dev.hmxservices.com",
+  "dev3.hmxservices.com",
+  "dhcp.hmxservices.com",
+  "dial.hmxservices.com",
+  "dialup.hmxservices.com",
+  "dialup1.hmxservices.com",
+  "direct-apps-dev.hmxservices.com",
+  "direct-apps-devi.hmxservices.com",
+  "direct-apps.hmxservices.com",
+  "direct-appso.hmxservices.com",
+  "docker-api.hmxservices.com",
+  "docker-apiu.hmxservices.com",
+  "docker-monitoring.hmxservices.com",
+  "docker-monitoringk.hmxservices.com",
+  "docker-swarm-service-cluster.hmxservices.com",
+  "docker-swarm-service-clusterg.hmxservices.com",
+  "docker.hmxservices.com",
+  "dockery.hmxservices.com",
+  "dropmix-dev-admin.hmxservices.com",
+  "dropmix-dev-adminc.hmxservices.com",
+  "dropmix-dev.hmxservices.com",
+  "dropmix-devy.hmxservices.com",
+  "dropmix-prod-admin.hmxservices.com",
+  "dropmix-prod-adminm.hmxservices.com",
+  "dropmix-prod.hmxservices.com",
+  "ds.hmxservices.com",
+  "dse.hmxservices.com",
+  "dsl.hmxservices.com",
+  "dsl1.hmxservices.com",
+  "ee.hmxservices.com",
+  "ee7.hmxservices.com",
+  "emea.hmxservices.com",
+  "en.hmxservices.com",
+  "eng.hmxservices.com",
+  "es.hmxservices.com",
+  "es9.hmxservices.com",
+  "eu.hmxservices.com",
+  "euw.hmxservices.com",
+  "events.hmxservices.com",
+  "ext.hmxservices.com",
+  "ext5.hmxservices.com",
+  "extranet.hmxservices.com",
+  "fb.hmxservices.com",
+  "fbo.hmxservices.com",
+  "fhzuaxqtwkxrv9phrb2wuetg361ibvnma05dmyeo.hmxservices.com",
+  "files.hmxservices.com",
+  "filesc.hmxservices.com",
+  "fls.hmxservices.com",
+  "fna.hmxservices.com",
+  "fr.hmxservices.com",
+  "fuser-admin-dev-external.hmxservices.com",
+  "fuser-admin-live-external.hmxservices.com",
+  "fwoc6pgg0dbeyapvfrd9ju78nakjmcikt2einxq1.hmxservices.com",
+  "gitlab-dev.hmxservices.com",
+  "gitlab-devi.hmxservices.com",
+  "global.hmxservices.com",
+  "grafana.hmxservices.com",
+  "hmxservices.com",
+  "hmxservices3.cld.hmxservices.com",
+  "hostmasterk.hmxservices.com",
+  "http-proxy.hmxservices.com",
+  "images.hmxservices.com",
+  "img.hmxservices.com",
+  "int.hmxservices.com",
+  "js.hmxservices.com",
+  "kibana.hmxservices.com",
+  "kibanau.hmxservices.com",
+  "kvr-qag.hmxservices.com",
+  "kzero-admin-qa.hmxservices.com",
+  "kzero-crmb-devi.hmxservices.com",
+  "kzero-crmb-externals.hmxservices.com",
+  "kzero-crmb.hmxservices.com",
+  "kzero-crmbs.hmxservices.com",
+  "kzero-dev.hmxservices.com",
+  "kzero-qa.hmxservices.com",
+  "l.hmxservices.com",
+  "lazer-prodg.hmxservices.com",
+  "lazer.hmxservices.com",
+  "lazerk.hmxservices.com",
+  "logstash-shipper-azurea.hmxservices.com",
+  "logstash-shipperc.hmxservices.com",
+  "mail.hmxservices.com",
+  "mon-influxdb.hmxservices.com",
+  "mon-influxdbw.hmxservices.com",
+  "mon-rabbitmq.hmxservices.com",
+  "mon-rabbitmqm.hmxservices.com",
+  "mon.hmxservices.com",
+  "monw.hmxservices.com",
+  "msoid.hmxservices.com",
+  "mumblea.hmxservices.com",
+  "n.hmxservices.com",
+  "ns1.hmxservices.com",
+  "ns1c.hmxservices.com",
+  "ns2.hmxservices.com",
+  "ns2g.hmxservices.com",
+  "oca.hmxservices.com",
+  "openvpn.hmxservices.com",
+  "origin-apps-deve.hmxservices.com",
+  "origin-appsu.hmxservices.com",
+  "origin-cdn.hmxservices.com",
+  "origin-fb-old.hmxservices.com",
+  "origin-fb-oldk.hmxservices.com",
+  "origin-fb.hmxservices.com",
+  "p9ps3test-storei.hmxservices.com",
+  "prod.hmxservices.com",
+  "prototype-static-private.hmxservices.com",
+  "prototype-static.hmxservices.com",
+  "prototype-statico.hmxservices.com",
+  "ps3-blitz-cert.hmxservices.com",
+  "ps3-blitz-certc.hmxservices.com",
+  "ps3-blitz-devg.hmxservices.com",
+  "ps3-blitz-live-oldq.hmxservices.com",
+  "ps3-blitz-live.hmxservices.com",
+  "ps3-blitz-lives.hmxservices.com",
+  "rb-ca-admin-dev.hmxservices.com",
+  "rb-ca-admin-deva.hmxservices.com",
+  "rb-ca-admin-prod.hmxservices.com",
+  "rb-ca-admin-prods.hmxservices.com",
+  "rb-ca-prod.hmxservices.com",
+  "rb-cdn-dev.hmxservices.com",
+  "rb-cdn-devk.hmxservices.com",
+  "rb-cdn-prod.hmxservices.com",
+  "rb-cdn-prodk.hmxservices.com",
+  "rb-cdn-qa.hmxservices.com",
+  "rb-cdn.hmxservices.com",
+  "rb-cdni.hmxservices.com",
+  "rb-cert-adminc.hmxservices.com",
+  "rb-dev-admin.hmxservices.com",
+  "rb-dev-admine.hmxservices.com",
+  "rb-dev.hmxservices.com",
+  "rb-devo.hmxservices.com",
+  "rb-prod-adminc.hmxservices.com",
+  "rb-qa-admine.hmxservices.com",
+  "rb-rivals-admin-dev.hmxservices.com",
+  "rb-rivals-admin-deve.hmxservices.com",
+  "rb-rivals-admin-prod.hmxservices.com",
+  "rb-rivals-admin-prodo.hmxservices.com",
+  "rb-rivals-admin-staging.hmxservices.com",
+  "rb-rivals-certm.hmxservices.com",
+  "rb-rivals-dev.hmxservices.com",
+  "rb-rivals-devs.hmxservices.com",
+  "rb-rivals-prod-p16q.hmxservices.com",
+  "rb-rivals-prod.hmxservices.com",
+  "rb-rivals-qas.hmxservices.com",
+  "rb2ps3liveo.hmxservices.com",
+  "rb2wiilivek.hmxservices.com",
+  "rb3ps3certk.hmxservices.com",
+  "rb3ps3livek.hmxservices.com",
+  "rb3ps3test-storek.hmxservices.com",
+  "rb3wiidev1w.hmxservices.com",
+  "rb3wiilivek.hmxservices.com",
+  "registry-dev.hmxservices.com",
+  "registry-devi.hmxservices.com",
+  "rockband-proxyo.hmxservices.com",
+  "rpgps3lives.hmxservices.com",
+  "rpgwiilivek.hmxservices.com",
+  "rpgxbldev2k.hmxservices.com",
+  "sensu.hmxservices.com",
+  "singspace-admin-prod.hmxservices.com",
+  "singspace-prod.hmxservices.com",
+  "sompmgr-admin.hmxservices.com",
+  "sompmgr-admink.hmxservices.com",
+  "sompmgr-dev-proxy-aws.hmxservices.com",
+  "sompmgr-dev-proxy-azure.hmxservices.com",
+  "sompmgr-dev.hmxservices.com",
+  "sompmgr-devq.hmxservices.com",
+  "sompmgr-frontend.hmxservices.com",
+  "sompmgr-frontendm.hmxservices.com",
+  "sompmgr-int-dev.hmxservices.com",
+  "sompmgr-int-devw.hmxservices.com",
+  "sompmgr-int.hmxservices.com",
+  "sompmgr-intu.hmxservices.com",
+  "sompmgr-proxy-ext-dev.hmxservices.com",
+  "sompmgr-proxy-ext-devm.hmxservices.com",
+  "sompmgr-proxy-exta.hmxservices.com",
+  "sompmgr-proxy-int-dev.hmxservices.com",
+  "sompmgr-proxy-int-devy.hmxservices.com",
+  "sompmgr-proxy-int.hmxservices.com",
+  "sompmgr.hmxservices.com",
+  "spotlight-cert-bi-inte.hmxservices.com",
+  "spotlight-cert-bia.hmxservices.com",
+  "spotlight-cert-s3y.hmxservices.com",
+  "spotlight-dev-biy.hmxservices.com",
+  "spotlight-dev-intw.hmxservices.com",
+  "spotlight-dev-s3y.hmxservices.com",
+  "spotlight-live-biw.hmxservices.com",
+  "spotlight-prod-biy.hmxservices.com",
+  "spotlight-prod-s3y.hmxservices.com",
+  "stage.hmxservices.com",
+  "swarm-monitoring-node-01.hmxservices.com",
+  "v6.hmxservices.com",
+  "vpn.hmxservices.com",
+  "vps.hmxservices.com",
+  "web.hmxservices.com",
+  "www.autodiscover.hmxservices.com",
+  "www.aws-misc.hmxservices.com",
+  "www.blitz-admin.hmxservices.com",
+  "www.cardsdb-sync-dev.hmxservices.com",
+  "www.cdn.hmxservices.com",
+  "www.docker-swarm-service-cluster.hmxservices.com",
+  "www.grafana.hmxservices.com",
+  "www.hmxservices.com",
+  "www.kibana.hmxservices.com",
+  "www.prototype-static.hmxservices.com",
+  "www.rb-rivals-admin-dev.hmxservices.com",
+  "www.rb-rivals-admin-prod.hmxservices.com",
+  "www.sensu.hmxservices.com",
+  "www.swarm-monitoring-node-01.hmxservices.com",
+  "www.vpn.hmxservices.com",
+  "wwwm.hmxservices.com",
+  "xboxauth-dev.hmxservices.com",
+  "xboxauth-deve.hmxservices.com",
+  "xboxauth-v2.hmxservices.com",
+  "xboxauth-v2o.hmxservices.com",
+  "xboxauth-v3.hmxservices.com",
+  "xboxauth-v3m.hmxservices.com",
+  "xboxauth-v4.hmxservices.com",
+  "xboxauth-v4m.hmxservices.com",
+  "xboxauth-v6.hmxservices.com",
+  "xboxauth-v6m.hmxservices.com",
+  "xboxauth.hmxservices.com"
+ ],
+ "http": [
+  {
+   "url": "http://aws-legacy.hmxservices.com:2083",
+   "host": "aws-legacy.hmxservices.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aws-legacy.hmxservices.com:2087",
+   "host": "aws-legacy.hmxservices.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aws-legacy.hmxservices.com:2096",
+   "host": "aws-legacy.hmxservices.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aws-legacy.hmxservices.com:80",
+   "host": "aws-legacy.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aws-legacy.hmxservices.com:8443",
+   "host": "aws-legacy.hmxservices.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://aws-misc.hmxservices.com:80",
+   "host": "aws-misc.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.3.146.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn-rb.hmxservices.com:80",
+   "host": "cdn-rb.hmxservices.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.254.174",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn-rb.hmxservices.com:8080",
+   "host": "cdn-rb.hmxservices.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.254.174",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn.hmxservices.com:2083",
+   "host": "cdn.hmxservices.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn.hmxservices.com:2087",
+   "host": "cdn.hmxservices.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn.hmxservices.com:2096",
+   "host": "cdn.hmxservices.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn.hmxservices.com:80",
+   "host": "cdn.hmxservices.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Amazon Web Services",
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://cdn.hmxservices.com:8443",
+   "host": "cdn.hmxservices.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hmxservices.com:2083",
+   "host": "hmxservices.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hmxservices.com:2087",
+   "host": "hmxservices.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hmxservices.com:2096",
+   "host": "hmxservices.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hmxservices.com:8443",
+   "host": "hmxservices.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn-dev.hmxservices.com:80",
+   "host": "rb-cdn-dev.hmxservices.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.114",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn-prod.hmxservices.com:80",
+   "host": "rb-cdn-prod.hmxservices.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.222.205.111",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn.hmxservices.com:2083",
+   "host": "rb-cdn.hmxservices.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn.hmxservices.com:2087",
+   "host": "rb-cdn.hmxservices.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn.hmxservices.com:2096",
+   "host": "rb-cdn.hmxservices.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn.hmxservices.com:80",
+   "host": "rb-cdn.hmxservices.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Amazon Web Services",
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-cdn.hmxservices.com:8443",
+   "host": "rb-cdn.hmxservices.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-dev.hmxservices.com:80",
+   "host": "rb-dev.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.209.185.237",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-rivals-dev.hmxservices.com:80",
+   "host": "rb-rivals-dev.hmxservices.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.14.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.14.0",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "44.194.139.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://rb-rivals-prod.hmxservices.com:80",
+   "host": "rb-rivals-prod.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.223.51.66",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr-admin.hmxservices.com:2082",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr-admin.hmxservices.com:2095",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr-admin.hmxservices.com:80",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr-admin.hmxservices.com:8080",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr-dev.hmxservices.com:80",
+   "host": "sompmgr-dev.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.3.146.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr-frontend.hmxservices.com:80",
+   "host": "sompmgr-frontend.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.209.185.237",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://sompmgr.hmxservices.com:80",
+   "host": "sompmgr.hmxservices.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.3.146.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hmxservices.com:2083",
+   "host": "www.hmxservices.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hmxservices.com:2087",
+   "host": "www.hmxservices.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hmxservices.com:2096",
+   "host": "www.hmxservices.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hmxservices.com:8443",
+   "host": "www.hmxservices.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aws-legacy.hmxservices.com:443",
+   "host": "aws-legacy.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://aws-misc.hmxservices.com:443",
+   "host": "aws-misc.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.3.146.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://cdn.hmxservices.com:443",
+   "host": "cdn.hmxservices.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Amazon Web Services",
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rb-cdn-dev.hmxservices.com:443",
+   "host": "rb-cdn-dev.hmxservices.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.114",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rb-cdn-prod.hmxservices.com:443",
+   "host": "rb-cdn-prod.hmxservices.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.222.205.111",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rb-cdn.hmxservices.com:443",
+   "host": "rb-cdn.hmxservices.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Amazon Web Services",
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rb-dev.hmxservices.com:443",
+   "host": "rb-dev.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.209.185.237",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rb-rivals-dev.hmxservices.com:443",
+   "host": "rb-rivals-dev.hmxservices.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.14.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.14.0",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "44.194.139.49",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://rb-rivals-prod.hmxservices.com:443",
+   "host": "rb-rivals-prod.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.223.51.66",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-admin.hmxservices.com:2083",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-admin.hmxservices.com:2087",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-admin.hmxservices.com:2096",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-admin.hmxservices.com:443",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-admin.hmxservices.com:8443",
+   "host": "sompmgr-admin.hmxservices.com",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.105",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-dev.hmxservices.com:443",
+   "host": "sompmgr-dev.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.3.146.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr-frontend.hmxservices.com:443",
+   "host": "sompmgr-frontend.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.209.185.237",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://sompmgr.hmxservices.com:443",
+   "host": "sompmgr.hmxservices.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.3.146.255",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

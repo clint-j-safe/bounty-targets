@@ -1,0 +1,235 @@
+{
+ "domain": "fyfeco.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 27,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "858.444.2982www.fyfeco.com",
+  "99-164-27-33.fyfeco.com",
+  "99-164-27-33n.fyfeco.com",
+  "99-164-27-34.fyfeco.com",
+  "99-164-27-34n.fyfeco.com",
+  "99-164-27-36.fyfeco.com",
+  "99-164-27-36n.fyfeco.com",
+  "99-164-27-37.fyfeco.com",
+  "99-164-27-38.fyfeco.com",
+  "99-164-27-38n.fyfeco.com",
+  "autodiscover.fyfeco.com",
+  "autodiscoverp.fyfeco.com",
+  "beta.fyfeco.com",
+  "fyfeco.com",
+  "llc.fyfeco.com",
+  "llcwww.fyfeco.com",
+  "llcwww.pilemedic.comwww.fyfeco.com",
+  "mail.fyfeco.com",
+  "webmail.fyfeco.com",
+  "www.99-164-27-33.fyfeco.com",
+  "www.99-164-27-34.fyfeco.com",
+  "www.99-164-27-36.fyfeco.com",
+  "www.99-164-27-37.fyfeco.com",
+  "www.99-164-27-38.fyfeco.com",
+  "www.autodiscover.fyfeco.com",
+  "www.fyfeco.com",
+  "www.webmail.fyfeco.com"
+ ],
+ "http": [
+  {
+   "url": "http://autodiscover.fyfeco.com:80",
+   "host": "autodiscover.fyfeco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.110.8",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fyfeco.com:2082",
+   "host": "fyfeco.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fyfeco.com:2083",
+   "host": "fyfeco.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fyfeco.com:2087",
+   "host": "fyfeco.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fyfeco.com:2095",
+   "host": "fyfeco.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fyfeco.com:2096",
+   "host": "fyfeco.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fyfeco.com:80",
+   "host": "fyfeco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HSTS",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fyfeco.com:2082",
+   "host": "www.fyfeco.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fyfeco.com:2083",
+   "host": "www.fyfeco.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fyfeco.com:2087",
+   "host": "www.fyfeco.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fyfeco.com:2095",
+   "host": "www.fyfeco.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fyfeco.com:2096",
+   "host": "www.fyfeco.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fyfeco.com:80",
+   "host": "www.fyfeco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HSTS",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://fyfeco.com:443",
+   "host": "fyfeco.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "https://www.fyfeco.com:443",
+   "host": "www.fyfeco.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "LiteSpeed",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "LiteSpeed"
+   ],
+   "cdn": false,
+   "ip": "68.66.200.215",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

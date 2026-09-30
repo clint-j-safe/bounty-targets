@@ -1,0 +1,119 @@
+{
+ "domain": "fameco.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 11,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "000kumuhreadcosta-trackingdb-tw-okta-019kumuhreadread.autodiscover.fameco.com",
+  "autodiscover.fameco.com",
+  "fameco.com",
+  "mail.fameco.com",
+  "ns1.fameco.com",
+  "ns2.fameco.com",
+  "www.autodiscover.fameco.com",
+  "www.fameco.com",
+  "www.mail.fameco.com",
+  "www5.mail.fameco.com",
+  "wwwxo.fameco.com"
+ ],
+ "http": [
+  {
+   "url": "http://000kumuhreadcosta-trackingdb-tw-okta-019kumuhreadread.autodiscover.fameco.com:80",
+   "host": "000kumuhreadcosta-trackingdb-tw-okta-019kumuhreadread.autodiscover.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://autodiscover.fameco.com:80",
+   "host": "autodiscover.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://fameco.com:80",
+   "host": "fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ns1.fameco.com:80",
+   "host": "ns1.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://ns2.fameco.com:80",
+   "host": "ns2.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.autodiscover.fameco.com:80",
+   "host": "www.autodiscover.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.fameco.com:80",
+   "host": "www.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://wwwxo.fameco.com:80",
+   "host": "wwwxo.fameco.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}

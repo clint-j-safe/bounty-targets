@@ -1,0 +1,142 @@
+{
+ "domain": "hanaspaces.com",
+ "last_run": "2026-09-30T00:11:05+00:00",
+ "count": 10,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "com.hanaspaces.com",
+  "como.hanaspaces.com",
+  "corp.hanaspaces.com",
+  "corpk.hanaspaces.com",
+  "dev.hanaspaces.com",
+  "devm.hanaspaces.com",
+  "hanaspaces.com",
+  "us.hanaspaces.com",
+  "www.hanaspaces.com",
+  "www1.hanaspaces.com"
+ ],
+ "http": [
+  {
+   "url": "http://com.hanaspaces.com:80",
+   "host": "com.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://como.hanaspaces.com:80",
+   "host": "como.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://corp.hanaspaces.com:80",
+   "host": "corp.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://corpk.hanaspaces.com:80",
+   "host": "corpk.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://dev.hanaspaces.com:80",
+   "host": "dev.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://devm.hanaspaces.com:80",
+   "host": "devm.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://hanaspaces.com:80",
+   "host": "hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://us.hanaspaces.com:80",
+   "host": "us.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www.hanaspaces.com:80",
+   "host": "www.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  },
+  {
+   "url": "http://www1.hanaspaces.com:80",
+   "host": "www1.hanaspaces.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.13.20",
+   "checked": "2026-09-30T00:11:05+00:00"
+  }
+ ]
+}
