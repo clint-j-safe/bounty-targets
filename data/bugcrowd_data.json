@@ -22921,7 +22921,7 @@
     "engagement_id": "98f28fd4-f576-440d-b885-0a0e06e91b83",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2026-07-02T13:25:39.747Z",
+    "published_at": "2026-09-30T19:31:29.243Z",
     "last_transition_at": "2018-02-21T21:00:00.000Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
@@ -37506,6 +37506,124 @@
           "uri": "https://marketplace.atlassian.com/apps/1221161/uml-for-confluence-cloud?hosting=cloud&tab=overview",
           "name": "https://marketplace.atlassian.com/apps/1221161/uml-for-confluence-cloud?hosting=cloud&tab=overview",
           "ipAddress": null,
+          "bounty": true
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "Vinted Bug Bounty",
+    "url": "https://bugcrowd.com/engagements/vinted-uab-mbb",
+    "allows_disclosure": false,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "starts_at": "2026-08-11T18:00:00Z",
+    "ends_at": null,
+    "engagement_id": "587bcf67-4ba8-44d3-bfd9-831a7b7a7a93",
+    "engagement_state": "in_progress",
+    "participation": "open",
+    "published_at": "2026-09-30T13:32:57.630Z",
+    "last_transition_at": "2026-08-11T18:01:00.237Z",
+    "status_label": "In progress",
+    "reward_allocation": "pay_for_success",
+    "max_payout": 4000,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://www.vinted.com",
+          "uri": "https://www.vinted.com",
+          "name": "www.vinted.com",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.vinted.net",
+          "uri": "https://www.vinted.net",
+          "name": "www.vinted.net",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.vintedgo.com",
+          "uri": "https://www.vintedgo.com",
+          "name": "www.vintedgo.com",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "ios",
+          "target": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+          "uri": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+          "name": "Vinted iOS application",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "android",
+          "target": "https://play.google.com/store/apps/details?id=fr.vinted",
+          "uri": "https://play.google.com/store/apps/details?id=fr.vinted",
+          "name": "Vinted Android application",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://sandbox.vintedgo.com",
+          "uri": "https://sandbox.vintedgo.com",
+          "name": "Vinted Go Sandbox",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://sandbox.vinted.com",
+          "uri": "https://sandbox.vinted.com",
+          "name": "Vinted Sandbox",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://test-escalations.vintedgo.com",
+          "uri": "https://test-escalations.vintedgo.com",
+          "name": "Vinted Go Escalations test",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://badger.it.vinted.com",
+          "uri": "https://badger.it.vinted.com",
+          "name": "Encryption Service",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://careers.vinted.com",
+          "uri": "https://careers.vinted.com",
+          "name": "Vinted Careers",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://company.vinted.com",
+          "uri": "https://company.vinted.com",
+          "name": "Company Vinted",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://news.vinted.com",
+          "uri": "https://news.vinted.com",
+          "name": "News Vinted",
+          "ipAddress": "",
           "bounty": true
         }
       ],
