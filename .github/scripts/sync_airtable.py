@@ -77,11 +77,11 @@ def main():
                 'Instructions': (t.get('instruction') or '')[:2000],
             }
 
-    existing = list_all(TARGETS_TABLE, ['Key', 'Target'] + FEED_FIELDS)
+    existing = list_all(TARGETS_TABLE, ['Key', 'Target', 'Test status', 'Tester', 'Notes'] + FEED_FIELDS)
     existing_by_key_target = {(r['fields'].get('Key'), r['fields'].get('Target')): r for r in existing}
     print(f'{len(existing)} existing target rows in Airtable')
 
-    to_create, to_update = [], []
+    to_create, to_update, to_delete = [], [], []
     seen = set()
     for path in glob.glob(f'{REPO_ROOT}/data/subdomains/*.json'):
         doc = json.load(open(path))
@@ -94,7 +94,40 @@ def main():
         if not key:
             continue
         meta = meta_by_root.get((key, domain), {'Bounty': '', 'Severity': '', 'Instructions': ''})
+
+        # When a host has both port 80 and port 443 live, they're the same web service (plain
+        # vs TLS) -- represent them as one Target row (keyed by the 443/https URL) instead of
+        # two. Any other port on the same host (8080, 8443, ...) stays its own row untouched.
+        by_host = {}
         for h in http:
+            host = h['url'].split('://', 1)[-1].split(':')[0].split('/')[0]
+            by_host.setdefault(host, {})[str(h.get('port') or '')] = h
+        merged_http = []
+        redundant_port80_urls = []
+        for host, ports in by_host.items():
+            if '80' in ports and '443' in ports:
+                primary, secondary = ports['443'], ports['80']
+                combined = dict(primary)
+                combined['port'] = '80, 443'
+                combined['technologies'] = sorted(set((primary.get('technologies') or [])
+                                                        + (secondary.get('technologies') or [])))
+                merged_http.append(combined)
+                redundant_port80_urls.append(secondary['url'][:1000])
+                ports = {p: v for p, v in ports.items() if p not in ('80', '443')}
+            merged_http.extend(ports.values())
+
+        for old_url in redundant_port80_urls:
+            old_rec = existing_by_key_target.get((key, old_url))
+            if old_rec is None:
+                continue
+            f = old_rec['fields']
+            human_touched = f.get('Test status', 'Untested') != 'Untested' or f.get('Tester') or f.get('Notes')
+            if human_touched:
+                print(f'  SKIP delete (has human data, review manually): {old_url}')
+                continue
+            to_delete.append(old_rec['id'])
+
+        for h in merged_http:
             url = h['url'][:1000]
             seen.add((key, url))
             new_fields = {
@@ -126,7 +159,10 @@ def main():
                 if changed:
                     to_update.append({'id': existing_rec['id'], 'fields': changed})
 
-    print(f'to create: {len(to_create)}, to update: {len(to_update)}, unchanged: {len(seen) - len(to_create) - len(to_update)}')
+    to_delete = sorted(set(to_delete))
+    print(f'to create: {len(to_create)}, to update: {len(to_update)}, '
+          f'to delete (redundant port-80 rows merged into 80+443): {len(to_delete)}, '
+          f'unchanged: {len(seen) - len(to_create) - len(to_update)}')
 
     for i in range(0, len(to_create), 10):
         api('POST', f'/v0/{BASE}/{TARGETS_TABLE}', {'records': to_create[i:i + 10], 'typecast': True})
@@ -134,8 +170,12 @@ def main():
     for i in range(0, len(to_update), 10):
         api('PATCH', f'/v0/{BASE}/{TARGETS_TABLE}', {'records': to_update[i:i + 10], 'typecast': True})
         time.sleep(0.22)
+    for i in range(0, len(to_delete), 10):
+        chunk = to_delete[i:i + 10]
+        api('DELETE', f'/v0/{BASE}/{TARGETS_TABLE}?' + '&'.join(f'records%5B%5D={x}' for x in chunk))
+        time.sleep(0.22)
 
-    print(f'done: created {len(to_create)}, updated {len(to_update)}')
+    print(f'done: created {len(to_create)}, updated {len(to_update)}, deleted {len(to_delete)}')
 
 
 if __name__ == '__main__':
