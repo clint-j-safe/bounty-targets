@@ -1,0 +1,77 @@
+{
+ "domain": "monespaceeleveur.fr",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "monespaceeleveur.fr",
+  "preprod.monespaceeleveur.fr",
+  "www.monespaceeleveur.fr",
+  "www.preprod.monespaceeleveur.fr"
+ ],
+ "http": [
+  {
+   "url": "http://monespaceeleveur.fr:80",
+   "host": "monespaceeleveur.fr",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.monespaceeleveur.fr:80",
+   "host": "www.monespaceeleveur.fr",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.142",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://monespaceeleveur.fr:443",
+   "host": "monespaceeleveur.fr",
+   "port": "443",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.monespaceeleveur.fr:443",
+   "host": "www.monespaceeleveur.fr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mon Espace \u00e9leveur",
+   "webserver": "Vercel",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "OneTrust",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.142",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

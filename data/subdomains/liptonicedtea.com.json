@@ -1,0 +1,517 @@
+{
+ "domain": "liptonicedtea.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|pepsico_vdp"
+ ],
+ "subdomains": [
+  "liptonicedtea.com",
+  "secure.liptonicedtea.com",
+  "www.liptonicedtea.com",
+  "www.secure.liptonicedtea.com",
+  "wwwbb.liptonicedtea.com"
+ ],
+ "http": [
+  {
+   "url": "http://liptonicedtea.com:2082",
+   "host": "liptonicedtea.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:2095",
+   "host": "liptonicedtea.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:3000",
+   "host": "liptonicedtea.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:80",
+   "host": "liptonicedtea.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8000",
+   "host": "liptonicedtea.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8001",
+   "host": "liptonicedtea.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8008",
+   "host": "liptonicedtea.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8080",
+   "host": "liptonicedtea.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8081",
+   "host": "liptonicedtea.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8090",
+   "host": "liptonicedtea.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8443",
+   "host": "liptonicedtea.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:8888",
+   "host": "liptonicedtea.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:9000",
+   "host": "liptonicedtea.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:9090",
+   "host": "liptonicedtea.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://liptonicedtea.com:9443",
+   "host": "liptonicedtea.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:2082",
+   "host": "www.liptonicedtea.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:2095",
+   "host": "www.liptonicedtea.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:3000",
+   "host": "www.liptonicedtea.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:80",
+   "host": "www.liptonicedtea.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8000",
+   "host": "www.liptonicedtea.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8001",
+   "host": "www.liptonicedtea.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8008",
+   "host": "www.liptonicedtea.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8080",
+   "host": "www.liptonicedtea.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8081",
+   "host": "www.liptonicedtea.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8090",
+   "host": "www.liptonicedtea.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8443",
+   "host": "www.liptonicedtea.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:8888",
+   "host": "www.liptonicedtea.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:9000",
+   "host": "www.liptonicedtea.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:9090",
+   "host": "www.liptonicedtea.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.liptonicedtea.com:9443",
+   "host": "www.liptonicedtea.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://liptonicedtea.com:2083",
+   "host": "liptonicedtea.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://liptonicedtea.com:2087",
+   "host": "liptonicedtea.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://liptonicedtea.com:2096",
+   "host": "liptonicedtea.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://liptonicedtea.com:443",
+   "host": "liptonicedtea.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://liptonicedtea.com:81",
+   "host": "liptonicedtea.com",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.liptonicedtea.com:2083",
+   "host": "www.liptonicedtea.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.liptonicedtea.com:2087",
+   "host": "www.liptonicedtea.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.liptonicedtea.com:2096",
+   "host": "www.liptonicedtea.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.liptonicedtea.com:443",
+   "host": "www.liptonicedtea.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.liptonicedtea.com:81",
+   "host": "www.liptonicedtea.com",
+   "port": "81",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

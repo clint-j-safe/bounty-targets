@@ -1,0 +1,116 @@
+{
+ "domain": "isonaspureaccesscloud.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 14,
+ "programs": [
+  "hackerone|allegion"
+ ],
+ "subdomains": [
+  "2a.isonaspureaccesscloud.com",
+  "2a3.isonaspureaccesscloud.com",
+  "blog.isonaspureaccesscloud.com",
+  "blogi.preview.isonaspureaccesscloud.com",
+  "en.isonaspureaccesscloud.com",
+  "en7.www.isonaspureaccesscloud.com",
+  "ene.2a.isonaspureaccesscloud.com",
+  "enm.preview.isonaspureaccesscloud.com",
+  "isonaspureaccesscloud.com",
+  "preview.isonaspureaccesscloud.com",
+  "previewi.isonaspureaccesscloud.com",
+  "www.isonaspureaccesscloud.com",
+  "www.preview.isonaspureaccesscloud.com",
+  "wwwi.isonaspureaccesscloud.com"
+ ],
+ "http": [
+  {
+   "url": "http://isonaspureaccesscloud.com:80",
+   "host": "isonaspureaccesscloud.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.230.184",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://preview.isonaspureaccesscloud.com:80",
+   "host": "preview.isonaspureaccesscloud.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.221.172",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.isonaspureaccesscloud.com:80",
+   "host": "www.isonaspureaccesscloud.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.230.184",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://isonaspureaccesscloud.com:443",
+   "host": "isonaspureaccesscloud.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.230.184",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://preview.isonaspureaccesscloud.com:443",
+   "host": "preview.isonaspureaccesscloud.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.221.172",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.isonaspureaccesscloud.com:443",
+   "host": "www.isonaspureaccesscloud.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.230.184",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

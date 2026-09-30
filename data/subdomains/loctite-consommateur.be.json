@@ -1,0 +1,75 @@
+{
+ "domain": "loctite-consommateur.be",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "loctite-consommateur.be",
+  "www.loctite-consommateur.be",
+  "www1.loctite-consommateur.be"
+ ],
+ "http": [
+  {
+   "url": "http://loctite-consommateur.be:80",
+   "host": "loctite-consommateur.be",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consommateur.be:80",
+   "host": "www.loctite-consommateur.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.84",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite-consommateur.be:443",
+   "host": "loctite-consommateur.be",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consommateur.be:443",
+   "host": "www.loctite-consommateur.be",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.84",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

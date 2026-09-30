@@ -1,0 +1,40 @@
+{
+ "domain": "momoafrica.tech",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|mtn_group"
+ ],
+ "subdomains": [
+  "marketingmng-public-oss.momoafrica.tech",
+  "marketingmng-public-oss.ng.momoafrica.tech"
+ ],
+ "http": [
+  {
+   "url": "https://marketingmng-public-oss.momoafrica.tech:443",
+   "host": "marketingmng-public-oss.momoafrica.tech",
+   "port": "443",
+   "status_code": 403,
+   "title": "405",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "102.88.160.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://marketingmng-public-oss.ng.momoafrica.tech:443",
+   "host": "marketingmng-public-oss.ng.momoafrica.tech",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Alibaba Cloud Object Storage Service"
+   ],
+   "cdn": false,
+   "ip": "102.94.30.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

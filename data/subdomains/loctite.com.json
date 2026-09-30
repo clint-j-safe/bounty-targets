@@ -1,0 +1,1846 @@
+{
+ "domain": "loctite.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 109,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "2partsilicones.loctite.com",
+  "2partsiliconesm.loctite.com",
+  "3090.loctite.com",
+  "aamproducts.loctite.com",
+  "com.loctite.com",
+  "concreterepair.loctite.com",
+  "concreterepairu.loctite.com",
+  "content.loctite.com",
+  "contenta.loctite.com",
+  "demos.loctite.com",
+  "distributorworkshop.loctite.com",
+  "edialoguena.loctite.com",
+  "edialoguena3.loctite.com",
+  "ekipmanlar.loctite.com",
+  "ekipmanlar5j.loctite.com",
+  "electronics.loctite.com",
+  "electronics5.loctite.com",
+  "endustriyel-sizdirmazlik.loctite.com",
+  "endustriyel-sizdirmazlik1.loctite.com",
+  "endustriyel-sizdirmazlik85a.loctite.com",
+  "equipment.loctite.com",
+  "equipmentg.loctite.com",
+  "fast.loctite.com",
+  "fastframe.loctite.com",
+  "fastframeg.loctite.com",
+  "fastframeinfo.loctite.com",
+  "flooring.loctite.com",
+  "hizli-yapistiricilar.loctite.com",
+  "hizli-yapistiricilarae.loctite.com",
+  "hizmetlerimiz.loctite.com",
+  "hizmetlerimizaf.loctite.com",
+  "indigo.loctite.com",
+  "info.loctite.com",
+  "instant.loctite.com",
+  "instantsolutions.loctite.com",
+  "instantsolutionse.loctite.com",
+  "lmw.loctite.com",
+  "loctite-xplore.loctite.com",
+  "loctite.com",
+  "loctitesticks.loctite.com",
+  "m.loctite.com",
+  "mobile.3090.loctite.com",
+  "newsticks.loctite.com",
+  "newsticksu.loctite.com",
+  "pmw.loctite.com",
+  "quickstix.loctite.com",
+  "quicktite.loctite.com",
+  "rohs.loctite.com",
+  "rohsk.loctite.com",
+  "sds.loctite.com",
+  "siki-gecme-bilesenleri.loctite.com",
+  "strategicsales.loctite.com",
+  "tds.loctite.com",
+  "tds3.loctite.com",
+  "techtalk.loctite.com",
+  "uv.loctite.com",
+  "vida-sabitleyiciler.loctite.com",
+  "vida-sabitleyicilerc.loctite.com",
+  "visible.loctite.com",
+  "wmw.loctite.com",
+  "wmwc.loctite.com",
+  "www.2partsilicones.loctite.com",
+  "www.3090.loctite.com",
+  "www.aamproducts.loctite.com",
+  "www.concreterepair.loctite.com",
+  "www.content.loctite.com",
+  "www.demos.loctite.com",
+  "www.distributorworkshop.loctite.com",
+  "www.edialoguena.loctite.com",
+  "www.electronics.loctite.com",
+  "www.endustriyel-sizdirmazlik.loctite.com",
+  "www.equipment.loctite.com",
+  "www.fastframe.loctite.com",
+  "www.fastframeinfo.loctite.com",
+  "www.flooring.loctite.com",
+  "www.indigo.loctite.com",
+  "www.info.loctite.com",
+  "www.instant.loctite.com",
+  "www.instantsolutions.loctite.com",
+  "www.lmw.loctite.com",
+  "www.loctite.com",
+  "www.loctitesticks.loctite.com",
+  "www.m.loctite.com",
+  "www.mobile.3090.loctite.com",
+  "www.newsticks.loctite.com",
+  "www.pmw.loctite.com",
+  "www.quickstix.loctite.com",
+  "www.quicktite.loctite.com",
+  "www.rohs.loctite.com",
+  "www.sds.loctite.com",
+  "www.strategicsales.loctite.com",
+  "www.tds.loctite.com",
+  "www.techtalk.loctite.com",
+  "www.uv.loctite.com",
+  "www.visible.loctite.com",
+  "www.wmw.loctite.com",
+  "www.www2.loctite.com",
+  "www.xplore.loctite.com",
+  "www2.loctite.com",
+  "www3.lmw.loctite.com",
+  "www3.loctitesticks.loctite.com",
+  "www5.sds.loctite.com",
+  "www9.xplore.loctite.com",
+  "wwwa.info.loctite.com",
+  "wwwk.distributorworkshop.loctite.com",
+  "wwws.mobile.3090.loctite.com",
+  "xplore.loctite.com",
+  "xplorev9.loctite.com",
+  "yapisal-yapistiricilar.loctite.com"
+ ],
+ "http": [
+  {
+   "url": "http://2partsilicones.loctite.com:80",
+   "host": "2partsilicones.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aamproducts.loctite.com:80",
+   "host": "aamproducts.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://concreterepair.loctite.com:80",
+   "host": "concreterepair.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://content.loctite.com:80",
+   "host": "content.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://distributorworkshop.loctite.com:80",
+   "host": "distributorworkshop.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://electronics.loctite.com:80",
+   "host": "electronics.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://equipment.loctite.com:80",
+   "host": "equipment.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://flooring.loctite.com:80",
+   "host": "flooring.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://info.loctite.com:80",
+   "host": "info.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://instantsolutions.loctite.com:80",
+   "host": "instantsolutions.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lmw.loctite.com:80",
+   "host": "lmw.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctite.com:80",
+   "host": "loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.37.31",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctitesticks.loctite.com:80",
+   "host": "loctitesticks.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://m.loctite.com:80",
+   "host": "m.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.99.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mobile.3090.loctite.com:80",
+   "host": "mobile.3090.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://newsticks.loctite.com:80",
+   "host": "newsticks.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://pmw.loctite.com:80",
+   "host": "pmw.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://quickstix.loctite.com:80",
+   "host": "quickstix.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://quicktite.loctite.com:80",
+   "host": "quicktite.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://rohs.loctite.com:80",
+   "host": "rohs.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://sds.loctite.com:80",
+   "host": "sds.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://strategicsales.loctite.com:80",
+   "host": "strategicsales.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://tds.loctite.com:80",
+   "host": "tds.loctite.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "34.149.231.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://uv.loctite.com:80",
+   "host": "uv.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://visible.loctite.com:80",
+   "host": "visible.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://wmw.loctite.com:80",
+   "host": "wmw.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2partsilicones.loctite.com:80",
+   "host": "www.2partsilicones.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.aamproducts.loctite.com:80",
+   "host": "www.aamproducts.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.concreterepair.loctite.com:80",
+   "host": "www.concreterepair.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.content.loctite.com:80",
+   "host": "www.content.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.distributorworkshop.loctite.com:80",
+   "host": "www.distributorworkshop.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.electronics.loctite.com:80",
+   "host": "www.electronics.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.equipment.loctite.com:80",
+   "host": "www.equipment.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.flooring.loctite.com:80",
+   "host": "www.flooring.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.info.loctite.com:80",
+   "host": "www.info.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.instantsolutions.loctite.com:80",
+   "host": "www.instantsolutions.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lmw.loctite.com:80",
+   "host": "www.lmw.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite.com:80",
+   "host": "www.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.37.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctitesticks.loctite.com:80",
+   "host": "www.loctitesticks.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.m.loctite.com:80",
+   "host": "www.m.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.mobile.3090.loctite.com:80",
+   "host": "www.mobile.3090.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.newsticks.loctite.com:80",
+   "host": "www.newsticks.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.pmw.loctite.com:80",
+   "host": "www.pmw.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.quickstix.loctite.com:80",
+   "host": "www.quickstix.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.quicktite.loctite.com:80",
+   "host": "www.quicktite.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.rohs.loctite.com:80",
+   "host": "www.rohs.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.sds.loctite.com:80",
+   "host": "www.sds.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.strategicsales.loctite.com:80",
+   "host": "www.strategicsales.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.tds.loctite.com:80",
+   "host": "www.tds.loctite.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "34.149.231.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.uv.loctite.com:80",
+   "host": "www.uv.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.visible.loctite.com:80",
+   "host": "www.visible.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.wmw.loctite.com:80",
+   "host": "www.wmw.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.xplore.loctite.com:80",
+   "host": "www.xplore.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www2.loctite.com:80",
+   "host": "www2.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://xplore.loctite.com:80",
+   "host": "xplore.loctite.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2partsilicones.loctite.com:443",
+   "host": "2partsilicones.loctite.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://aamproducts.loctite.com:443",
+   "host": "aamproducts.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://concreterepair.loctite.com:443",
+   "host": "concreterepair.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://content.loctite.com:443",
+   "host": "content.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://distributorworkshop.loctite.com:443",
+   "host": "distributorworkshop.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://electronics.loctite.com:443",
+   "host": "electronics.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://equipment.loctite.com:443",
+   "host": "equipment.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://flooring.loctite.com:443",
+   "host": "flooring.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://info.loctite.com:443",
+   "host": "info.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://instantsolutions.loctite.com:443",
+   "host": "instantsolutions.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lmw.loctite.com:443",
+   "host": "lmw.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite.com:443",
+   "host": "loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.37.31",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctitesticks.loctite.com:443",
+   "host": "loctitesticks.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://m.loctite.com:443",
+   "host": "m.loctite.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.99.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mobile.3090.loctite.com:443",
+   "host": "mobile.3090.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://newsticks.loctite.com:443",
+   "host": "newsticks.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://pmw.loctite.com:443",
+   "host": "pmw.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://quickstix.loctite.com:443",
+   "host": "quickstix.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://quicktite.loctite.com:443",
+   "host": "quicktite.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://rohs.loctite.com:443",
+   "host": "rohs.loctite.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://sds.loctite.com:443",
+   "host": "sds.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://strategicsales.loctite.com:443",
+   "host": "strategicsales.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://tds.loctite.com:443",
+   "host": "tds.loctite.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.149.231.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://uv.loctite.com:443",
+   "host": "uv.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://visible.loctite.com:443",
+   "host": "visible.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://wmw.loctite.com:443",
+   "host": "wmw.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2partsilicones.loctite.com:443",
+   "host": "www.2partsilicones.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.aamproducts.loctite.com:443",
+   "host": "www.aamproducts.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.concreterepair.loctite.com:443",
+   "host": "www.concreterepair.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.content.loctite.com:443",
+   "host": "www.content.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.distributorworkshop.loctite.com:443",
+   "host": "www.distributorworkshop.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.electronics.loctite.com:443",
+   "host": "www.electronics.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.equipment.loctite.com:443",
+   "host": "www.equipment.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.flooring.loctite.com:443",
+   "host": "www.flooring.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.info.loctite.com:443",
+   "host": "www.info.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.instantsolutions.loctite.com:443",
+   "host": "www.instantsolutions.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.lmw.loctite.com:443",
+   "host": "www.lmw.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite.com:443",
+   "host": "www.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.37.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctitesticks.loctite.com:443",
+   "host": "www.loctitesticks.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.m.loctite.com:443",
+   "host": "www.m.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.mobile.3090.loctite.com:443",
+   "host": "www.mobile.3090.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.newsticks.loctite.com:443",
+   "host": "www.newsticks.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.pmw.loctite.com:443",
+   "host": "www.pmw.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.quickstix.loctite.com:443",
+   "host": "www.quickstix.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.quicktite.loctite.com:443",
+   "host": "www.quicktite.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "63.185.227.105",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.rohs.loctite.com:443",
+   "host": "www.rohs.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.sds.loctite.com:443",
+   "host": "www.sds.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.strategicsales.loctite.com:443",
+   "host": "www.strategicsales.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.tds.loctite.com:443",
+   "host": "www.tds.loctite.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.149.231.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.uv.loctite.com:443",
+   "host": "www.uv.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.visible.loctite.com:443",
+   "host": "www.visible.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.wmw.loctite.com:443",
+   "host": "www.wmw.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.xplore.loctite.com:443",
+   "host": "www.xplore.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www2.loctite.com:443",
+   "host": "www2.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.18.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://xplore.loctite.com:443",
+   "host": "xplore.loctite.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

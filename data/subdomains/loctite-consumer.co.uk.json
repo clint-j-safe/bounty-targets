@@ -1,0 +1,393 @@
+{
+ "domain": "loctite-consumer.co.uk",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 17,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "2977849.loctite-consumer.co.uk",
+  "3038085.loctite-consumer.co.uk",
+  "3040764.loctite-consumer.co.uk",
+  "30407647.loctite-consumer.co.uk",
+  "glooly.loctite-consumer.co.uk",
+  "gloolyk.loctite-consumer.co.uk",
+  "loctite-consumer.co.uk",
+  "prizedraw.loctite-consumer.co.uk",
+  "prizedrawm.loctite-consumer.co.uk",
+  "www.2977849.loctite-consumer.co.uk",
+  "www.3038085.loctite-consumer.co.uk",
+  "www.3040764.loctite-consumer.co.uk",
+  "www.glooly.loctite-consumer.co.uk",
+  "www.loctite-consumer.co.uk",
+  "www.prizedraw.loctite-consumer.co.uk",
+  "wwwq.glooly.loctite-consumer.co.uk",
+  "wwww.prizedraw.loctite-consumer.co.uk"
+ ],
+ "http": [
+  {
+   "url": "http://2977849.loctite-consumer.co.uk:80",
+   "host": "2977849.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://3038085.loctite-consumer.co.uk:80",
+   "host": "3038085.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://3040764.loctite-consumer.co.uk:80",
+   "host": "3040764.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.127",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://glooly.loctite-consumer.co.uk:80",
+   "host": "glooly.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.97",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctite-consumer.co.uk:80",
+   "host": "loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://prizedraw.loctite-consumer.co.uk:80",
+   "host": "prizedraw.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2977849.loctite-consumer.co.uk:80",
+   "host": "www.2977849.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.79",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.3038085.loctite-consumer.co.uk:80",
+   "host": "www.3038085.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.58",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.3040764.loctite-consumer.co.uk:80",
+   "host": "www.3040764.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.19",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.glooly.loctite-consumer.co.uk:80",
+   "host": "www.glooly.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.97",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consumer.co.uk:80",
+   "host": "www.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.prizedraw.loctite-consumer.co.uk:80",
+   "host": "www.prizedraw.loctite-consumer.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2977849.loctite-consumer.co.uk:443",
+   "host": "2977849.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://3038085.loctite-consumer.co.uk:443",
+   "host": "3038085.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://3040764.loctite-consumer.co.uk:443",
+   "host": "3040764.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.127",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://glooly.loctite-consumer.co.uk:443",
+   "host": "glooly.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.97",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite-consumer.co.uk:443",
+   "host": "loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2977849.loctite-consumer.co.uk:443",
+   "host": "www.2977849.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.79",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.3038085.loctite-consumer.co.uk:443",
+   "host": "www.3038085.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.58",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.3040764.loctite-consumer.co.uk:443",
+   "host": "www.3040764.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.19",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.glooly.loctite-consumer.co.uk:443",
+   "host": "www.glooly.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.97",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consumer.co.uk:443",
+   "host": "www.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Whenever you need a perfect bond, you can count on Loctite",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.prizedraw.loctite-consumer.co.uk:443",
+   "host": "www.prizedraw.loctite-consumer.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

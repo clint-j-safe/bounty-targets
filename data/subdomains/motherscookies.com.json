@@ -1,0 +1,238 @@
+{
+ "domain": "motherscookies.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 15,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "dev-identity-us.motherscookies.com",
+  "dev.motherscookies.com",
+  "dev9.motherscookies.com",
+  "motherscookies.com",
+  "prod-identity-us.motherscookies.com",
+  "prod.motherscookies.com",
+  "qa-identity-us.motherscookies.com",
+  "qa.motherscookies.com",
+  "qac.motherscookies.com",
+  "quality.motherscookies.com",
+  "uploads.motherscookies.com",
+  "www.dev-identity-us.motherscookies.com",
+  "www.motherscookies.com",
+  "www.prod.motherscookies.com",
+  "www1.motherscookies.com"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-us.motherscookies.com:80",
+   "host": "dev-identity-us.motherscookies.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.76",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://motherscookies.com:80",
+   "host": "motherscookies.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://prod-identity-us.motherscookies.com:80",
+   "host": "prod-identity-us.motherscookies.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.213.117",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://prod.motherscookies.com:80",
+   "host": "prod.motherscookies.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.201",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qa-identity-us.motherscookies.com:80",
+   "host": "qa-identity-us.motherscookies.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.200.109",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.motherscookies.com:80",
+   "host": "www.motherscookies.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev-identity-us.motherscookies.com:443",
+   "host": "dev-identity-us.motherscookies.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.76",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://motherscookies.com:443",
+   "host": "motherscookies.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://motherscookies.com:8443",
+   "host": "motherscookies.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://motherscookies.com:9443",
+   "host": "motherscookies.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://prod-identity-us.motherscookies.com:443",
+   "host": "prod-identity-us.motherscookies.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.213.117",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://prod.motherscookies.com:443",
+   "host": "prod.motherscookies.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "Error",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.201",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa-identity-us.motherscookies.com:443",
+   "host": "qa-identity-us.motherscookies.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.200.109",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.motherscookies.com:443",
+   "host": "www.motherscookies.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mother's Cookies | Stop and taste the frosting",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Adobe Fonts",
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Drupal:10",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS",
+    "PHP",
+    "Slick",
+    "Typekit",
+    "jQuery"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

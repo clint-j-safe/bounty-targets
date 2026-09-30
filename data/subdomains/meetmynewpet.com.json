@@ -1,0 +1,72 @@
+{
+ "domain": "meetmynewpet.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "meetmynewpet.com",
+  "www.meetmynewpet.com",
+  "wwwi.meetmynewpet.com"
+ ],
+ "http": [
+  {
+   "url": "http://meetmynewpet.com:80",
+   "host": "meetmynewpet.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.76.198.0",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.meetmynewpet.com:80",
+   "host": "www.meetmynewpet.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://meetmynewpet.com:443",
+   "host": "meetmynewpet.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.76.198.0",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.meetmynewpet.com:443",
+   "host": "www.meetmynewpet.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Meet my new pet",
+   "webserver": "",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

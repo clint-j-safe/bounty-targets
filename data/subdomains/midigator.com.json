@@ -1,0 +1,1138 @@
+{
+ "domain": "midigator.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 143,
+ "programs": [
+  "hackerone|equifax"
+ ],
+ "subdomains": [
+  "06a4bb0ea2d5936088908a20e4a968ab.midigator.com",
+  "06a4bb0ea2d5936088908a20e4a968ab7.midigator.com",
+  "30953c9639d6932324110763d8ac.midigator.com",
+  "aa.midigator.com",
+  "aa9.midigator.com",
+  "admin-int.06a4bb0ea2d5936088908a20e4a968ab.midigator.com",
+  "api.midigator.com",
+  "api5.06a4bb0ea2d5936088908a20e4a968ab.midigator.com",
+  "app.midigator.com",
+  "auth.midigator.com",
+  "aws.midigator.com",
+  "bau.30953c9639d6932324110763d8ac.midigator.com",
+  "bau.api.midigator.com",
+  "bau.midigator.com",
+  "bauo.30953c9639d6932324110763d8ac.midigator.com",
+  "billing-repo.midigator.com",
+  "billing-report.midigator.com",
+  "billing-reporte.midigator.com",
+  "blog.midigator.com",
+  "blogg.midigator.com",
+  "cdn.midigator.com",
+  "cf1.midigator.com",
+  "chatg.api.midigator.com",
+  "cloud.midigator.com",
+  "cloudo.midigator.com",
+  "config.midigator.com",
+  "configg.midigator.com",
+  "containers.midigator.com",
+  "core.midigator.com",
+  "corem.midigator.com",
+  "crm-outcome.midigator.com",
+  "crm-validator.midigator.com",
+  "d.aa.midigator.com",
+  "dapi-self.midigator.com",
+  "dapi.midigator.com",
+  "dapii.midigator.com",
+  "database.admin-int.06a4bb0ea2d5936088908a20e4a968ab.midigator.com",
+  "demo.midigator.com",
+  "demoe.midigator.com",
+  "dev.midigator.com",
+  "docs.midigator.com",
+  "efx-vpn.midigator.com",
+  "eks.midigator.com",
+  "email.midigator.com",
+  "emailw.midigator.com",
+  "en.midigator.com",
+  "en7.midigator.com",
+  "eng-openvpn.midigator.com",
+  "eng-vpn.midigator.com",
+  "eng-vpn1.midigator.com",
+  "eng-vpn2.midigator.com",
+  "files.midigator.com",
+  "files9.midigator.com",
+  "fls.midigator.com",
+  "fna.midigator.com",
+  "global.midigator.com",
+  "globalq.midigator.com",
+  "go.midigator.com",
+  "gr7a.us-east-1.eks.midigator.com",
+  "help.midigator.com",
+  "helpe.midigator.com",
+  "m1.api.midigator.com",
+  "m1i.api.midigator.com",
+  "manual-transaction.midigator.com",
+  "midigator.com",
+  "natgw.midigator.com",
+  "natgwe.midigator.com",
+  "notification.midigator.com",
+  "openvpn.midigator.com",
+  "order-insight.api.midigator.com",
+  "preview.midigator.com",
+  "preview1.midigator.com",
+  "prodpubing.midigator.com",
+  "proposals.midigator.com",
+  "representment-delivery.midigator.com",
+  "resources.midigator.com",
+  "s.midigator.com",
+  "screenshare.midigator.com",
+  "shop-hook.midigator.com",
+  "shopify.midigator.com",
+  "shopify9.midigator.com",
+  "stripe-activation.api.midigator.com",
+  "stripe-activationa.api.midigator.com",
+  "stripe-webhook.api.midigator.com",
+  "survey.midigator.com",
+  "surveye.midigator.com",
+  "sync.midigator.com",
+  "test-notification.midigator.com",
+  "test.midigator.com",
+  "token.api.midigator.com",
+  "u.midigator.com",
+  "uat-konnektive.midigator.com",
+  "uat-sso-konnektive.midigator.com",
+  "uat-sso-konnektivek.midigator.com",
+  "ui.midigator.com",
+  "uia.midigator.com",
+  "us-east-1.eks.midigator.com",
+  "vpn.midigator.com",
+  "vpn1.midigator.com",
+  "vpn2.midigator.com",
+  "vrol.midigator.com",
+  "vrol.test.midigator.com",
+  "vrolw.midigator.com",
+  "wildcard.api.midigator.com",
+  "www.06a4bb0ea2d5936088908a20e4a968ab.midigator.com",
+  "www.30953c9639d6932324110763d8ac.midigator.com",
+  "www.api.midigator.com",
+  "www.app.midigator.com",
+  "www.billing-report.midigator.com",
+  "www.blog.midigator.com",
+  "www.crm-outcome.midigator.com",
+  "www.dapi-self.midigator.com",
+  "www.dapi.midigator.com",
+  "www.demo.midigator.com",
+  "www.docs.midigator.com",
+  "www.efx-vpn.midigator.com",
+  "www.email.midigator.com",
+  "www.eng-vpn.midigator.com",
+  "www.go.midigator.com",
+  "www.help.midigator.com",
+  "www.m1.api.midigator.com",
+  "www.manual-transaction.midigator.com",
+  "www.midigator.com",
+  "www.natgw.midigator.com",
+  "www.notification.midigator.com",
+  "www.order-insight.api.midigator.com",
+  "www.preview.midigator.com",
+  "www.prodpubing.midigator.com",
+  "www.proposals.midigator.com",
+  "www.representment-delivery.midigator.com",
+  "www.screenshare.midigator.com",
+  "www.shop-hook.midigator.com",
+  "www.shopify.midigator.com",
+  "www.stripe-activation.api.midigator.com",
+  "www.stripe-webhook.api.midigator.com",
+  "www.survey.midigator.com",
+  "www.token.api.midigator.com",
+  "www.uat-konnektive.midigator.com",
+  "www.uat-sso-konnektive.midigator.com",
+  "www.ui.midigator.com",
+  "www.vpn.midigator.com",
+  "www.vpn2.midigator.com",
+  "www.vrol.midigator.com"
+ ],
+ "http": [
+  {
+   "url": "http://api.midigator.com:80",
+   "host": "api.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://app.midigator.com:80",
+   "host": "app.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.27.128.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.midigator.com:80",
+   "host": "auth.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://billing-report.midigator.com:80",
+   "host": "billing-report.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.166.118.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://crm-outcome.midigator.com:80",
+   "host": "crm-outcome.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.129",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://crm-validator.midigator.com:80",
+   "host": "crm-validator.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dapi.midigator.com:80",
+   "host": "dapi.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.213.37",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://docs.midigator.com:80",
+   "host": "docs.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.117",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://m1.api.midigator.com:80",
+   "host": "m1.api.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://manual-transaction.midigator.com:80",
+   "host": "manual-transaction.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.64",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://midigator.com:80",
+   "host": "midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Pantheon",
+   "technologies": [
+    "Fastly",
+    "MariaDB",
+    "Nginx",
+    "PHP",
+    "Pantheon",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "23.185.0.1",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://notification.midigator.com:80",
+   "host": "notification.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://order-insight.api.midigator.com:80",
+   "host": "order-insight.api.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://preview.midigator.com:2082",
+   "host": "preview.midigator.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://preview.midigator.com:2095",
+   "host": "preview.midigator.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://preview.midigator.com:80",
+   "host": "preview.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://preview.midigator.com:8080",
+   "host": "preview.midigator.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://prodpubing.midigator.com:80",
+   "host": "prodpubing.midigator.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://representment-delivery.midigator.com:80",
+   "host": "representment-delivery.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.59",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://screenshare.midigator.com:80",
+   "host": "screenshare.midigator.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx/1.14.1",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "Nginx:1.14.1"
+   ],
+   "cdn": true,
+   "ip": "52.35.109.223",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://shop-hook.midigator.com:80",
+   "host": "shop-hook.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://shopify.midigator.com:80",
+   "host": "shopify.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.106",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stripe-activation.api.midigator.com:80",
+   "host": "stripe-activation.api.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.27.128.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stripe-webhook.api.midigator.com:80",
+   "host": "stripe-webhook.api.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://ui.midigator.com:2082",
+   "host": "ui.midigator.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://ui.midigator.com:2095",
+   "host": "ui.midigator.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://ui.midigator.com:80",
+   "host": "ui.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://ui.midigator.com:8080",
+   "host": "ui.midigator.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://vrol.midigator.com:80",
+   "host": "vrol.midigator.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.27.128.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.midigator.com:80",
+   "host": "www.midigator.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Pantheon",
+   "technologies": [
+    "Fastly",
+    "MariaDB",
+    "Nginx",
+    "PHP",
+    "Pantheon",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "23.185.0.1",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.midigator.com:443",
+   "host": "api.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://app.midigator.com:443",
+   "host": "app.midigator.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to https://app.midigator.com/login",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.27.128.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.midigator.com:443",
+   "host": "auth.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://billing-report.midigator.com:443",
+   "host": "billing-report.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.166.118.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://crm-outcome.midigator.com:443",
+   "host": "crm-outcome.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.129",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://crm-validator.midigator.com:443",
+   "host": "crm-validator.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dapi-self.midigator.com:443",
+   "host": "dapi-self.midigator.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.144.116.231",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dapi.midigator.com:443",
+   "host": "dapi.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.213.37",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://docs.midigator.com:443",
+   "host": "docs.midigator.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "MiDiGATOR\u00ae API Docs",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.117",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://eng-vpn.midigator.com:443",
+   "host": "eng-vpn.midigator.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "OpenVPN-AS",
+   "technologies": [],
+   "cdn": true,
+   "ip": "100.20.144.65",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://m1.api.midigator.com:443",
+   "host": "m1.api.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://manual-transaction.midigator.com:443",
+   "host": "manual-transaction.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.64",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://midigator.com:443",
+   "host": "midigator.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Pantheon",
+   "technologies": [
+    "Fastly",
+    "MariaDB",
+    "Nginx",
+    "PHP",
+    "Pantheon",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "23.185.0.1",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://notification.midigator.com:443",
+   "host": "notification.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://order-insight.api.midigator.com:443",
+   "host": "order-insight.api.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://preview.midigator.com:2083",
+   "host": "preview.midigator.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://preview.midigator.com:2087",
+   "host": "preview.midigator.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://preview.midigator.com:2096",
+   "host": "preview.midigator.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://preview.midigator.com:443",
+   "host": "preview.midigator.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Midigator | Demo Application",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "D3",
+    "DataTables",
+    "HTTP/3",
+    "JSZip",
+    "Moment.js",
+    "Select2",
+    "cdnjs",
+    "jQuery:3.7.6",
+    "jsDelivr",
+    "pdfmake",
+    "pickadate.js"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://preview.midigator.com:8443",
+   "host": "preview.midigator.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://prodpubing.midigator.com:443",
+   "host": "prodpubing.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.34.243.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://representment-delivery.midigator.com:443",
+   "host": "representment-delivery.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.59",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://screenshare.midigator.com:443",
+   "host": "screenshare.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "ClearSlide",
+   "webserver": "nginx/1.14.1",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "Google Tag Manager",
+    "HSTS",
+    "Nginx:1.14.1"
+   ],
+   "cdn": true,
+   "ip": "52.35.109.223",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://shop-hook.midigator.com:443",
+   "host": "shop-hook.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://shopify.midigator.com:443",
+   "host": "shopify.midigator.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.106",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stripe-activation.api.midigator.com:443",
+   "host": "stripe-activation.api.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.27.128.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stripe-webhook.api.midigator.com:443",
+   "host": "stripe-webhook.api.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "35.165.181.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ui.midigator.com:2083",
+   "host": "ui.midigator.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ui.midigator.com:2087",
+   "host": "ui.midigator.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ui.midigator.com:2096",
+   "host": "ui.midigator.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ui.midigator.com:443",
+   "host": "ui.midigator.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ui.midigator.com:8443",
+   "host": "ui.midigator.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://vrol.midigator.com:443",
+   "host": "vrol.midigator.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.27.128.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.midigator.com:443",
+   "host": "www.midigator.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Pantheon",
+   "technologies": [
+    "Fastly",
+    "MariaDB",
+    "Nginx",
+    "PHP",
+    "Pantheon",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "23.185.0.1",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

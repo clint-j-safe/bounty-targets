@@ -1,0 +1,149 @@
+{
+ "domain": "loctitepulse.henkelgroup.cloud",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "dev.loctitepulse.henkelgroup.cloud",
+  "deva.loctitepulse.henkelgroup.cloud",
+  "loctitepulse.henkelgroup.cloud",
+  "tst.loctitepulse.henkelgroup.cloud",
+  "www.dev.loctitepulse.henkelgroup.cloud",
+  "www.loctitepulse.henkelgroup.cloud",
+  "www.tst.loctitepulse.henkelgroup.cloud"
+ ],
+ "http": [
+  {
+   "url": "http://dev.loctitepulse.henkelgroup.cloud:80",
+   "host": "dev.loctitepulse.henkelgroup.cloud",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "13.95.1.234",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctitepulse.henkelgroup.cloud:80",
+   "host": "loctitepulse.henkelgroup.cloud",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.144.139.167",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://tst.loctitepulse.henkelgroup.cloud:80",
+   "host": "tst.loctitepulse.henkelgroup.cloud",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.232.56.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctitepulse.henkelgroup.cloud:80",
+   "host": "www.loctitepulse.henkelgroup.cloud",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.144.139.167",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.tst.loctitepulse.henkelgroup.cloud:80",
+   "host": "www.tst.loctitepulse.henkelgroup.cloud",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.232.56.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.loctitepulse.henkelgroup.cloud:443",
+   "host": "dev.loctitepulse.henkelgroup.cloud",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.95.1.234",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctitepulse.henkelgroup.cloud:443",
+   "host": "loctitepulse.henkelgroup.cloud",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "51.144.139.167",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://tst.loctitepulse.henkelgroup.cloud:443",
+   "host": "tst.loctitepulse.henkelgroup.cloud",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.232.56.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctitepulse.henkelgroup.cloud:443",
+   "host": "www.loctitepulse.henkelgroup.cloud",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "51.144.139.167",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.tst.loctitepulse.henkelgroup.cloud:443",
+   "host": "www.tst.loctitepulse.henkelgroup.cloud",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.232.56.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

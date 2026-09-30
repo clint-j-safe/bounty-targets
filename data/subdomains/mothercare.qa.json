@@ -1,0 +1,98 @@
+{
+ "domain": "mothercare.qa",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.mothercare.qa",
+  "mothercare.qa",
+  "www.data.mothercare.qa",
+  "www.mothercare.qa"
+ ],
+ "http": [
+  {
+   "url": "http://data.mothercare.qa:80",
+   "host": "data.mothercare.qa",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mothercare.qa:80",
+   "host": "mothercare.qa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.129.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.mothercare.qa:80",
+   "host": "www.mothercare.qa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://data.mothercare.qa:443",
+   "host": "data.mothercare.qa",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mothercare.qa:443",
+   "host": "mothercare.qa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.129.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.mothercare.qa:443",
+   "host": "www.mothercare.qa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

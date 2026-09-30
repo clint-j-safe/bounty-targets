@@ -1,0 +1,116 @@
+{
+ "domain": "lizardskin.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "lizardskin.com",
+  "m.lizardskin.com",
+  "shop.lizardskin.com",
+  "www.lizardskin.com",
+  "www.m.lizardskin.com",
+  "www.shop.lizardskin.com"
+ ],
+ "http": [
+  {
+   "url": "http://lizardskin.com:80",
+   "host": "lizardskin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "104.197.236.30",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://m.lizardskin.com:80",
+   "host": "m.lizardskin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "104.197.236.30",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lizardskin.com:80",
+   "host": "www.lizardskin.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "104.197.236.30",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lizardskin.com:443",
+   "host": "lizardskin.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "LizardSkin - Spray-on Sound Deadening & Heat Insulation for Cars",
+   "webserver": "nginx",
+   "technologies": [
+    "Bootstrap:3.4.0",
+    "CookieYes",
+    "Google Analytics",
+    "Google Hosted Libraries",
+    "MySQL",
+    "Nginx",
+    "PHP",
+    "WP Engine",
+    "WordPress",
+    "WordPress Block Editor",
+    "Yoast SEO:28.6",
+    "jQuery:1.11.0",
+    "wpBakery"
+   ],
+   "cdn": true,
+   "ip": "104.197.236.30",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://m.lizardskin.com:443",
+   "host": "m.lizardskin.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "104.197.236.30",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.lizardskin.com:443",
+   "host": "www.lizardskin.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": true,
+   "ip": "104.197.236.30",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

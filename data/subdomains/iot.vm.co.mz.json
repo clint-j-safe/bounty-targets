@@ -1,0 +1,185 @@
+{
+ "domain": "iot.vm.co.mz",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 9,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "bi.iot.vm.co.mz",
+  "datalake.iot.vm.co.mz",
+  "datalakeq.iot.vm.co.mz",
+  "iot.vm.co.mz",
+  "navigator.iot.vm.co.mz",
+  "pipelines.iot.vm.co.mz",
+  "pipelines9.iot.vm.co.mz",
+  "tenants.iot.vm.co.mz",
+  "tenantsk.iot.vm.co.mz"
+ ],
+ "http": [
+  {
+   "url": "http://bi.iot.vm.co.mz:80",
+   "host": "bi.iot.vm.co.mz",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://datalake.iot.vm.co.mz:80",
+   "host": "datalake.iot.vm.co.mz",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vm.co.mz:80",
+   "host": "iot.vm.co.mz",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://navigator.iot.vm.co.mz:80",
+   "host": "navigator.iot.vm.co.mz",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://pipelines.iot.vm.co.mz:80",
+   "host": "pipelines.iot.vm.co.mz",
+   "port": "80",
+   "status_code": 403,
+   "title": "Forbidden",
+   "webserver": "Server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "197.235.3.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://tenants.iot.vm.co.mz:80",
+   "host": "tenants.iot.vm.co.mz",
+   "port": "80",
+   "status_code": 403,
+   "title": "Forbidden",
+   "webserver": "Server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "197.235.3.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://bi.iot.vm.co.mz:443",
+   "host": "bi.iot.vm.co.mz",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://datalake.iot.vm.co.mz:443",
+   "host": "datalake.iot.vm.co.mz",
+   "port": "443",
+   "status_code": 303,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://iot.vm.co.mz:443",
+   "host": "iot.vm.co.mz",
+   "port": "443",
+   "status_code": 200,
+   "title": "Commander",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://navigator.iot.vm.co.mz:443",
+   "host": "navigator.iot.vm.co.mz",
+   "port": "443",
+   "status_code": 200,
+   "title": "Navigator",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://pipelines.iot.vm.co.mz:443",
+   "host": "pipelines.iot.vm.co.mz",
+   "port": "443",
+   "status_code": 403,
+   "title": "Forbidden",
+   "webserver": "Server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "197.235.3.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://tenants.iot.vm.co.mz:443",
+   "host": "tenants.iot.vm.co.mz",
+   "port": "443",
+   "status_code": 403,
+   "title": "Forbidden",
+   "webserver": "Server",
+   "technologies": [],
+   "cdn": false,
+   "ip": "197.235.3.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

@@ -1,0 +1,2368 @@
+{
+ "domain": "kaseya.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 575,
+ "programs": [
+  "hackerone|kaseya"
+ ],
+ "subdomains": [
+  "12-na4vsatrials4vpn.help.one.kaseya.com",
+  "12-pcanywherevpn.help.one.kaseya.com",
+  "12-pruebasvpn.help.one.kaseya.com",
+  "12-testbedvpn.help.one.kaseya.com",
+  "12-twitchvpn.help.one.kaseya.com",
+  "122271-web1.kaseya.com",
+  "12363commandvpn.help.one.kaseya.com",
+  "12configvpn.help.one.kaseya.com",
+  "12sslvpn.help.one.kaseya.com",
+  "365command-test.kaseya.com",
+  "365command-testa.kaseya.com",
+  "365command.kaseya.com",
+  "365commands.kaseya.com",
+  "366command-test-sso.help.one.kaseya.com",
+  "aa-app4-sso.help.one.kaseya.com",
+  "accounting.kaseya.com",
+  "accountinga.kaseya.com",
+  "adm-sso.help.one.kaseya.com",
+  "admin-jenkins.help.one.kaseya.com",
+  "admin1-git.help.one.kaseya.com",
+  "admin4-git.help.one.kaseya.com",
+  "administrator-gitlab.16.help.one.kaseya.com",
+  "ai.kaseya.com",
+  "analytics.kaseya.com",
+  "api-one.kaseya.com",
+  "api-one7.kaseya.com",
+  "api.bms.kaseya.com",
+  "api.bmsapac.kaseya.com",
+  "api.bmsemea.kaseya.com",
+  "api.kaseya.com",
+  "api.launcher.kaseya.com",
+  "api.na1bmspreview.kaseya.com",
+  "api.one.kaseya.com",
+  "api.qa-one.kaseya.com",
+  "api.stg-one.kaseya.com",
+  "api1.bms.kaseya.com",
+  "api5.one.kaseya.com",
+  "apid.kaseya.com",
+  "apidev-one.kaseya.com",
+  "apidev-oneo.kaseya.com",
+  "apidev-sso.help.one.kaseya.com",
+  "apii.qa-one.kaseya.com",
+  "apik.bmsapac.kaseya.com",
+  "apip.kaseya.com",
+  "apit.kaseya.com",
+  "ascii.kaseya.com",
+  "asciii.kaseya.com",
+  "assets.one.kaseya.com",
+  "assets.qa-one.kaseya.com",
+  "assets.stg-one.kaseya.com",
+  "assist.kaseya.com",
+  "audit.kaseya.com",
+  "audita.kaseya.com",
+  "auth-admin4.help.one.kaseya.com",
+  "auth-demo.kaseya.com",
+  "auth-demoa.kaseya.com",
+  "auth.help.one.kaseya.com",
+  "autoconfig.my.kaseya.com",
+  "autodiscover.kaseya.com",
+  "autodiscover.my.kaseya.com",
+  "autodiscovers.my.kaseya.com",
+  "automationexchange.kaseya.com",
+  "autotask-mcp.dev.api.kaseya.com",
+  "av.kaseya.com",
+  "b3bsslvpn.help.one.kaseya.com",
+  "backoffice.kaseya.com",
+  "backofficeu.kaseya.com",
+  "bcdr.walkme.kaseya.com",
+  "bcdr9.walkme.kaseya.com",
+  "beta-sso.help.one.kaseya.com",
+  "beta1-sso.help.one.kaseya.com",
+  "billing.kaseya.com",
+  "billing3.kaseya.com",
+  "bisint.kaseya.com",
+  "bisintsb.kaseya.com",
+  "blog.kaseya.com",
+  "bms-staging.kaseya.com",
+  "bms-staginge.kaseya.com",
+  "bms.kaseya.com",
+  "bms.walkme.kaseya.com",
+  "bmsapac.kaseya.com",
+  "bmsapac3.kaseya.com",
+  "bmsc.walkme.kaseya.com",
+  "bmsemea.kaseya.com",
+  "bmsemeak.kaseya.com",
+  "bmspreview.kaseya.com",
+  "bnwgoxuxfj.kaseya.com",
+  "boomi-dev01.kaseya.com",
+  "boomi-dev01u.kaseya.com",
+  "bullphishid.kaseya.com",
+  "byod.kaseya.com",
+  "calendar.kaseya.com",
+  "calendarw.kaseya.com",
+  "careers.kaseya.com",
+  "careerso.kaseya.com",
+  "cb.kaseya.com",
+  "cdn.kaseya.com",
+  "cfafdtest.kaseya.com",
+  "citrix-internal.help.one.kaseya.com",
+  "citrix.biblioteca.help.one.kaseya.com",
+  "citrix.my.help.one.kaseya.com",
+  "clientssso.help.one.kaseya.com",
+  "cloud.kaseya.com",
+  "cloudk.kaseya.com",
+  "com.kaseya.com",
+  "comcom.kaseya.com",
+  "community.kaseya.com",
+  "connectbooster.walkme.kaseya.com",
+  "connectboostera.walkme.kaseya.com",
+  "core.kaseya.com",
+  "cqdnpzssy.kaseya.com",
+  "cs.kaseya.com",
+  "csa.kaseya.com",
+  "darkwebid.kaseya.com",
+  "dashboard.help.one.kaseya.com",
+  "data.kaseya.com",
+  "dataedo.prod.kaseya.com",
+  "dataedo.test.kaseya.com",
+  "datto-rmm-mcp.dev.api.kaseya.com",
+  "de.kaseya.com",
+  "demo.kaseya.com",
+  "demo1.kaseya.com",
+  "demo2.kaseya.com",
+  "demo3.kaseya.com",
+  "demo4.kaseya.com",
+  "demo5.kaseya.com",
+  "demoi.kaseya.com.kaseya.com",
+  "deploy01-cdn.kaseya.com",
+  "deploy01.kaseya.com",
+  "dev-invoicecompare.one.kaseya.com",
+  "dev-lab-one-api.kaseya.com",
+  "dev-lab-one-apie.kaseya.com",
+  "dev-lab-one-cooper-bots-api.kaseya.com",
+  "dev-lab-one-cooper-bots-apic.kaseya.com",
+  "dev-one.kaseya.com",
+  "dev-one5.kaseya.com",
+  "dev.ai.kaseya.com",
+  "dev.api.kaseya.com",
+  "dev.assist.kaseya.com",
+  "dev.core.kaseya.com",
+  "dev.data.kaseya.com",
+  "dev.iam.kaseya.com",
+  "dev.identity.kaseya.com",
+  "dev.kaseya.com",
+  "dev.mcp.kaseya.com",
+  "devel.sslvpn.help.one.kaseya.com",
+  "devsecops-argocd.kaseya.com",
+  "devsecops-grafana.kaseya.com",
+  "devwww.kaseya.com",
+  "dl.kaseya.com",
+  "docs.kaseya.com",
+  "download.kaseya.com",
+  "downloadq.kaseya.com",
+  "dsl.kaseya.com",
+  "dwid.walkme.kaseya.com",
+  "dwidc.walkme.kaseya.com",
+  "e2e.ai.kaseya.com",
+  "e2e.api.kaseya.com",
+  "e2e.assist.kaseya.com",
+  "e2e.core.kaseya.com",
+  "e2e.data.kaseya.com",
+  "e2e.iam.kaseya.com",
+  "e2e.identity.kaseya.com",
+  "e2e.mcp.kaseya.com",
+  "ecom.kaseya.com",
+  "ecom2.kaseya.com",
+  "edu.kaseya.com",
+  "email.kaseya.com",
+  "engage.kaseya.com",
+  "enterpriseregistration.administrator.help.one.kaseya.com",
+  "eu.kaseya.com",
+  "eu1bmspreview.kaseya.com",
+  "eval.kaseya.com",
+  "events.kaseya.com",
+  "fed.kaseya.com",
+  "fedb.kaseya.com",
+  "files.kaseya.com",
+  "filesg.kaseya.com",
+  "finance.kaseya.com",
+  "financec.kaseya.com",
+  "financeu.kaseya.com",
+  "fls.kaseya.com",
+  "forum.kaseya.com",
+  "forum3.kaseya.com",
+  "fr.kaseya.com",
+  "free.kaseya.com",
+  "ftp.kaseya.com",
+  "ftp2.kaseya.com",
+  "ftpia.kaseya.com",
+  "g1.kaseya.com",
+  "g1j.kaseya.com",
+  "gh-mail.kaseya.com",
+  "gh-mail7.kaseya.com",
+  "git.administrator.help.one.kaseya.com",
+  "gmail.kaseya.com",
+  "gmail5.kaseya.com",
+  "gmailve.kaseya.com",
+  "go.kaseya.com",
+  "google.kaseya.com",
+  "googlewu.kaseya.com",
+  "grafana-vpn2.help.one.kaseya.com",
+  "graphus.kaseya.com",
+  "graphusi.kaseya.com",
+  "groups.kaseya.com",
+  "groupsyj.kaseya.com",
+  "gzuztnhkwvkdia.kaseya.com",
+  "hello.kaseya.com",
+  "helloc.kaseya.com",
+  "help-origin.kaseya.com",
+  "help.audit.kaseya.com",
+  "help.backup.kaseya.com",
+  "help.bms.kaseya.com",
+  "help.bullphishid.kaseya.com",
+  "help.cb.kaseya.com",
+  "help.darkwebid.kaseya.com",
+  "help.graphus.kaseya.com",
+  "help.inky.kaseya.com",
+  "help.itglue.kaseya.com",
+  "help.kaseya.com",
+  "help.mdm.kaseya.com",
+  "help.mdr.kaseya.com",
+  "help.myitprocess.kaseya.com",
+  "help.one.kaseya.com",
+  "help.quotemanager.kaseya.com",
+  "help.rapidfiretools.kaseya.com",
+  "help.rocketcyber.kaseya.com",
+  "help.saasalerts.kaseya.com",
+  "help.siem.kaseya.com",
+  "help.spanning.kaseya.com",
+  "help.traverse.kaseya.com",
+  "help.unitrends.kaseya.com",
+  "help.vonahi.kaseya.com",
+  "help.vsa10.kaseya.com",
+  "help.vsa9.kaseya.com",
+  "help5.vonahi.kaseya.com",
+  "helpa.audit.kaseya.com",
+  "helpa.mdm.kaseya.com",
+  "helpc.myitprocess.kaseya.com",
+  "helpc.vsa9.kaseya.com",
+  "helpdesk.kaseya.com",
+  "helpdeskc.kaseya.com",
+  "helpdoctorsmakemon.kaseya.com",
+  "helpdoctorsmakemon5.kaseya.com",
+  "helpe.bullphishid.kaseya.com",
+  "helpe.rocketcyber.kaseya.com",
+  "helpk.itglue.kaseya.com",
+  "helpk.vsa10.kaseya.com",
+  "helpo.one.kaseya.com",
+  "hrpoc.kaseya.com",
+  "hrpoc9.kaseya.com",
+  "iam.kaseya.com",
+  "identity.kaseya.com",
+  "imail.kaseya.com",
+  "imail3.kaseya.com",
+  "info.kaseya.com",
+  "init.kaseya.com",
+  "inky.walkme.kaseya.com",
+  "insightvm.kaseya.com",
+  "insightvmm.kaseya.com",
+  "integration.kaseya.com",
+  "invoicecompare.one.kaseya.com",
+  "it-vsa.kaseya.com",
+  "it.kaseya.com",
+  "itglue-mcp.dev.api.kaseya.com",
+  "itglue.kaseya.com",
+  "ivpn.help.one.kaseya.com",
+  "jenkins-one.kaseya.com",
+  "jenkins-onee.kaseya.com",
+  "jenkins.help.one.kaseya.com",
+  "jira.kaseya.com",
+  "jp.kaseya.com",
+  "k1.kaseya.com",
+  "kaseya-assist.dev.api.kaseya.com",
+  "kaseya.com",
+  "kaseya.com.kaseya.com",
+  "kb.kaseya.com",
+  "kit-staging.kaseya.com",
+  "kit-staging1.kaseya.com",
+  "kit.kaseya.com",
+  "kq.kaseya.com",
+  "kuniversity.kaseya.com",
+  "labs.kaseya.com",
+  "land.kaseya.com",
+  "langfuse-dev.langfuse.kaseya.com",
+  "languages.kaseya.com",
+  "laqjhkhateia.kaseya.com",
+  "launcher.kaseya.com",
+  "launcherba5.kaseya.com",
+  "ldap.12-sample.help.one.kaseya.com",
+  "lib.kaseya.com",
+  "lic.kaseya.com",
+  "lms.kaseya.com",
+  "local.kaseya.com",
+  "log.kaseya.com",
+  "lp.kaseya.com",
+  "lyncdiscover.kaseya.com",
+  "m365.kaseya.com",
+  "mail.kaseya.com",
+  "mail2.kaseya.com",
+  "mail27.kaseya.com",
+  "mail3.kaseya.com",
+  "mailer.kaseya.com",
+  "mcp.kaseya.com",
+  "mdm.kaseya.com",
+  "merch.kaseya.com",
+  "merchc.kaseya.com",
+  "metric.kaseya.com",
+  "metrics.kaseya.com",
+  "mg.kaseya.com",
+  "mm.da2501.dso.aso.kaseya.com",
+  "mobile.kaseya.com",
+  "mobile1.kaseya.com",
+  "msp.kaseya.com",
+  "mspinsights.kaseya.com",
+  "mspinsightsw.kaseya.com",
+  "mspprotect.kaseya.com",
+  "mspprotectu.kaseya.com",
+  "my.kaseya.com",
+  "myitprocess.kaseya.com",
+  "myitprocess.walkme.kaseya.com",
+  "myitprocessg.walkme.kaseya.com",
+  "myportal.kaseya.com",
+  "myportal1.kaseya.com",
+  "na1.bmspreview.kaseya.com",
+  "na1bmspreview.kaseya.com",
+  "na1vsatrial03.kaseya.com",
+  "na1vsatrial04.kaseya.com",
+  "news.kaseya.com",
+  "nl.kaseya.com",
+  "notifications.dev-one.kaseya.com",
+  "notifications.one.kaseya.com",
+  "notifications.qa-one.kaseya.com",
+  "ns1.kaseya.com",
+  "ns2.kaseya.com",
+  "ok.kaseya.com",
+  "oldsite.kaseya.com",
+  "one.kaseya.com",
+  "org.kaseya.com",
+  "orig.kaseya.com",
+  "origin-bms.kaseya.com",
+  "origin-bmsapac.kaseya.com",
+  "origin-bmse.kaseya.com",
+  "origin-bmsemea.kaseya.com",
+  "origin-na1bmspreview.kaseya.com",
+  "partners.kaseya.com",
+  "portal-api.one.kaseya.com",
+  "portal-api.qa-one.kaseya.com",
+  "portal-api.stg-one.kaseya.com",
+  "portal-apiy.qa-one.kaseya.com",
+  "portal.help.one.kaseya.com",
+  "portal.kaseya.com",
+  "poweredservices.kaseya.com",
+  "pps.kaseya.com",
+  "prisma-access.kaseya.com",
+  "qa-one.kaseya.com",
+  "qa.api.launcher.kaseya.com",
+  "qa.webhooks.one.kaseya.com",
+  "qa1.webhooks.one.kaseya.com",
+  "qa7.api.launcher.kaseya.com",
+  "query-service.dev.api.kaseya.com",
+  "rapidfiretools.walkme.kaseya.com",
+  "remote.help.one.kaseya.com",
+  "resources.kaseya.com",
+  "rocketcyber.kaseya.com",
+  "saratoga.walkme.kaseya.com",
+  "sb4.myportal.kaseya.com",
+  "scheduler-staging.bms.kaseya.com",
+  "scheduler.bms.kaseya.com",
+  "scheduler.bmsapac.kaseya.com",
+  "scheduler.bmsemea.kaseya.com",
+  "scheduler.vorexlogin.kaseya.com",
+  "schedulerg.bmsemea.kaseya.com",
+  "schedulerk.bmsapac.kaseya.com",
+  "secureedge.walkme.kaseya.com",
+  "secureedgeq.walkme.kaseya.com",
+  "securepayments.walkme.kaseya.com",
+  "securepaymentsc.walkme.kaseya.com",
+  "sfsso.help.one.kaseya.com",
+  "sftp.kaseya.com",
+  "signatures.kaseya.com",
+  "signatures3.kaseya.com",
+  "sites.kaseya.com",
+  "sjc.kaseya.com",
+  "spanning.kaseya.com",
+  "spf.kaseya.com",
+  "sso-asset.help.one.kaseya.com",
+  "sso-na0bmspreview.help.one.kaseya.com",
+  "sso-nl.help.one.kaseya.com",
+  "sso.grafana.help.one.kaseya.com",
+  "ssoteam.help.one.kaseya.com",
+  "stage.kaseya.com",
+  "staging.ai.kaseya.com",
+  "staging.api.kaseya.com",
+  "staging.assist.kaseya.com",
+  "staging.core.kaseya.com",
+  "staging.data.kaseya.com",
+  "staging.iam.kaseya.com",
+  "staging.identity.kaseya.com",
+  "staging.mcp.kaseya.com",
+  "staging.myportal.kaseya.com",
+  "status.kaseya.com",
+  "stg-one.kaseya.com",
+  "stg.api.launcher.kaseya.com",
+  "store.kaseya.com",
+  "store7.kaseya.com",
+  "support.kaseya.com",
+  "supportg.kaseya.com",
+  "sydney.kaseya.com",
+  "telework.admin0.help.one.kaseya.com",
+  "test-download.kaseya.com",
+  "test.dev.api.kaseya.com",
+  "test.kaseya.com",
+  "testvpn-east.help.one.kaseya.com",
+  "traverse.help.kaseya.com",
+  "traverse.kaseya.com",
+  "trust.kaseya.com",
+  "trustc.kaseya.com",
+  "unitrends.kaseya.com",
+  "unitrends.walkme.kaseya.com",
+  "university.kaseya.com",
+  "universityw.kaseya.com",
+  "us-demo.kaseya.com",
+  "vconnect.kaseya.com",
+  "vconnect5.kaseya.com",
+  "velocity.kaseya.com",
+  "vm-conn-eus-ise-pan.kaseya.com",
+  "vm-conn-eus-ise-psn.kaseya.com",
+  "vonahi.kaseya.com",
+  "vorexlogin.kaseya.com",
+  "vpn-east.help.one.kaseya.com",
+  "vpn.12-payment.help.one.kaseya.com",
+  "vpn.12.cal.help.one.kaseya.com",
+  "vpn.12deploy01.help.one.kaseya.com",
+  "vpn.12europe.help.one.kaseya.com",
+  "vpn.3.help.one.kaseya.com",
+  "vpn.apidev.help.one.kaseya.com",
+  "vpn.facebook.help.one.kaseya.com",
+  "vpn.kaseya.com",
+  "vsa10.kaseya.com",
+  "vsa9.kaseya.com",
+  "walkme.kaseya.com",
+  "web.kaseya.com",
+  "webdisk.my.kaseya.com",
+  "webhooks.one.kaseya.com",
+  "webhooks.qa-one.kaseya.com",
+  "webhooks.stg-one.kaseya.com",
+  "webhooksa.qa-one.kaseya.com",
+  "webinar.kaseya.com",
+  "www.365command-test.kaseya.com",
+  "www.365command.kaseya.com",
+  "www.accounting.kaseya.com",
+  "www.analytics.kaseya.com",
+  "www.api-one.kaseya.com",
+  "www.api.bms.kaseya.com",
+  "www.api.bmsapac.kaseya.com",
+  "www.api.bmsemea.kaseya.com",
+  "www.api.launcher.kaseya.com",
+  "www.api.na1bmspreview.kaseya.com",
+  "www.api.one.kaseya.com",
+  "www.api.qa-one.kaseya.com",
+  "www.apid.kaseya.com",
+  "www.apidev-one.kaseya.com",
+  "www.apip.kaseya.com",
+  "www.auth-demo.kaseya.com",
+  "www.autoconfig.my.kaseya.com",
+  "www.autodiscover.kaseya.com",
+  "www.autodiscover.my.kaseya.com",
+  "www.automationexchange.kaseya.com",
+  "www.backoffice.kaseya.com",
+  "www.billing.kaseya.com",
+  "www.blog.kaseya.com",
+  "www.bms.kaseya.com",
+  "www.bmsapac.kaseya.com",
+  "www.bmsemea.kaseya.com",
+  "www.boomi-dev01.kaseya.com",
+  "www.calendar.kaseya.com",
+  "www.careers.kaseya.com",
+  "www.cb.kaseya.com",
+  "www.community.kaseya.com",
+  "www.csa.kaseya.com",
+  "www.demo.kaseya.com",
+  "www.demo1.kaseya.com",
+  "www.demo2.kaseya.com",
+  "www.demo3.kaseya.com",
+  "www.demo4.kaseya.com",
+  "www.demo5.kaseya.com",
+  "www.dev-invoicecompare.one.kaseya.com",
+  "www.dev-one.kaseya.com",
+  "www.dev.kaseya.com",
+  "www.devsecops-argocd.kaseya.com",
+  "www.devsecops-grafana.kaseya.com",
+  "www.dl.kaseya.com",
+  "www.docs.kaseya.com",
+  "www.download.kaseya.com",
+  "www.eu1bmspreview.kaseya.com",
+  "www.events.kaseya.com",
+  "www.forum.kaseya.com",
+  "www.gmail.kaseya.com",
+  "www.go.kaseya.com",
+  "www.google.kaseya.com",
+  "www.groups.kaseya.com",
+  "www.help.bms.kaseya.com",
+  "www.help.cb.kaseya.com",
+  "www.help.graphus.kaseya.com",
+  "www.help.kaseya.com",
+  "www.help.one.kaseya.com",
+  "www.help.vonahi.kaseya.com",
+  "www.help.vsa10.kaseya.com",
+  "www.helpdesk.kaseya.com",
+  "www.hrpoc.kaseya.com",
+  "www.imail.kaseya.com",
+  "www.info.kaseya.com",
+  "www.insightvm.kaseya.com",
+  "www.invoicecompare.one.kaseya.com",
+  "www.it.kaseya.com",
+  "www.jira.kaseya.com",
+  "www.kaseya.com",
+  "www.kit-staging.kaseya.com",
+  "www.kit.kaseya.com",
+  "www.kuniversity.kaseya.com",
+  "www.labs.kaseya.com",
+  "www.launcher.kaseya.com",
+  "www.mailer.kaseya.com",
+  "www.msp.kaseya.com",
+  "www.mspinsights.kaseya.com",
+  "www.mspprotect.kaseya.com",
+  "www.my.kaseya.com",
+  "www.myportal.kaseya.com",
+  "www.na1.bmspreview.kaseya.com",
+  "www.na1bmspreview.kaseya.com",
+  "www.notifications.dev-one.kaseya.com",
+  "www.notifications.one.kaseya.com",
+  "www.notifications.qa-one.kaseya.com",
+  "www.ns1.kaseya.com",
+  "www.ns2.kaseya.com",
+  "www.ok.kaseya.com",
+  "www.one.kaseya.com",
+  "www.origin-bms.kaseya.com",
+  "www.origin-bmsapac.kaseya.com",
+  "www.origin-bmsemea.kaseya.com",
+  "www.origin-na1bmspreview.kaseya.com",
+  "www.partners.kaseya.com",
+  "www.portal-api.one.kaseya.com",
+  "www.portal-api.qa-one.kaseya.com",
+  "www.poweredservices.kaseya.com",
+  "www.prisma-access.kaseya.com",
+  "www.qa-one.kaseya.com",
+  "www.qa.api.launcher.kaseya.com",
+  "www.qa.webhooks.one.kaseya.com",
+  "www.scheduler-staging.bms.kaseya.com",
+  "www.scheduler.bms.kaseya.com",
+  "www.scheduler.bmsapac.kaseya.com",
+  "www.scheduler.bmsemea.kaseya.com",
+  "www.staging.myportal.kaseya.com",
+  "www.status.kaseya.com",
+  "www.trust.kaseya.com",
+  "www.university.kaseya.com",
+  "www.us-demo.kaseya.com",
+  "www.vconnect.kaseya.com",
+  "www.vm-conn-eus-ise-pan.kaseya.com",
+  "www.vm-conn-eus-ise-psn.kaseya.com",
+  "www.vonahi.kaseya.com",
+  "www.webhooks.one.kaseya.com",
+  "www.webhooks.qa-one.kaseya.com",
+  "www1.info.kaseya.com",
+  "www1.jira.kaseya.com",
+  "www1.qa.webhooks.one.kaseya.com",
+  "www5.one.kaseya.com",
+  "www7.automationexchange.kaseya.com",
+  "wwwa.kuniversity.kaseya.com",
+  "wwwi.api.launcher.kaseya.com",
+  "wwwi.boomi-dev01.kaseya.com",
+  "wwwo.us-demo.kaseya.com",
+  "wwwq.labs.kaseya.com",
+  "wwww.qa.api.launcher.kaseya.com"
+ ],
+ "http": [
+  {
+   "url": "http://12-na4vsatrials4vpn.help.one.kaseya.com:80",
+   "host": "12-na4vsatrials4vpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.51",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12-pcanywherevpn.help.one.kaseya.com:80",
+   "host": "12-pcanywherevpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12-pruebasvpn.help.one.kaseya.com:80",
+   "host": "12-pruebasvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12-testbedvpn.help.one.kaseya.com:80",
+   "host": "12-testbedvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.95",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12-twitchvpn.help.one.kaseya.com:80",
+   "host": "12-twitchvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.76",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12363commandvpn.help.one.kaseya.com:80",
+   "host": "12363commandvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12configvpn.help.one.kaseya.com:80",
+   "host": "12configvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.53",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://12sslvpn.help.one.kaseya.com:80",
+   "host": "12sslvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://365command.kaseya.com:2082",
+   "host": "365command.kaseya.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://365command.kaseya.com:2095",
+   "host": "365command.kaseya.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://365command.kaseya.com:80",
+   "host": "365command.kaseya.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://365command.kaseya.com:8080",
+   "host": "365command.kaseya.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://366command-test-sso.help.one.kaseya.com:80",
+   "host": "366command-test-sso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aa-app4-sso.help.one.kaseya.com:80",
+   "host": "aa-app4-sso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.62",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://adm-sso.help.one.kaseya.com:80",
+   "host": "adm-sso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://admin-jenkins.help.one.kaseya.com:80",
+   "host": "admin-jenkins.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.76",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://admin1-git.help.one.kaseya.com:80",
+   "host": "admin1-git.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://admin4-git.help.one.kaseya.com:80",
+   "host": "admin4-git.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.51",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://administrator-gitlab.16.help.one.kaseya.com:80",
+   "host": "administrator-gitlab.16.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.95",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://ai.kaseya.com:80",
+   "host": "ai.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.210.3.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api-one.kaseya.com:80",
+   "host": "api-one.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bms.kaseya.com:2083",
+   "host": "api.bms.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bms.kaseya.com:2087",
+   "host": "api.bms.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bms.kaseya.com:2096",
+   "host": "api.bms.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bms.kaseya.com:80",
+   "host": "api.bms.kaseya.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bms.kaseya.com:8443",
+   "host": "api.bms.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsapac.kaseya.com:2083",
+   "host": "api.bmsapac.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsapac.kaseya.com:2087",
+   "host": "api.bmsapac.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsapac.kaseya.com:2096",
+   "host": "api.bmsapac.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsapac.kaseya.com:80",
+   "host": "api.bmsapac.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsapac.kaseya.com:8443",
+   "host": "api.bmsapac.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsemea.kaseya.com:2083",
+   "host": "api.bmsemea.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsemea.kaseya.com:2087",
+   "host": "api.bmsemea.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsemea.kaseya.com:2096",
+   "host": "api.bmsemea.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsemea.kaseya.com:80",
+   "host": "api.bmsemea.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.bmsemea.kaseya.com:8443",
+   "host": "api.bmsemea.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.kaseya.com:80",
+   "host": "api.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.210.3.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.launcher.kaseya.com:80",
+   "host": "api.launcher.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.3",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.na1bmspreview.kaseya.com:2083",
+   "host": "api.na1bmspreview.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.na1bmspreview.kaseya.com:2087",
+   "host": "api.na1bmspreview.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.na1bmspreview.kaseya.com:2096",
+   "host": "api.na1bmspreview.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.na1bmspreview.kaseya.com:80",
+   "host": "api.na1bmspreview.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.na1bmspreview.kaseya.com:8443",
+   "host": "api.na1bmspreview.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.one.kaseya.com:80",
+   "host": "api.one.kaseya.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.3",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.qa-one.kaseya.com:80",
+   "host": "api.qa-one.kaseya.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.stg-one.kaseya.com:80",
+   "host": "api.stg-one.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://apidev-one.kaseya.com:80",
+   "host": "apidev-one.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.182",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://apidev-sso.help.one.kaseya.com:80",
+   "host": "apidev-sso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://assets.one.kaseya.com:80",
+   "host": "assets.one.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://assets.qa-one.kaseya.com:80",
+   "host": "assets.qa-one.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://assets.stg-one.kaseya.com:80",
+   "host": "assets.stg-one.kaseya.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://assist.kaseya.com:80",
+   "host": "assist.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.192.113.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth-admin4.help.one.kaseya.com:80",
+   "host": "auth-admin4.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.51",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.help.one.kaseya.com:80",
+   "host": "auth.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://autodiscover.kaseya.com:80",
+   "host": "autodiscover.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "40.104.230.168",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://automationexchange.kaseya.com:80",
+   "host": "automationexchange.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "204.74.99.100",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://b3bsslvpn.help.one.kaseya.com:80",
+   "host": "b3bsslvpn.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.95",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bcdr.walkme.kaseya.com:80",
+   "host": "bcdr.walkme.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://beta-sso.help.one.kaseya.com:80",
+   "host": "beta-sso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://beta1-sso.help.one.kaseya.com:80",
+   "host": "beta1-sso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.53",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bms.kaseya.com:2083",
+   "host": "bms.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bms.kaseya.com:2087",
+   "host": "bms.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bms.kaseya.com:2096",
+   "host": "bms.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bms.kaseya.com:80",
+   "host": "bms.kaseya.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bms.kaseya.com:8443",
+   "host": "bms.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bms.walkme.kaseya.com:80",
+   "host": "bms.walkme.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.55",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsapac.kaseya.com:2083",
+   "host": "bmsapac.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsapac.kaseya.com:2087",
+   "host": "bmsapac.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsapac.kaseya.com:2096",
+   "host": "bmsapac.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsapac.kaseya.com:80",
+   "host": "bmsapac.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsapac.kaseya.com:8443",
+   "host": "bmsapac.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsemea.kaseya.com:2083",
+   "host": "bmsemea.kaseya.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsemea.kaseya.com:2087",
+   "host": "bmsemea.kaseya.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsemea.kaseya.com:2096",
+   "host": "bmsemea.kaseya.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsemea.kaseya.com:80",
+   "host": "bmsemea.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://bmsemea.kaseya.com:8443",
+   "host": "bmsemea.kaseya.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://calendar.kaseya.com:80",
+   "host": "calendar.kaseya.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Moved",
+   "webserver": "ghs",
+   "technologies": [],
+   "cdn": true,
+   "ip": "192.178.129.121",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://citrix-internal.help.one.kaseya.com:80",
+   "host": "citrix-internal.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.95",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://citrix.biblioteca.help.one.kaseya.com:80",
+   "host": "citrix.biblioteca.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://citrix.my.help.one.kaseya.com:80",
+   "host": "citrix.my.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.95",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://clientssso.help.one.kaseya.com:80",
+   "host": "clientssso.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://community.kaseya.com:80",
+   "host": "community.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.22.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://connectbooster.walkme.kaseya.com:80",
+   "host": "connectbooster.walkme.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.23",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://core.kaseya.com:80",
+   "host": "core.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.192.113.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dashboard.help.one.kaseya.com:80",
+   "host": "dashboard.help.one.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.53",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://data.kaseya.com:80",
+   "host": "data.kaseya.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.210.3.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://deploy01-cdn.kaseya.com:80",
+   "host": "deploy01-cdn.kaseya.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "13.227.80.190",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://365command.kaseya.com:2083",
+   "host": "365command.kaseya.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://365command.kaseya.com:2087",
+   "host": "365command.kaseya.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://365command.kaseya.com:2096",
+   "host": "365command.kaseya.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://365command.kaseya.com:443",
+   "host": "365command.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://365command.kaseya.com:8443",
+   "host": "365command.kaseya.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ai.kaseya.com:443",
+   "host": "ai.kaseya.com",
+   "port": "443",
+   "status_code": 464,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.210.3.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api-one.kaseya.com:443",
+   "host": "api-one.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.bms.kaseya.com:443",
+   "host": "api.bms.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Gen2 APIs",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap:5.0.2",
+    "Cloudflare",
+    "Google Hosted Libraries",
+    "HSTS",
+    "RawGit",
+    "jQuery:1.9.1",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.bmsapac.kaseya.com:443",
+   "host": "api.bmsapac.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Gen2 APIs",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap:5.0.2",
+    "Cloudflare",
+    "Google Hosted Libraries",
+    "HSTS",
+    "RawGit",
+    "jQuery:1.9.1",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.bmsemea.kaseya.com:443",
+   "host": "api.bmsemea.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Gen2 APIs",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap:5.0.2",
+    "Cloudflare",
+    "Google Hosted Libraries",
+    "HSTS",
+    "RawGit",
+    "jQuery:1.9.1",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.kaseya.com:443",
+   "host": "api.kaseya.com",
+   "port": "443",
+   "status_code": 464,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.210.3.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.launcher.kaseya.com:443",
+   "host": "api.launcher.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.3",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.na1bmspreview.kaseya.com:443",
+   "host": "api.na1bmspreview.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Gen2 APIs",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap:5.0.2",
+    "Cloudflare",
+    "Google Hosted Libraries",
+    "HSTS",
+    "RawGit",
+    "jQuery:1.9.1",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.one.kaseya.com:443",
+   "host": "api.one.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.3",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.qa-one.kaseya.com:443",
+   "host": "api.qa-one.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.stg-one.kaseya.com:443",
+   "host": "api.stg-one.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.210",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://apidev-one.kaseya.com:443",
+   "host": "apidev-one.kaseya.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.182",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://assets.one.kaseya.com:443",
+   "host": "assets.one.kaseya.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://assets.qa-one.kaseya.com:443",
+   "host": "assets.qa-one.kaseya.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://assets.stg-one.kaseya.com:443",
+   "host": "assets.stg-one.kaseya.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.110.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://assist.kaseya.com:443",
+   "host": "assist.kaseya.com",
+   "port": "443",
+   "status_code": 464,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.192.113.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://bcdr.walkme.kaseya.com:443",
+   "host": "bcdr.walkme.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://bms.kaseya.com:443",
+   "host": "bms.kaseya.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://bms.walkme.kaseya.com:443",
+   "host": "bms.walkme.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.55",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://bmsapac.kaseya.com:443",
+   "host": "bmsapac.kaseya.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://bmsemea.kaseya.com:443",
+   "host": "bmsemea.kaseya.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.147.157",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://boomi-dev01.kaseya.com:9090",
+   "host": "boomi-dev01.kaseya.com",
+   "port": "9090",
+   "status_code": 404,
+   "title": "Error 404 NOT_FOUND",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "139.28.145.110",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://community.kaseya.com:443",
+   "host": "community.kaseya.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "3.171.22.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://connectbooster.walkme.kaseya.com:443",
+   "host": "connectbooster.walkme.kaseya.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.23",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://core.kaseya.com:443",
+   "host": "core.kaseya.com",
+   "port": "443",
+   "status_code": 464,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.192.113.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://data.kaseya.com:443",
+   "host": "data.kaseya.com",
+   "port": "443",
+   "status_code": 464,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.210.3.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://deploy01-cdn.kaseya.com:443",
+   "host": "deploy01-cdn.kaseya.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "13.227.80.190",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

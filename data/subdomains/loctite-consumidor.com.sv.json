@@ -1,0 +1,78 @@
+{
+ "domain": "loctite-consumidor.com.sv",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "loctite-consumidor.com.sv",
+  "www.loctite-consumidor.com.sv",
+  "wwwa.loctite-consumidor.com.sv"
+ ],
+ "http": [
+  {
+   "url": "http://loctite-consumidor.com.sv:80",
+   "host": "loctite-consumidor.com.sv",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consumidor.com.sv:80",
+   "host": "www.loctite-consumidor.com.sv",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.25",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite-consumidor.com.sv:443",
+   "host": "loctite-consumidor.com.sv",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consumidor.com.sv:443",
+   "host": "www.loctite-consumidor.com.sv",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.25",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "domain": "loctite-consumer.dk",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "loctite-consumer.dk",
+  "www.loctite-consumer.dk"
+ ],
+ "http": [
+  {
+   "url": "http://loctite-consumer.dk:80",
+   "host": "loctite-consumer.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.94.93",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consumer.dk:80",
+   "host": "www.loctite-consumer.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consumer.dk:443",
+   "host": "www.loctite-consumer.dk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Homepage",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

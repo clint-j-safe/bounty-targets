@@ -1,0 +1,1348 @@
+{
+ "domain": "mergermarket.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 167,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "admin.mergermarket.com",
+  "admino.mergermarket.com",
+  "apacmail.mergermarket.com",
+  "asiamail.mergermarket.com",
+  "aslive-ak-app.mergermarket.com",
+  "aslive-app.mergermarket.com",
+  "aslive-info.mergermarket.com",
+  "aslive-infoq.mergermarket.com",
+  "aslive-infox.mergermarket.com",
+  "aslive-mobile.mergermarket.com",
+  "aslive-trendreports.mergermarket.com",
+  "aslive-workflow.mergermarket.com",
+  "aslive-workflowp.mergermarket.com",
+  "aslive-www.mergermarket.com",
+  "aslive-wwwq.mergermarket.com",
+  "aslive.admin.mergermarket.com",
+  "aslive.mergermarket.com",
+  "aslivep.mergermarket.com",
+  "auth.www.mergermarket.com",
+  "autodiscover.mergermarket.com",
+  "autodiscoveri.mergermarket.com",
+  "ch-hk-vmbg01.mergermarket.com",
+  "china.mergermarket.com",
+  "chinaa.mergermarket.com",
+  "ci-www.mergermarket.com",
+  "ci-wwwr.mergermarket.com",
+  "ci.admin.mergermarket.com",
+  "ci.mergermarket.com",
+  "ci5.mergermarket.com",
+  "cir.mergermarket.com",
+  "cr-227.mergermarket.com",
+  "dealdriversafrica.mergermarket.com",
+  "dealdriversafrica5.mergermarket.com",
+  "dealdriversafricax.mergermarket.com",
+  "dev.mergermarket.com",
+  "ema01.mergermarket.com",
+  "ema02.mergermarket.com",
+  "ema03.mergermarket.com",
+  "ema04.mergermarket.com",
+  "ema05.mergermarket.com",
+  "ema06.mergermarket.com",
+  "ema07.mergermarket.com",
+  "ema08.mergermarket.com",
+  "eumail.mergermarket.com",
+  "eumca.mergermarket.com",
+  "events.mergermarket.com",
+  "healthprobe.mergermarket.com",
+  "helpdesk.mergermarket.com",
+  "hybrid.mergermarket.com",
+  "ind-mum-vmbg01.mergermarket.com",
+  "info.mergermarket.com",
+  "info9.mergermarket.com",
+  "intranet-staging.mergermarket.com",
+  "intranet.mergermarket.com",
+  "intx01.smtp.mergermarket.com",
+  "itcareers.mergermarket.com",
+  "jira.mergermarket.com",
+  "keir.mergermarket.com",
+  "kor-seo-vmbg01.mergermarket.com",
+  "mail-02.mergermarket.com",
+  "mail-prod0.mergermarket.com",
+  "mail-prod1.mergermarket.com",
+  "mail.mergermarket.com",
+  "mail1.static.mergermarket.com",
+  "mail10.static.mergermarket.com",
+  "mail11.static.mergermarket.com",
+  "mail12.static.mergermarket.com",
+  "mail13.static.mergermarket.com",
+  "mail14.static.mergermarket.com",
+  "mail15.static.mergermarket.com",
+  "mail16.static.mergermarket.com",
+  "mail17.static.mergermarket.com",
+  "mail18.static.mergermarket.com",
+  "mail19.static.mergermarket.com",
+  "mail2.static.mergermarket.com",
+  "mail3.static.mergermarket.com",
+  "mail4.static.mergermarket.com",
+  "mail5.static.mergermarket.com",
+  "mail6.static.mergermarket.com",
+  "mail7.static.mergermarket.com",
+  "mail8.static.mergermarket.com",
+  "mail9.static.mergermarket.com",
+  "members.mergermarket.com",
+  "mergermarket.com",
+  "mobile.mergermarket.com",
+  "namail.mergermarket.com",
+  "notifications.mergermarket.com",
+  "owamail.mergermarket.com",
+  "qa.mergermarket.com",
+  "remote.mergermarket.com",
+  "sin-sin-vmbg01.mergermarket.com",
+  "smtp.mergermarket.com",
+  "staging.mergermarket.com",
+  "static.mergermarket.com",
+  "trendreports.mergermarket.com",
+  "try.mergermarket.com",
+  "try5.mergermarket.com",
+  "usamail.mergermarket.com",
+  "vpn.mergermarket.com",
+  "webinars.mergermarket.com",
+  "webmail.mergermarket.com",
+  "workflow-staging.mergermarket.com",
+  "workflow.mergermarket.com",
+  "www.admin.mergermarket.com",
+  "www.apacmail.mergermarket.com",
+  "www.aslive-info.mergermarket.com",
+  "www.aslive-workflow.mergermarket.com",
+  "www.aslive.admin.mergermarket.com",
+  "www.aslive.mergermarket.com",
+  "www.auth.www.mergermarket.com",
+  "www.autodiscover.mergermarket.com",
+  "www.china.mergermarket.com",
+  "www.ci-www.mergermarket.com",
+  "www.ci.admin.mergermarket.com",
+  "www.ci.mergermarket.com",
+  "www.cr-227.mergermarket.com",
+  "www.dealdriversafrica.mergermarket.com",
+  "www.ema01.mergermarket.com",
+  "www.ema02.mergermarket.com",
+  "www.ema03.mergermarket.com",
+  "www.ema04.mergermarket.com",
+  "www.ema05.mergermarket.com",
+  "www.ema06.mergermarket.com",
+  "www.ema07.mergermarket.com",
+  "www.ema08.mergermarket.com",
+  "www.eumail.mergermarket.com",
+  "www.eumca.mergermarket.com",
+  "www.events.mergermarket.com",
+  "www.helpdesk.mergermarket.com",
+  "www.ind-mum-vmbg01.mergermarket.com",
+  "www.info.mergermarket.com",
+  "www.intranet-staging.mergermarket.com",
+  "www.intranet.mergermarket.com",
+  "www.jira.mergermarket.com",
+  "www.mail-02.mergermarket.com",
+  "www.mail.mergermarket.com",
+  "www.mail1.static.mergermarket.com",
+  "www.mail10.static.mergermarket.com",
+  "www.mail11.static.mergermarket.com",
+  "www.mail12.static.mergermarket.com",
+  "www.mail13.static.mergermarket.com",
+  "www.mail14.static.mergermarket.com",
+  "www.mail15.static.mergermarket.com",
+  "www.mail16.static.mergermarket.com",
+  "www.mail17.static.mergermarket.com",
+  "www.mail18.static.mergermarket.com",
+  "www.mail19.static.mergermarket.com",
+  "www.mail2.static.mergermarket.com",
+  "www.mail3.static.mergermarket.com",
+  "www.mail4.static.mergermarket.com",
+  "www.mail5.static.mergermarket.com",
+  "www.mail6.static.mergermarket.com",
+  "www.mail7.static.mergermarket.com",
+  "www.mail8.static.mergermarket.com",
+  "www.mail9.static.mergermarket.com",
+  "www.members.mergermarket.com",
+  "www.mergermarket.com",
+  "www.notifications.mergermarket.com",
+  "www.qa.mergermarket.com",
+  "www.try.mergermarket.com",
+  "www.usamail.mergermarket.com",
+  "www.vpn.mergermarket.com",
+  "www.webinars.mergermarket.com",
+  "www.webmail.mergermarket.com",
+  "www.workflow-staging.mergermarket.com",
+  "www.workflow.mergermarket.com",
+  "wwwg.webmail.mergermarket.com"
+ ],
+ "http": [
+  {
+   "url": "http://admin.mergermarket.com:80",
+   "host": "admin.mergermarket.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "4.207.244.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aslive-app.mergermarket.com:80",
+   "host": "aslive-app.mergermarket.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.193.200.76",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aslive-mobile.mergermarket.com:80",
+   "host": "aslive-mobile.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.27.77",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aslive-trendreports.mergermarket.com:80",
+   "host": "aslive-trendreports.mergermarket.com",
+   "port": "80",
+   "status_code": 500,
+   "title": "Fastly error: unknown domain aslive-trendreports.mergermarket.com",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.129.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aslive-www.mergermarket.com:80",
+   "host": "aslive-www.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.40.99.16",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://aslive.mergermarket.com:80",
+   "host": "aslive.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.115",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://autodiscover.mergermarket.com:80",
+   "host": "autodiscover.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "40.104.39.248",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:2082",
+   "host": "china.mergermarket.com",
+   "port": "2082",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:2083",
+   "host": "china.mergermarket.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:2087",
+   "host": "china.mergermarket.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:2095",
+   "host": "china.mergermarket.com",
+   "port": "2095",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:2096",
+   "host": "china.mergermarket.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:80",
+   "host": "china.mergermarket.com",
+   "port": "80",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:8080",
+   "host": "china.mergermarket.com",
+   "port": "8080",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://china.mergermarket.com:8443",
+   "host": "china.mergermarket.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dealdriversafrica.mergermarket.com:80",
+   "host": "dealdriversafrica.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "keycdn",
+   "technologies": [],
+   "cdn": false,
+   "ip": "57.129.146.242",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dev.mergermarket.com:2082",
+   "host": "dev.mergermarket.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dev.mergermarket.com:2095",
+   "host": "dev.mergermarket.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dev.mergermarket.com:80",
+   "host": "dev.mergermarket.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dev.mergermarket.com:8080",
+   "host": "dev.mergermarket.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://events.mergermarket.com:80",
+   "host": "events.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx/1.24.0",
+   "technologies": [
+    "Nginx:1.24.0"
+   ],
+   "cdn": true,
+   "ip": "63.184.238.249",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://info.mergermarket.com:2082",
+   "host": "info.mergermarket.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://info.mergermarket.com:2095",
+   "host": "info.mergermarket.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://info.mergermarket.com:80",
+   "host": "info.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://info.mergermarket.com:8080",
+   "host": "info.mergermarket.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://members.mergermarket.com:80",
+   "host": "members.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx/1.24.0",
+   "technologies": [
+    "Nginx:1.24.0"
+   ],
+   "cdn": true,
+   "ip": "63.184.238.249",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mergermarket.com:80",
+   "host": "mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.196.3.179",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mobile.mergermarket.com:80",
+   "host": "mobile.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.136",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://notifications.mergermarket.com:80",
+   "host": "notifications.mergermarket.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.mergermarket.com:2082",
+   "host": "staging.mergermarket.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.mergermarket.com:2095",
+   "host": "staging.mergermarket.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.mergermarket.com:80",
+   "host": "staging.mergermarket.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.mergermarket.com:8080",
+   "host": "staging.mergermarket.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://trendreports.mergermarket.com:80",
+   "host": "trendreports.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.217.55.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://try.mergermarket.com:2083",
+   "host": "try.mergermarket.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://try.mergermarket.com:2087",
+   "host": "try.mergermarket.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://try.mergermarket.com:2096",
+   "host": "try.mergermarket.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://try.mergermarket.com:80",
+   "host": "try.mergermarket.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://try.mergermarket.com:8443",
+   "host": "try.mergermarket.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:2082",
+   "host": "webinars.mergermarket.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:2083",
+   "host": "webinars.mergermarket.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:2087",
+   "host": "webinars.mergermarket.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:2095",
+   "host": "webinars.mergermarket.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:2096",
+   "host": "webinars.mergermarket.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:80",
+   "host": "webinars.mergermarket.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:8080",
+   "host": "webinars.mergermarket.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webinars.mergermarket.com:8443",
+   "host": "webinars.mergermarket.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mergermarket.com:80",
+   "host": "webmail.mergermarket.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.242.2",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://admin.mergermarket.com:443",
+   "host": "admin.mergermarket.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "4.207.244.99",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://aslive-app.mergermarket.com:443",
+   "host": "aslive-app.mergermarket.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.193.200.76",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://aslive-mobile.mergermarket.com:443",
+   "host": "aslive-mobile.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "65.8.27.77",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://aslive-trendreports.mergermarket.com:443",
+   "host": "aslive-trendreports.mergermarket.com",
+   "port": "443",
+   "status_code": 500,
+   "title": "Fastly error: unknown domain aslive-trendreports.mergermarket.com",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.129.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://aslive-www.mergermarket.com:443",
+   "host": "aslive-www.mergermarket.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.40.99.16",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://aslive.mergermarket.com:443",
+   "host": "aslive.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.115",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dealdriversafrica.mergermarket.com:443",
+   "host": "dealdriversafrica.mergermarket.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Deal Drivers Africa 2020",
+   "webserver": "keycdn",
+   "technologies": [
+    "Google Analytics",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "57.129.146.242",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.mergermarket.com:2083",
+   "host": "dev.mergermarket.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.mergermarket.com:2087",
+   "host": "dev.mergermarket.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.mergermarket.com:2096",
+   "host": "dev.mergermarket.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.mergermarket.com:443",
+   "host": "dev.mergermarket.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.mergermarket.com:8443",
+   "host": "dev.mergermarket.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://events.mergermarket.com:443",
+   "host": "events.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx/1.24.0",
+   "technologies": [
+    "Nginx:1.24.0"
+   ],
+   "cdn": true,
+   "ip": "63.184.238.249",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://info.mergermarket.com:2083",
+   "host": "info.mergermarket.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://info.mergermarket.com:2087",
+   "host": "info.mergermarket.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://info.mergermarket.com:2096",
+   "host": "info.mergermarket.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://info.mergermarket.com:443",
+   "host": "info.mergermarket.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mergermarket | Predictive M&A Intelligence for Origination",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Download Monitor:5.3.0",
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "OWL Carousel",
+    "Onsen UI",
+    "OptinMonster",
+    "OptinMonster plugin:2.17.1",
+    "PHP",
+    "Pingdom RUM",
+    "Popper",
+    "WOW:7.1.2",
+    "WP Engine",
+    "WordPress",
+    "WordPress Block Editor",
+    "Yoast SEO Premium:28.6",
+    "Yoast SEO:28.6",
+    "jQuery",
+    "jQuery Migrate:3.4.1"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://info.mergermarket.com:8443",
+   "host": "info.mergermarket.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://members.mergermarket.com:443",
+   "host": "members.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx/1.24.0",
+   "technologies": [
+    "Nginx:1.24.0"
+   ],
+   "cdn": true,
+   "ip": "63.184.238.249",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mergermarket.com:443",
+   "host": "mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.196.3.179",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mobile.mergermarket.com:443",
+   "host": "mobile.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.136",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://notifications.mergermarket.com:443",
+   "host": "notifications.mergermarket.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.239.211",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.mergermarket.com:2083",
+   "host": "staging.mergermarket.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.mergermarket.com:2087",
+   "host": "staging.mergermarket.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.mergermarket.com:2096",
+   "host": "staging.mergermarket.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.mergermarket.com:443",
+   "host": "staging.mergermarket.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.mergermarket.com:8443",
+   "host": "staging.mergermarket.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://trendreports.mergermarket.com:443",
+   "host": "trendreports.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.217.55.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://try.mergermarket.com:443",
+   "host": "try.mergermarket.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://webmail.mergermarket.com:443",
+   "host": "webmail.mergermarket.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.242.2",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

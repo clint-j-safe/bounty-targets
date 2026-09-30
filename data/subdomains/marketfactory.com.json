@@ -1,0 +1,1450 @@
+{
+ "domain": "marketfactory.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 112,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "artifactory.marketfactory.com",
+  "autocert.marketfactory.com",
+  "aws.marketfactory.com",
+  "awsc.marketfactory.com",
+  "baf-ptr-uat-ny2.marketfactory.com",
+  "baf-ptr-uat-ny2p.marketfactory.com",
+  "blog.marketfactory.com",
+  "blogk.marketfactory.com",
+  "cdnupload-simplycommunitiestemp-appusvimeoentvimeoent.marketfactory.com",
+  "centreon.marketfactory.com",
+  "confluence-staging.marketfactory.com",
+  "confluence.marketfactory.com",
+  "confluencee.marketfactory.com",
+  "demo.marketfactory.com",
+  "demog.marketfactory.com",
+  "demoyk.marketfactory.com",
+  "info.marketfactory.com",
+  "info1.marketfactory.com",
+  "jira-internal.marketfactory.com",
+  "jira.legacy.marketfactory.com",
+  "jira.marketfactory.com",
+  "jira.prod.marketfactory.com",
+  "jira.uat.marketfactory.com",
+  "jobs.marketfactory.com",
+  "kmalone-prod.marketfactory.com",
+  "kmalone-uat.marketfactory.com",
+  "lab-uat.marketfactory.com",
+  "lab.marketfactory.com",
+  "ld4.marketfactory.com",
+  "ld4snbuat01.marketfactory.com",
+  "ld7.marketfactory.com",
+  "lmax.marketfactory.com",
+  "login-dev.marketfactory.com",
+  "login-uat.marketfactory.com",
+  "login.marketfactory.com",
+  "marketfactory.com",
+  "mmgwyazqpbsr.marketfactory.com",
+  "mx1.marketfactory.com",
+  "mx2.marketfactory.com",
+  "my-uat-test.marketfactory.com",
+  "my-uat.marketfactory.com",
+  "my.marketfactory.com",
+  "ns1.marketfactory.com",
+  "ns2.marketfactory.com",
+  "nyc01.marketfactory.com",
+  "nyc01btmuuat01.marketfactory.com",
+  "nyc01demouat01.marketfactory.com",
+  "nyc01demouat03.marketfactory.com",
+  "nyc01merciauat01.marketfactory.com",
+  "nyc01natixisuat01.marketfactory.com",
+  "nyc01rbcuat01.marketfactory.com",
+  "nyc01rentecuat01.marketfactory.com",
+  "nyc02.marketfactory.com",
+  "oms-aws.marketfactory.com",
+  "oms-uat.marketfactory.com",
+  "oms.marketfactory.com",
+  "portal.marketfactory.com",
+  "slm-uat.marketfactory.com",
+  "slm.marketfactory.com",
+  "sretest.marketfactory.com",
+  "sretest2.marketfactory.com",
+  "sretest3.marketfactory.com",
+  "sretest4.marketfactory.com",
+  "sretest5.marketfactory.com",
+  "ssoconnect.marketfactory.com",
+  "staging.marketfactory.com",
+  "thesauce.marketfactory.com",
+  "twang.cdnupload-simplycommunitiestemp-appusvimeoentvimeoent.marketfactory.com",
+  "ty3.marketfactory.com",
+  "uat.support.marketfactory.com",
+  "webdmz.marketfactory.com",
+  "wildcard.marketfactory.com",
+  "wp.marketfactory.com",
+  "wps.marketfactory.com",
+  "wpse.marketfactory.com",
+  "www.autocert.marketfactory.com",
+  "www.baf-ptr-uat-ny2.marketfactory.com",
+  "www.blog.marketfactory.com",
+  "www.centreon.marketfactory.com",
+  "www.confluence.marketfactory.com",
+  "www.demo.marketfactory.com",
+  "www.info.marketfactory.com",
+  "www.jira.marketfactory.com",
+  "www.jobs.marketfactory.com",
+  "www.lab-uat.marketfactory.com",
+  "www.lab.marketfactory.com",
+  "www.ld4.marketfactory.com",
+  "www.ld7.marketfactory.com",
+  "www.lmax.marketfactory.com",
+  "www.marketfactory.com",
+  "www.mx1.marketfactory.com",
+  "www.mx2.marketfactory.com",
+  "www.my-uat-test.marketfactory.com",
+  "www.my-uat.marketfactory.com",
+  "www.my.marketfactory.com",
+  "www.ns1.marketfactory.com",
+  "www.ns2.marketfactory.com",
+  "www.nyc01.marketfactory.com",
+  "www.nyc02.marketfactory.com",
+  "www.oms-aws.marketfactory.com",
+  "www.oms-uat.marketfactory.com",
+  "www.oms.marketfactory.com",
+  "www.portal.marketfactory.com",
+  "www.slm-uat.marketfactory.com",
+  "www.slm.marketfactory.com",
+  "www.ssoconnect.marketfactory.com",
+  "www.staging.marketfactory.com",
+  "www.thesauce.marketfactory.com",
+  "www.ty3.marketfactory.com",
+  "www.webdmz.marketfactory.com",
+  "www.wps.marketfactory.com",
+  "www1.marketfactory.com"
+ ],
+ "http": [
+  {
+   "url": "http://blog.marketfactory.com:2082",
+   "host": "blog.marketfactory.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:2083",
+   "host": "blog.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:2087",
+   "host": "blog.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:2095",
+   "host": "blog.marketfactory.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:2096",
+   "host": "blog.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:80",
+   "host": "blog.marketfactory.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:8080",
+   "host": "blog.marketfactory.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.marketfactory.com:8443",
+   "host": "blog.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.28",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:2082",
+   "host": "confluence.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:2083",
+   "host": "confluence.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:2087",
+   "host": "confluence.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:2095",
+   "host": "confluence.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:2096",
+   "host": "confluence.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:80",
+   "host": "confluence.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:8080",
+   "host": "confluence.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://confluence.marketfactory.com:8443",
+   "host": "confluence.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jira.marketfactory.com:80",
+   "host": "jira.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.122",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jira.prod.marketfactory.com:80",
+   "host": "jira.prod.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.167.99.114",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:2082",
+   "host": "jobs.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:2083",
+   "host": "jobs.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:2087",
+   "host": "jobs.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:2095",
+   "host": "jobs.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:2096",
+   "host": "jobs.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:80",
+   "host": "jobs.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:8080",
+   "host": "jobs.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.marketfactory.com:8443",
+   "host": "jobs.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:2082",
+   "host": "lab-uat.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:2083",
+   "host": "lab-uat.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:2087",
+   "host": "lab-uat.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:2095",
+   "host": "lab-uat.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:2096",
+   "host": "lab-uat.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:80",
+   "host": "lab-uat.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:8080",
+   "host": "lab-uat.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab-uat.marketfactory.com:8443",
+   "host": "lab-uat.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:2082",
+   "host": "lab.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:2083",
+   "host": "lab.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:2087",
+   "host": "lab.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:2095",
+   "host": "lab.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:2096",
+   "host": "lab.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:80",
+   "host": "lab.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:8080",
+   "host": "lab.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab.marketfactory.com:8443",
+   "host": "lab.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://marketfactory.com:2082",
+   "host": "marketfactory.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://marketfactory.com:2095",
+   "host": "marketfactory.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://marketfactory.com:80",
+   "host": "marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://marketfactory.com:8080",
+   "host": "marketfactory.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:2082",
+   "host": "my-uat.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:2083",
+   "host": "my-uat.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:2087",
+   "host": "my-uat.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:2095",
+   "host": "my-uat.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:2096",
+   "host": "my-uat.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:80",
+   "host": "my-uat.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:8080",
+   "host": "my-uat.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my-uat.marketfactory.com:8443",
+   "host": "my-uat.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:2082",
+   "host": "my.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:2083",
+   "host": "my.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:2087",
+   "host": "my.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:2095",
+   "host": "my.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:2096",
+   "host": "my.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:80",
+   "host": "my.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:8080",
+   "host": "my.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://my.marketfactory.com:8443",
+   "host": "my.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:2082",
+   "host": "slm-uat.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:2083",
+   "host": "slm-uat.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:2087",
+   "host": "slm-uat.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:2095",
+   "host": "slm-uat.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:2096",
+   "host": "slm-uat.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:80",
+   "host": "slm-uat.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:8080",
+   "host": "slm-uat.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm-uat.marketfactory.com:8443",
+   "host": "slm-uat.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:2082",
+   "host": "slm.marketfactory.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:2083",
+   "host": "slm.marketfactory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:2087",
+   "host": "slm.marketfactory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:2095",
+   "host": "slm.marketfactory.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:2096",
+   "host": "slm.marketfactory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:80",
+   "host": "slm.marketfactory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:8080",
+   "host": "slm.marketfactory.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://slm.marketfactory.com:8443",
+   "host": "slm.marketfactory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://confluence.marketfactory.com:443",
+   "host": "confluence.marketfactory.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Atlassian Confluence",
+    "Cloudflare",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://jira.marketfactory.com:443",
+   "host": "jira.marketfactory.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.122",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://jira.prod.marketfactory.com:443",
+   "host": "jira.prod.marketfactory.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "AtlassianEdge",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.167.99.114",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lab-uat.marketfactory.com:443",
+   "host": "lab-uat.marketfactory.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "The Lab | MarketFactory",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lab.marketfactory.com:443",
+   "host": "lab.marketfactory.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "The Lab | MarketFactory",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://marketfactory.com:2083",
+   "host": "marketfactory.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://marketfactory.com:2087",
+   "host": "marketfactory.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://marketfactory.com:2096",
+   "host": "marketfactory.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://marketfactory.com:443",
+   "host": "marketfactory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://marketfactory.com:8443",
+   "host": "marketfactory.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://my-uat.marketfactory.com:443",
+   "host": "my-uat.marketfactory.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "AngularJS",
+    "Bootstrap",
+    "Cloudflare",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://my.marketfactory.com:443",
+   "host": "my.marketfactory.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "AngularJS",
+    "Bootstrap",
+    "Cloudflare",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://slm-uat.marketfactory.com:443",
+   "host": "slm-uat.marketfactory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://slm.marketfactory.com:443",
+   "host": "slm.marketfactory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

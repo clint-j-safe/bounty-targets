@@ -1,0 +1,26 @@
+{
+ "domain": "lan-chile.cl",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "lan-chile.cl",
+  "www.lan-chile.cl"
+ ],
+ "http": [
+  {
+   "url": "http://www.lan-chile.cl:80",
+   "host": "www.lan-chile.cl",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.53.11.146",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

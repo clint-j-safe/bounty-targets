@@ -1,0 +1,176 @@
+{
+ "domain": "mothercare.com.kw",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 30,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.mothercare.com.kw",
+  "dataa.mothercare.com.kw",
+  "e.mothercare.com.kw",
+  "e5.mothercare.com.kw",
+  "fdgfrr.mothercare.com.kw",
+  "ip1.mothercare.com.kw",
+  "ip2.mothercare.com.kw",
+  "ip2g.mothercare.com.kw",
+  "ip3.mothercare.com.kw",
+  "ip4.mothercare.com.kw",
+  "ip4c.mothercare.com.kw",
+  "links.mothercare.com.kw",
+  "mail.e.mothercare.com.kw",
+  "mail.mothercare.com.kw",
+  "maila.mothercare.com.kw",
+  "mothercare.com.kw",
+  "uat.mothercare.com.kw",
+  "www.data.mothercare.com.kw",
+  "www.e.mothercare.com.kw",
+  "www.fdgfrr.mothercare.com.kw",
+  "www.ip1.mothercare.com.kw",
+  "www.ip2.mothercare.com.kw",
+  "www.ip3.mothercare.com.kw",
+  "www.ip4.mothercare.com.kw",
+  "www.links.mothercare.com.kw",
+  "www.mail.e.mothercare.com.kw",
+  "www.mail.mothercare.com.kw",
+  "www.mothercare.com.kw",
+  "www.uat.mothercare.com.kw",
+  "wwwc.mothercare.com.kw"
+ ],
+ "http": [
+  {
+   "url": "http://data.mothercare.com.kw:80",
+   "host": "data.mothercare.com.kw",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.38.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://fdgfrr.mothercare.com.kw:80",
+   "host": "fdgfrr.mothercare.com.kw",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "74.119.117.62",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://links.mothercare.com.kw:80",
+   "host": "links.mothercare.com.kw",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "46.248.181.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mothercare.com.kw:80",
+   "host": "mothercare.com.kw",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.129.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.mothercare.com.kw:80",
+   "host": "www.mothercare.com.kw",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "140.248.145.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://data.mothercare.com.kw:443",
+   "host": "data.mothercare.com.kw",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.38.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://e.mothercare.com.kw:443",
+   "host": "e.mothercare.com.kw",
+   "port": "443",
+   "status_code": 200,
+   "title": "Welcome to COMS Service",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.246.14.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mothercare.com.kw:443",
+   "host": "mothercare.com.kw",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.129.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.e.mothercare.com.kw:443",
+   "host": "www.e.mothercare.com.kw",
+   "port": "443",
+   "status_code": 200,
+   "title": "Welcome to COMS Service",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.246.14.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.mothercare.com.kw:443",
+   "host": "www.mothercare.com.kw",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "140.248.145.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

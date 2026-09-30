@@ -1,0 +1,1271 @@
+{
+ "domain": "itau.co",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 269,
+ "programs": [
+  "hackerone|itau_unibanco"
+ ],
+ "subdomains": [
+  "actagent.itau.co",
+  "apiproviders-dev.itau.co",
+  "apiproviders-test.itau.co",
+  "apiproviders.itau.co",
+  "apiprovidersi.itau.co",
+  "apis-dev.itau.co",
+  "apis-deva.itau.co",
+  "apis-interno-dev.itau.co",
+  "apis-test-hfx.itau.co",
+  "apis-test-hfxg.itau.co",
+  "apis-test-qa1.itau.co",
+  "apis-test-qa1a.itau.co",
+  "apis-test.itau.co",
+  "apis.itau.co",
+  "appenroll.itau.co",
+  "apps.itau.co",
+  "apptc-qa1.itau.co",
+  "apptc-qa2.itau.co",
+  "apptc-qa3.itau.co",
+  "apptc-qa4.itau.co",
+  "apptc.itau.co",
+  "archivos.itau.co",
+  "autodiscover.itau.co",
+  "autodiscovery.itau.co",
+  "av.itau.co",
+  "banco.itau.co",
+  "bt.contacto.itau.co",
+  "ciani.itau.co",
+  "cloud.itau.co",
+  "cloudapps.itau.co",
+  "conectados.itau.co",
+  "confirming.itau.co",
+  "contacto.itau.co",
+  "contactok.itau.co",
+  "contenbankfild.itau.co",
+  "contenbankfilq.itau.co",
+  "contenbanktes.itau.co",
+  "contenbanktesd.itau.co",
+  "contenbanktesq.itau.co",
+  "contentbankcor.itau.co",
+  "contentbankcora.itau.co",
+  "contentbankcord.itau.co",
+  "contentbankcorq.itau.co",
+  "contentbankemp.itau.co",
+  "contentbankempd.itau.co",
+  "contentbankempq.itau.co",
+  "contentbankfil.itau.co",
+  "contentbankmin.itau.co",
+  "contentbankmin1.itau.co",
+  "contentbankmind.itau.co",
+  "contentbankminq.itau.co",
+  "contentintcoi.itau.co",
+  "contentintcoid.itau.co",
+  "contentintcoiq.itau.co",
+  "contentintcor.itau.co",
+  "contentintcord.itau.co",
+  "contentintcorq.itau.co",
+  "contentintmin.itau.co",
+  "contentintmind.itau.co",
+  "contentintminq.itau.co",
+  "contentintsis.itau.co",
+  "contentintsisd.itau.co",
+  "contentintsisq.itau.co",
+  "cpanel.tiendaempleados.itau.co",
+  "cpanelu.tiendaempleados.itau.co",
+  "dev.itau.co",
+  "dev9.itau.co",
+  "devapp-1.itau.co",
+  "devapp-1q.itau.co",
+  "dialin.itau.co",
+  "distritonaranja.itau.co",
+  "emaillink.itau.co",
+  "emaillink7.itau.co",
+  "expertostarjeteros.itau.co",
+  "expertostarjeterosq.itau.co",
+  "external.itau.co",
+  "externo.itau.co",
+  "externoportal.itau.co",
+  "facturaelectronica.itau.co",
+  "facturas.itau.co",
+  "facturasg.itau.co",
+  "fortinet-idc.itau.co",
+  "fortinet-idcfh.itau.co",
+  "fortinet-idcu.itau.co",
+  "fortinet-wtc.itau.co",
+  "fortinet-wtcfh.itau.co",
+  "fortinet-wtci.itau.co",
+  "ganacomprando.itau.co",
+  "ganacomprando7.itau.co",
+  "ganacomprandok.itau.co",
+  "garantiasempresas.itau.co",
+  "gesap.itau.co",
+  "gesapm.itau.co",
+  "gesdim.itau.co",
+  "imagenesofertas.itau.co",
+  "inmediatepayin.banco.itau.co",
+  "invitadosc100.itau.co",
+  "invitadosc100k.itau.co",
+  "invitadosc12.itau.co",
+  "invitadosc12s.itau.co",
+  "invitadosflo.itau.co",
+  "itau.co",
+  "lau.itau.co",
+  "lswebext.itau.co",
+  "lyncdiscover.itau.co",
+  "m.itau.co",
+  "mail.itau.co",
+  "mail.tiendaempleados.itau.co",
+  "mailtlscert.itau.co",
+  "meet.itau.co",
+  "meg.itau.co",
+  "movil.itau.co",
+  "mx.itau.co",
+  "mx1.itau.co",
+  "mx2.itau.co",
+  "mx3.itau.co",
+  "mx4.itau.co",
+  "officeweb.itau.co",
+  "onboarding.itau.co",
+  "onboarding7.itau.co",
+  "openfinance.itau.co",
+  "openfinancedev.itau.co",
+  "openfinanceqa.itau.co",
+  "origen-intermedio.contacto.itau.co",
+  "outlook.itau.co",
+  "owa.itau.co",
+  "portalqa-tres.itau.co",
+  "pruebasdeceval.itau.co",
+  "qaapp-1.itau.co",
+  "qrrbm.cloudapps.itau.co",
+  "reditubers.itau.co",
+  "sbc01.itau.co",
+  "sbcbalccpro01.itau.co",
+  "sbcbalccpro02.itau.co",
+  "sbcbalccpro03.itau.co",
+  "secure-sso-dev.itau.co",
+  "secure-sso-test-hfx.itau.co",
+  "secure-sso-test-qa1.itau.co",
+  "secure-sso-test.itau.co",
+  "securitiesservices.itau.co",
+  "seguros.itau.co",
+  "seguroscompras.itau.co",
+  "service-exd.itau.co",
+  "service-exq.itau.co",
+  "service.itau.co",
+  "services-exd.itau.co",
+  "services-exq.itau.co",
+  "services-in.itau.co",
+  "services-ind.itau.co",
+  "services-inde.itau.co",
+  "services-inq.itau.co",
+  "services.itau.co",
+  "servicesbank.itau.co",
+  "servicesbankex.itau.co",
+  "servicesbankexd.itau.co",
+  "servicesbankexq.itau.co",
+  "servicesin.sis.siruma.itau.co",
+  "servicesind.sis.devsiruma.itau.co",
+  "servicesinq.sis.qatsiruma.itau.co",
+  "sip.itau.co",
+  "sso.itau.co",
+  "ssoproviders-dev.itau.co",
+  "ssoproviders-test.itau.co",
+  "ssoproviders.itau.co",
+  "testing-qa1.itau.co",
+  "testing.itau.co",
+  "tiendaempleados.itau.co",
+  "transferencias.itau.co",
+  "transferenciasya-test.itau.co",
+  "transmitord.itau.co",
+  "transmitorq.itau.co",
+  "tuvivienda.itau.co",
+  "tuviviendacon.itau.co",
+  "vpn.itau.co",
+  "vpn1.itau.co",
+  "vpn3.itau.co",
+  "wac.itau.co",
+  "wbv-dev.itau.co",
+  "wbv-pj-test.itau.co",
+  "wbv-pj.itau.co",
+  "wbv-test-hfx.itau.co",
+  "wbv-test-qa1.itau.co",
+  "wbv-test.itau.co",
+  "wbv.itau.co",
+  "webconf.itau.co",
+  "webdisk.tiendaempleados.itau.co",
+  "webext.itau.co",
+  "webmail.itau.co",
+  "webmail.tiendaempleados.itau.co",
+  "wip.itau.co",
+  "www.actagent.itau.co",
+  "www.apiproviders-dev.itau.co",
+  "www.apiproviders-test.itau.co",
+  "www.apiproviders.itau.co",
+  "www.apis-dev.itau.co",
+  "www.apis-test-qa1.itau.co",
+  "www.apis-test.itau.co",
+  "www.apis.itau.co",
+  "www.appenroll.itau.co",
+  "www.apptc-qa1.itau.co",
+  "www.apptc.itau.co",
+  "www.archivos.itau.co",
+  "www.autodiscover.itau.co",
+  "www.av.itau.co",
+  "www.banco.itau.co",
+  "www.ciani.itau.co",
+  "www.conectados.itau.co",
+  "www.contacto.itau.co",
+  "www.contentbankcord.itau.co",
+  "www.contentbankmind.itau.co",
+  "www.dev.itau.co",
+  "www.dialin.itau.co",
+  "www.distritonaranja.itau.co",
+  "www.expertostarjeteros.itau.co",
+  "www.externo.itau.co",
+  "www.facturas.itau.co",
+  "www.ganacomprando.itau.co",
+  "www.garantiasempresas.itau.co",
+  "www.gesap.itau.co",
+  "www.gesdim.itau.co",
+  "www.imagenesofertas.itau.co",
+  "www.invitadosc100.itau.co",
+  "www.invitadosc12.itau.co",
+  "www.invitadosflo.itau.co",
+  "www.itau.co",
+  "www.lau.itau.co",
+  "www.lswebext.itau.co",
+  "www.lyncdiscover.itau.co",
+  "www.m.itau.co",
+  "www.meet.itau.co",
+  "www.meg.itau.co",
+  "www.mx.itau.co",
+  "www.mx1.itau.co",
+  "www.mx2.itau.co",
+  "www.mx3.itau.co",
+  "www.mx4.itau.co",
+  "www.onboarding.itau.co",
+  "www.origen-intermedio.contacto.itau.co",
+  "www.outlook.itau.co",
+  "www.owa.itau.co",
+  "www.pruebasdeceval.itau.co",
+  "www.qaapp-1.itau.co",
+  "www.reditubers.itau.co",
+  "www.sbc01.itau.co",
+  "www.secure-sso-test.itau.co",
+  "www.securitiesservices.itau.co",
+  "www.seguros.itau.co",
+  "www.sip.itau.co",
+  "www.sso.itau.co",
+  "www.ssoproviders-dev.itau.co",
+  "www.ssoproviders-test.itau.co",
+  "www.ssoproviders.itau.co",
+  "www.testing.itau.co",
+  "www.tiendaempleados.itau.co",
+  "www.transferencias.itau.co",
+  "www.transferenciasya-test.itau.co",
+  "www.tuvivienda.itau.co",
+  "www.tuviviendacon.itau.co",
+  "www.vpn.itau.co",
+  "www.vpn1.itau.co",
+  "www.vpn3.itau.co",
+  "www.wac.itau.co",
+  "www.wbv-test-qa1.itau.co",
+  "www.wbv.itau.co",
+  "www.webconf.itau.co",
+  "www.webext.itau.co",
+  "www.wip.itau.co",
+  "www.zona-i.itau.co",
+  "zona-i.itau.co"
+ ],
+ "http": [
+  {
+   "url": "http://apiproviders-test.itau.co:80",
+   "host": "apiproviders-test.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.79",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://apiproviders.itau.co:80",
+   "host": "apiproviders.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.103.127",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://apis-test-qa1.itau.co:80",
+   "host": "apis-test-qa1.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://apis-test.itau.co:80",
+   "host": "apis-test.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.200.81",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://apis.itau.co:80",
+   "host": "apis.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://autodiscover.itau.co:80",
+   "host": "autodiscover.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.79.72",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://banco.itau.co:80",
+   "host": "banco.itau.co",
+   "port": "80",
+   "status_code": 403,
+   "title": "Error - Ita\u00fa",
+   "webserver": "",
+   "technologies": [
+    "Microsoft Power BI"
+   ],
+   "cdn": false,
+   "ip": "23.64.112.83",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contacto.itau.co:80",
+   "host": "contacto.itau.co",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contenbankfilq.itau.co:80",
+   "host": "contenbankfilq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contenbanktes.itau.co:80",
+   "host": "contenbanktes.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contenbanktesd.itau.co:80",
+   "host": "contenbanktesd.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contenbanktesq.itau.co:80",
+   "host": "contenbanktesq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.78",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankcor.itau.co:80",
+   "host": "contentbankcor.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.75",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankcord.itau.co:80",
+   "host": "contentbankcord.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankcorq.itau.co:80",
+   "host": "contentbankcorq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.114",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankempd.itau.co:80",
+   "host": "contentbankempd.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankempq.itau.co:80",
+   "host": "contentbankempq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.27",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankfil.itau.co:80",
+   "host": "contentbankfil.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankmin.itau.co:80",
+   "host": "contentbankmin.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.110.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentbankminq.itau.co:80",
+   "host": "contentbankminq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.96",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintcoid.itau.co:80",
+   "host": "contentintcoid.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.6",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintcor.itau.co:80",
+   "host": "contentintcor.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.68",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintcord.itau.co:80",
+   "host": "contentintcord.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.82",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintcorq.itau.co:80",
+   "host": "contentintcorq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.50",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintmin.itau.co:80",
+   "host": "contentintmin.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.127",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintmind.itau.co:80",
+   "host": "contentintmind.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.121",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintminq.itau.co:80",
+   "host": "contentintminq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintsis.itau.co:80",
+   "host": "contentintsis.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintsisd.itau.co:80",
+   "host": "contentintsisd.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://contentintsisq.itau.co:80",
+   "host": "contentintsisq.itau.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.29",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://externoportal.itau.co:80",
+   "host": "externoportal.itau.co",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.6",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lau.itau.co:80",
+   "host": "lau.itau.co",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://apiproviders-test.itau.co:443",
+   "host": "apiproviders-test.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.79",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://apiproviders.itau.co:443",
+   "host": "apiproviders.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.103.127",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://apis-test-qa1.itau.co:443",
+   "host": "apis-test-qa1.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://apis-test.itau.co:443",
+   "host": "apis-test.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.200.81",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://apis.itau.co:443",
+   "host": "apis.itau.co",
+   "port": "443",
+   "status_code": 200,
+   "title": "Error",
+   "webserver": "F5",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://banco.itau.co:443",
+   "host": "banco.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error - Ita\u00fa",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Microsoft Power BI"
+   ],
+   "cdn": false,
+   "ip": "23.64.112.83",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contacto.itau.co:443",
+   "host": "contacto.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contenbankfilq.itau.co:443",
+   "host": "contenbankfilq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contenbanktes.itau.co:443",
+   "host": "contenbanktes.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contenbanktesd.itau.co:443",
+   "host": "contenbanktesd.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contenbanktesq.itau.co:443",
+   "host": "contenbanktesq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.78",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankcor.itau.co:443",
+   "host": "contentbankcor.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.75",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankcord.itau.co:443",
+   "host": "contentbankcord.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankcorq.itau.co:443",
+   "host": "contentbankcorq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.114",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankempd.itau.co:443",
+   "host": "contentbankempd.itau.co",
+   "port": "443",
+   "status_code": 200,
+   "title": "Ingresa ahora a tu portal transaccional para empresas de Ita\u00fa Colombia",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "Bootstrap",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankempq.itau.co:443",
+   "host": "contentbankempq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.225.47.27",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankfil.itau.co:443",
+   "host": "contentbankfil.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankmin.itau.co:443",
+   "host": "contentbankmin.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.110.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentbankminq.itau.co:443",
+   "host": "contentbankminq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.96",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintcoid.itau.co:443",
+   "host": "contentintcoid.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.6",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintcor.itau.co:443",
+   "host": "contentintcor.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.102.68",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintcord.itau.co:443",
+   "host": "contentintcord.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.82",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintcorq.itau.co:443",
+   "host": "contentintcorq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.50",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintmin.itau.co:443",
+   "host": "contentintmin.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.127",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintmind.itau.co:443",
+   "host": "contentintmind.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.227.87.121",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintminq.itau.co:443",
+   "host": "contentintminq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintsis.itau.co:443",
+   "host": "contentintsis.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.138.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintsisd.itau.co:443",
+   "host": "contentintsisd.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.152.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://contentintsisq.itau.co:443",
+   "host": "contentintsisq.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.29",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://externo.itau.co:443",
+   "host": "externo.itau.co",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "181.236.217.25",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://externoportal.itau.co:443",
+   "host": "externoportal.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.6",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://itau.co:443",
+   "host": "itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error - Ita\u00fa",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lau.itau.co:443",
+   "host": "lau.itau.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

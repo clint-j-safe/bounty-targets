@@ -1,0 +1,1604 @@
+{
+ "domain": "joy-pepsico.eu",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 27,
+ "programs": [
+  "hackerone|pepsico_vdp"
+ ],
+ "subdomains": [
+  "auth.joy-pepsico.eu",
+  "authc.joy-pepsico.eu",
+  "cashback.joy-pepsico.eu",
+  "drop.joy-pepsico.eu",
+  "game.cashback.joy-pepsico.eu",
+  "joy-pepsico.eu",
+  "laureat.joy-pepsico.eu",
+  "link.cashback.joy-pepsico.eu",
+  "locations.cashback.joy-pepsico.eu",
+  "pl.auth.joy-pepsico.eu",
+  "plq.auth.joy-pepsico.eu",
+  "stage.auth.joy-pepsico.eu",
+  "test2.joy-pepsico.eu",
+  "testsaralawild.joy-pepsico.eu",
+  "win.joy-pepsico.eu",
+  "www.auth.joy-pepsico.eu",
+  "www.cashback.joy-pepsico.eu",
+  "www.drop.joy-pepsico.eu",
+  "www.game.cashback.joy-pepsico.eu",
+  "www.joy-pepsico.eu",
+  "www.laureat.joy-pepsico.eu",
+  "www.link.cashback.joy-pepsico.eu",
+  "www.locations.cashback.joy-pepsico.eu",
+  "www.pl.auth.joy-pepsico.eu",
+  "www.stage.auth.joy-pepsico.eu",
+  "www.win.joy-pepsico.eu",
+  "wwwe.joy-pepsico.eu"
+ ],
+ "http": [
+  {
+   "url": "http://auth.joy-pepsico.eu:80",
+   "host": "auth.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud"
+   ],
+   "cdn": false,
+   "ip": "159.60.135.129",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cashback.joy-pepsico.eu:2083",
+   "host": "cashback.joy-pepsico.eu",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cashback.joy-pepsico.eu:2087",
+   "host": "cashback.joy-pepsico.eu",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cashback.joy-pepsico.eu:2096",
+   "host": "cashback.joy-pepsico.eu",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cashback.joy-pepsico.eu:80",
+   "host": "cashback.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cashback.joy-pepsico.eu:8443",
+   "host": "cashback.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:2082",
+   "host": "drop.joy-pepsico.eu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:2095",
+   "host": "drop.joy-pepsico.eu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:3000",
+   "host": "drop.joy-pepsico.eu",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:80",
+   "host": "drop.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8000",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8001",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8008",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8080",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8081",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8090",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:81",
+   "host": "drop.joy-pepsico.eu",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8443",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:8888",
+   "host": "drop.joy-pepsico.eu",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:9000",
+   "host": "drop.joy-pepsico.eu",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://drop.joy-pepsico.eu:9443",
+   "host": "drop.joy-pepsico.eu",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://game.cashback.joy-pepsico.eu:2083",
+   "host": "game.cashback.joy-pepsico.eu",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://game.cashback.joy-pepsico.eu:2087",
+   "host": "game.cashback.joy-pepsico.eu",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://game.cashback.joy-pepsico.eu:2096",
+   "host": "game.cashback.joy-pepsico.eu",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://game.cashback.joy-pepsico.eu:80",
+   "host": "game.cashback.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://game.cashback.joy-pepsico.eu:8443",
+   "host": "game.cashback.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:2082",
+   "host": "joy-pepsico.eu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:2095",
+   "host": "joy-pepsico.eu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:3000",
+   "host": "joy-pepsico.eu",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:80",
+   "host": "joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8000",
+   "host": "joy-pepsico.eu",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8001",
+   "host": "joy-pepsico.eu",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8008",
+   "host": "joy-pepsico.eu",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8080",
+   "host": "joy-pepsico.eu",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8081",
+   "host": "joy-pepsico.eu",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8090",
+   "host": "joy-pepsico.eu",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8443",
+   "host": "joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:8888",
+   "host": "joy-pepsico.eu",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:9000",
+   "host": "joy-pepsico.eu",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:9090",
+   "host": "joy-pepsico.eu",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://joy-pepsico.eu:9443",
+   "host": "joy-pepsico.eu",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://link.cashback.joy-pepsico.eu:2083",
+   "host": "link.cashback.joy-pepsico.eu",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.68.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://link.cashback.joy-pepsico.eu:2087",
+   "host": "link.cashback.joy-pepsico.eu",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.68.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://link.cashback.joy-pepsico.eu:2096",
+   "host": "link.cashback.joy-pepsico.eu",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.68.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://link.cashback.joy-pepsico.eu:80",
+   "host": "link.cashback.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.68.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://link.cashback.joy-pepsico.eu:8443",
+   "host": "link.cashback.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.68.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://locations.cashback.joy-pepsico.eu:2083",
+   "host": "locations.cashback.joy-pepsico.eu",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://locations.cashback.joy-pepsico.eu:2087",
+   "host": "locations.cashback.joy-pepsico.eu",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://locations.cashback.joy-pepsico.eu:2096",
+   "host": "locations.cashback.joy-pepsico.eu",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://locations.cashback.joy-pepsico.eu:80",
+   "host": "locations.cashback.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://locations.cashback.joy-pepsico.eu:8443",
+   "host": "locations.cashback.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://pl.auth.joy-pepsico.eu:80",
+   "host": "pl.auth.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 421,
+   "title": "421 Misdirected Request",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "76.223.106.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stage.auth.joy-pepsico.eu:80",
+   "host": "stage.auth.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud"
+   ],
+   "cdn": false,
+   "ip": "159.60.135.129",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://win.joy-pepsico.eu:80",
+   "host": "win.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:2082",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:2095",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:3000",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:80",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8000",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8001",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8008",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8080",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8081",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8090",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:81",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8443",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:8888",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:9000",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:9090",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.drop.joy-pepsico.eu:9443",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:2082",
+   "host": "www.joy-pepsico.eu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:2095",
+   "host": "www.joy-pepsico.eu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:3000",
+   "host": "www.joy-pepsico.eu",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:80",
+   "host": "www.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8000",
+   "host": "www.joy-pepsico.eu",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8001",
+   "host": "www.joy-pepsico.eu",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8008",
+   "host": "www.joy-pepsico.eu",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8080",
+   "host": "www.joy-pepsico.eu",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8081",
+   "host": "www.joy-pepsico.eu",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8090",
+   "host": "www.joy-pepsico.eu",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:81",
+   "host": "www.joy-pepsico.eu",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8443",
+   "host": "www.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:8888",
+   "host": "www.joy-pepsico.eu",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:9000",
+   "host": "www.joy-pepsico.eu",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:9090",
+   "host": "www.joy-pepsico.eu",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.joy-pepsico.eu:9443",
+   "host": "www.joy-pepsico.eu",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:2082",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:2095",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:3000",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:80",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8000",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8001",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8008",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8080",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8081",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8090",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:81",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8443",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:8888",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:9000",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:9090",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.laureat.joy-pepsico.eu:9443",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.joy-pepsico.eu:443",
+   "host": "auth.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "159.60.135.129",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cashback.joy-pepsico.eu:443",
+   "host": "cashback.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HSTS",
+    "HTTP/3",
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://drop.joy-pepsico.eu:443",
+   "host": "drop.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://game.cashback.joy-pepsico.eu:443",
+   "host": "game.cashback.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Game",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://joy-pepsico.eu:2083",
+   "host": "joy-pepsico.eu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://joy-pepsico.eu:2087",
+   "host": "joy-pepsico.eu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://joy-pepsico.eu:2096",
+   "host": "joy-pepsico.eu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://joy-pepsico.eu:443",
+   "host": "joy-pepsico.eu",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://joy-pepsico.eu:81",
+   "host": "joy-pepsico.eu",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://link.cashback.joy-pepsico.eu:443",
+   "host": "link.cashback.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.68.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://locations.cashback.joy-pepsico.eu:443",
+   "host": "locations.cashback.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Store Locations - Find Stores Near You",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.194.69",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://pl.auth.joy-pepsico.eu:443",
+   "host": "pl.auth.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 404,
+   "title": "Okta - Page Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "76.223.106.183",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stage.auth.joy-pepsico.eu:443",
+   "host": "stage.auth.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "159.60.135.129",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://win.joy-pepsico.eu:443",
+   "host": "win.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.drop.joy-pepsico.eu:443",
+   "host": "www.drop.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.joy-pepsico.eu:443",
+   "host": "www.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 200,
+   "title": "A world of brands PepsiCo | Snacks and beverages | Joy by PepsiCo",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Bootstrap",
+    "Clipboard.js",
+    "Drupal:9",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "PHP",
+    "Popper",
+    "Slick",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.laureat.joy-pepsico.eu:443",
+   "host": "www.laureat.joy-pepsico.eu",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

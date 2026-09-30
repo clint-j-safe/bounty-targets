@@ -1,0 +1,153 @@
+{
+ "domain": "mothercare.com.sa",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 21,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.mothercare.com.sa",
+  "data3.mothercare.com.sa",
+  "e.mothercare.com.sa",
+  "gpuijq.mothercare.com.sa",
+  "ip1.mail.mothercare.com.sa",
+  "ip1k.mail.mothercare.com.sa",
+  "ip2.mail.mothercare.com.sa",
+  "ip2o.mail.mothercare.com.sa",
+  "links.mail.mothercare.com.sa",
+  "linksa.mail.mothercare.com.sa",
+  "mail.mothercare.com.sa",
+  "maila.mothercare.com.sa",
+  "mothercare.com.sa",
+  "www.data.mothercare.com.sa",
+  "www.gpuijq.mothercare.com.sa",
+  "www.ip1.mail.mothercare.com.sa",
+  "www.ip2.mail.mothercare.com.sa",
+  "www.links.mail.mothercare.com.sa",
+  "www.mail.mothercare.com.sa",
+  "www.mothercare.com.sa",
+  "wwwg.mothercare.com.sa"
+ ],
+ "http": [
+  {
+   "url": "http://data.mothercare.com.sa:80",
+   "host": "data.mothercare.com.sa",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://gpuijq.mothercare.com.sa:80",
+   "host": "gpuijq.mothercare.com.sa",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "74.119.117.62",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://links.mail.mothercare.com.sa:80",
+   "host": "links.mail.mothercare.com.sa",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.199.51.78",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mothercare.com.sa:80",
+   "host": "mothercare.com.sa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.mothercare.com.sa:80",
+   "host": "www.mothercare.com.sa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://data.mothercare.com.sa:443",
+   "host": "data.mothercare.com.sa",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://e.mothercare.com.sa:443",
+   "host": "e.mothercare.com.sa",
+   "port": "443",
+   "status_code": 200,
+   "title": "Welcome to COMS Service",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.246.14.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mothercare.com.sa:443",
+   "host": "mothercare.com.sa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "217.19.248.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.mothercare.com.sa:443",
+   "host": "www.mothercare.com.sa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

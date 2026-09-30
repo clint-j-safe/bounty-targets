@@ -1,0 +1,548 @@
+{
+ "domain": "iot.vodafone.gr",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 30,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "beta.iot.vodafone.gr",
+  "coolerwiki.iot.vodafone.gr",
+  "deskbooking.facilitymanagement.iot.vodafone.gr",
+  "deskbookinga.facilitymanagement.iot.vodafone.gr",
+  "digitalsignage.iot.vodafone.gr",
+  "digitalsignageadmin.iot.vodafone.gr",
+  "emerald.facilitymanagement.iot.vodafone.gr",
+  "emeralda.facilitymanagement.iot.vodafone.gr",
+  "energy.facilitymanagement.iot.vodafone.gr",
+  "facilitymanagement.iot.vodafone.gr",
+  "facilitymanagementu.iot.vodafone.gr",
+  "fleetwiki.iot.vodafone.gr",
+  "guards.deskbooking.facilitymanagement.iot.vodafone.gr",
+  "guards7.deskbooking.facilitymanagement.iot.vodafone.gr",
+  "identity.facilitymanagement.iot.vodafone.gr",
+  "iot.vodafone.gr",
+  "lorawan-admin.facilitymanagement.iot.vodafone.gr",
+  "lorawan-admina.facilitymanagement.iot.vodafone.gr",
+  "lorawan.facilitymanagement.iot.vodafone.gr",
+  "mqtt.facilitymanagement.iot.vodafone.gr",
+  "onboarding.facilitymanagement.iot.vodafone.gr",
+  "onboardingc.facilitymanagement.iot.vodafone.gr",
+  "qr.facilitymanagement.iot.vodafone.gr",
+  "qr5.facilitymanagement.iot.vodafone.gr",
+  "services-legacy.facilitymanagement.iot.vodafone.gr",
+  "services-legacya.facilitymanagement.iot.vodafone.gr",
+  "services.facilitymanagement.iot.vodafone.gr",
+  "servicesq.facilitymanagement.iot.vodafone.gr",
+  "www.iot.vodafone.gr",
+  "www5.iot.vodafone.gr"
+ ],
+ "http": [
+  {
+   "url": "http://coolerwiki.iot.vodafone.gr:80",
+   "host": "coolerwiki.iot.vodafone.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": "ProProfs - Help Made Simple",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "100.51.155.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://digitalsignage.iot.vodafone.gr:80",
+   "host": "digitalsignage.iot.vodafone.gr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.123.122.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://digitalsignageadmin.iot.vodafone.gr:80",
+   "host": "digitalsignageadmin.iot.vodafone.gr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.123.122.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:2082",
+   "host": "iot.vodafone.gr",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:2095",
+   "host": "iot.vodafone.gr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:3000",
+   "host": "iot.vodafone.gr",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:80",
+   "host": "iot.vodafone.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8000",
+   "host": "iot.vodafone.gr",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8001",
+   "host": "iot.vodafone.gr",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8008",
+   "host": "iot.vodafone.gr",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8080",
+   "host": "iot.vodafone.gr",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8081",
+   "host": "iot.vodafone.gr",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8090",
+   "host": "iot.vodafone.gr",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:81",
+   "host": "iot.vodafone.gr",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8443",
+   "host": "iot.vodafone.gr",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:8888",
+   "host": "iot.vodafone.gr",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:9000",
+   "host": "iot.vodafone.gr",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:9090",
+   "host": "iot.vodafone.gr",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.gr:9443",
+   "host": "iot.vodafone.gr",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://beta.iot.vodafone.gr:443",
+   "host": "beta.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Beta Ended",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "195.46.10.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://coolerwiki.iot.vodafone.gr:443",
+   "host": "coolerwiki.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "ProProfs - Help Made Simple",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "100.51.155.22",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://deskbooking.facilitymanagement.iot.vodafone.gr:443",
+   "host": "deskbooking.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Bootstrap",
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://digitalsignage.iot.vodafone.gr:443",
+   "host": "digitalsignage.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.123.122.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://digitalsignageadmin.iot.vodafone.gr:443",
+   "host": "digitalsignageadmin.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.123.122.90",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://emerald.facilitymanagement.iot.vodafone.gr:443",
+   "host": "emerald.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Bootstrap",
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://energy.facilitymanagement.iot.vodafone.gr:443",
+   "host": "energy.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "YodiEnergy",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Nginx:1.18.0",
+    "React"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://facilitymanagement.iot.vodafone.gr:443",
+   "host": "facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Bootstrap",
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://guards.deskbooking.facilitymanagement.iot.vodafone.gr:443",
+   "host": "guards.deskbooking.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Bootstrap",
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://identity.facilitymanagement.iot.vodafone.gr:443",
+   "host": "identity.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vodafone Innovus - Authentication Server",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Microsoft ASP.NET",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://iot.vodafone.gr:443",
+   "host": "iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "C3.js",
+    "HSTS",
+    "Imperva",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lorawan-admin.facilitymanagement.iot.vodafone.gr:443",
+   "host": "lorawan-admin.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Bootstrap",
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lorawan.facilitymanagement.iot.vodafone.gr:443",
+   "host": "lorawan.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 404,
+   "title": "Nancy - 404 Not Found",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mqtt.facilitymanagement.iot.vodafone.gr:443",
+   "host": "mqtt.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Nginx:1.18.0"
+   ],
+   "cdn": false,
+   "ip": "195.46.10.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://onboarding.facilitymanagement.iot.vodafone.gr:443",
+   "host": "onboarding.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qr.facilitymanagement.iot.vodafone.gr:443",
+   "host": "qr.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Welcome to nginx!",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://services-legacy.facilitymanagement.iot.vodafone.gr:443",
+   "host": "services-legacy.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Unavailable",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://services.facilitymanagement.iot.vodafone.gr:443",
+   "host": "services.facilitymanagement.iot.vodafone.gr",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Unavailable",
+   "webserver": "nginx/1.18.0",
+   "technologies": [
+    "Imperva",
+    "Nginx:1.18.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

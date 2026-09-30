@@ -1,0 +1,198 @@
+{
+ "domain": "la.clover.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 27,
+ "programs": [
+  "hackerone|fiserv"
+ ],
+ "subdomains": [
+  "0exwtuagcudvhrbpiyj6fkm3qgx8essfrpioyvzdk.la.clover.com",
+  "222.la.clover.com",
+  "227.la.clover.com",
+  "a1d.la.clover.com",
+  "api.la.clover.com",
+  "asm-monitoring-qag.la.clover.com",
+  "c.la.clover.com",
+  "catalyst7.la.clover.com",
+  "client-plataforma-posnet-prod.la.clover.com",
+  "client-plataforma-posnet-prodq.la.clover.com",
+  "client-plataformaposnet-prodi.la.clover.com",
+  "corpg.la.clover.com",
+  "d.la.clover.com",
+  "files5.la.clover.com",
+  "fx08o1ag2jylze3pogvrhypucwqbtlumxndks7cw3.la.clover.com",
+  "la.clover.com",
+  "partner.la.clover.com",
+  "partnerm.la.clover.com",
+  "vip1.c.la.clover.com",
+  "vip19.d.la.clover.com",
+  "vip19.www.la.clover.com",
+  "vip1e.api.la.clover.com",
+  "vip1o.partner.la.clover.com",
+  "www.a1d.la.clover.com",
+  "www.api.la.clover.com",
+  "www.c.la.clover.com",
+  "www.la.clover.com"
+ ],
+ "http": [
+  {
+   "url": "http://a1d.la.clover.com:80",
+   "host": "a1d.la.clover.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": false,
+   "ip": "166.73.5.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://api.la.clover.com:80",
+   "host": "api.la.clover.com",
+   "port": "80",
+   "status_code": 204,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": false,
+   "ip": "166.73.5.37",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://la.clover.com:80",
+   "host": "la.clover.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": false,
+   "ip": "166.73.5.41",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://partner.la.clover.com:80",
+   "host": "partner.la.clover.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": false,
+   "ip": "166.73.5.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.la.clover.com:80",
+   "host": "www.la.clover.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": false,
+   "ip": "166.73.5.41",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://a1d.la.clover.com:443",
+   "host": "a1d.la.clover.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://api.la.clover.com:443",
+   "host": "api.la.clover.com",
+   "port": "443",
+   "status_code": 204,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.37",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://c.la.clover.com:443",
+   "host": "c.la.clover.com",
+   "port": "443",
+   "status_code": 204,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.39",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://d.la.clover.com:443",
+   "host": "d.la.clover.com",
+   "port": "443",
+   "status_code": 204,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.39",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://la.clover.com:443",
+   "host": "la.clover.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.41",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://partner.la.clover.com:443",
+   "host": "partner.la.clover.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.la.clover.com:443",
+   "host": "www.la.clover.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "166.73.5.41",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

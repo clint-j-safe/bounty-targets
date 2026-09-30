@@ -1,0 +1,779 @@
+{
+ "domain": "lostark.games.aws.dev",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 97,
+ "programs": [
+  "hackerone|aws_vdp"
+ ],
+ "subdomains": [
+  "archive.gmwebtool.lostark.games.aws.dev",
+  "cache.lostark.games.aws.dev",
+  "cache.staging.lostark.games.aws.dev",
+  "cachea.lostark.games.aws.dev",
+  "cdn.lostark.games.aws.dev",
+  "cdn.staging.lostark.games.aws.dev",
+  "dev.lostark.games.aws.dev",
+  "eu-central.archive.gmwebtool.lostark.games.aws.dev",
+  "eu-central.gmwebtool.lostark.games.aws.dev",
+  "eu-central.gmwebtool.staging.lostark.games.aws.dev",
+  "eu-central.lostark.games.aws.dev",
+  "eu-central.new-zeppelin.lostark.games.aws.dev",
+  "eu-central.rabbitmq.lostark.games.aws.dev",
+  "eu-central.staging.lostark.games.aws.dev",
+  "eu-central.zeppelin.lostark.games.aws.dev",
+  "eu-central7.gmwebtool.lostark.games.aws.dev",
+  "eu-centralg.gmwebtool.staging.lostark.games.aws.dev",
+  "eu-west.lostark.games.aws.dev",
+  "gmwebtool.lostark.games.aws.dev",
+  "gmwebtool.staging.lostark.games.aws.dev",
+  "gmwebtool.us-east.pts.lostark.games.aws.dev",
+  "gmwebtoolk.us-east.pts.lostark.games.aws.dev",
+  "iad-cdn-staging.lostark.games.aws.dev",
+  "lostark.games.aws.dev",
+  "mgcdn.iad.lostark.games.aws.dev",
+  "mgcdn.pdx.lostark.games.aws.dev",
+  "mgwecdn.lostark.games.aws.dev",
+  "nexus.fra.lostark.games.aws.dev",
+  "nexus.iad.lostark.games.aws.dev",
+  "nexus.pdx.lostark.games.aws.dev",
+  "nexus.qa.lostark.games.aws.dev",
+  "nexus.qa2.lostark.games.aws.dev",
+  "nexus.staging-iad.lostark.games.aws.dev",
+  "nexus.staging-pdx.lostark.games.aws.dev",
+  "nexus.staging.lostark.games.aws.dev",
+  "opensearch.lostark.games.aws.dev",
+  "prod-iad-webevent-webapi.lostark.games.aws.dev",
+  "pts.lostark.games.aws.dev",
+  "pts.twitch.lostark.games.aws.dev",
+  "ptsc.twitch.lostark.games.aws.dev",
+  "qa.cache.lostark.games.aws.dev",
+  "qa.cdn.lostark.games.aws.dev",
+  "qa.lostark.games.aws.dev",
+  "qa.twitch.lostark.games.aws.dev",
+  "qa1-gmwt.lostark.games.aws.dev",
+  "qa1.lostark.games.aws.dev",
+  "qa2-webevent-manager.lostark.games.aws.dev",
+  "qa2.lostark.games.aws.dev",
+  "qa3.lostark.games.aws.dev",
+  "qa4.lostark.games.aws.dev",
+  "qa5.lostark.games.aws.dev",
+  "qa6-cdn.lostark.games.aws.dev",
+  "qa6.lostark.games.aws.dev",
+  "qac.cache.lostark.games.aws.dev",
+  "rabbitmq.lostark.games.aws.dev",
+  "rmqpdx.staging.lostark.games.aws.dev",
+  "sa-east.archive.gmwebtool.lostark.games.aws.dev",
+  "sa-east.archive2.gmwebtool.lostark.games.aws.dev",
+  "sa-east.gmwebtool.lostark.games.aws.dev",
+  "sa-east.gmwebtool.staging.lostark.games.aws.dev",
+  "sa-east.lostark.games.aws.dev",
+  "sa-east.staging.lostark.games.aws.dev",
+  "sa-east.zeppelin.lostark.games.aws.dev",
+  "st.lostark.games.aws.dev",
+  "stage.twitch.lostark.games.aws.dev",
+  "stageq.twitch.lostark.games.aws.dev",
+  "staging.lostark.games.aws.dev",
+  "stronghold.qa.lostark.games.aws.dev",
+  "twitch.lostark.games.aws.dev",
+  "twitch.staging.lostark.games.aws.dev",
+  "us-east.dev.lostark.games.aws.dev",
+  "us-east.gmwebtool.lostark.games.aws.dev",
+  "us-east.gmwebtool.staging.lostark.games.aws.dev",
+  "us-east.lostark.games.aws.dev",
+  "us-east.new-zeppelin.lostark.games.aws.dev",
+  "us-east.pts.lostark.games.aws.dev",
+  "us-east.rabbitmq.lostark.games.aws.dev",
+  "us-east.staging.lostark.games.aws.dev",
+  "us-east.zeppelin.lostark.games.aws.dev",
+  "us-easto.lostark.games.aws.dev",
+  "us-eastq.pts.lostark.games.aws.dev",
+  "us-west.dev.lostark.games.aws.dev",
+  "us-west.gmwebtool.lostark.games.aws.dev",
+  "us-west.gmwebtool.staging.lostark.games.aws.dev",
+  "us-west.lostark.games.aws.dev",
+  "us-west.rabbitmq.lostark.games.aws.dev",
+  "us-west.staging.lostark.games.aws.dev",
+  "us-west.twitch.staging.lostark.games.aws.dev",
+  "us-west.zeppelin.lostark.games.aws.dev",
+  "us-westk.rabbitmq.lostark.games.aws.dev",
+  "weapi.stage.lostark.games.aws.dev",
+  "wecdn-staging.lostark.games.aws.dev",
+  "wecdn.fra.lostark.games.aws.dev",
+  "wecdn.iad.lostark.games.aws.dev",
+  "wecdn.pdx.lostark.games.aws.dev",
+  "wecdn.prod.lostark.games.aws.dev",
+  "zeppelin.lostark.games.aws.dev"
+ ],
+ "http": [
+  {
+   "url": "http://cache.lostark.games.aws.dev:80",
+   "host": "cache.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cache.staging.lostark.games.aws.dev:80",
+   "host": "cache.staging.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.29",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cdn.lostark.games.aws.dev:80",
+   "host": "cdn.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.85.72",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cdn.staging.lostark.games.aws.dev:80",
+   "host": "cdn.staging.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.171.100.46",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://iad-cdn-staging.lostark.games.aws.dev:80",
+   "host": "iad-cdn-staging.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.122",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qa.cache.lostark.games.aws.dev:80",
+   "host": "qa.cache.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.112.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qa.cdn.lostark.games.aws.dev:80",
+   "host": "qa.cdn.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.16",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stronghold.qa.lostark.games.aws.dev:80",
+   "host": "stronghold.qa.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.44",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://twitch.staging.lostark.games.aws.dev:80",
+   "host": "twitch.staging.lostark.games.aws.dev",
+   "port": "80",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "100.61.108.206",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cache.lostark.games.aws.dev:443",
+   "host": "cache.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cache.staging.lostark.games.aws.dev:443",
+   "host": "cache.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.29",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cdn.lostark.games.aws.dev:443",
+   "host": "cdn.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.85.72",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cdn.staging.lostark.games.aws.dev:443",
+   "host": "cdn.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.171.100.46",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://eu-central.archive.gmwebtool.lostark.games.aws.dev:443",
+   "host": "eu-central.archive.gmwebtool.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.185.142.172",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://eu-central.gmwebtool.staging.lostark.games.aws.dev:443",
+   "host": "eu-central.gmwebtool.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.176.26.118",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://eu-central.new-zeppelin.lostark.games.aws.dev:443",
+   "host": "eu-central.new-zeppelin.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.185.58.53",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://eu-central.staging.lostark.games.aws.dev:443",
+   "host": "eu-central.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.58.89.75",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://iad-cdn-staging.lostark.games.aws.dev:443",
+   "host": "iad-cdn-staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.122",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://nexus.fra.lostark.games.aws.dev:8888",
+   "host": "nexus.fra.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "18.153.44.172",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://nexus.iad.lostark.games.aws.dev:8888",
+   "host": "nexus.iad.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.55.251.244",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://nexus.pdx.lostark.games.aws.dev:8888",
+   "host": "nexus.pdx.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.228.202.204",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://nexus.qa2.lostark.games.aws.dev:443",
+   "host": "nexus.qa2.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "50.112.175.177",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://nexus.qa2.lostark.games.aws.dev:8888",
+   "host": "nexus.qa2.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 400,
+   "title": "Bad Request",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "50.112.175.177",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://nexus.staging-pdx.lostark.games.aws.dev:8888",
+   "host": "nexus.staging-pdx.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.89.142.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://opensearch.lostark.games.aws.dev:443",
+   "host": "opensearch.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "54.224.9.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa.cache.lostark.games.aws.dev:443",
+   "host": "qa.cache.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.112.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa1.lostark.games.aws.dev:443",
+   "host": "qa1.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "35.81.240.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa1.lostark.games.aws.dev:8888",
+   "host": "qa1.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 404,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.81.240.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa4.lostark.games.aws.dev:443",
+   "host": "qa4.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "35.81.240.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa4.lostark.games.aws.dev:8888",
+   "host": "qa4.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 404,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.81.240.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa5.lostark.games.aws.dev:443",
+   "host": "qa5.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.81.240.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa5.lostark.games.aws.dev:8888",
+   "host": "qa5.lostark.games.aws.dev",
+   "port": "8888",
+   "status_code": 404,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "35.81.240.253",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://sa-east.gmwebtool.staging.lostark.games.aws.dev:443",
+   "host": "sa-east.gmwebtool.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.229.130.35",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://sa-east.staging.lostark.games.aws.dev:443",
+   "host": "sa-east.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "177.71.227.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stronghold.qa.lostark.games.aws.dev:443",
+   "host": "stronghold.qa.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.44",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.gmwebtool.lostark.games.aws.dev:443",
+   "host": "us-east.gmwebtool.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.83.6.229",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.gmwebtool.staging.lostark.games.aws.dev:443",
+   "host": "us-east.gmwebtool.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "98.95.196.231",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.lostark.games.aws.dev:443",
+   "host": "us-east.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.200.160.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.new-zeppelin.lostark.games.aws.dev:443",
+   "host": "us-east.new-zeppelin.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "184.192.114.194",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.pts.lostark.games.aws.dev:443",
+   "host": "us-east.pts.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.55.194.125",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.staging.lostark.games.aws.dev:443",
+   "host": "us-east.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "34.203.83.75",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-east.zeppelin.lostark.games.aws.dev:443",
+   "host": "us-east.zeppelin.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.175.148.201",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-west.gmwebtool.lostark.games.aws.dev:443",
+   "host": "us-west.gmwebtool.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.144.141.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-west.gmwebtool.staging.lostark.games.aws.dev:443",
+   "host": "us-west.gmwebtool.staging.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.218.114.242",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://us-west.lostark.games.aws.dev:443",
+   "host": "us-west.lostark.games.aws.dev",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "32.187.137.77",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

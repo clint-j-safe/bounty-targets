@@ -1,0 +1,805 @@
+{
+ "domain": "loctite-consumer.com.au",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 46,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "222.loctite-consumer.com.au",
+  "222a.loctite-consumer.com.au",
+  "227.loctite-consumer.com.au",
+  "227a.loctite-consumer.com.au",
+  "229.loctite-consumer.com.au",
+  "229a.loctite-consumer.com.au",
+  "236.loctite-consumer.com.au",
+  "236a.loctite-consumer.com.au",
+  "60sec.loctite-consumer.com.au",
+  "allplastics.loctite-consumer.com.au",
+  "com.loctite-consumer.com.au",
+  "comk.loctite-consumer.com.au",
+  "controlliquid.loctite-consumer.com.au",
+  "corp.loctite-consumer.com.au",
+  "corpw.loctite-consumer.com.au",
+  "creativepen.loctite-consumer.com.au",
+  "cs.loctite-consumer.com.au",
+  "csi.loctite-consumer.com.au",
+  "demo.loctite-consumer.com.au",
+  "demom.loctite-consumer.com.au",
+  "dev.loctite-consumer.com.au",
+  "devk.loctite-consumer.com.au",
+  "dsl.loctite-consumer.com.au",
+  "epoxy5min.loctite-consumer.com.au",
+  "glass.loctite-consumer.com.au",
+  "loctite-consumer.com.au",
+  "original.loctite-consumer.com.au",
+  "powergelcontrol.loctite-consumer.com.au",
+  "ppp.loctite-consumer.com.au",
+  "precision.loctite-consumer.com.au",
+  "repositionablegel.loctite-consumer.com.au",
+  "static.loctite-consumer.com.au",
+  "test.loctite-consumer.com.au",
+  "www.60sec.loctite-consumer.com.au",
+  "www.allplastics.loctite-consumer.com.au",
+  "www.controlliquid.loctite-consumer.com.au",
+  "www.creativepen.loctite-consumer.com.au",
+  "www.epoxy5min.loctite-consumer.com.au",
+  "www.glass.loctite-consumer.com.au",
+  "www.loctite-consumer.com.au",
+  "www.original.loctite-consumer.com.au",
+  "www.powergelcontrol.loctite-consumer.com.au",
+  "www.precision.loctite-consumer.com.au",
+  "www.repositionablegel.loctite-consumer.com.au",
+  "www.xxl.loctite-consumer.com.au",
+  "xxl.loctite-consumer.com.au"
+ ],
+ "http": [
+  {
+   "url": "http://60sec.loctite-consumer.com.au:80",
+   "host": "60sec.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://allplastics.loctite-consumer.com.au:80",
+   "host": "allplastics.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://controlliquid.loctite-consumer.com.au:80",
+   "host": "controlliquid.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://creativepen.loctite-consumer.com.au:80",
+   "host": "creativepen.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://epoxy5min.loctite-consumer.com.au:80",
+   "host": "epoxy5min.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://glass.loctite-consumer.com.au:80",
+   "host": "glass.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctite-consumer.com.au:80",
+   "host": "loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://original.loctite-consumer.com.au:80",
+   "host": "original.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://powergelcontrol.loctite-consumer.com.au:80",
+   "host": "powergelcontrol.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://precision.loctite-consumer.com.au:80",
+   "host": "precision.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://repositionablegel.loctite-consumer.com.au:80",
+   "host": "repositionablegel.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.60sec.loctite-consumer.com.au:80",
+   "host": "www.60sec.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.allplastics.loctite-consumer.com.au:80",
+   "host": "www.allplastics.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.controlliquid.loctite-consumer.com.au:80",
+   "host": "www.controlliquid.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.creativepen.loctite-consumer.com.au:80",
+   "host": "www.creativepen.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.epoxy5min.loctite-consumer.com.au:80",
+   "host": "www.epoxy5min.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.glass.loctite-consumer.com.au:80",
+   "host": "www.glass.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consumer.com.au:80",
+   "host": "www.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.original.loctite-consumer.com.au:80",
+   "host": "www.original.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.powergelcontrol.loctite-consumer.com.au:80",
+   "host": "www.powergelcontrol.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.precision.loctite-consumer.com.au:80",
+   "host": "www.precision.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.repositionablegel.loctite-consumer.com.au:80",
+   "host": "www.repositionablegel.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.xxl.loctite-consumer.com.au:80",
+   "host": "www.xxl.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://xxl.loctite-consumer.com.au:80",
+   "host": "xxl.loctite-consumer.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://60sec.loctite-consumer.com.au:443",
+   "host": "60sec.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://allplastics.loctite-consumer.com.au:443",
+   "host": "allplastics.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://controlliquid.loctite-consumer.com.au:443",
+   "host": "controlliquid.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://creativepen.loctite-consumer.com.au:443",
+   "host": "creativepen.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://epoxy5min.loctite-consumer.com.au:443",
+   "host": "epoxy5min.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://glass.loctite-consumer.com.au:443",
+   "host": "glass.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite-consumer.com.au:443",
+   "host": "loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://original.loctite-consumer.com.au:443",
+   "host": "original.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://powergelcontrol.loctite-consumer.com.au:443",
+   "host": "powergelcontrol.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://precision.loctite-consumer.com.au:443",
+   "host": "precision.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://repositionablegel.loctite-consumer.com.au:443",
+   "host": "repositionablegel.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.60sec.loctite-consumer.com.au:443",
+   "host": "www.60sec.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.allplastics.loctite-consumer.com.au:443",
+   "host": "www.allplastics.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.controlliquid.loctite-consumer.com.au:443",
+   "host": "www.controlliquid.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.creativepen.loctite-consumer.com.au:443",
+   "host": "www.creativepen.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.epoxy5min.loctite-consumer.com.au:443",
+   "host": "www.epoxy5min.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.43",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.glass.loctite-consumer.com.au:443",
+   "host": "www.glass.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consumer.com.au:443",
+   "host": "www.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 200,
+   "title": "Homepage",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.original.loctite-consumer.com.au:443",
+   "host": "www.original.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.powergelcontrol.loctite-consumer.com.au:443",
+   "host": "www.powergelcontrol.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.precision.loctite-consumer.com.au:443",
+   "host": "www.precision.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.repositionablegel.loctite-consumer.com.au:443",
+   "host": "www.repositionablegel.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.xxl.loctite-consumer.com.au:443",
+   "host": "www.xxl.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.26",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://xxl.loctite-consumer.com.au:443",
+   "host": "xxl.loctite-consumer.com.au",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.13",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "domain": "lanchile.com.br",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "correo.lanchile.com.br",
+  "lanchile.com.br",
+  "www.lanchile.com.br"
+ ],
+ "http": [
+  {
+   "url": "http://www.lanchile.com.br:80",
+   "host": "www.lanchile.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.48.203.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

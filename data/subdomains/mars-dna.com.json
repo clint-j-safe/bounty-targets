@@ -1,0 +1,628 @@
+{
+ "domain": "mars-dna.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 139,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "agent-marketplace-test.mars-dna.com",
+  "clinicalconsultplatform-backend-dev.mars-dna.com",
+  "clinicalconsultplatform-backend-uat.mars-dna.com",
+  "clinicalconsultplatform-backend.mars-dna.com",
+  "clinicalconsultplatform-clips-dev.mars-dna.com",
+  "clinicalconsultplatform-clips-uat.mars-dna.com",
+  "clinicalconsultplatform-clips.mars-dna.com",
+  "clinicalconsultplatform.mars-dna.com",
+  "customuploadtool-dev.mars-dna.com",
+  "demandr2d2.mars-dna.com",
+  "dev.petcarebotapi.mars-dna.com",
+  "dev.petcarechatbot.mars-dna.com",
+  "dev.petcarellmapi.mars-dna.com",
+  "deve.petcarechatbot.mars-dna.com",
+  "devk.petcarebotapi.mars-dna.com",
+  "digital-health-ethel-test.mars-dna.com",
+  "dnacorehubbrsnwvm-001.mars-dna.com",
+  "dnacorehubbrsnwvm-001k.mars-dna.com",
+  "dnacorehubbrsnwvm-002.mars-dna.com",
+  "hccorehubbrsnwvm-001.mars-dna.com",
+  "hccorehubbrsnwvm-002.mars-dna.com",
+  "hccorehubbrsnwvm-002y.mars-dna.com",
+  "hccorehubeus2nwvm-001.mars-dna.com",
+  "hccorehubeus2nwvm-001y.mars-dna.com",
+  "hccorehubeus2nwvm-002.mars-dna.com",
+  "hccorehubeus2pavm-001.mars-dna.com",
+  "hccorehubeus2pavm-002.mars-dna.com",
+  "mars-cc-platform-dev.mars-dna.com",
+  "mars-cc-platform-uat.mars-dna.com",
+  "mars-dna.com",
+  "max-agent-marketplace.mars-dna.com",
+  "max-apisdkanlytics.mars-dna.com",
+  "max-comms.mars-dna.com",
+  "max-digitalhealth.mars-dna.com",
+  "max-doccompliance.mars-dna.com",
+  "max-extcomms.mars-dna.com",
+  "max-geminiapi.mars-dna.com",
+  "max-gwanlytics-dashboard.mars-dna.com",
+  "max-llm.mars-dna.com",
+  "max-maas-analytics-api.mars-dna.com",
+  "max-maas-analytics-dashboard.mars-dna.com",
+  "max-node.mars-dna.com",
+  "max-promtgen.mars-dna.com",
+  "max-raas-datasource.mars-dna.com",
+  "max-raas-retrival.mars-dna.com",
+  "max-rw.mars-dna.com",
+  "max-statuspage.mars-dna.com",
+  "max-test-apisdkanlytics.mars-dna.com",
+  "max-test-comms.mars-dna.com",
+  "max-test-extcomms.mars-dna.com",
+  "max-test-geminiapi.mars-dna.com",
+  "max-test-guide.mars-dna.com",
+  "max-test-gwanlytics-dashboard.mars-dna.com",
+  "max-test-llm.mars-dna.com",
+  "max-test-maas-analytics-api.mars-dna.com",
+  "max-test-maas-analytics-dashboard.mars-dna.com",
+  "max-test-node.mars-dna.com",
+  "max-test-prompt.mars-dna.com",
+  "max-test-promtgen.mars-dna.com",
+  "max-test-raas-datasource.mars-dna.com",
+  "max-test-raas-retrival.mars-dna.com",
+  "max-test-rw.mars-dna.com",
+  "max-test-statuspage.mars-dna.com",
+  "max-uat-agent-marketplace.mars-dna.com",
+  "max-uat-apisdkanlytics.mars-dna.com",
+  "max-uat-comms.mars-dna.com",
+  "max-uat-datasource.mars-dna.com",
+  "max-uat-digital-health-ethel.mars-dna.com",
+  "max-uat-docs.mars-dna.com",
+  "max-uat-extcomms.mars-dna.com",
+  "max-uat-guide.mars-dna.com",
+  "max-uat-gwanlytics-dashboard.mars-dna.com",
+  "max-uat-llm.mars-dna.com",
+  "max-uat-maas-analytics-api.mars-dna.com",
+  "max-uat-maas-dashboard.mars-dna.com",
+  "max-uat-node.mars-dna.com",
+  "max-uat-promt.mars-dna.com",
+  "max-uat-query-me.mars-dna.com",
+  "max-uat-retrival.mars-dna.com",
+  "max-uat-rw.mars-dna.com",
+  "max-uat-useranalytics.mars-dna.com",
+  "max-useranalytics.mars-dna.com",
+  "max.uat.digital-health-ethel.mars-dna.com",
+  "max.uat.query-me.mars-dna.com",
+  "padleappvivadataconnector.mars-dna.com",
+  "panorama.mars-dna.com",
+  "petcarebotapi.mars-dna.com",
+  "petcarechatbot.mars-dna.com",
+  "petcarellmapi.mars-dna.com",
+  "qms-dashboard.mars-dna.com",
+  "qmsauditportal.mars-dna.com",
+  "qmsauditportaldev.mars-dna.com",
+  "query-me-test.mars-dna.com",
+  "query-me.mars-dna.com",
+  "skynet-dev-dna-01.mars-dna.com",
+  "staging.petcarechatbot.mars-dna.com",
+  "tools.psvaluegenerator.mars-dna.com",
+  "www.agent-marketplace-test.mars-dna.com",
+  "www.clinicalconsultplatform-backend-dev.mars-dna.com",
+  "www.clinicalconsultplatform-backend-uat.mars-dna.com",
+  "www.clinicalconsultplatform-backend.mars-dna.com",
+  "www.clinicalconsultplatform-clips-dev.mars-dna.com",
+  "www.clinicalconsultplatform-clips-uat.mars-dna.com",
+  "www.clinicalconsultplatform-clips.mars-dna.com",
+  "www.clinicalconsultplatform.mars-dna.com",
+  "www.dev.petcarebotapi.mars-dna.com",
+  "www.dev.petcarechatbot.mars-dna.com",
+  "www.dev.petcarellmapi.mars-dna.com",
+  "www.digital-health-ethel-test.mars-dna.com",
+  "www.dnacorehubbrsnwvm-001.mars-dna.com",
+  "www.dnacorehubbrsnwvm-002.mars-dna.com",
+  "www.hccorehubbrsnwvm-001.mars-dna.com",
+  "www.hccorehubbrsnwvm-002.mars-dna.com",
+  "www.hccorehubeus2nwvm-001.mars-dna.com",
+  "www.hccorehubeus2nwvm-002.mars-dna.com",
+  "www.mars-cc-platform-uat.mars-dna.com",
+  "www.mars-dna.com",
+  "www.max-apisdkanlytics.mars-dna.com",
+  "www.max-extcomms.mars-dna.com",
+  "www.max-maas-analytics-api.mars-dna.com",
+  "www.max-maas-analytics-dashboard.mars-dna.com",
+  "www.max-raas-datasource.mars-dna.com",
+  "www.max-raas-retrival.mars-dna.com",
+  "www.max-test-apisdkanlytics.mars-dna.com",
+  "www.max-test-extcomms.mars-dna.com",
+  "www.max-test-gwanlytics-dashboard.mars-dna.com",
+  "www.max-test-maas-analytics-api.mars-dna.com",
+  "www.max-test-maas-analytics-dashboard.mars-dna.com",
+  "www.padleappvivadataconnector.mars-dna.com",
+  "www.petcarebotapi.mars-dna.com",
+  "www.petcarellmapi.mars-dna.com",
+  "www.qms-dashboard.mars-dna.com",
+  "www.qmsauditportal.mars-dna.com",
+  "www.qmsauditportaldev.mars-dna.com",
+  "www.query-me-test.mars-dna.com",
+  "www.query-me.mars-dna.com",
+  "www.skynet-dev-dna-01.mars-dna.com",
+  "www.staging.petcarechatbot.mars-dna.com",
+  "www.tools.psvaluegenerator.mars-dna.com"
+ ],
+ "http": [
+  {
+   "url": "http://customuploadtool-dev.mars-dna.com:80",
+   "host": "customuploadtool-dev.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://demandr2d2.mars-dna.com:80",
+   "host": "demandr2d2.mars-dna.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "R2D2 - production",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dev.petcarellmapi.mars-dna.com:80",
+   "host": "dev.petcarellmapi.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mars-dna.com:80",
+   "host": "mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.85",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-apisdkanlytics.mars-dna.com:80",
+   "host": "max-apisdkanlytics.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-gwanlytics-dashboard.mars-dna.com:80",
+   "host": "max-gwanlytics-dashboard.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-maas-analytics-dashboard.mars-dna.com:80",
+   "host": "max-maas-analytics-dashboard.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-test-apisdkanlytics.mars-dna.com:80",
+   "host": "max-test-apisdkanlytics.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-test-gwanlytics-dashboard.mars-dna.com:80",
+   "host": "max-test-gwanlytics-dashboard.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-test-maas-analytics-dashboard.mars-dna.com:80",
+   "host": "max-test-maas-analytics-dashboard.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-uat-apisdkanlytics.mars-dna.com:80",
+   "host": "max-uat-apisdkanlytics.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-uat-gwanlytics-dashboard.mars-dna.com:80",
+   "host": "max-uat-gwanlytics-dashboard.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-uat-maas-dashboard.mars-dna.com:80",
+   "host": "max-uat-maas-dashboard.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://max-uat-useranalytics.mars-dna.com:80",
+   "host": "max-uat-useranalytics.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://petcarellmapi.mars-dna.com:80",
+   "host": "petcarellmapi.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qmsauditportal.mars-dna.com:80",
+   "host": "qmsauditportal.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qmsauditportaldev.mars-dna.com:80",
+   "host": "qmsauditportaldev.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://tools.psvaluegenerator.mars-dna.com:80",
+   "host": "tools.psvaluegenerator.mars-dna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://customuploadtool-dev.mars-dna.com:443",
+   "host": "customuploadtool-dev.mars-dna.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "MARS MPDDM",
+   "webserver": "nginx/1.29.8",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Nginx:1.29.8",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://demandr2d2.mars-dna.com:443",
+   "host": "demandr2d2.mars-dna.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "R2D2 - production",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.131.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mars-dna.com:443",
+   "host": "mars-dna.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.85",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://max-apisdkanlytics.mars-dna.com:443",
+   "host": "max-apisdkanlytics.mars-dna.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://max-gwanlytics-dashboard.mars-dna.com:443",
+   "host": "max-gwanlytics-dashboard.mars-dna.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Streamlit",
+   "webserver": "TornadoServer/6.5.2",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "TornadoServer:6.5.2",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://max-maas-analytics-dashboard.mars-dna.com:443",
+   "host": "max-maas-analytics-dashboard.mars-dna.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://max-test-maas-analytics-dashboard.mars-dna.com:443",
+   "host": "max-test-maas-analytics-dashboard.mars-dna.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://petcarellmapi.mars-dna.com:443",
+   "host": "petcarellmapi.mars-dna.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Web App - Unavailable",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qmsauditportal.mars-dna.com:443",
+   "host": "qmsauditportal.mars-dna.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mars Quality Management System",
+   "webserver": "Werkzeug/3.1.3 Python/3.11.13",
+   "technologies": [
+    "Bootstrap:5.2.0",
+    "Flask:3.1.3",
+    "HSTS",
+    "HTTP/3",
+    "Popper:2.11.5",
+    "Python:3.11.13",
+    "React",
+    "Varnish",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qmsauditportaldev.mars-dna.com:443",
+   "host": "qmsauditportaldev.mars-dna.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mars Quality Management System",
+   "webserver": "Werkzeug/3.1.3 Python/3.11.13",
+   "technologies": [
+    "Bootstrap:5.2.0",
+    "Flask:3.1.3",
+    "HSTS",
+    "HTTP/3",
+    "Popper:2.11.5",
+    "Python:3.11.13",
+    "React",
+    "Varnish",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://tools.psvaluegenerator.mars-dna.com:443",
+   "host": "tools.psvaluegenerator.mars-dna.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Microsoft Azure Web App - Error 404",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

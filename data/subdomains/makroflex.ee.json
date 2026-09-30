@@ -1,0 +1,1204 @@
+{
+ "domain": "makroflex.ee",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 43,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "1352184.makroflex.ee",
+  "1800958.makroflex.ee",
+  "2928559.makroflex.ee",
+  "2930837.makroflex.ee",
+  "2930840.makroflex.ee",
+  "2930973.makroflex.ee",
+  "2931090.makroflex.ee",
+  "2931240.makroflex.ee",
+  "2931254.makroflex.ee",
+  "2931255.makroflex.ee",
+  "2931268.makroflex.ee",
+  "2931269.makroflex.ee",
+  "4740008001024.makroflex.ee",
+  "4740008500497.makroflex.ee",
+  "4740008500497g.makroflex.ee",
+  "581154.makroflex.ee",
+  "608423.makroflex.ee",
+  "9000101125344.makroflex.ee",
+  "90001011253447.makroflex.ee",
+  "9000101125382.makroflex.ee",
+  "kampaania-reeglid.makroflex.ee",
+  "makroflex.ee",
+  "mft.makroflex.ee",
+  "www.1800958.makroflex.ee",
+  "www.2928559.makroflex.ee",
+  "www.2930837.makroflex.ee",
+  "www.2930840.makroflex.ee",
+  "www.2930973.makroflex.ee",
+  "www.2931090.makroflex.ee",
+  "www.2931240.makroflex.ee",
+  "www.2931255.makroflex.ee",
+  "www.2931268.makroflex.ee",
+  "www.2931269.makroflex.ee",
+  "www.4740008001024.makroflex.ee",
+  "www.4740008500497.makroflex.ee",
+  "www.581154.makroflex.ee",
+  "www.608423.makroflex.ee",
+  "www.9000101125344.makroflex.ee",
+  "www.9000101125382.makroflex.ee",
+  "www.home.makroflex.ee",
+  "www.makroflex.ee",
+  "www.mft.makroflex.ee",
+  "www1.makroflex.ee"
+ ],
+ "http": [
+  {
+   "url": "http://1352184.makroflex.ee:80",
+   "host": "1352184.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.27",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://1800958.makroflex.ee:80",
+   "host": "1800958.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2928559.makroflex.ee:80",
+   "host": "2928559.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.70",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2930837.makroflex.ee:80",
+   "host": "2930837.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2930840.makroflex.ee:80",
+   "host": "2930840.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2930973.makroflex.ee:80",
+   "host": "2930973.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.123",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2931090.makroflex.ee:80",
+   "host": "2931090.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2931240.makroflex.ee:80",
+   "host": "2931240.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2931254.makroflex.ee:80",
+   "host": "2931254.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2931255.makroflex.ee:80",
+   "host": "2931255.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2931268.makroflex.ee:80",
+   "host": "2931268.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.34",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://2931269.makroflex.ee:80",
+   "host": "2931269.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://4740008001024.makroflex.ee:80",
+   "host": "4740008001024.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.165.98.119",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://4740008500497.makroflex.ee:80",
+   "host": "4740008500497.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.123",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://581154.makroflex.ee:80",
+   "host": "581154.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://608423.makroflex.ee:80",
+   "host": "608423.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://9000101125344.makroflex.ee:80",
+   "host": "9000101125344.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://9000101125382.makroflex.ee:80",
+   "host": "9000101125382.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://kampaania-reeglid.makroflex.ee:80",
+   "host": "kampaania-reeglid.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.56.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://makroflex.ee:80",
+   "host": "makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.102.68",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.1800958.makroflex.ee:80",
+   "host": "www.1800958.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.34",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2928559.makroflex.ee:80",
+   "host": "www.2928559.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2930837.makroflex.ee:80",
+   "host": "www.2930837.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2930840.makroflex.ee:80",
+   "host": "www.2930840.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2930973.makroflex.ee:80",
+   "host": "www.2930973.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2931090.makroflex.ee:80",
+   "host": "www.2931090.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2931240.makroflex.ee:80",
+   "host": "www.2931240.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2931255.makroflex.ee:80",
+   "host": "www.2931255.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2931268.makroflex.ee:80",
+   "host": "www.2931268.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2931269.makroflex.ee:80",
+   "host": "www.2931269.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.34",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.4740008001024.makroflex.ee:80",
+   "host": "www.4740008001024.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.165.98.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.4740008500497.makroflex.ee:80",
+   "host": "www.4740008500497.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.581154.makroflex.ee:80",
+   "host": "www.581154.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.608423.makroflex.ee:80",
+   "host": "www.608423.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.9000101125344.makroflex.ee:80",
+   "host": "www.9000101125344.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.9000101125382.makroflex.ee:80",
+   "host": "www.9000101125382.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.makroflex.ee:80",
+   "host": "www.makroflex.ee",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.39",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://1352184.makroflex.ee:443",
+   "host": "1352184.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.27",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://1800958.makroflex.ee:443",
+   "host": "1800958.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2928559.makroflex.ee:443",
+   "host": "2928559.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.70",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2930837.makroflex.ee:443",
+   "host": "2930837.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2930840.makroflex.ee:443",
+   "host": "2930840.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2930973.makroflex.ee:443",
+   "host": "2930973.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.123",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2931090.makroflex.ee:443",
+   "host": "2931090.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2931240.makroflex.ee:443",
+   "host": "2931240.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2931254.makroflex.ee:443",
+   "host": "2931254.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2931255.makroflex.ee:443",
+   "host": "2931255.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2931268.makroflex.ee:443",
+   "host": "2931268.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.34",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2931269.makroflex.ee:443",
+   "host": "2931269.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.42",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://4740008001024.makroflex.ee:443",
+   "host": "4740008001024.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.165.98.119",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://4740008500497.makroflex.ee:443",
+   "host": "4740008500497.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.123",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://581154.makroflex.ee:443",
+   "host": "581154.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.38",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://608423.makroflex.ee:443",
+   "host": "608423.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://9000101125344.makroflex.ee:443",
+   "host": "9000101125344.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://9000101125382.makroflex.ee:443",
+   "host": "9000101125382.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://kampaania-reeglid.makroflex.ee:443",
+   "host": "kampaania-reeglid.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.56.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://makroflex.ee:443",
+   "host": "makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.168.102.68",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.1800958.makroflex.ee:443",
+   "host": "www.1800958.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.34",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2928559.makroflex.ee:443",
+   "host": "www.2928559.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.56",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2930837.makroflex.ee:443",
+   "host": "www.2930837.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2930840.makroflex.ee:443",
+   "host": "www.2930840.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2930973.makroflex.ee:443",
+   "host": "www.2930973.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2931090.makroflex.ee:443",
+   "host": "www.2931090.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2931240.makroflex.ee:443",
+   "host": "www.2931240.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2931255.makroflex.ee:443",
+   "host": "www.2931255.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2931268.makroflex.ee:443",
+   "host": "www.2931268.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.112",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2931269.makroflex.ee:443",
+   "host": "www.2931269.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.34",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.4740008001024.makroflex.ee:443",
+   "host": "www.4740008001024.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.165.98.8",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.4740008500497.makroflex.ee:443",
+   "host": "www.4740008500497.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.581154.makroflex.ee:443",
+   "host": "www.581154.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.33",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.608423.makroflex.ee:443",
+   "host": "www.608423.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.52",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.9000101125344.makroflex.ee:443",
+   "host": "www.9000101125344.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.113",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.9000101125382.makroflex.ee:443",
+   "host": "www.9000101125382.makroflex.ee",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.67",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.makroflex.ee:443",
+   "host": "www.makroflex.ee",
+   "port": "443",
+   "status_code": 200,
+   "title": "Makroflex  -  Leading insulation expertise",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.39",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

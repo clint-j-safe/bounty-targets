@@ -1,0 +1,143 @@
+{
+ "domain": "livecolour.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "livecolour.com",
+  "lookbook.livecolour.com",
+  "mail.livecolour.com",
+  "powerofcolour.livecolour.com",
+  "www.livecolour.com",
+  "www.powerofcolour.livecolour.com",
+  "www7.livecolour.com"
+ ],
+ "http": [
+  {
+   "url": "http://livecolour.com:80",
+   "host": "livecolour.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.155.244.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://powerofcolour.livecolour.com:80",
+   "host": "powerofcolour.livecolour.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.72.52.230",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.livecolour.com:80",
+   "host": "www.livecolour.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.155.244.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.powerofcolour.livecolour.com:80",
+   "host": "www.powerofcolour.livecolour.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.72.52.230",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://livecolour.com:443",
+   "host": "livecolour.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.155.244.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://powerofcolour.livecolour.com:443",
+   "host": "powerofcolour.livecolour.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.72.52.230",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.livecolour.com:443",
+   "host": "www.livecolour.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "LIVE Colour Hair Dye from Schwarzkopf",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Bazaarvoice Reviews",
+    "Google Tag Manager",
+    "Laravel",
+    "PHP",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.155.244.235",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.powerofcolour.livecolour.com:443",
+   "host": "www.powerofcolour.livecolour.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": true,
+   "ip": "54.72.52.230",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

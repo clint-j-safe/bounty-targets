@@ -1,0 +1,73 @@
+{
+ "domain": "loctitesuperbond.ro",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "loctitesuperbond.ro",
+  "www.loctitesuperbond.ro"
+ ],
+ "http": [
+  {
+   "url": "http://loctitesuperbond.ro:80",
+   "host": "loctitesuperbond.ro",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctitesuperbond.ro:80",
+   "host": "www.loctitesuperbond.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctitesuperbond.ro:443",
+   "host": "loctitesuperbond.ro",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.192.222.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctitesuperbond.ro:443",
+   "host": "www.loctitesuperbond.ro",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.158.67.152",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

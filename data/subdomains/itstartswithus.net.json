@@ -1,0 +1,210 @@
+{
+ "domain": "itstartswithus.net",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "cy.itstartswithus.net",
+  "gr.itstartswithus.net",
+  "itstartswithus.net",
+  "www.cy.itstartswithus.net",
+  "www.gr.itstartswithus.net",
+  "www.itstartswithus.net"
+ ],
+ "http": [
+  {
+   "url": "http://cy.itstartswithus.net:80",
+   "host": "cy.itstartswithus.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.19",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://gr.itstartswithus.net:80",
+   "host": "gr.itstartswithus.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.58",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://itstartswithus.net:80",
+   "host": "itstartswithus.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.168.24.119",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.cy.itstartswithus.net:80",
+   "host": "www.cy.itstartswithus.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.85",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.gr.itstartswithus.net:80",
+   "host": "www.gr.itstartswithus.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.itstartswithus.net:80",
+   "host": "www.itstartswithus.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cy.itstartswithus.net:443",
+   "host": "cy.itstartswithus.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.19",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://gr.itstartswithus.net:443",
+   "host": "gr.itstartswithus.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.58",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://itstartswithus.net:443",
+   "host": "itstartswithus.net",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.168.24.119",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.cy.itstartswithus.net:443",
+   "host": "www.cy.itstartswithus.net",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.85",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.gr.itstartswithus.net:443",
+   "host": "www.gr.itstartswithus.net",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.172.122.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.itstartswithus.net:443",
+   "host": "www.itstartswithus.net",
+   "port": "443",
+   "status_code": 200,
+   "title": "It starts with us | Home",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "99.84.203.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

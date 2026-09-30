@@ -1,0 +1,40 @@
+{
+ "domain": "lanecuador.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "autodiscover.lanecuador.com",
+  "correo.lanecuador.com",
+  "lanecuador.com",
+  "www.lanecuador.com"
+ ],
+ "http": [
+  {
+   "url": "http://www.lanecuador.com:80",
+   "host": "www.lanecuador.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.218.217.186",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.lanecuador.com:443",
+   "host": "www.lanecuador.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.218.217.186",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

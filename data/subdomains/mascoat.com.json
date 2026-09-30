@@ -1,0 +1,620 @@
+{
+ "domain": "mascoat.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 20,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "control.mascoat.com",
+  "cpanel.mascoat.com",
+  "cpcalendars.mascoat.com",
+  "cpcontacts.mascoat.com",
+  "g2.mascoat.com",
+  "mail.mascoat.com",
+  "mascoat.com",
+  "try.mascoat.com",
+  "webdisk.mascoat.com",
+  "webmail.mascoat.com",
+  "www.control.mascoat.com",
+  "www.cpanel.mascoat.com",
+  "www.cpcalendars.mascoat.com",
+  "www.cpcontacts.mascoat.com",
+  "www.g2.mascoat.com",
+  "www.mail.mascoat.com",
+  "www.mascoat.com",
+  "www.try.mascoat.com",
+  "www.webdisk.mascoat.com",
+  "www.webmail.mascoat.com"
+ ],
+ "http": [
+  {
+   "url": "http://cpanel.mascoat.com:2082",
+   "host": "cpanel.mascoat.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpanel.mascoat.com:2083",
+   "host": "cpanel.mascoat.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpanel.mascoat.com:2087",
+   "host": "cpanel.mascoat.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpanel.mascoat.com:2095",
+   "host": "cpanel.mascoat.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpanel.mascoat.com:2096",
+   "host": "cpanel.mascoat.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpanel.mascoat.com:80",
+   "host": "cpanel.mascoat.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcalendars.mascoat.com:2082",
+   "host": "cpcalendars.mascoat.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcalendars.mascoat.com:2083",
+   "host": "cpcalendars.mascoat.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcalendars.mascoat.com:2087",
+   "host": "cpcalendars.mascoat.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcalendars.mascoat.com:2095",
+   "host": "cpcalendars.mascoat.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcalendars.mascoat.com:2096",
+   "host": "cpcalendars.mascoat.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcalendars.mascoat.com:80",
+   "host": "cpcalendars.mascoat.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcontacts.mascoat.com:2082",
+   "host": "cpcontacts.mascoat.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcontacts.mascoat.com:2083",
+   "host": "cpcontacts.mascoat.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcontacts.mascoat.com:2087",
+   "host": "cpcontacts.mascoat.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcontacts.mascoat.com:2095",
+   "host": "cpcontacts.mascoat.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcontacts.mascoat.com:2096",
+   "host": "cpcontacts.mascoat.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://cpcontacts.mascoat.com:80",
+   "host": "cpcontacts.mascoat.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.mascoat.com:2082",
+   "host": "mail.mascoat.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.mascoat.com:2083",
+   "host": "mail.mascoat.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.mascoat.com:2087",
+   "host": "mail.mascoat.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.mascoat.com:2095",
+   "host": "mail.mascoat.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.mascoat.com:2096",
+   "host": "mail.mascoat.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.mascoat.com:80",
+   "host": "mail.mascoat.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mascoat.com:80",
+   "host": "mascoat.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.37.31",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webdisk.mascoat.com:2082",
+   "host": "webdisk.mascoat.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webdisk.mascoat.com:2083",
+   "host": "webdisk.mascoat.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webdisk.mascoat.com:2087",
+   "host": "webdisk.mascoat.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webdisk.mascoat.com:2095",
+   "host": "webdisk.mascoat.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webdisk.mascoat.com:2096",
+   "host": "webdisk.mascoat.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webdisk.mascoat.com:80",
+   "host": "webdisk.mascoat.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mascoat.com:2082",
+   "host": "webmail.mascoat.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mascoat.com:2083",
+   "host": "webmail.mascoat.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mascoat.com:2087",
+   "host": "webmail.mascoat.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mascoat.com:2095",
+   "host": "webmail.mascoat.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mascoat.com:2096",
+   "host": "webmail.mascoat.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://webmail.mascoat.com:80",
+   "host": "webmail.mascoat.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.mascoat.com:80",
+   "host": "www.mascoat.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.91.85",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cpanel.mascoat.com:443",
+   "host": "cpanel.mascoat.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cpcalendars.mascoat.com:443",
+   "host": "cpcalendars.mascoat.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cpcontacts.mascoat.com:443",
+   "host": "cpcontacts.mascoat.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mail.mascoat.com:443",
+   "host": "mail.mascoat.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mascoat | Home",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "UIKit",
+    "jQuery",
+    "jQuery Migrate"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mascoat.com:443",
+   "host": "mascoat.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.37.31",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://webdisk.mascoat.com:443",
+   "host": "webdisk.mascoat.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://webmail.mascoat.com:443",
+   "host": "webmail.mascoat.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "69.7.187.158",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.mascoat.com:443",
+   "host": "www.mascoat.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.156.91.85",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

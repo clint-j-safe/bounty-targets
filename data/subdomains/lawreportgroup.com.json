@@ -1,0 +1,47 @@
+{
+ "domain": "lawreportgroup.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "cdn.lawreportgroup.com",
+  "dev.lawreportgroup.com",
+  "deva.lawreportgroup.com",
+  "lawreportgroup.com",
+  "www.cdn.lawreportgroup.com",
+  "www.lawreportgroup.com"
+ ],
+ "http": [
+  {
+   "url": "http://cdn.lawreportgroup.com:80",
+   "host": "cdn.lawreportgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.37.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cdn.lawreportgroup.com:443",
+   "host": "cdn.lawreportgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "LHC",
+   "technologies": [
+    "Amazon Web Services",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.37.208",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

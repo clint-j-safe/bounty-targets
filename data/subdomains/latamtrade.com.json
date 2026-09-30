@@ -1,0 +1,97 @@
+{
+ "domain": "latamtrade.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 29,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "author.latamtrade.com",
+  "authore.latamtrade.com",
+  "authorp.latamtrade.com",
+  "correo.latamtrade.com",
+  "devl.latamtrade.com",
+  "dns2.latamtrade.com",
+  "intg.latamtrade.com",
+  "latamtrade.com",
+  "pia-agy.latamtrade.com",
+  "pia-ri.devl.latamtrade.com",
+  "pia-ri.intg.latamtrade.com",
+  "pia-ri.latamtrade.com",
+  "pia.devl.latamtrade.com",
+  "pia.intg.latamtrade.com",
+  "pia.latamtrade.com",
+  "piaa.latamtrade.com",
+  "private.latamtrade.com",
+  "publish.devl.latamtrade.com",
+  "www.author.latamtrade.com",
+  "www.devl.latamtrade.com",
+  "www.intg.latamtrade.com",
+  "www.latamtrade.com",
+  "www.pia-ri.devl.latamtrade.com",
+  "www.pia-ri.intg.latamtrade.com",
+  "www.pia-ri.latamtrade.com",
+  "www.pia.devl.latamtrade.com",
+  "www.pia.intg.latamtrade.com",
+  "www.pia.latamtrade.com",
+  "www.private.latamtrade.com"
+ ],
+ "http": [
+  {
+   "url": "http://author.latamtrade.com:80",
+   "host": "author.latamtrade.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.201.19.166",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://latamtrade.com:80",
+   "host": "latamtrade.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.117.126.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://author.latamtrade.com:443",
+   "host": "author.latamtrade.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "POST data",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.201.19.166",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://latamtrade.com:443",
+   "host": "latamtrade.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.117.126.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

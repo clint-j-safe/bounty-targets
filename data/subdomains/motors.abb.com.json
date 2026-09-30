@@ -1,0 +1,130 @@
+{
+ "domain": "motors.abb.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "dev.edda.motors.abb.com",
+  "edda.motors.abb.com",
+  "eddaw.motors.abb.com",
+  "motors.abb.com",
+  "stage.edda.motors.abb.com",
+  "test.edda.motors.abb.com"
+ ],
+ "http": [
+  {
+   "url": "http://dev.edda.motors.abb.com:80",
+   "host": "dev.edda.motors.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.147",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://edda.motors.abb.com:80",
+   "host": "edda.motors.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.136",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stage.edda.motors.abb.com:80",
+   "host": "stage.edda.motors.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://test.edda.motors.abb.com:80",
+   "host": "test.edda.motors.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev.edda.motors.abb.com:443",
+   "host": "dev.edda.motors.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Electrical Data Automation",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.147",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://edda.motors.abb.com:443",
+   "host": "edda.motors.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Electrical Data Automation",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.136",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stage.edda.motors.abb.com:443",
+   "host": "stage.edda.motors.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Electrical Data Automation",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://test.edda.motors.abb.com:443",
+   "host": "test.edda.motors.abb.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Electrical Data Automation",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.138",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

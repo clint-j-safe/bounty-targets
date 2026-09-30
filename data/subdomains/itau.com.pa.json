@@ -1,0 +1,88 @@
+{
+ "domain": "itau.com.pa",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 23,
+ "programs": [
+  "hackerone|itau_unibanco"
+ ],
+ "subdomains": [
+  "autodiscover.itau.com.pa",
+  "fortinac.itau.com.pa",
+  "itau.com.pa",
+  "mail.itau.com.pa",
+  "mailtlscert.itau.com.pa",
+  "meg.itau.com.pa",
+  "mx.itau.com.pa",
+  "mx1.itau.com.pa",
+  "mx2.itau.com.pa",
+  "mx3.itau.com.pa",
+  "mx4.itau.com.pa",
+  "sqrpan.itau.com.pa",
+  "sqrpanq.itau.com.pa",
+  "test.itau.com.pa",
+  "testing.itau.com.pa",
+  "www.autodiscover.itau.com.pa",
+  "www.fortinac.itau.com.pa",
+  "www.itau.com.pa",
+  "www.mail.itau.com.pa",
+  "www.meg.itau.com.pa",
+  "www.mx.itau.com.pa",
+  "www.mx1.itau.com.pa",
+  "www.mx3.itau.com.pa"
+ ],
+ "http": [
+  {
+   "url": "http://itau.com.pa:80",
+   "host": "itau.com.pa",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.59.169.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.itau.com.pa:80",
+   "host": "www.itau.com.pa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://itau.com.pa:443",
+   "host": "itau.com.pa",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.59.169.66",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.itau.com.pa:443",
+   "host": "www.itau.com.pa",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home - Banco Ita\u00fa Panam\u00e1",
+   "webserver": "",
+   "technologies": [
+    "Akamai",
+    "HSTS",
+    "Java",
+    "jQuery"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

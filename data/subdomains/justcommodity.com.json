@@ -1,0 +1,80 @@
+{
+ "domain": "justcommodity.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "justcommodity.com",
+  "support.justcommodity.com",
+  "svn.justcommodity.com",
+  "svnk.justcommodity.com",
+  "www.justcommodity.com",
+  "www.support.justcommodity.com",
+  "www.svn.justcommodity.com",
+  "wwwi.justcommodity.com"
+ ],
+ "http": [
+  {
+   "url": "http://justcommodity.com:80",
+   "host": "justcommodity.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.5.147.53",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://justcommodity.com:8080",
+   "host": "justcommodity.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.5.147.53",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.justcommodity.com:80",
+   "host": "www.justcommodity.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.5.151.197",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.justcommodity.com:8080",
+   "host": "www.justcommodity.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.5.151.197",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

@@ -1,0 +1,1292 @@
+{
+ "domain": "list-group.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 272,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "220-mail5.list-group.com",
+  "abnamro-etl.list-group.com",
+  "abnamro-etltest.list-group.com",
+  "abnamro-etltestc.list-group.com",
+  "abnamro-lookout.list-group.com",
+  "abnamro-lookouttest.list-group.com",
+  "artifactory.list-group.com",
+  "artifactory7.list-group.com",
+  "asd-monitor-fi.list-group.com",
+  "asd.list-group.com",
+  "bbpm-etl.list-group.com",
+  "bbpm-int-etl.list-group.com",
+  "bbpm-int-lookout.list-group.com",
+  "bbpm-lookout.list-group.com",
+  "bsafe.list-group.com",
+  "bsafe.test.list-group.com",
+  "bsafea.list-group.com",
+  "cabel-etl.list-group.com",
+  "cabel-it1.list-group.com",
+  "cabel-it2.list-group.com",
+  "cabel-lookout.list-group.com",
+  "cambiano-it1.list-group.com",
+  "cambiano-it1ext.list-group.com",
+  "cambiano-it2.list-group.com",
+  "cambiano-it2ext.list-group.com",
+  "credem-mcprod.list-group.com",
+  "credem-mcprodo.list-group.com",
+  "credem-mctest.list-group.com",
+  "credem-mctesto.list-group.com",
+  "credem-opprod.list-group.com",
+  "credem-opprodu.list-group.com",
+  "credem-optest.list-group.com",
+  "credem-optesto.list-group.com",
+  "credem.grc.list-group.com",
+  "credemtest.grc.list-group.com",
+  "crif.list-group.com",
+  "dbsyncserverdmog.list-group.com",
+  "dc-it1.list-group.com",
+  "dc-ny4.list-group.com",
+  "dc-tr2.list-group.com",
+  "deloittechina.list-group.com",
+  "demo-drb.list-group.com",
+  "demo-lookout.list-group.com",
+  "dipoweb.list-group.com",
+  "directa-lookout.list-group.com",
+  "directa-lookouts.list-group.com",
+  "directa-test-lookout.list-group.com",
+  "dmog.list-group.com",
+  "dmogg.list-group.com",
+  "dmogy.list-group.com",
+  "dns2.list-group.com",
+  "dns2y.list-group.com",
+  "dpr-uat-evolution.list-group.com",
+  "dpr-uat.evolution.list-group.com",
+  "dpr-uatg.evolution.list-group.com",
+  "dpr.evolution.list-group.com",
+  "dprw.evolution.list-group.com",
+  "drfinnat.list-group.com",
+  "eq-nexi-cp-dr.list-group.com",
+  "equita-cp-test.list-group.com",
+  "equita-cp-testm.list-group.com",
+  "equita-dr-swd.list-group.com",
+  "equita-dr.list-group.com",
+  "equita-nexi-cp-swd.list-group.com",
+  "equita-nexi-cp-swd5.list-group.com",
+  "equita-nexi-cp.list-group.com",
+  "equita-nexi-ftma.list-group.com",
+  "equita-nexi-mbp.list-group.com",
+  "equita-nexi-swd.list-group.com",
+  "equita-prod-swd.list-group.com",
+  "equita-prod.list-group.com",
+  "equita-test-swd.list-group.com",
+  "equita-test-swdc.list-group.com",
+  "equita-test.list-group.com",
+  "equita-teste.list-group.com",
+  "etruria.list-group.com",
+  "eurizon-etl.list-group.com",
+  "eurizon-etlk.list-group.com",
+  "eurizon-etltest.list-group.com",
+  "eurizon-etltest9.list-group.com",
+  "eurizon-lookout.list-group.com",
+  "eurizon-lookouttest.list-group.com",
+  "europassistance.list-group.com",
+  "evolution.list-group.com",
+  "filemanager.list-group.com",
+  "filemanager7.list-group.com",
+  "fincache-et.list-group.com",
+  "firenze.list-group.com",
+  "ftma-iccreacp-dr.list-group.com",
+  "ftma-iccreacp-dri.list-group.com",
+  "ftma-iccreacp-test.list-group.com",
+  "ftma-iccreacp.list-group.com",
+  "ftmweb-akrosprod.list-group.com",
+  "ftmweb-akrostest.list-group.com",
+  "ftmweb-iccreambp.list-group.com",
+  "ftmwebtest.list-group.com",
+  "ftx-bs-uat.list-group.com",
+  "ftx-bs.list-group.com",
+  "gateway.list-group.com",
+  "gatewaye.list-group.com",
+  "gitlab.list-group.com",
+  "gov-bt-himtf.list-group.com",
+  "gov-bt.himtf.list-group.com",
+  "gov-drshimtf.list-group.com",
+  "gov-himtf.list-group.com",
+  "gov-testhimtf.list-group.com",
+  "gov-testhimtfq.list-group.com",
+  "gov.himtf.list-group.com",
+  "gov.testhimtf.list-group.com",
+  "govg.testhimtf.list-group.com",
+  "grc.list-group.com",
+  "himtf-etl-test.list-group.com",
+  "himtf-etl-test9.list-group.com",
+  "himtf-etl.list-group.com",
+  "himtf-lookout-test.list-group.com",
+  "himtf-lookout.list-group.com",
+  "himtf.list-group.com",
+  "iccreambp-test.list-group.com",
+  "illimity-lookout.list-group.com",
+  "illimity-test-lookout.list-group.com",
+  "intermonte-lookout.list-group.com",
+  "intermonte-lookouttest.list-group.com",
+  "intermonteprod.list-group.com",
+  "intermontetest.list-group.com",
+  "investbanca-etl.list-group.com",
+  "investbanca-lookout.list-group.com",
+  "investbanca-swd.list-group.com",
+  "janusdata.list-group.com",
+  "janusdemo.list-group.com",
+  "lirico.list-group.com",
+  "liricodemo.list-group.com",
+  "liricotit.list-group.com",
+  "list-group.com",
+  "listbox.list-group.com",
+  "listboxe.list-group.com",
+  "listdymaorder.list-group.com",
+  "listpolska.list-group.com",
+  "listsftp.list-group.com",
+  "lookout-saas-test.list-group.com",
+  "lookout-saas.list-group.com",
+  "lookout.list-group.com",
+  "lookoutprod.list-group.com",
+  "mail.list-group.com",
+  "mail1.list-group.com",
+  "mail2.list-group.com",
+  "mail4.list-group.com",
+  "mail5.list-group.com",
+  "mcgenerali.list-group.com",
+  "mediolanum-bsafe-test.list-group.com",
+  "mediolanum-bsafe.list-group.com",
+  "mediolanum-oprisk-test.list-group.com",
+  "mediolanum-oprisk.list-group.com",
+  "mediolanum.bsafe.list-group.com",
+  "mediolanum.bsafe.test.list-group.com",
+  "mediolanum.oprisk.list-group.com",
+  "mediolanumw.bsafe.list-group.com",
+  "mifiddb.list-group.com",
+  "milano.list-group.com",
+  "model-mifid.list-group.com",
+  "mps-etl.list-group.com",
+  "mps-ftma-cp-prd.list-group.com",
+  "mps-ftma-cp-tst.list-group.com",
+  "mps-inforouter-cp-tst.list-group.com",
+  "mps-lookout.list-group.com",
+  "mps-test-etl.list-group.com",
+  "mps-test-lookout.list-group.com",
+  "nike.list-group.com",
+  "oprisk.list-group.com",
+  "opriskdemo.list-group.com",
+  "opriskmedioltest.list-group.com",
+  "oprisko.list-group.com",
+  "posta.list-group.com",
+  "poste-etl.list-group.com",
+  "poste-lookout.list-group.com",
+  "primasystem.list-group.com",
+  "prismamobile-test.list-group.com",
+  "prismamobile.list-group.com",
+  "prismamobilew.list-group.com",
+  "prodfinnat.list-group.com",
+  "reil.list-group.com",
+  "reportengine.list-group.com",
+  "research.list-group.com",
+  "staging-listpolska.list-group.com",
+  "staging-research.list-group.com",
+  "staging.list-group.com",
+  "stagingwww.list-group.com",
+  "swd-akrosdr.list-group.com",
+  "swd-akrosprod.list-group.com",
+  "swd-akrostest.list-group.com",
+  "swd-iccreacp-test.list-group.com",
+  "swd-iccreacp.list-group.com",
+  "swd-iccreambp-test.list-group.com",
+  "swd-iccreambp.list-group.com",
+  "swd-intermonteprod.list-group.com",
+  "swd-intermontetest.list-group.com",
+  "test.list-group.com",
+  "testfinnat.list-group.com",
+  "testhimtf.list-group.com",
+  "testvorvel.list-group.com",
+  "tol-dr.list-group.com",
+  "tolcabel.list-group.com",
+  "torino.list-group.com",
+  "toronto-off.list-group.com",
+  "toronto.list-group.com",
+  "u003ewww.list-group.com",
+  "ubi.list-group.com",
+  "unicredit.list-group.com",
+  "webmail.list-group.com",
+  "www.220-mail5.list-group.com",
+  "www.asd.list-group.com",
+  "www.bsafe.list-group.com",
+  "www.credem-mcprod.list-group.com",
+  "www.credem-mctest.list-group.com",
+  "www.credem-opprod.list-group.com",
+  "www.credem-optest.list-group.com",
+  "www.dns2.list-group.com",
+  "www.dpr-uat-evolution.list-group.com",
+  "www.equita-nexi-swd.list-group.com",
+  "www.equita-prod-swd.list-group.com",
+  "www.eurizon-etl.list-group.com",
+  "www.eurizon-etltest.list-group.com",
+  "www.eurizon-lookout.list-group.com",
+  "www.eurizon-lookouttest.list-group.com",
+  "www.evolution.list-group.com",
+  "www.filemanager.list-group.com",
+  "www.firenze.list-group.com",
+  "www.ftx-bs.list-group.com",
+  "www.gateway.list-group.com",
+  "www.gitlab.list-group.com",
+  "www.gov-himtf.list-group.com",
+  "www.gov-testhimtf.list-group.com",
+  "www.illimity-lookout.list-group.com",
+  "www.illimity-test-lookout.list-group.com",
+  "www.investbanca-swd.list-group.com",
+  "www.janusdata.list-group.com",
+  "www.lirico.list-group.com",
+  "www.liricodemo.list-group.com",
+  "www.list-group.com",
+  "www.listbox.list-group.com",
+  "www.listpolska.list-group.com",
+  "www.listsftp.list-group.com",
+  "www.mail.list-group.com",
+  "www.mail1.list-group.com",
+  "www.mail4.list-group.com",
+  "www.mail5.list-group.com",
+  "www.mcgenerali.list-group.com",
+  "www.mediolanum-bsafe-test.list-group.com",
+  "www.mediolanum-bsafe.list-group.com",
+  "www.mediolanum-oprisk-test.list-group.com",
+  "www.mediolanum-oprisk.list-group.com",
+  "www.mediolanum.bsafe.list-group.com",
+  "www.mediolanum.bsafe.test.list-group.com",
+  "www.mediolanum.oprisk.list-group.com",
+  "www.milano.list-group.com",
+  "www.oprisk.list-group.com",
+  "www.opriskdemo.list-group.com",
+  "www.opriskmedioltest.list-group.com",
+  "www.posta.list-group.com",
+  "www.prismamobile-test.list-group.com",
+  "www.prismamobile.list-group.com",
+  "www.reil.list-group.com",
+  "www.stagingwww.list-group.com",
+  "www.swd-akrosprod.list-group.com",
+  "www.swd-akrostest.list-group.com",
+  "www.swd-intermonteprod.list-group.com",
+  "www.testhimtf.list-group.com",
+  "www.tol-dr.list-group.com",
+  "www.tolcabel.list-group.com",
+  "www.torino.list-group.com",
+  "www.toronto-off.list-group.com",
+  "www.toronto.list-group.com",
+  "www.u003ewww.list-group.com"
+ ],
+ "http": [
+  {
+   "url": "http://list-group.com:2082",
+   "host": "list-group.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://list-group.com:2095",
+   "host": "list-group.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://list-group.com:80",
+   "host": "list-group.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://list-group.com:8080",
+   "host": "list-group.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://listpolska.list-group.com:2082",
+   "host": "listpolska.list-group.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://listpolska.list-group.com:2095",
+   "host": "listpolska.list-group.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://listpolska.list-group.com:80",
+   "host": "listpolska.list-group.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://listpolska.list-group.com:8080",
+   "host": "listpolska.list-group.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://research.list-group.com:2083",
+   "host": "research.list-group.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://research.list-group.com:2087",
+   "host": "research.list-group.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://research.list-group.com:2096",
+   "host": "research.list-group.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://research.list-group.com:80",
+   "host": "research.list-group.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Home - research@list",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "MathJax",
+    "Popper",
+    "jQuery:1.11.3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://research.list-group.com:8443",
+   "host": "research.list-group.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-listpolska.list-group.com:2082",
+   "host": "staging-listpolska.list-group.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-listpolska.list-group.com:2095",
+   "host": "staging-listpolska.list-group.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-listpolska.list-group.com:80",
+   "host": "staging-listpolska.list-group.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-listpolska.list-group.com:8080",
+   "host": "staging-listpolska.list-group.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-research.list-group.com:2082",
+   "host": "staging-research.list-group.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-research.list-group.com:2095",
+   "host": "staging-research.list-group.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-research.list-group.com:80",
+   "host": "staging-research.list-group.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging-research.list-group.com:8080",
+   "host": "staging-research.list-group.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.list-group.com:2082",
+   "host": "staging.list-group.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.list-group.com:2095",
+   "host": "staging.list-group.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.list-group.com:80",
+   "host": "staging.list-group.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.list-group.com:8080",
+   "host": "staging.list-group.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dc-it1.list-group.com:443",
+   "host": "dc-it1.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "213.92.102.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://equita-nexi-swd.list-group.com:443",
+   "host": "equita-nexi-swd.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://equita-prod-swd.list-group.com:443",
+   "host": "equita-prod-swd.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://equita-test-swd.list-group.com:443",
+   "host": "equita-test-swd.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "62.48.50.100",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://firenze.list-group.com:443",
+   "host": "firenze.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "xxxxxxxx-xxxxx",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "62.48.50.2",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://investbanca-swd.list-group.com:443",
+   "host": "investbanca-swd.list-group.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://list-group.com:2083",
+   "host": "list-group.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://list-group.com:2087",
+   "host": "list-group.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://list-group.com:2096",
+   "host": "list-group.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://list-group.com:443",
+   "host": "list-group.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://list-group.com:8443",
+   "host": "list-group.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://listpolska.list-group.com:2083",
+   "host": "listpolska.list-group.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://listpolska.list-group.com:2087",
+   "host": "listpolska.list-group.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://listpolska.list-group.com:2096",
+   "host": "listpolska.list-group.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://listpolska.list-group.com:443",
+   "host": "listpolska.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "List Polska \u2013 List Group",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Elementor:4.3.2",
+    "GeneratePress",
+    "GeneratePress GP Premium:2.5.6",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "PHP",
+    "WP Engine",
+    "WordPress",
+    "jQuery",
+    "jQuery Migrate:3.4.1"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://listpolska.list-group.com:8443",
+   "host": "listpolska.list-group.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://research.list-group.com:443",
+   "host": "research.list-group.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-listpolska.list-group.com:2083",
+   "host": "staging-listpolska.list-group.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-listpolska.list-group.com:2087",
+   "host": "staging-listpolska.list-group.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-listpolska.list-group.com:2096",
+   "host": "staging-listpolska.list-group.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-listpolska.list-group.com:443",
+   "host": "staging-listpolska.list-group.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-listpolska.list-group.com:8443",
+   "host": "staging-listpolska.list-group.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-research.list-group.com:2083",
+   "host": "staging-research.list-group.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-research.list-group.com:2087",
+   "host": "staging-research.list-group.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-research.list-group.com:2096",
+   "host": "staging-research.list-group.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-research.list-group.com:443",
+   "host": "staging-research.list-group.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging-research.list-group.com:8443",
+   "host": "staging-research.list-group.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.list-group.com:2083",
+   "host": "staging.list-group.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.list-group.com:2087",
+   "host": "staging.list-group.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.list-group.com:2096",
+   "host": "staging.list-group.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.list-group.com:443",
+   "host": "staging.list-group.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.list-group.com:8443",
+   "host": "staging.list-group.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://swd-akrosprod.list-group.com:443",
+   "host": "swd-akrosprod.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://swd-akrostest.list-group.com:443",
+   "host": "swd-akrostest.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://swd-intermonteprod.list-group.com:443",
+   "host": "swd-intermonteprod.list-group.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Test Page for the Apache HTTP Server on Springdale Linux",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://swd-intermontetest.list-group.com:443",
+   "host": "swd-intermontetest.list-group.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "62.48.50.100",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://tol-dr.list-group.com:443",
+   "host": "tol-dr.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "62.48.50.100",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://tolcabel.list-group.com:443",
+   "host": "tolcabel.list-group.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "194.177.126.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

@@ -1,0 +1,1686 @@
+{
+ "domain": "loctite-consommateur.fr",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 58,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "2299263.loctite-consommateur.fr",
+  "2299263v.loctite-consommateur.fr",
+  "3178041318372.loctite-consommateur.fr",
+  "3178041318693.loctite-consommateur.fr",
+  "3178041331852.loctite-consommateur.fr",
+  "3178041332132.loctite-consommateur.fr",
+  "3178041332132u.loctite-consommateur.fr",
+  "allplastics.loctite-consommateur.fr",
+  "brush.loctite-consommateur.fr",
+  "control.loctite-consommateur.fr",
+  "controlgel.loctite-consommateur.fr",
+  "creativepen.loctite-consommateur.fr",
+  "engagements.loctite-consommateur.fr",
+  "engagementsfr.loctite-consommateur.fr",
+  "engagementsfr4.loctite-consommateur.fr",
+  "engagementsfrs.loctite-consommateur.fr",
+  "engagementsm.loctite-consommateur.fr",
+  "glass.loctite-consommateur.fr",
+  "glueremover.loctite-consommateur.fr",
+  "loctite-consommateur.fr",
+  "minidose.loctite-consommateur.fr",
+  "minidosegel.loctite-consommateur.fr",
+  "original.loctite-consommateur.fr",
+  "originalduo.loctite-consommateur.fr",
+  "powergel.loctite-consommateur.fr",
+  "powergelduo.loctite-consommateur.fr",
+  "precision.loctite-consommateur.fr",
+  "precisionmax.loctite-consommateur.fr",
+  "repositionablegel.loctite-consommateur.fr",
+  "repositionablegelduo.loctite-consommateur.fr",
+  "www.2299263.loctite-consommateur.fr",
+  "www.3178041318372.loctite-consommateur.fr",
+  "www.3178041318693.loctite-consommateur.fr",
+  "www.3178041331852.loctite-consommateur.fr",
+  "www.3178041332132.loctite-consommateur.fr",
+  "www.allplastics.loctite-consommateur.fr",
+  "www.brush.loctite-consommateur.fr",
+  "www.control.loctite-consommateur.fr",
+  "www.controlgel.loctite-consommateur.fr",
+  "www.creativepen.loctite-consommateur.fr",
+  "www.engagements.loctite-consommateur.fr",
+  "www.engagementsfr.loctite-consommateur.fr",
+  "www.glass.loctite-consommateur.fr",
+  "www.glueremover.loctite-consommateur.fr",
+  "www.loctite-consommateur.fr",
+  "www.minidose.loctite-consommateur.fr",
+  "www.minidosegel.loctite-consommateur.fr",
+  "www.original.loctite-consommateur.fr",
+  "www.originalduo.loctite-consommateur.fr",
+  "www.powergel.loctite-consommateur.fr",
+  "www.powergelduo.loctite-consommateur.fr",
+  "www.precision.loctite-consommateur.fr",
+  "www.precisionmax.loctite-consommateur.fr",
+  "www.repositionablegel.loctite-consommateur.fr",
+  "www.repositionablegelduo.loctite-consommateur.fr",
+  "www.xxl.loctite-consommateur.fr",
+  "wwwe.loctite-consommateur.fr",
+  "xxl.loctite-consommateur.fr"
+ ],
+ "http": [
+  {
+   "url": "http://2299263.loctite-consommateur.fr:80",
+   "host": "2299263.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.6",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://3178041318372.loctite-consommateur.fr:80",
+   "host": "3178041318372.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://3178041318693.loctite-consommateur.fr:80",
+   "host": "3178041318693.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://3178041331852.loctite-consommateur.fr:80",
+   "host": "3178041331852.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.128",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://3178041332132.loctite-consommateur.fr:80",
+   "host": "3178041332132.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://allplastics.loctite-consommateur.fr:80",
+   "host": "allplastics.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.5",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://brush.loctite-consommateur.fr:80",
+   "host": "brush.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://control.loctite-consommateur.fr:80",
+   "host": "control.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://controlgel.loctite-consommateur.fr:80",
+   "host": "controlgel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://creativepen.loctite-consommateur.fr:80",
+   "host": "creativepen.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.87",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://engagements.loctite-consommateur.fr:80",
+   "host": "engagements.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://engagementsfr.loctite-consommateur.fr:80",
+   "host": "engagementsfr.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.37",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://glass.loctite-consommateur.fr:80",
+   "host": "glass.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://glueremover.loctite-consommateur.fr:80",
+   "host": "glueremover.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctite-consommateur.fr:80",
+   "host": "loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://minidose.loctite-consommateur.fr:80",
+   "host": "minidose.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.87",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://minidosegel.loctite-consommateur.fr:80",
+   "host": "minidosegel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://original.loctite-consommateur.fr:80",
+   "host": "original.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://originalduo.loctite-consommateur.fr:80",
+   "host": "originalduo.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://powergel.loctite-consommateur.fr:80",
+   "host": "powergel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://powergelduo.loctite-consommateur.fr:80",
+   "host": "powergelduo.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://precision.loctite-consommateur.fr:80",
+   "host": "precision.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://precisionmax.loctite-consommateur.fr:80",
+   "host": "precisionmax.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://repositionablegel.loctite-consommateur.fr:80",
+   "host": "repositionablegel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://repositionablegelduo.loctite-consommateur.fr:80",
+   "host": "repositionablegelduo.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.2299263.loctite-consommateur.fr:80",
+   "host": "www.2299263.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.3178041318372.loctite-consommateur.fr:80",
+   "host": "www.3178041318372.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.128",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.3178041318693.loctite-consommateur.fr:80",
+   "host": "www.3178041318693.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.3178041331852.loctite-consommateur.fr:80",
+   "host": "www.3178041331852.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.3178041332132.loctite-consommateur.fr:80",
+   "host": "www.3178041332132.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.allplastics.loctite-consommateur.fr:80",
+   "host": "www.allplastics.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.5",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.brush.loctite-consommateur.fr:80",
+   "host": "www.brush.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.control.loctite-consommateur.fr:80",
+   "host": "www.control.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.controlgel.loctite-consommateur.fr:80",
+   "host": "www.controlgel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.creativepen.loctite-consommateur.fr:80",
+   "host": "www.creativepen.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.engagements.loctite-consommateur.fr:80",
+   "host": "www.engagements.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.engagementsfr.loctite-consommateur.fr:80",
+   "host": "www.engagementsfr.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.glass.loctite-consommateur.fr:80",
+   "host": "www.glass.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.glueremover.loctite-consommateur.fr:80",
+   "host": "www.glueremover.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consommateur.fr:80",
+   "host": "www.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.minidose.loctite-consommateur.fr:80",
+   "host": "www.minidose.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.87",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.minidosegel.loctite-consommateur.fr:80",
+   "host": "www.minidosegel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.5",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.original.loctite-consommateur.fr:80",
+   "host": "www.original.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.63",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.originalduo.loctite-consommateur.fr:80",
+   "host": "www.originalduo.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.powergel.loctite-consommateur.fr:80",
+   "host": "www.powergel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.powergelduo.loctite-consommateur.fr:80",
+   "host": "www.powergelduo.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.precision.loctite-consommateur.fr:80",
+   "host": "www.precision.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.precisionmax.loctite-consommateur.fr:80",
+   "host": "www.precisionmax.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.repositionablegel.loctite-consommateur.fr:80",
+   "host": "www.repositionablegel.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.63",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.repositionablegelduo.loctite-consommateur.fr:80",
+   "host": "www.repositionablegelduo.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.63",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.xxl.loctite-consommateur.fr:80",
+   "host": "www.xxl.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://xxl.loctite-consommateur.fr:80",
+   "host": "xxl.loctite-consommateur.fr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://2299263.loctite-consommateur.fr:443",
+   "host": "2299263.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.6",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://3178041318372.loctite-consommateur.fr:443",
+   "host": "3178041318372.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://3178041318693.loctite-consommateur.fr:443",
+   "host": "3178041318693.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://3178041331852.loctite-consommateur.fr:443",
+   "host": "3178041331852.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.128",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://3178041332132.loctite-consommateur.fr:443",
+   "host": "3178041332132.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://allplastics.loctite-consommateur.fr:443",
+   "host": "allplastics.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.5",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://brush.loctite-consommateur.fr:443",
+   "host": "brush.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://control.loctite-consommateur.fr:443",
+   "host": "control.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://controlgel.loctite-consommateur.fr:443",
+   "host": "controlgel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://creativepen.loctite-consommateur.fr:443",
+   "host": "creativepen.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.87",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://engagements.loctite-consommateur.fr:443",
+   "host": "engagements.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://engagementsfr.loctite-consommateur.fr:443",
+   "host": "engagementsfr.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.37",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://glass.loctite-consommateur.fr:443",
+   "host": "glass.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://glueremover.loctite-consommateur.fr:443",
+   "host": "glueremover.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite-consommateur.fr:443",
+   "host": "loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://minidose.loctite-consommateur.fr:443",
+   "host": "minidose.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.87",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://minidosegel.loctite-consommateur.fr:443",
+   "host": "minidosegel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://original.loctite-consommateur.fr:443",
+   "host": "original.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://originalduo.loctite-consommateur.fr:443",
+   "host": "originalduo.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://powergel.loctite-consommateur.fr:443",
+   "host": "powergel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://powergelduo.loctite-consommateur.fr:443",
+   "host": "powergelduo.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://precision.loctite-consommateur.fr:443",
+   "host": "precision.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://precisionmax.loctite-consommateur.fr:443",
+   "host": "precisionmax.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://repositionablegel.loctite-consommateur.fr:443",
+   "host": "repositionablegel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://repositionablegelduo.loctite-consommateur.fr:443",
+   "host": "repositionablegelduo.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.2299263.loctite-consommateur.fr:443",
+   "host": "www.2299263.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.15",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.3178041318372.loctite-consommateur.fr:443",
+   "host": "www.3178041318372.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.128",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.3178041318693.loctite-consommateur.fr:443",
+   "host": "www.3178041318693.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.3178041331852.loctite-consommateur.fr:443",
+   "host": "www.3178041331852.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.3178041332132.loctite-consommateur.fr:443",
+   "host": "www.3178041332132.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.allplastics.loctite-consommateur.fr:443",
+   "host": "www.allplastics.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.5",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.brush.loctite-consommateur.fr:443",
+   "host": "www.brush.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.control.loctite-consommateur.fr:443",
+   "host": "www.control.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.controlgel.loctite-consommateur.fr:443",
+   "host": "www.controlgel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.creativepen.loctite-consommateur.fr:443",
+   "host": "www.creativepen.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.engagements.loctite-consommateur.fr:443",
+   "host": "www.engagements.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.engagementsfr.loctite-consommateur.fr:443",
+   "host": "www.engagementsfr.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.12",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.glass.loctite-consommateur.fr:443",
+   "host": "www.glass.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.glueremover.loctite-consommateur.fr:443",
+   "host": "www.glueremover.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consommateur.fr:443",
+   "host": "www.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Loctite",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Azure Edge Network",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.minidose.loctite-consommateur.fr:443",
+   "host": "www.minidose.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.87",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.minidosegel.loctite-consommateur.fr:443",
+   "host": "www.minidosegel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.5",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.original.loctite-consommateur.fr:443",
+   "host": "www.original.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.63",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.originalduo.loctite-consommateur.fr:443",
+   "host": "www.originalduo.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.80",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.powergel.loctite-consommateur.fr:443",
+   "host": "www.powergel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.powergelduo.loctite-consommateur.fr:443",
+   "host": "www.powergelduo.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.94",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.precision.loctite-consommateur.fr:443",
+   "host": "www.precision.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.precisionmax.loctite-consommateur.fr:443",
+   "host": "www.precisionmax.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.92",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.repositionablegel.loctite-consommateur.fr:443",
+   "host": "www.repositionablegel.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.63",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.repositionablegelduo.loctite-consommateur.fr:443",
+   "host": "www.repositionablegelduo.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.63",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.xxl.loctite-consommateur.fr:443",
+   "host": "www.xxl.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://xxl.loctite-consommateur.fr:443",
+   "host": "xxl.loctite-consommateur.fr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.73",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

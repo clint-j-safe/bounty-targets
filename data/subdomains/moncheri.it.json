@@ -1,0 +1,409 @@
+{
+ "domain": "moncheri.it",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 27,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "dev-identity-it.moncheri.it",
+  "dev-identity-itg.moncheri.it",
+  "gustalattimo.moncheri.it",
+  "gustalattimo2023.moncheri.it",
+  "gustalattimo20231.moncheri.it",
+  "gustalattimolancio.moncheri.it",
+  "gustalattimolancio5.moncheri.it",
+  "mbox.moncheri.it",
+  "mboxk.moncheri.it",
+  "moncheri.it",
+  "orangefusion-b.moncheri.it",
+  "orangefusion-bo.moncheri.it",
+  "orangefusion.moncheri.it",
+  "prod-identity-it.moncheri.it",
+  "prod-identity-itg.moncheri.it",
+  "qa-identity-it.moncheri.it",
+  "qa-identity-itk.moncheri.it",
+  "www.dev-identity-it.moncheri.it",
+  "www.gustalattimo.moncheri.it",
+  "www.gustalattimo2023.moncheri.it",
+  "www.gustalattimolancio.moncheri.it",
+  "www.mbox.moncheri.it",
+  "www.moncheri.it",
+  "www.orangefusion-b.moncheri.it",
+  "www.orangefusion.moncheri.it",
+  "www.prod-identity-it.moncheri.it",
+  "www.qa-identity-it.moncheri.it"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-it.moncheri.it:80",
+   "host": "dev-identity-it.moncheri.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.225.116",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://gustalattimo2023.moncheri.it:80",
+   "host": "gustalattimo2023.moncheri.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://moncheri.it:80",
+   "host": "moncheri.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://orangefusion-b.moncheri.it:80",
+   "host": "orangefusion-b.moncheri.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://orangefusion.moncheri.it:80",
+   "host": "orangefusion.moncheri.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://prod-identity-it.moncheri.it:80",
+   "host": "prod-identity-it.moncheri.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.7",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qa-identity-it.moncheri.it:80",
+   "host": "qa-identity-it.moncheri.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.74",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.moncheri.it:80",
+   "host": "www.moncheri.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.33.29.207",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dev-identity-it.moncheri.it:443",
+   "host": "dev-identity-it.moncheri.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.225.116",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://gustalattimo2023.moncheri.it:443",
+   "host": "gustalattimo2023.moncheri.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://gustalattimo2023.moncheri.it:8443",
+   "host": "gustalattimo2023.moncheri.it",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://gustalattimo2023.moncheri.it:9443",
+   "host": "gustalattimo2023.moncheri.it",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://moncheri.it:443",
+   "host": "moncheri.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://moncheri.it:8443",
+   "host": "moncheri.it",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://moncheri.it:9443",
+   "host": "moncheri.it",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://orangefusion-b.moncheri.it:443",
+   "host": "orangefusion-b.moncheri.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://orangefusion-b.moncheri.it:8443",
+   "host": "orangefusion-b.moncheri.it",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://orangefusion-b.moncheri.it:9443",
+   "host": "orangefusion-b.moncheri.it",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://orangefusion.moncheri.it:443",
+   "host": "orangefusion.moncheri.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://orangefusion.moncheri.it:8443",
+   "host": "orangefusion.moncheri.it",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://orangefusion.moncheri.it:9443",
+   "host": "orangefusion.moncheri.it",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.217.72.147",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://prod-identity-it.moncheri.it:443",
+   "host": "prod-identity-it.moncheri.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.7",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://qa-identity-it.moncheri.it:443",
+   "host": "qa-identity-it.moncheri.it",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.74",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.moncheri.it:443",
+   "host": "www.moncheri.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mon Ch\u00e9ri | Autentica armonia di gusto",
+   "webserver": "",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Amazon S3",
+    "Amazon Web Services",
+    "Bootstrap:3.4.8",
+    "Drupal:10",
+    "Envoy",
+    "F5 Distributed Cloud Services",
+    "Google Tag Manager",
+    "HSTS",
+    "PHP",
+    "Slick",
+    "Underscore.js",
+    "jQuery:3.6.0",
+    "jsDelivr"
+   ],
+   "cdn": false,
+   "ip": "23.33.29.207",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

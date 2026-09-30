@@ -1,0 +1,26 @@
+{
+ "domain": "lan-airlines.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "lan-airlines.com",
+  "www.lan-airlines.com"
+ ],
+ "http": [
+  {
+   "url": "http://www.lan-airlines.com:80",
+   "host": "www.lan-airlines.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.213.186.202",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

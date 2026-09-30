@@ -1,0 +1,867 @@
+{
+ "domain": "kellanova.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 77,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "atom.kellanova.com",
+  "atomu.kellanova.com",
+  "auth.kellanova.com",
+  "betterdayspromise.kellanova.com",
+  "betterdayspromiseo.kellanova.com",
+  "betterdayspromisewq.kellanova.com",
+  "dealer.kellanova.com",
+  "dealere.kellanova.com",
+  "email.kellanova.com",
+  "gppadmintool.kellanova.com",
+  "guest.kellanova.com",
+  "guest3.kellanova.com",
+  "investor.kellanova.com",
+  "jobiak.kellanova.com",
+  "jobs.kellanova.com",
+  "jobsa.kellanova.com",
+  "kameargmcc-node.int.kellanova.com",
+  "kameargmcc.int.kellanova.com",
+  "kameargmccdev-node.int.kellanova.com",
+  "kameargmccdev-node.kellanova.com",
+  "kameargmccdev.int.kellanova.com",
+  "kameargmccdev.kellanova.com",
+  "kameargmccqa-node.int.kellanova.com",
+  "kameargmccqa.int.kellanova.com",
+  "kellanova.com",
+  "m1.email.kellanova.com",
+  "m2.email.kellanova.com",
+  "m2.t.t.kellanova.com",
+  "mcprod.kellanova.com",
+  "mcstaging.kellanova.com",
+  "mejoresdias.kellanova.com",
+  "newsroom.kellanova.com",
+  "pmt.kellanova.com",
+  "res1.email.kellanova.com",
+  "res2.email.kellanova.com",
+  "res2.t.t.kellanova.com",
+  "snapcracklepopspot.kellanova.com",
+  "stage.atom.kellanova.com",
+  "stage65.gppadmintool.kellanova.com",
+  "stage65.kellanova.com",
+  "stage65.pmt.kellanova.com",
+  "stage65u.kellanova.com",
+  "t.kellanova.com",
+  "t.t.kellanova.com",
+  "t1.email.kellanova.com",
+  "t2.email.kellanova.com",
+  "t2.t.t.kellanova.com",
+  "www.atom.kellanova.com",
+  "www.betterdayspromise.kellanova.com",
+  "www.dealer.kellanova.com",
+  "www.email.kellanova.com",
+  "www.gppadmintool.kellanova.com",
+  "www.guest.kellanova.com",
+  "www.investor.kellanova.com",
+  "www.jobiak.kellanova.com",
+  "www.jobs.kellanova.com",
+  "www.kellanova.com",
+  "www.m2.email.kellanova.com",
+  "www.m2.t.t.kellanova.com",
+  "www.mcprod.kellanova.com",
+  "www.mcstaging.kellanova.com",
+  "www.mejoresdias.kellanova.com",
+  "www.newsroom.kellanova.com",
+  "www.pmt.kellanova.com",
+  "www.res2.email.kellanova.com",
+  "www.res2.t.t.kellanova.com",
+  "www.snapcracklepopspot.kellanova.com",
+  "www.stage.atom.kellanova.com",
+  "www.stage65.gppadmintool.kellanova.com",
+  "www.stage65.kellanova.com",
+  "www.stage65.pmt.kellanova.com",
+  "www.t.t.kellanova.com",
+  "www.t1.email.kellanova.com",
+  "www.t2.email.kellanova.com",
+  "www.t2.t.t.kellanova.com",
+  "www7.jobs.kellanova.com",
+  "wwwlty.kellanova.com"
+ ],
+ "http": [
+  {
+   "url": "http://atom.kellanova.com:80",
+   "host": "atom.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "2.17.88.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://betterdayspromise.kellanova.com:2083",
+   "host": "betterdayspromise.kellanova.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://betterdayspromise.kellanova.com:2087",
+   "host": "betterdayspromise.kellanova.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://betterdayspromise.kellanova.com:2096",
+   "host": "betterdayspromise.kellanova.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://betterdayspromise.kellanova.com:80",
+   "host": "betterdayspromise.kellanova.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://betterdayspromise.kellanova.com:8443",
+   "host": "betterdayspromise.kellanova.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://dealer.kellanova.com:80",
+   "host": "dealer.kellanova.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://gppadmintool.kellanova.com:80",
+   "host": "gppadmintool.kellanova.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.224.4.238",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://investor.kellanova.com:80",
+   "host": "investor.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.11.24.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobiak.kellanova.com:3000",
+   "host": "jobiak.kellanova.com",
+   "port": "3000",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Jobiak",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.190.103.133",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobiak.kellanova.com:80",
+   "host": "jobiak.kellanova.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Jobiak",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.190.103.133",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://jobs.kellanova.com:80",
+   "host": "jobs.kellanova.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.72.77.70",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://kellanova.com:80",
+   "host": "kellanova.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.221.209.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mcprod.kellanova.com:80",
+   "host": "mcprod.kellanova.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mcstaging.kellanova.com:80",
+   "host": "mcstaging.kellanova.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mejoresdias.kellanova.com:80",
+   "host": "mejoresdias.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.61.36.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://newsroom.kellanova.com:2083",
+   "host": "newsroom.kellanova.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://newsroom.kellanova.com:2087",
+   "host": "newsroom.kellanova.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://newsroom.kellanova.com:2096",
+   "host": "newsroom.kellanova.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://newsroom.kellanova.com:80",
+   "host": "newsroom.kellanova.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://newsroom.kellanova.com:8443",
+   "host": "newsroom.kellanova.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://pmt.kellanova.com:80",
+   "host": "pmt.kellanova.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.221.209.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://res1.email.kellanova.com:80",
+   "host": "res1.email.kellanova.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://res2.t.t.kellanova.com:80",
+   "host": "res2.t.t.kellanova.com",
+   "port": "80",
+   "status_code": 502,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.166.118.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stage.atom.kellanova.com:80",
+   "host": "stage.atom.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.61.36.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stage65.gppadmintool.kellanova.com:80",
+   "host": "stage65.gppadmintool.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.61.107.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stage65.kellanova.com:80",
+   "host": "stage65.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.11.1.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://stage65.pmt.kellanova.com:80",
+   "host": "stage65.pmt.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.213.120.221",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.gppadmintool.kellanova.com:80",
+   "host": "www.gppadmintool.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "184.86.170.176",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.kellanova.com:80",
+   "host": "www.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "184.86.163.200",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.pmt.kellanova.com:80",
+   "host": "www.pmt.kellanova.com",
+   "port": "80",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.11.24.222",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://atom.kellanova.com:443",
+   "host": "atom.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "2.17.88.17",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://betterdayspromise.kellanova.com:443",
+   "host": "betterdayspromise.kellanova.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Kellanova Better Days Promise - Kellanova Better Days\u2122 Promise",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Bootstrap:5.3.0",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "FancyBox",
+    "Font Awesome",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "Java",
+    "Linkedin Sign-in",
+    "OneTrust",
+    "jQuery",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://dealer.kellanova.com:443",
+   "host": "dealer.kellanova.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "RXBar",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "PayPal",
+    "Platform.sh",
+    "RequireJS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://gppadmintool.kellanova.com:443",
+   "host": "gppadmintool.kellanova.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.224.4.238",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://investor.kellanova.com:443",
+   "host": "investor.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.11.24.217",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://jobiak.kellanova.com:443",
+   "host": "jobiak.kellanova.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Kellanova",
+   "webserver": "Jobiak",
+   "technologies": [
+    "Express",
+    "HSTS",
+    "HTTP/3",
+    "Node.js",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "18.190.103.133",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://jobs.kellanova.com:443",
+   "host": "jobs.kellanova.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Kellanova's Official Job Search Site",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Bootstrap:3.4.8",
+    "HSTS",
+    "Java",
+    "Lightbox",
+    "jQuery",
+    "jQuery Migrate:1.4.1"
+   ],
+   "cdn": true,
+   "ip": "20.72.77.70",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://kellanova.com:443",
+   "host": "kellanova.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.221.209.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mcprod.kellanova.com:443",
+   "host": "mcprod.kellanova.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "PHP",
+    "Platform.sh"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mcstaging.kellanova.com:443",
+   "host": "mcstaging.kellanova.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "PHP",
+    "Platform.sh"
+   ],
+   "cdn": true,
+   "ip": "151.101.193.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mejoresdias.kellanova.com:443",
+   "host": "mejoresdias.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.61.36.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://newsroom.kellanova.com:443",
+   "host": "newsroom.kellanova.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Kellanova News - News Stories",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Bootstrap:5.3.0",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "Java",
+    "OneTrust",
+    "jQuery",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "104.17.28.170",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://pmt.kellanova.com:443",
+   "host": "pmt.kellanova.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.221.209.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://res1.email.kellanova.com:443",
+   "host": "res1.email.kellanova.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.104",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://res2.t.t.kellanova.com:443",
+   "host": "res2.t.t.kellanova.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.166.118.40",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stage.atom.kellanova.com:443",
+   "host": "stage.atom.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.61.36.203",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stage65.gppadmintool.kellanova.com:443",
+   "host": "stage65.gppadmintool.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.61.107.192",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stage65.kellanova.com:443",
+   "host": "stage65.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.11.1.145",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://stage65.pmt.kellanova.com:443",
+   "host": "stage65.pmt.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.213.120.221",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.gppadmintool.kellanova.com:443",
+   "host": "www.gppadmintool.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "184.86.170.176",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.kellanova.com:443",
+   "host": "www.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "184.86.163.200",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.pmt.kellanova.com:443",
+   "host": "www.pmt.kellanova.com",
+   "port": "443",
+   "status_code": 405,
+   "title": "Access Denied",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.11.24.222",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

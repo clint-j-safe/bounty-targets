@@ -1,0 +1,981 @@
+{
+ "domain": "loracloud.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 75,
+ "programs": [
+  "hackerone|semtech"
+ ],
+ "subdomains": [
+  "123-nonexistant-dnsjedi-456.loracloud.com",
+  "as923-1.basicstation.loracloud.com",
+  "as923-2.basicstation.loracloud.com",
+  "atk.loracloud.com",
+  "au915.basicstation.loracloud.com",
+  "auth.loracloud.com",
+  "auth.preprod.loracloud.com",
+  "auth9.preprod.loracloud.com",
+  "authc.loracloud.com",
+  "aws.loracloud.com",
+  "basicstation.loracloud.com",
+  "basicstationu.loracloud.com",
+  "cn470.basicstation.loracloud.com",
+  "demo.loracloud.com",
+  "demou.loracloud.com",
+  "dev.loracloud.com",
+  "eks.loracloud.com",
+  "ephcdn.loracloud.com",
+  "ephcdn7.loracloud.com",
+  "eu868.basicstation.loracloud.com",
+  "fna.loracloud.com",
+  "gls.loracloud.com",
+  "in865.basicstation.loracloud.com",
+  "js.loracloud.com",
+  "kr920.basicstation.loracloud.com",
+  "ldp-prod.loracloud.com",
+  "ldp-prodg.loracloud.com",
+  "ldpstaging.loracloud.com",
+  "locator.loracloud.com",
+  "loracloud.com",
+  "mgs.loracloud.com",
+  "miromico.loracloud.com",
+  "miromico9.loracloud.com",
+  "portal.loracloud.com",
+  "preprod.loracloud.com",
+  "public-locator.loracloud.com",
+  "sbk-lite.loracloud.com",
+  "sbk.loracloud.com",
+  "semtech-starterkit-py-staging.loracloud.com",
+  "semtech-starterkit-py-stagingm.loracloud.com",
+  "semtech-tracking-dev.loracloud.com",
+  "semtech-tracking-devc.loracloud.com",
+  "semtech-tracking-staging.loracloud.com",
+  "semtech-tracking-staging1.loracloud.com",
+  "semtechstarterkit-dev.loracloud.com",
+  "semtechstarterkit-devc.loracloud.com",
+  "semtechstarterkit-staging.loracloud.com",
+  "stage.loracloud.com",
+  "stagek.loracloud.com",
+  "status.loracloud.com",
+  "us915.basicstation.loracloud.com",
+  "wifi.loracloud.com",
+  "wifi9.loracloud.com",
+  "www.as923-1.basicstation.loracloud.com",
+  "www.as923-2.basicstation.loracloud.com",
+  "www.atk.loracloud.com",
+  "www.au915.basicstation.loracloud.com",
+  "www.auth.loracloud.com",
+  "www.auth.preprod.loracloud.com",
+  "www.cn470.basicstation.loracloud.com",
+  "www.ephcdn.loracloud.com",
+  "www.eu868.basicstation.loracloud.com",
+  "www.gls.loracloud.com",
+  "www.in865.basicstation.loracloud.com",
+  "www.js.loracloud.com",
+  "www.kr920.basicstation.loracloud.com",
+  "www.locator.loracloud.com",
+  "www.loracloud.com",
+  "www.preprod.loracloud.com",
+  "www.sbk-lite.loracloud.com",
+  "www.sbk.loracloud.com",
+  "www.status.loracloud.com",
+  "www.us915.basicstation.loracloud.com",
+  "www.wifi.loracloud.com",
+  "www2.loracloud.com"
+ ],
+ "http": [
+  {
+   "url": "http://auth.loracloud.com:2082",
+   "host": "auth.loracloud.com",
+   "port": "2082",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.loracloud.com:2095",
+   "host": "auth.loracloud.com",
+   "port": "2095",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.loracloud.com:80",
+   "host": "auth.loracloud.com",
+   "port": "80",
+   "status_code": 426,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.loracloud.com:8080",
+   "host": "auth.loracloud.com",
+   "port": "8080",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.preprod.loracloud.com:2082",
+   "host": "auth.preprod.loracloud.com",
+   "port": "2082",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.preprod.loracloud.com:2095",
+   "host": "auth.preprod.loracloud.com",
+   "port": "2095",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.preprod.loracloud.com:80",
+   "host": "auth.preprod.loracloud.com",
+   "port": "80",
+   "status_code": 426,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://auth.preprod.loracloud.com:8080",
+   "host": "auth.preprod.loracloud.com",
+   "port": "8080",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://ephcdn.loracloud.com:80",
+   "host": "ephcdn.loracloud.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.227.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loracloud.com:2082",
+   "host": "loracloud.com",
+   "port": "2082",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loracloud.com:2095",
+   "host": "loracloud.com",
+   "port": "2095",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loracloud.com:80",
+   "host": "loracloud.com",
+   "port": "80",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loracloud.com:8080",
+   "host": "loracloud.com",
+   "port": "8080",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mgs.loracloud.com:2082",
+   "host": "mgs.loracloud.com",
+   "port": "2082",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mgs.loracloud.com:2095",
+   "host": "mgs.loracloud.com",
+   "port": "2095",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mgs.loracloud.com:80",
+   "host": "mgs.loracloud.com",
+   "port": "80",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mgs.loracloud.com:8080",
+   "host": "mgs.loracloud.com",
+   "port": "8080",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://portal.loracloud.com:2082",
+   "host": "portal.loracloud.com",
+   "port": "2082",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://portal.loracloud.com:2095",
+   "host": "portal.loracloud.com",
+   "port": "2095",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://portal.loracloud.com:80",
+   "host": "portal.loracloud.com",
+   "port": "80",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://portal.loracloud.com:8080",
+   "host": "portal.loracloud.com",
+   "port": "8080",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://status.loracloud.com:2082",
+   "host": "status.loracloud.com",
+   "port": "2082",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://status.loracloud.com:2095",
+   "host": "status.loracloud.com",
+   "port": "2095",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://status.loracloud.com:80",
+   "host": "status.loracloud.com",
+   "port": "80",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://status.loracloud.com:8080",
+   "host": "status.loracloud.com",
+   "port": "8080",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://wifi.loracloud.com:2083",
+   "host": "wifi.loracloud.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://wifi.loracloud.com:2087",
+   "host": "wifi.loracloud.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://wifi.loracloud.com:2096",
+   "host": "wifi.loracloud.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://wifi.loracloud.com:8443",
+   "host": "wifi.loracloud.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.loracloud.com:2083",
+   "host": "auth.loracloud.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.loracloud.com:2087",
+   "host": "auth.loracloud.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.loracloud.com:2096",
+   "host": "auth.loracloud.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.loracloud.com:443",
+   "host": "auth.loracloud.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Auth0",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.loracloud.com:8443",
+   "host": "auth.loracloud.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.preprod.loracloud.com:2083",
+   "host": "auth.preprod.loracloud.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.preprod.loracloud.com:2087",
+   "host": "auth.preprod.loracloud.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.preprod.loracloud.com:2096",
+   "host": "auth.preprod.loracloud.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.preprod.loracloud.com:443",
+   "host": "auth.preprod.loracloud.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Auth0",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://auth.preprod.loracloud.com:8443",
+   "host": "auth.preprod.loracloud.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.171",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://ephcdn.loracloud.com:443",
+   "host": "ephcdn.loracloud.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.227.4",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loracloud.com:2083",
+   "host": "loracloud.com",
+   "port": "2083",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loracloud.com:2087",
+   "host": "loracloud.com",
+   "port": "2087",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loracloud.com:2096",
+   "host": "loracloud.com",
+   "port": "2096",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loracloud.com:443",
+   "host": "loracloud.com",
+   "port": "443",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loracloud.com:8443",
+   "host": "loracloud.com",
+   "port": "8443",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mgs.loracloud.com:2083",
+   "host": "mgs.loracloud.com",
+   "port": "2083",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mgs.loracloud.com:2087",
+   "host": "mgs.loracloud.com",
+   "port": "2087",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mgs.loracloud.com:2096",
+   "host": "mgs.loracloud.com",
+   "port": "2096",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mgs.loracloud.com:443",
+   "host": "mgs.loracloud.com",
+   "port": "443",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mgs.loracloud.com:8443",
+   "host": "mgs.loracloud.com",
+   "port": "8443",
+   "status_code": 410,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://portal.loracloud.com:2083",
+   "host": "portal.loracloud.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://portal.loracloud.com:2087",
+   "host": "portal.loracloud.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://portal.loracloud.com:2096",
+   "host": "portal.loracloud.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://portal.loracloud.com:443",
+   "host": "portal.loracloud.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://portal.loracloud.com:8443",
+   "host": "portal.loracloud.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.27.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://status.loracloud.com:2083",
+   "host": "status.loracloud.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://status.loracloud.com:2087",
+   "host": "status.loracloud.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://status.loracloud.com:2096",
+   "host": "status.loracloud.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://status.loracloud.com:443",
+   "host": "status.loracloud.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://status.loracloud.com:8443",
+   "host": "status.loracloud.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.165",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

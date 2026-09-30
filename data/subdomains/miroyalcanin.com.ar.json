@@ -1,0 +1,434 @@
+{
+ "domain": "miroyalcanin.com.ar",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 33,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "canalespecializado-test.miroyalcanin.com.ar",
+  "canalespecializado-teste.miroyalcanin.com.ar",
+  "canalespecializado.miroyalcanin.com.ar",
+  "canalprofesional-test.miroyalcanin.com.ar",
+  "canalprofesional.miroyalcanin.com.ar",
+  "canalprofesionalc.miroyalcanin.com.ar",
+  "com.miroyalcanin.com.ar",
+  "criadores.miroyalcanin.com.ar",
+  "criadoresi.miroyalcanin.com.ar",
+  "cuentacorriente.miroyalcanin.com.ar",
+  "cuentacorriente9.miroyalcanin.com.ar",
+  "duenos.miroyalcanin.com.ar",
+  "mail.miroyalcanin.com.ar",
+  "mieukanuba-test.miroyalcanin.com.ar",
+  "mieukanuba-testm.miroyalcanin.com.ar",
+  "mieukanuba.miroyalcanin.com.ar",
+  "mieukanubaq.miroyalcanin.com.ar",
+  "miroyalcanin.com.ar",
+  "pdv.miroyalcanin.com.ar",
+  "test.miroyalcanin.com.ar",
+  "www.canalespecializado-test.miroyalcanin.com.ar",
+  "www.canalespecializado.miroyalcanin.com.ar",
+  "www.canalprofesional-test.miroyalcanin.com.ar",
+  "www.canalprofesional.miroyalcanin.com.ar",
+  "www.criadores.miroyalcanin.com.ar",
+  "www.cuentacorriente.miroyalcanin.com.ar",
+  "www.duenos.miroyalcanin.com.ar",
+  "www.mail.miroyalcanin.com.ar",
+  "www.mieukanuba-test.miroyalcanin.com.ar",
+  "www.mieukanuba.miroyalcanin.com.ar",
+  "www.miroyalcanin.com.ar",
+  "www.pdv.miroyalcanin.com.ar",
+  "www.test.miroyalcanin.com.ar"
+ ],
+ "http": [
+  {
+   "url": "http://canalespecializado-test.miroyalcanin.com.ar:80",
+   "host": "canalespecializado-test.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://canalespecializado.miroyalcanin.com.ar:80",
+   "host": "canalespecializado.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://canalprofesional-test.miroyalcanin.com.ar:80",
+   "host": "canalprofesional-test.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://canalprofesional.miroyalcanin.com.ar:80",
+   "host": "canalprofesional.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://criadores.miroyalcanin.com.ar:80",
+   "host": "criadores.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://duenos.miroyalcanin.com.ar:80",
+   "host": "duenos.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mail.miroyalcanin.com.ar:80",
+   "host": "mail.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mieukanuba-test.miroyalcanin.com.ar:80",
+   "host": "mieukanuba-test.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mieukanuba.miroyalcanin.com.ar:80",
+   "host": "mieukanuba.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://miroyalcanin.com.ar:80",
+   "host": "miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://pdv.miroyalcanin.com.ar:80",
+   "host": "pdv.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://test.miroyalcanin.com.ar:80",
+   "host": "test.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.miroyalcanin.com.ar:80",
+   "host": "www.miroyalcanin.com.ar",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://canalespecializado-test.miroyalcanin.com.ar:443",
+   "host": "canalespecializado-test.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://canalespecializado.miroyalcanin.com.ar:443",
+   "host": "canalespecializado.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://canalprofesional-test.miroyalcanin.com.ar:443",
+   "host": "canalprofesional-test.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://canalprofesional.miroyalcanin.com.ar:443",
+   "host": "canalprofesional.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://criadores.miroyalcanin.com.ar:443",
+   "host": "criadores.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://duenos.miroyalcanin.com.ar:443",
+   "host": "duenos.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mail.miroyalcanin.com.ar:443",
+   "host": "mail.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mieukanuba-test.miroyalcanin.com.ar:443",
+   "host": "mieukanuba-test.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mieukanuba.miroyalcanin.com.ar:443",
+   "host": "mieukanuba.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://miroyalcanin.com.ar:443",
+   "host": "miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://pdv.miroyalcanin.com.ar:443",
+   "host": "pdv.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://test.miroyalcanin.com.ar:443",
+   "host": "test.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.miroyalcanin.com.ar:443",
+   "host": "www.miroyalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

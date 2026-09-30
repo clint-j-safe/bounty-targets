@@ -1,0 +1,138 @@
+{
+ "domain": "mothercare.ae",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 20,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "cdn.mothercare.ae",
+  "com.mothercare.ae",
+  "data.mothercare.ae",
+  "datac.mothercare.ae",
+  "dev.mothercare.ae",
+  "fls.mothercare.ae",
+  "flsa.mail.mothercare.ae",
+  "ip1.mail.mothercare.ae",
+  "ip2.mail.mothercare.ae",
+  "links.mail.mothercare.ae",
+  "mail.mothercare.ae",
+  "mothercare.ae",
+  "qtorzy.mothercare.ae",
+  "www.data.mothercare.ae",
+  "www.ip1.mail.mothercare.ae",
+  "www.ip2.mail.mothercare.ae",
+  "www.links.mail.mothercare.ae",
+  "www.mail.mothercare.ae",
+  "www.mothercare.ae",
+  "www.qtorzy.mothercare.ae"
+ ],
+ "http": [
+  {
+   "url": "http://data.mothercare.ae:80",
+   "host": "data.mothercare.ae",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://links.mail.mothercare.ae:80",
+   "host": "links.mail.mothercare.ae",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.199.51.78",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://mothercare.ae:80",
+   "host": "mothercare.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://qtorzy.mothercare.ae:80",
+   "host": "qtorzy.mothercare.ae",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "74.119.117.62",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.mothercare.ae:80",
+   "host": "www.mothercare.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://data.mothercare.ae:443",
+   "host": "data.mothercare.ae",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://mothercare.ae:443",
+   "host": "mothercare.ae",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.mothercare.ae:443",
+   "host": "www.mothercare.ae",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

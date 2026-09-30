@@ -1,0 +1,561 @@
+{
+ "domain": "lab49.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 27,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "blog.lab49.com",
+  "dltpoc.lab49.com",
+  "extranet.lab49.com",
+  "interactive.lab49.com",
+  "jira.lab49.com",
+  "jss.lab49.com",
+  "lab49.com",
+  "lava.lab49.com",
+  "legacymail.lab49.com",
+  "mail.lab49.com",
+  "staging.lab49.com",
+  "storybook-uat.lab49.com",
+  "storybook.lab49.com",
+  "twl.lab49.com",
+  "wiki.lab49.com",
+  "www.blog.lab49.com",
+  "www.dltpoc.lab49.com",
+  "www.interactive.lab49.com",
+  "www.jira.lab49.com",
+  "www.jss.lab49.com",
+  "www.lab49.com",
+  "www.lava.lab49.com",
+  "www.staging.lab49.com",
+  "www.storybook-uat.lab49.com",
+  "www.storybook.lab49.com",
+  "www.twl.lab49.com",
+  "www.wiki.lab49.com"
+ ],
+ "http": [
+  {
+   "url": "http://blog.lab49.com:2083",
+   "host": "blog.lab49.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.lab49.com:2087",
+   "host": "blog.lab49.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.lab49.com:2096",
+   "host": "blog.lab49.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://blog.lab49.com:80",
+   "host": "blog.lab49.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://interactive.lab49.com:80",
+   "host": "interactive.lab49.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "GitHub.com",
+   "technologies": [
+    "Fastly",
+    "GitHub Pages",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "185.199.109.153",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab49.com:2083",
+   "host": "lab49.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab49.com:2087",
+   "host": "lab49.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab49.com:2096",
+   "host": "lab49.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab49.com:80",
+   "host": "lab49.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lab49.com:8443",
+   "host": "lab49.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://lava.lab49.com:80",
+   "host": "lava.lab49.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "GitHub.com",
+   "technologies": [
+    "Fastly",
+    "GitHub Pages",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "185.199.108.153",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.lab49.com:2082",
+   "host": "staging.lab49.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.lab49.com:2095",
+   "host": "staging.lab49.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.lab49.com:80",
+   "host": "staging.lab49.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://staging.lab49.com:8080",
+   "host": "staging.lab49.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lab49.com:2083",
+   "host": "www.lab49.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lab49.com:2087",
+   "host": "www.lab49.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lab49.com:2096",
+   "host": "www.lab49.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lab49.com:80",
+   "host": "www.lab49.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://blog.lab49.com:443",
+   "host": "blog.lab49.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://blog.lab49.com:8443",
+   "host": "blog.lab49.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://interactive.lab49.com:443",
+   "host": "interactive.lab49.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "GitHub.com",
+   "technologies": [
+    "Fastly",
+    "GitHub Pages",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "185.199.109.153",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://jss.lab49.com:443",
+   "host": "jss.lab49.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "44.229.249.7",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://jss.lab49.com:8443",
+   "host": "jss.lab49.com",
+   "port": "8443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Jamf",
+   "technologies": [
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "44.229.249.7",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lab49.com:443",
+   "host": "lab49.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.11",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lava.lab49.com:443",
+   "host": "lava.lab49.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Lab49 | $LAVA Visualisation",
+   "webserver": "GitHub.com",
+   "technologies": [
+    "Fastly",
+    "GitHub Pages",
+    "HSTS",
+    "React",
+    "Varnish"
+   ],
+   "cdn": false,
+   "ip": "185.199.108.153",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.lab49.com:2083",
+   "host": "staging.lab49.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.lab49.com:2087",
+   "host": "staging.lab49.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.lab49.com:2096",
+   "host": "staging.lab49.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.lab49.com:443",
+   "host": "staging.lab49.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Basic",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://staging.lab49.com:8443",
+   "host": "staging.lab49.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.21",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.lab49.com:443",
+   "host": "www.lab49.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Lab49 \u2013 Innovation on demand",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Download Monitor:5.3.0",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "MySQL",
+    "Onsen UI",
+    "PHP",
+    "WordPress",
+    "Yoast SEO Premium:28.6",
+    "Yoast SEO:28.6",
+    "jQuery",
+    "jQuery Migrate:3.4.1"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.lab49.com:8443",
+   "host": "www.lab49.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

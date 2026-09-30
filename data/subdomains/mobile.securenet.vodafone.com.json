@@ -1,0 +1,19 @@
+{
+ "domain": "mobile.securenet.vodafone.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "cc.mobile.securenet.vodafone.com",
+  "cci.mobile.securenet.vodafone.com",
+  "hl.mobile.securenet.vodafone.com",
+  "hli.mobile.securenet.vodafone.com",
+  "mobile.securenet.vodafone.com",
+  "preprod.mobile.securenet.vodafone.com",
+  "preproda.mobile.securenet.vodafone.com",
+  "www.hl.mobile.securenet.vodafone.com"
+ ],
+ "http": []
+}

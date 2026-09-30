@@ -1,0 +1,86 @@
+{
+ "domain": "lifelast.com",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 18,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "cpanel.lifelast.com",
+  "cpanel5.lifelast.com",
+  "cpanelt.lifelast.com",
+  "cpcalendars.lifelast.com",
+  "cpcalendarst.lifelast.com",
+  "cpcontacts.lifelast.com",
+  "cpcontactst.lifelast.com",
+  "lifelast.com",
+  "mail.lifelast.com",
+  "webdisk.lifelast.com",
+  "webmail.lifelast.com",
+  "www.cpanel.lifelast.com",
+  "www.cpcalendars.lifelast.com",
+  "www.cpcontacts.lifelast.com",
+  "www.lifelast.com",
+  "www.mail.lifelast.com",
+  "www.webdisk.lifelast.com",
+  "www.webmail.lifelast.com"
+ ],
+ "http": [
+  {
+   "url": "http://lifelast.com:80",
+   "host": "lifelast.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.lifelast.com:80",
+   "host": "www.lifelast.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://lifelast.com:443",
+   "host": "lifelast.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.lifelast.com:443",
+   "host": "www.lifelast.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

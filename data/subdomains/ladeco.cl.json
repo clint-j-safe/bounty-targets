@@ -1,0 +1,28 @@
+{
+ "domain": "ladeco.cl",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|latamairlines"
+ ],
+ "subdomains": [
+  "ladeco.cl",
+  "smtptest.ladeco.cl",
+  "www.ladeco.cl",
+  "www.smtptest.ladeco.cl"
+ ],
+ "http": [
+  {
+   "url": "http://www.ladeco.cl:80",
+   "host": "www.ladeco.cl",
+   "port": "80",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.64.112.84",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

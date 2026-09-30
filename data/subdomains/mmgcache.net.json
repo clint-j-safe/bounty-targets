@@ -1,0 +1,48 @@
+{
+ "domain": "mmgcache.net",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "cdn.mmgcache.net",
+  "cdn7.mmgcache.net",
+  "mktimg.mmgcache.net",
+  "mktimg7.mmgcache.net",
+  "mmgcache.net",
+  "www.cdn.mmgcache.net",
+  "www.mktimg.mmgcache.net",
+  "www.mmgcache.net"
+ ],
+ "http": [
+  {
+   "url": "http://cdn.mmgcache.net:80",
+   "host": "cdn.mmgcache.net",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://cdn.mmgcache.net:443",
+   "host": "cdn.mmgcache.net",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.2.132",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}

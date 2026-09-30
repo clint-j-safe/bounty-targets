@@ -1,0 +1,140 @@
+{
+ "domain": "loctite-consument.be",
+ "last_run": "2026-09-30T08:00:34+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "gluetheimpossibe.loctite-consument.be",
+  "loctite-consument.be",
+  "www.gluetheimpossibe.loctite-consument.be",
+  "www.loctite-consument.be"
+ ],
+ "http": [
+  {
+   "url": "http://gluetheimpossibe.loctite-consument.be:80",
+   "host": "gluetheimpossibe.loctite-consument.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.75",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://loctite-consument.be:80",
+   "host": "loctite-consument.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.100.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.gluetheimpossibe.loctite-consument.be:80",
+   "host": "www.gluetheimpossibe.loctite-consument.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "http://www.loctite-consument.be:80",
+   "host": "www.loctite-consument.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://gluetheimpossibe.loctite-consument.be:443",
+   "host": "gluetheimpossibe.loctite-consument.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.75",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://loctite-consument.be:443",
+   "host": "loctite-consument.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.192.100.124",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.gluetheimpossibe.loctite-consument.be:443",
+   "host": "www.gluetheimpossibe.loctite-consument.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.18",
+   "checked": "2026-09-30T08:00:34+00:00"
+  },
+  {
+   "url": "https://www.loctite-consument.be:443",
+   "host": "www.loctite-consument.be",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.48",
+   "checked": "2026-09-30T08:00:34+00:00"
+  }
+ ]
+}
