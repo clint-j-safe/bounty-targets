@@ -1,0 +1,208 @@
+{
+ "domain": "tangit.at",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "2092270.tangit.at",
+  "2092951.tangit.at",
+  "tangit.at",
+  "www.2092270.tangit.at",
+  "www.2092951.tangit.at",
+  "www.tangit.at",
+  "www9.2092951.tangit.at"
+ ],
+ "http": [
+  {
+   "url": "http://2092270.tangit.at:80",
+   "host": "2092270.tangit.at",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://2092951.tangit.at:80",
+   "host": "2092951.tangit.at",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.65",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tangit.at:80",
+   "host": "tangit.at",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.2092270.tangit.at:80",
+   "host": "www.2092270.tangit.at",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.99",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.2092951.tangit.at:80",
+   "host": "www.2092951.tangit.at",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tangit.at:80",
+   "host": "www.tangit.at",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.11",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://2092270.tangit.at:443",
+   "host": "2092270.tangit.at",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://2092951.tangit.at:443",
+   "host": "2092951.tangit.at",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.65",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tangit.at:443",
+   "host": "tangit.at",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "143.204.204.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.2092270.tangit.at:443",
+   "host": "www.2092270.tangit.at",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.99",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.2092951.tangit.at:443",
+   "host": "www.2092951.tangit.at",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.238.171.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.tangit.at:443",
+   "host": "www.tangit.at",
+   "port": "443",
+   "status_code": 200,
+   "title": "Tangit Home | Tangit",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.11",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

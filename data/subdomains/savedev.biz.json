@@ -1,0 +1,61 @@
+{
+ "domain": "savedev.biz",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 9,
+ "programs": [
+  "hackerone|dib-vdp"
+ ],
+ "subdomains": [
+  "remote-gvl.savedev.biz",
+  "remote.savedev.biz",
+  "remotee.savedev.biz",
+  "savedev.biz",
+  "vspc.savedev.biz",
+  "www.remote-gvl.savedev.biz",
+  "www.remote.savedev.biz",
+  "www.savedev.biz",
+  "www.vspc.savedev.biz"
+ ],
+ "http": [
+  {
+   "url": "http://savedev.biz:80",
+   "host": "savedev.biz",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.130.190",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.savedev.biz:80",
+   "host": "www.savedev.biz",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.130.190",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://remote-gvl.savedev.biz:443",
+   "host": "remote-gvl.savedev.biz",
+   "port": "443",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "71.81.10.141",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

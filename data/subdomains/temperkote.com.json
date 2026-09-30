@@ -1,0 +1,218 @@
+{
+ "domain": "temperkote.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 13,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "autodiscover.temperkote.com",
+  "autodiscoverm.temperkote.com",
+  "autodiscoverp.temperkote.com",
+  "cpanel.temperkote.com",
+  "cpcalendars.temperkote.com",
+  "cpcontacts.temperkote.com",
+  "mail.temperkote.com",
+  "temperkote.com",
+  "webdisk.temperkote.com",
+  "webmail.temperkote.com",
+  "www.autodiscover.temperkote.com",
+  "www.mail.temperkote.com",
+  "www.temperkote.com"
+ ],
+ "http": [
+  {
+   "url": "http://autodiscover.temperkote.com:80",
+   "host": "autodiscover.temperkote.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.121.216",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://temperkote.com:2082",
+   "host": "temperkote.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://temperkote.com:2083",
+   "host": "temperkote.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://temperkote.com:2087",
+   "host": "temperkote.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://temperkote.com:2095",
+   "host": "temperkote.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://temperkote.com:2096",
+   "host": "temperkote.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://temperkote.com:80",
+   "host": "temperkote.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.temperkote.com:2082",
+   "host": "www.temperkote.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.temperkote.com:2083",
+   "host": "www.temperkote.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.temperkote.com:2087",
+   "host": "www.temperkote.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.temperkote.com:2095",
+   "host": "www.temperkote.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.temperkote.com:2096",
+   "host": "www.temperkote.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.temperkote.com:80",
+   "host": "www.temperkote.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://temperkote.com:443",
+   "host": "temperkote.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.temperkote.com:443",
+   "host": "www.temperkote.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Temper Kote | Temper Kote",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Slick",
+    "jQuery",
+    "jQuery CDN"
+   ],
+   "cdn": false,
+   "ip": "173.199.176.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,4765 @@
+{
+ "domain": "transunion.ca",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 210,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "api.transunion.ca",
+  "api.uat.transunion.ca",
+  "api9.uat.transunion.ca",
+  "appservices-uat.transunion.ca",
+  "appservices-uatc.transunion.ca",
+  "appservices.gov.transunion.ca",
+  "appservices.transunion.ca",
+  "appservicesc.gov.transunion.ca",
+  "blxrpdprd3.transunion.ca",
+  "businesssolutions.transunion.ca",
+  "cdn-ca.ccid.transunion.ca",
+  "cdn-uat-ca.ccid.transunion.ca",
+  "cmsdev.transunion.ca",
+  "cmsdev0e.transunion.ca",
+  "cmspvw.transunion.ca",
+  "cmspvwy.transunion.ca",
+  "cmsstage.transunion.ca",
+  "consumersolutions-uat.transunion.ca",
+  "consumersolutions.transunion.ca",
+  "consumersolutions9.transunion.ca",
+  "creditprofile.transunion.ca",
+  "creditprofileu.transunion.ca",
+  "creditvision.transunion.ca",
+  "creditvision5.transunion.ca",
+  "decisioncentre-uat.transunion.ca",
+  "decisioncentre-uat2.transunion.ca",
+  "decisioncentre-uat2o.transunion.ca",
+  "decisioncentre-uata.transunion.ca",
+  "decisioncentre.transunion.ca",
+  "decisioncentre1.transunion.ca",
+  "decisioncentreportal.transunion.ca",
+  "decisioncentreuat.transunion.ca",
+  "dirapp.transunion.ca",
+  "direct-uat.businesssolutions.transunion.ca",
+  "direct-uat.transunion.ca",
+  "direct-uat2.businesssolutions.transunion.ca",
+  "direct-uati.businesssolutions.transunion.ca",
+  "direct.businesssolutions.transunion.ca",
+  "direct.gov.transunion.ca",
+  "direct.gs.transunion.ca",
+  "direct.transunion.ca",
+  "directn.transunion.ca",
+  "en.dirapp.transunion.ca",
+  "en.direct.gs.transunion.ca",
+  "en.direct.transunion.ca",
+  "en.manualupdates.transunion.ca",
+  "en7.manualupdates.transunion.ca",
+  "ene.direct.gs.transunion.ca",
+  "faq.transunion.ca",
+  "fr.dirapp.transunion.ca",
+  "fr.direct.gs.transunion.ca",
+  "fr.direct.transunion.ca",
+  "fr.manualupdates.transunion.ca",
+  "fr7.manualupdates.transunion.ca",
+  "fre.direct.gs.transunion.ca",
+  "globalcreditconnect-uat.transunion.ca",
+  "globalcreditconnect-uatv.transunion.ca",
+  "globalcreditconnect-uaty.transunion.ca",
+  "gov.transunion.ca",
+  "gs.transunion.ca",
+  "ha.transunion.ca",
+  "ha7.transunion.ca",
+  "hlxrpdprd3.transunion.ca",
+  "horizon-uat.ha.transunion.ca",
+  "horizon-uatu.ha.transunion.ca",
+  "horizon.ha.transunion.ca",
+  "idxcrf-uat.transunion.ca",
+  "idxcrf.transunion.ca",
+  "idxcrfe.transunion.ca",
+  "ivrservices-uat.transunion.ca",
+  "ivrservices-uata.transunion.ca",
+  "linkview.transunion.ca",
+  "manualupdates.transunion.ca",
+  "mcmbcrs.transunion.ca",
+  "members.transunion.ca",
+  "memberss.transunion.ca",
+  "message.transunion.ca",
+  "newsroom-en.transunion.ca",
+  "newsroom-fr.transunion.ca",
+  "newsroom.transunion.ca",
+  "newsroomk.transunion.ca",
+  "ocs-qc.transunion.ca",
+  "ocs-ui-qc.transunion.ca",
+  "ocs.transunion.ca",
+  "portal-uat.transunion.ca",
+  "portal.api.transunion.ca",
+  "portal.transunion.ca",
+  "scanmaster-services.ha.transunion.ca",
+  "scanmaster.ha.transunion.ca",
+  "secure-ocs-uat.transunion.ca",
+  "secure-ocs-ui-uat.transunion.ca",
+  "secure-ocs.transunion.ca",
+  "securefilegateway-uat.transunion.ca",
+  "securefilegateway.transunion.ca",
+  "securefilegateway5.transunion.ca",
+  "securekey-poc1.transunion.ca",
+  "securekey-uat.transunion.ca",
+  "securekey-uatc.transunion.ca",
+  "securemail.transunion.ca",
+  "securetransfer-uat.transunion.ca",
+  "securetransfer.transunion.ca",
+  "securewebtransfer-uat.transunion.ca",
+  "securewebtransfer.transunion.ca",
+  "services.transunion.ca",
+  "smtp.transunion.ca",
+  "smtp2.transunion.ca",
+  "smtp3.transunion.ca",
+  "solutions.transunion.ca",
+  "tag.creditprofile.transunion.ca",
+  "transunion.ca",
+  "tu4rscores-uat.transunion.ca",
+  "tu4rscores-uato.transunion.ca",
+  "tu4rscores.transunion.ca",
+  "tuciinquiry-uat.transunion.ca",
+  "tuciinquiry-uat9.transunion.ca",
+  "tuciinquiry.transunion.ca",
+  "tuclientcert-prd.transunion.ca",
+  "tuclientcert-uat.transunion.ca",
+  "tuintl.transunion.ca",
+  "tune.tuintl.transunion.ca",
+  "tuneuat.tuintl.transunion.ca",
+  "uat.en.direct.transunion.ca",
+  "uat.fr.direct.transunion.ca",
+  "uat.transunion.ca",
+  "uatc.en.direct.transunion.ca",
+  "vpn.transunion.ca",
+  "vpn2.transunion.ca",
+  "vpn3.transunion.ca",
+  "w.creditprofile.transunion.ca",
+  "w.transunion.ca",
+  "walmartrewardsmastercardapp.transunion.ca",
+  "webdataencrypt.transunion.ca",
+  "webupdates-uat.transunion.ca",
+  "webupdates.transunion.ca",
+  "www.api.uat.transunion.ca",
+  "www.appservices-uat.transunion.ca",
+  "www.appservices.gov.transunion.ca",
+  "www.appservices.transunion.ca",
+  "www.cmsdev.transunion.ca",
+  "www.cmspvw.transunion.ca",
+  "www.cmsstage.transunion.ca",
+  "www.consumersolutions-uat.transunion.ca",
+  "www.consumersolutions.transunion.ca",
+  "www.creditprofile.transunion.ca",
+  "www.creditvision.transunion.ca",
+  "www.decisioncentre-uat.transunion.ca",
+  "www.decisioncentre-uat2.transunion.ca",
+  "www.decisioncentre.transunion.ca",
+  "www.decisioncentreuat.transunion.ca",
+  "www.direct-uat.businesssolutions.transunion.ca",
+  "www.direct-uat.transunion.ca",
+  "www.direct-uat2.businesssolutions.transunion.ca",
+  "www.direct.businesssolutions.transunion.ca",
+  "www.direct.gov.transunion.ca",
+  "www.direct.transunion.ca",
+  "www.en.direct.gs.transunion.ca",
+  "www.en.direct.transunion.ca",
+  "www.en.manualupdates.transunion.ca",
+  "www.fr.direct.gs.transunion.ca",
+  "www.fr.direct.transunion.ca",
+  "www.fr.manualupdates.transunion.ca",
+  "www.globalcreditconnect-uat.transunion.ca",
+  "www.horizon.ha.transunion.ca",
+  "www.idxcrf-uat.transunion.ca",
+  "www.idxcrf.transunion.ca",
+  "www.ivrservices-uat.transunion.ca",
+  "www.linkview.transunion.ca",
+  "www.members.transunion.ca",
+  "www.message.transunion.ca",
+  "www.newsroom-en.transunion.ca",
+  "www.newsroom-fr.transunion.ca",
+  "www.newsroom.transunion.ca",
+  "www.ocs-qc.transunion.ca",
+  "www.ocs.transunion.ca",
+  "www.portal-uat.transunion.ca",
+  "www.portal.transunion.ca",
+  "www.scanmaster-services.ha.transunion.ca",
+  "www.scanmaster.ha.transunion.ca",
+  "www.secure-ocs.transunion.ca",
+  "www.securekey-poc1.transunion.ca",
+  "www.securekey-uat.transunion.ca",
+  "www.securemail.transunion.ca",
+  "www.securetransfer-uat.transunion.ca",
+  "www.securetransfer.transunion.ca",
+  "www.securewebtransfer-uat.transunion.ca",
+  "www.securewebtransfer.transunion.ca",
+  "www.smtp.transunion.ca",
+  "www.smtp2.transunion.ca",
+  "www.smtp3.transunion.ca",
+  "www.solutions.transunion.ca",
+  "www.transunion.ca",
+  "www.tu4rscores-uat.transunion.ca",
+  "www.tu4rscores.transunion.ca",
+  "www.tuciinquiry-uat.transunion.ca",
+  "www.tuciinquiry.transunion.ca",
+  "www.tuclientcert-prd.transunion.ca",
+  "www.tuclientcert-uat.transunion.ca",
+  "www.tune.tuintl.transunion.ca",
+  "www.tuneuat.tuintl.transunion.ca",
+  "www.uat.en.direct.transunion.ca",
+  "www.uat.fr.direct.transunion.ca",
+  "www.vpn.transunion.ca",
+  "www.vpn2.transunion.ca",
+  "www.vpn3.transunion.ca",
+  "www.walmartrewardsmastercardapp.transunion.ca",
+  "www.webdataencrypt.transunion.ca",
+  "www.webupdates-uat.transunion.ca",
+  "www.webupdates.transunion.ca",
+  "wwwa.newsroom.transunion.ca",
+  "wwww.creditprofile.transunion.ca"
+ ],
+ "http": [
+  {
+   "url": "http://api.transunion.ca:2082",
+   "host": "api.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.transunion.ca:2095",
+   "host": "api.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.transunion.ca:80",
+   "host": "api.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.transunion.ca:8080",
+   "host": "api.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.uat.transunion.ca:2082",
+   "host": "api.uat.transunion.ca",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.uat.transunion.ca:2095",
+   "host": "api.uat.transunion.ca",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.uat.transunion.ca:80",
+   "host": "api.uat.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.uat.transunion.ca:8080",
+   "host": "api.uat.transunion.ca",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices-uat.transunion.ca:2082",
+   "host": "appservices-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices-uat.transunion.ca:2095",
+   "host": "appservices-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices-uat.transunion.ca:80",
+   "host": "appservices-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices-uat.transunion.ca:8080",
+   "host": "appservices-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.gov.transunion.ca:2082",
+   "host": "appservices.gov.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.gov.transunion.ca:2095",
+   "host": "appservices.gov.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.gov.transunion.ca:80",
+   "host": "appservices.gov.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.gov.transunion.ca:8080",
+   "host": "appservices.gov.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.transunion.ca:2082",
+   "host": "appservices.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.transunion.ca:2095",
+   "host": "appservices.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.transunion.ca:80",
+   "host": "appservices.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://appservices.transunion.ca:8080",
+   "host": "appservices.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cdn-ca.ccid.transunion.ca:80",
+   "host": "cdn-ca.ccid.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.90",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cdn-uat-ca.ccid.transunion.ca:80",
+   "host": "cdn-uat-ca.ccid.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.ca:2082",
+   "host": "cmspvw.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.ca:2095",
+   "host": "cmspvw.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.ca:80",
+   "host": "cmspvw.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.ca:8080",
+   "host": "cmspvw.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.ca:2082",
+   "host": "cmsstage.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.ca:2095",
+   "host": "cmsstage.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.ca:80",
+   "host": "cmsstage.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.ca:8080",
+   "host": "cmsstage.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://creditvision.transunion.ca:80",
+   "host": "creditvision.transunion.ca",
+   "port": "80",
+   "status_code": 200,
+   "title": "TransUnion",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "Google Tag Manager"
+   ],
+   "cdn": true,
+   "ip": "54.231.204.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://creditvision.transunion.ca:8080",
+   "host": "creditvision.transunion.ca",
+   "port": "8080",
+   "status_code": 200,
+   "title": "TransUnion",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "Google Tag Manager"
+   ],
+   "cdn": true,
+   "ip": "54.231.204.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre-uat.transunion.ca:2082",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre-uat.transunion.ca:2095",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre-uat.transunion.ca:80",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre-uat.transunion.ca:8080",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre.transunion.ca:2082",
+   "host": "decisioncentre.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre.transunion.ca:2095",
+   "host": "decisioncentre.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre.transunion.ca:80",
+   "host": "decisioncentre.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentre.transunion.ca:8080",
+   "host": "decisioncentre.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentreportal.transunion.ca:2082",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentreportal.transunion.ca:2095",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentreportal.transunion.ca:80",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://decisioncentreportal.transunion.ca:8080",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.businesssolutions.transunion.ca:2082",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.businesssolutions.transunion.ca:2095",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.businesssolutions.transunion.ca:80",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.businesssolutions.transunion.ca:8080",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.transunion.ca:2082",
+   "host": "direct-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.transunion.ca:2095",
+   "host": "direct-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.transunion.ca:80",
+   "host": "direct-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct-uat.transunion.ca:8080",
+   "host": "direct-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.businesssolutions.transunion.ca:2082",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.businesssolutions.transunion.ca:2095",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.businesssolutions.transunion.ca:80",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.businesssolutions.transunion.ca:8080",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.gov.transunion.ca:2082",
+   "host": "direct.gov.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.gov.transunion.ca:2095",
+   "host": "direct.gov.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.gov.transunion.ca:80",
+   "host": "direct.gov.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.gov.transunion.ca:8080",
+   "host": "direct.gov.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.transunion.ca:2082",
+   "host": "direct.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.transunion.ca:2095",
+   "host": "direct.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.transunion.ca:80",
+   "host": "direct.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://direct.transunion.ca:8080",
+   "host": "direct.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:2082",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:2083",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:2087",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:2095",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:2096",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:80",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:8080",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf-uat.transunion.ca:8443",
+   "host": "idxcrf-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:2082",
+   "host": "idxcrf.transunion.ca",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:2083",
+   "host": "idxcrf.transunion.ca",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:2087",
+   "host": "idxcrf.transunion.ca",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:2095",
+   "host": "idxcrf.transunion.ca",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:2096",
+   "host": "idxcrf.transunion.ca",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:80",
+   "host": "idxcrf.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:8080",
+   "host": "idxcrf.transunion.ca",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://idxcrf.transunion.ca:8443",
+   "host": "idxcrf.transunion.ca",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://members.transunion.ca:2082",
+   "host": "members.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://members.transunion.ca:2095",
+   "host": "members.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://members.transunion.ca:80",
+   "host": "members.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://members.transunion.ca:8080",
+   "host": "members.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://newsroom-en.transunion.ca:80",
+   "host": "newsroom-en.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://newsroom-fr.transunion.ca:80",
+   "host": "newsroom-fr.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "165.160.15.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://newsroom.transunion.ca:80",
+   "host": "newsroom.transunion.ca",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "52.58.86.198",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs-ui-qc.transunion.ca:2082",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs-ui-qc.transunion.ca:2095",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs-ui-qc.transunion.ca:80",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs-ui-qc.transunion.ca:8080",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs.transunion.ca:2082",
+   "host": "ocs.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs.transunion.ca:2095",
+   "host": "ocs.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs.transunion.ca:80",
+   "host": "ocs.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ocs.transunion.ca:8080",
+   "host": "ocs.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://portal.api.transunion.ca:2082",
+   "host": "portal.api.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://portal.api.transunion.ca:2095",
+   "host": "portal.api.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://portal.api.transunion.ca:80",
+   "host": "portal.api.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://portal.api.transunion.ca:8080",
+   "host": "portal.api.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs-uat.transunion.ca:2082",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs-uat.transunion.ca:2095",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs-uat.transunion.ca:80",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs-uat.transunion.ca:8080",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs.transunion.ca:2082",
+   "host": "secure-ocs.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs.transunion.ca:2095",
+   "host": "secure-ocs.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs.transunion.ca:80",
+   "host": "secure-ocs.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://secure-ocs.transunion.ca:8080",
+   "host": "secure-ocs.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer-uat.transunion.ca:2082",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer-uat.transunion.ca:2095",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer-uat.transunion.ca:80",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer-uat.transunion.ca:8080",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer.transunion.ca:2082",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer.transunion.ca:2095",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer.transunion.ca:80",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securewebtransfer.transunion.ca:8080",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tag.creditprofile.transunion.ca:80",
+   "host": "tag.creditprofile.transunion.ca",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "76.223.54.146",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://transunion.ca:2082",
+   "host": "transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://transunion.ca:2095",
+   "host": "transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://transunion.ca:80",
+   "host": "transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://transunion.ca:8080",
+   "host": "transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores-uat.transunion.ca:2082",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores-uat.transunion.ca:2095",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores-uat.transunion.ca:80",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores-uat.transunion.ca:8080",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores.transunion.ca:2082",
+   "host": "tu4rscores.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores.transunion.ca:2095",
+   "host": "tu4rscores.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores.transunion.ca:80",
+   "host": "tu4rscores.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tu4rscores.transunion.ca:8080",
+   "host": "tu4rscores.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry-uat.transunion.ca:2082",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry-uat.transunion.ca:2095",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry-uat.transunion.ca:80",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry-uat.transunion.ca:8080",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry.transunion.ca:2082",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry.transunion.ca:2095",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry.transunion.ca:80",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tuciinquiry.transunion.ca:8080",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates-uat.transunion.ca:2082",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates-uat.transunion.ca:2095",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates-uat.transunion.ca:80",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates-uat.transunion.ca:8080",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates.transunion.ca:2082",
+   "host": "webupdates.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates.transunion.ca:2095",
+   "host": "webupdates.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates.transunion.ca:80",
+   "host": "webupdates.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webupdates.transunion.ca:8080",
+   "host": "webupdates.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.creditprofile.transunion.ca:2082",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.creditprofile.transunion.ca:2095",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.creditprofile.transunion.ca:80",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.creditprofile.transunion.ca:8080",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.transunion.ca:2083",
+   "host": "api.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.transunion.ca:2087",
+   "host": "api.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.transunion.ca:2096",
+   "host": "api.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.transunion.ca:443",
+   "host": "api.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.transunion.ca:8443",
+   "host": "api.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.uat.transunion.ca:2083",
+   "host": "api.uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.uat.transunion.ca:2087",
+   "host": "api.uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.uat.transunion.ca:2096",
+   "host": "api.uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.uat.transunion.ca:443",
+   "host": "api.uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.uat.transunion.ca:8443",
+   "host": "api.uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices-uat.transunion.ca:2083",
+   "host": "appservices-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices-uat.transunion.ca:2087",
+   "host": "appservices-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices-uat.transunion.ca:2096",
+   "host": "appservices-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices-uat.transunion.ca:443",
+   "host": "appservices-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices-uat.transunion.ca:8443",
+   "host": "appservices-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.250",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.gov.transunion.ca:2083",
+   "host": "appservices.gov.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.gov.transunion.ca:2087",
+   "host": "appservices.gov.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.gov.transunion.ca:2096",
+   "host": "appservices.gov.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.gov.transunion.ca:443",
+   "host": "appservices.gov.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.gov.transunion.ca:8443",
+   "host": "appservices.gov.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.14",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.transunion.ca:2083",
+   "host": "appservices.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.transunion.ca:2087",
+   "host": "appservices.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.transunion.ca:2096",
+   "host": "appservices.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.transunion.ca:443",
+   "host": "appservices.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://appservices.transunion.ca:8443",
+   "host": "appservices.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn-ca.ccid.transunion.ca:443",
+   "host": "cdn-ca.ccid.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.53.90",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn-uat-ca.ccid.transunion.ca:443",
+   "host": "cdn-uat-ca.ccid.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.ca:2083",
+   "host": "cmspvw.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.ca:2087",
+   "host": "cmspvw.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.ca:2096",
+   "host": "cmspvw.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.ca:443",
+   "host": "cmspvw.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.ca:8443",
+   "host": "cmspvw.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.ca:2083",
+   "host": "cmsstage.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.ca:2087",
+   "host": "cmsstage.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.ca:2096",
+   "host": "cmsstage.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.ca:443",
+   "host": "cmsstage.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.ca:8443",
+   "host": "cmsstage.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.147",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre-uat.transunion.ca:2083",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre-uat.transunion.ca:2087",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre-uat.transunion.ca:2096",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre-uat.transunion.ca:443",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre-uat.transunion.ca:8443",
+   "host": "decisioncentre-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre.transunion.ca:2083",
+   "host": "decisioncentre.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre.transunion.ca:2087",
+   "host": "decisioncentre.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre.transunion.ca:2096",
+   "host": "decisioncentre.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre.transunion.ca:443",
+   "host": "decisioncentre.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentre.transunion.ca:8443",
+   "host": "decisioncentre.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentreportal.transunion.ca:2083",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentreportal.transunion.ca:2087",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentreportal.transunion.ca:2096",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentreportal.transunion.ca:443",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://decisioncentreportal.transunion.ca:8443",
+   "host": "decisioncentreportal.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.businesssolutions.transunion.ca:2083",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.businesssolutions.transunion.ca:2087",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.businesssolutions.transunion.ca:2096",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.businesssolutions.transunion.ca:443",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.businesssolutions.transunion.ca:8443",
+   "host": "direct-uat.businesssolutions.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.transunion.ca:2083",
+   "host": "direct-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.transunion.ca:2087",
+   "host": "direct-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.transunion.ca:2096",
+   "host": "direct-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.transunion.ca:443",
+   "host": "direct-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct-uat.transunion.ca:8443",
+   "host": "direct-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.businesssolutions.transunion.ca:2083",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.businesssolutions.transunion.ca:2087",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.businesssolutions.transunion.ca:2096",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.businesssolutions.transunion.ca:443",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.businesssolutions.transunion.ca:8443",
+   "host": "direct.businesssolutions.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.gov.transunion.ca:2083",
+   "host": "direct.gov.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.gov.transunion.ca:2087",
+   "host": "direct.gov.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.gov.transunion.ca:2096",
+   "host": "direct.gov.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.gov.transunion.ca:443",
+   "host": "direct.gov.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.gov.transunion.ca:8443",
+   "host": "direct.gov.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.transunion.ca:2083",
+   "host": "direct.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.transunion.ca:2087",
+   "host": "direct.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.transunion.ca:2096",
+   "host": "direct.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.transunion.ca:443",
+   "host": "direct.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://direct.transunion.ca:8443",
+   "host": "direct.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://members.transunion.ca:2083",
+   "host": "members.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://members.transunion.ca:2087",
+   "host": "members.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://members.transunion.ca:2096",
+   "host": "members.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://members.transunion.ca:443",
+   "host": "members.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://members.transunion.ca:8443",
+   "host": "members.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.237",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs-ui-qc.transunion.ca:2083",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs-ui-qc.transunion.ca:2087",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs-ui-qc.transunion.ca:2096",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs-ui-qc.transunion.ca:443",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs-ui-qc.transunion.ca:8443",
+   "host": "ocs-ui-qc.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.239",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs.transunion.ca:2083",
+   "host": "ocs.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs.transunion.ca:2087",
+   "host": "ocs.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs.transunion.ca:2096",
+   "host": "ocs.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs.transunion.ca:443",
+   "host": "ocs.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ocs.transunion.ca:8443",
+   "host": "ocs.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portal.api.transunion.ca:2083",
+   "host": "portal.api.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portal.api.transunion.ca:2087",
+   "host": "portal.api.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portal.api.transunion.ca:2096",
+   "host": "portal.api.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portal.api.transunion.ca:443",
+   "host": "portal.api.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portal.api.transunion.ca:8443",
+   "host": "portal.api.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs-uat.transunion.ca:2083",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs-uat.transunion.ca:2087",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs-uat.transunion.ca:2096",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs-uat.transunion.ca:443",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs-uat.transunion.ca:8443",
+   "host": "secure-ocs-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs.transunion.ca:2083",
+   "host": "secure-ocs.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs.transunion.ca:2087",
+   "host": "secure-ocs.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs.transunion.ca:2096",
+   "host": "secure-ocs.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs.transunion.ca:443",
+   "host": "secure-ocs.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://secure-ocs.transunion.ca:8443",
+   "host": "secure-ocs.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer-uat.transunion.ca:2083",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer-uat.transunion.ca:2087",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer-uat.transunion.ca:2096",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer-uat.transunion.ca:443",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer-uat.transunion.ca:8443",
+   "host": "securewebtransfer-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer.transunion.ca:2083",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer.transunion.ca:2087",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer.transunion.ca:2096",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer.transunion.ca:443",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securewebtransfer.transunion.ca:8443",
+   "host": "securewebtransfer.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.252",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://transunion.ca:2083",
+   "host": "transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://transunion.ca:2087",
+   "host": "transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://transunion.ca:2096",
+   "host": "transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://transunion.ca:443",
+   "host": "transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://transunion.ca:8443",
+   "host": "transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores-uat.transunion.ca:2083",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores-uat.transunion.ca:2087",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores-uat.transunion.ca:2096",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores-uat.transunion.ca:443",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores-uat.transunion.ca:8443",
+   "host": "tu4rscores-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores.transunion.ca:2083",
+   "host": "tu4rscores.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores.transunion.ca:2087",
+   "host": "tu4rscores.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores.transunion.ca:2096",
+   "host": "tu4rscores.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores.transunion.ca:443",
+   "host": "tu4rscores.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tu4rscores.transunion.ca:8443",
+   "host": "tu4rscores.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.73.253",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry-uat.transunion.ca:2083",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry-uat.transunion.ca:2087",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry-uat.transunion.ca:2096",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry-uat.transunion.ca:443",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry-uat.transunion.ca:8443",
+   "host": "tuciinquiry-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry.transunion.ca:2083",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry.transunion.ca:2087",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry.transunion.ca:2096",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry.transunion.ca:443",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tuciinquiry.transunion.ca:8443",
+   "host": "tuciinquiry.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://vpn.transunion.ca:443",
+   "host": "vpn.transunion.ca",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "24.137.202.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://vpn3.transunion.ca:443",
+   "host": "vpn3.transunion.ca",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "205.207.115.224",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates-uat.transunion.ca:2083",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates-uat.transunion.ca:2087",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates-uat.transunion.ca:2096",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates-uat.transunion.ca:443",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates-uat.transunion.ca:8443",
+   "host": "webupdates-uat.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates.transunion.ca:2083",
+   "host": "webupdates.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates.transunion.ca:2087",
+   "host": "webupdates.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates.transunion.ca:2096",
+   "host": "webupdates.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates.transunion.ca:443",
+   "host": "webupdates.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webupdates.transunion.ca:8443",
+   "host": "webupdates.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.4",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.creditprofile.transunion.ca:2083",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.creditprofile.transunion.ca:2087",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.creditprofile.transunion.ca:2096",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.creditprofile.transunion.ca:443",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.creditprofile.transunion.ca:8443",
+   "host": "www.creditprofile.transunion.ca",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.92.240",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

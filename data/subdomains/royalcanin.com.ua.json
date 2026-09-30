@@ -1,0 +1,689 @@
+{
+ "domain": "royalcanin.com.ua",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 61,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "academy.royalcanin.com.ua",
+  "breeders.royalcanin.com.ua",
+  "care.royalcanin.com.ua",
+  "care5.royalcanin.com.ua",
+  "cat2vet.royalcanin.com.ua",
+  "cloud.royalcanin.com.ua",
+  "coupon.royalcanin.com.ua",
+  "cucenya.royalcanin.com.ua",
+  "gift.royalcanin.com.ua",
+  "gift5.royalcanin.com.ua",
+  "happyhours.royalcanin.com.ua",
+  "kitten.royalcanin.com.ua",
+  "koshenya.royalcanin.com.ua",
+  "koshenya3.royalcanin.com.ua",
+  "mail.royalcanin.com.ua",
+  "mail2.royalcanin.com.ua",
+  "multifunction.royalcanin.com.ua",
+  "multifunction5.royalcanin.com.ua",
+  "mykitten.royalcanin.com.ua",
+  "mykittena.royalcanin.com.ua",
+  "mypet.royalcanin.com.ua",
+  "mypuppy.royalcanin.com.ua",
+  "nutrition.royalcanin.com.ua",
+  "promo.royalcanin.com.ua",
+  "puppy.royalcanin.com.ua",
+  "quality.royalcanin.com.ua",
+  "registration.royalcanin.com.ua",
+  "registrationq.royalcanin.com.ua",
+  "royalcanin.com.ua",
+  "sterilised.royalcanin.com.ua",
+  "sterilisedk.royalcanin.com.ua",
+  "val.royalcanin.com.ua",
+  "vetservices.royalcanin.com.ua",
+  "webshop.royalcanin.com.ua",
+  "wheretobuy.royalcanin.com.ua",
+  "www.breeders.royalcanin.com.ua",
+  "www.care.royalcanin.com.ua",
+  "www.cat2vet.royalcanin.com.ua",
+  "www.cloud.royalcanin.com.ua",
+  "www.coupon.royalcanin.com.ua",
+  "www.cucenya.royalcanin.com.ua",
+  "www.gift.royalcanin.com.ua",
+  "www.happyhours.royalcanin.com.ua",
+  "www.kitten.royalcanin.com.ua",
+  "www.koshenya.royalcanin.com.ua",
+  "www.mail.royalcanin.com.ua",
+  "www.mail2.royalcanin.com.ua",
+  "www.multifunction.royalcanin.com.ua",
+  "www.mykitten.royalcanin.com.ua",
+  "www.mypet.royalcanin.com.ua",
+  "www.mypuppy.royalcanin.com.ua",
+  "www.nutrition.royalcanin.com.ua",
+  "www.promo.royalcanin.com.ua",
+  "www.puppy.royalcanin.com.ua",
+  "www.quality.royalcanin.com.ua",
+  "www.registration.royalcanin.com.ua",
+  "www.royalcanin.com.ua",
+  "www.sterilised.royalcanin.com.ua",
+  "www.vetservices.royalcanin.com.ua",
+  "www.wheretobuy.royalcanin.com.ua",
+  "wwwo.cat2vet.royalcanin.com.ua"
+ ],
+ "http": [
+  {
+   "url": "http://breeders.royalcanin.com.ua:80",
+   "host": "breeders.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://care.royalcanin.com.ua:80",
+   "host": "care.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cat2vet.royalcanin.com.ua:80",
+   "host": "cat2vet.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 200,
+   "title": "Success!",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "54.38.178.138",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cloud.royalcanin.com.ua:80",
+   "host": "cloud.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://coupon.royalcanin.com.ua:80",
+   "host": "coupon.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.126",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cucenya.royalcanin.com.ua:80",
+   "host": "cucenya.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://happyhours.royalcanin.com.ua:80",
+   "host": "happyhours.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.112",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://koshenya.royalcanin.com.ua:80",
+   "host": "koshenya.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mykitten.royalcanin.com.ua:80",
+   "host": "mykitten.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mypuppy.royalcanin.com.ua:80",
+   "host": "mypuppy.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://nutrition.royalcanin.com.ua:80",
+   "host": "nutrition.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.3.75",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://quality.royalcanin.com.ua:80",
+   "host": "quality.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.15",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://registration.royalcanin.com.ua:80",
+   "host": "registration.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.com.ua:80",
+   "host": "royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://wheretobuy.royalcanin.com.ua:80",
+   "host": "wheretobuy.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.cat2vet.royalcanin.com.ua:80",
+   "host": "www.cat2vet.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 404,
+   "title": "Website www.cat2vet.royalcanin.com.ua not configured",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.68.16.190",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.happyhours.royalcanin.com.ua:80",
+   "host": "www.happyhours.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.110",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.nutrition.royalcanin.com.ua:80",
+   "host": "www.nutrition.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.3.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.com.ua:80",
+   "host": "www.royalcanin.com.ua",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://breeders.royalcanin.com.ua:443",
+   "host": "breeders.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin \u00b7 Breeders Club \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "OneTrust",
+    "Varnish",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://care.royalcanin.com.ua:443",
+   "host": "care.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cat2vet.royalcanin.com.ua:443",
+   "host": "cat2vet.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "54.38.178.138",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cloud.royalcanin.com.ua:443",
+   "host": "cloud.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 200,
+   "title": "404 | Royal Canin",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://coupon.royalcanin.com.ua:443",
+   "host": "coupon.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.126",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cucenya.royalcanin.com.ua:443",
+   "host": "cucenya.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://happyhours.royalcanin.com.ua:443",
+   "host": "happyhours.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.112",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://koshenya.royalcanin.com.ua:443",
+   "host": "koshenya.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mykitten.royalcanin.com.ua:443",
+   "host": "mykitten.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u0438\u0439 \u043d\u0430\u0431\u0456\u0440 Royal Canin \u0434\u043b\u044f \u043a\u043e\u0448\u0435\u043d\u044f\u0442",
+   "webserver": "nginx/1.28.3 (Ubuntu)",
+   "technologies": [
+    "Clipboard.js",
+    "Cloudflare",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx:1.28.3",
+    "OneTrust",
+    "Ubuntu",
+    "Varnish",
+    "cdnjs"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mypuppy.royalcanin.com.ua:443",
+   "host": "mypuppy.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u0438\u0439 \u043d\u0430\u0431\u0456\u0440 Royal Canin \u0434\u043b\u044f \u0446\u0443\u0446\u0435\u043d\u044f\u0442",
+   "webserver": "nginx/1.28.3 (Ubuntu)",
+   "technologies": [
+    "Clipboard.js",
+    "Cloudflare",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Nginx:1.28.3",
+    "OneTrust",
+    "Ubuntu",
+    "Varnish",
+    "cdnjs"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://nutrition.royalcanin.com.ua:443",
+   "host": "nutrition.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.3.75",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://quality.royalcanin.com.ua:443",
+   "host": "quality.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.15",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://registration.royalcanin.com.ua:443",
+   "host": "registration.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.com.ua:443",
+   "host": "royalcanin.com.ua",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://wheretobuy.royalcanin.com.ua:443",
+   "host": "wheretobuy.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.cat2vet.royalcanin.com.ua:443",
+   "host": "www.cat2vet.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.68.16.190",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.nutrition.royalcanin.com.ua:443",
+   "host": "www.nutrition.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.3.37",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcanin.com.ua:443",
+   "host": "www.royalcanin.com.ua",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "domain": "skagenfunds.de",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 20,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "enterpriseregistration.skagenfunds.de",
+  "enterpriseregistrationi.skagenfunds.de",
+  "im.skagenfunds.de",
+  "lyncdiscover.skagenfunds.de",
+  "lyncdiscover9.skagenfunds.de",
+  "observe-t.skagenfunds.de",
+  "observe.skagenfunds.de",
+  "observee.skagenfunds.de",
+  "securemail.skagenfunds.de",
+  "sip.skagenfunds.de",
+  "skagenfunds.de",
+  "t-www.skagenfunds.de",
+  "test-www.skagenfunds.de",
+  "www.enterpriseregistration.skagenfunds.de",
+  "www.observe-t.skagenfunds.de",
+  "www.observe.skagenfunds.de",
+  "www.securemail.skagenfunds.de",
+  "www.skagenfunds.de",
+  "www.test-www.skagenfunds.de",
+  "wwwm.skagenfunds.de"
+ ],
+ "http": [
+  {
+   "url": "http://observe-t.skagenfunds.de:80",
+   "host": "observe-t.skagenfunds.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe.skagenfunds.de:80",
+   "host": "observe.skagenfunds.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://skagenfunds.de:80",
+   "host": "skagenfunds.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.skagenfunds.de:80",
+   "host": "www.skagenfunds.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe-t.skagenfunds.de:443",
+   "host": "observe-t.skagenfunds.de",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.skagenfunds.de:443",
+   "host": "observe.skagenfunds.de",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://skagenfunds.de:443",
+   "host": "skagenfunds.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.skagenfunds.de:443",
+   "host": "www.skagenfunds.de",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

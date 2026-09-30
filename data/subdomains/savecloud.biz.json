@@ -1,0 +1,38 @@
+{
+ "domain": "savecloud.biz",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|dib-vdp"
+ ],
+ "subdomains": [
+  "savecloud.biz",
+  "www.savecloud.biz"
+ ],
+ "http": [
+  {
+   "url": "http://savecloud.biz:80",
+   "host": "savecloud.biz",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.130.190",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.savecloud.biz:80",
+   "host": "www.savecloud.biz",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.130.190",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

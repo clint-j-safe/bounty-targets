@@ -1,0 +1,424 @@
+{
+ "domain": "shakeshack.co.uk",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "hostmaster.shakeshack.co.uk",
+  "mail.shakeshack.co.uk",
+  "shakeshack.co.uk",
+  "www.hostmaster.shakeshack.co.uk",
+  "www.mail.shakeshack.co.uk",
+  "www.shakeshack.co.uk",
+  "www7.shakeshack.co.uk"
+ ],
+ "http": [
+  {
+   "url": "http://mail.shakeshack.co.uk:2082",
+   "host": "mail.shakeshack.co.uk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.shakeshack.co.uk:2095",
+   "host": "mail.shakeshack.co.uk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.shakeshack.co.uk:80",
+   "host": "mail.shakeshack.co.uk",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.shakeshack.co.uk:8080",
+   "host": "mail.shakeshack.co.uk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shakeshack.co.uk:2082",
+   "host": "shakeshack.co.uk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shakeshack.co.uk:2095",
+   "host": "shakeshack.co.uk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shakeshack.co.uk:80",
+   "host": "shakeshack.co.uk",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shakeshack.co.uk:8080",
+   "host": "shakeshack.co.uk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shakeshack.co.uk:2082",
+   "host": "www.shakeshack.co.uk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shakeshack.co.uk:2095",
+   "host": "www.shakeshack.co.uk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shakeshack.co.uk:80",
+   "host": "www.shakeshack.co.uk",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shakeshack.co.uk:8080",
+   "host": "www.shakeshack.co.uk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.shakeshack.co.uk:2083",
+   "host": "mail.shakeshack.co.uk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.shakeshack.co.uk:2087",
+   "host": "mail.shakeshack.co.uk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.shakeshack.co.uk:2096",
+   "host": "mail.shakeshack.co.uk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.shakeshack.co.uk:443",
+   "host": "mail.shakeshack.co.uk",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.shakeshack.co.uk:8443",
+   "host": "mail.shakeshack.co.uk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shakeshack.co.uk:2083",
+   "host": "shakeshack.co.uk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shakeshack.co.uk:2087",
+   "host": "shakeshack.co.uk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shakeshack.co.uk:2096",
+   "host": "shakeshack.co.uk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shakeshack.co.uk:443",
+   "host": "shakeshack.co.uk",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shakeshack.co.uk:8443",
+   "host": "shakeshack.co.uk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.32.175",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shakeshack.co.uk:2083",
+   "host": "www.shakeshack.co.uk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shakeshack.co.uk:2087",
+   "host": "www.shakeshack.co.uk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shakeshack.co.uk:2096",
+   "host": "www.shakeshack.co.uk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shakeshack.co.uk:443",
+   "host": "www.shakeshack.co.uk",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shakeshack.co.uk:8443",
+   "host": "www.shakeshack.co.uk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

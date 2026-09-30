@@ -1,0 +1,76 @@
+{
+ "domain": "storebrandfunds.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 12,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "onprem.storebrandfunds.com",
+  "storebrandfunds.com",
+  "www-t.onprem.storebrandfunds.com",
+  "www-t.storebrandfunds.com",
+  "www-ts.storebrandfunds.com",
+  "www-tss.storebrandfunds.com",
+  "www.onprem.storebrandfunds.com",
+  "www.storebrandfunds.com",
+  "www.www-t.onprem.storebrandfunds.com",
+  "www.www-t.storebrandfunds.com",
+  "www.www-ts.storebrandfunds.com",
+  "wwww.onprem.storebrandfunds.com"
+ ],
+ "http": [
+  {
+   "url": "http://storebrandfunds.com:80",
+   "host": "storebrandfunds.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.storebrandfunds.com:80",
+   "host": "www.storebrandfunds.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://storebrandfunds.com:443",
+   "host": "storebrandfunds.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.storebrandfunds.com:443",
+   "host": "www.storebrandfunds.com",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

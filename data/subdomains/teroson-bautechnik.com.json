@@ -1,0 +1,411 @@
+{
+ "domain": "teroson-bautechnik.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 19,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "allwetter.teroson-bautechnik.com",
+  "allwetter9.teroson-bautechnik.com",
+  "bg.teroson-bautechnik.com",
+  "ee.teroson-bautechnik.com",
+  "hu.teroson-bautechnik.com",
+  "profiguide.teroson-bautechnik.com",
+  "teroson-bautechnik.com",
+  "uk-profiguide.teroson-bautechnik.com",
+  "www.allwetter.teroson-bautechnik.com",
+  "www.bg.teroson-bautechnik.com",
+  "www.ee.teroson-bautechnik.com",
+  "www.hu.teroson-bautechnik.com",
+  "www.profiguide.teroson-bautechnik.com",
+  "www.teroson-bautechnik.com",
+  "www.uk-profiguide.teroson-bautechnik.com",
+  "www3.hu.teroson-bautechnik.com",
+  "wwwe.teroson-bautechnik.com",
+  "wwwo.bg.teroson-bautechnik.com",
+  "wwwq.ee.teroson-bautechnik.com"
+ ],
+ "http": [
+  {
+   "url": "http://allwetter.teroson-bautechnik.com:80",
+   "host": "allwetter.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.68",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bg.teroson-bautechnik.com:80",
+   "host": "bg.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ee.teroson-bautechnik.com:80",
+   "host": "ee.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.125",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://hu.teroson-bautechnik.com:80",
+   "host": "hu.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://profiguide.teroson-bautechnik.com:80",
+   "host": "profiguide.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.35",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://teroson-bautechnik.com:80",
+   "host": "teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.245.97",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.allwetter.teroson-bautechnik.com:80",
+   "host": "www.allwetter.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.41",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.bg.teroson-bautechnik.com:80",
+   "host": "www.bg.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.ee.teroson-bautechnik.com:80",
+   "host": "www.ee.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.hu.teroson-bautechnik.com:80",
+   "host": "www.hu.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.profiguide.teroson-bautechnik.com:80",
+   "host": "www.profiguide.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.35",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.teroson-bautechnik.com:80",
+   "host": "www.teroson-bautechnik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.245.110",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://allwetter.teroson-bautechnik.com:443",
+   "host": "allwetter.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.68",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bg.teroson-bautechnik.com:443",
+   "host": "bg.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ee.teroson-bautechnik.com:443",
+   "host": "ee.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.125",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://hu.teroson-bautechnik.com:443",
+   "host": "hu.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://profiguide.teroson-bautechnik.com:443",
+   "host": "profiguide.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.35",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://teroson-bautechnik.com:443",
+   "host": "teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.156.245.97",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.allwetter.teroson-bautechnik.com:443",
+   "host": "www.allwetter.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.41",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.bg.teroson-bautechnik.com:443",
+   "host": "www.bg.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.ee.teroson-bautechnik.com:443",
+   "host": "www.ee.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.hu.teroson-bautechnik.com:443",
+   "host": "www.hu.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.154.253.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.profiguide.teroson-bautechnik.com:443",
+   "host": "www.profiguide.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.217.35",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.teroson-bautechnik.com:443",
+   "host": "www.teroson-bautechnik.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.156.245.110",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

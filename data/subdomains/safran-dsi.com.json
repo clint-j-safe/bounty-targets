@@ -1,0 +1,368 @@
+{
+ "domain": "safran-dsi.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 65,
+ "programs": [
+  "hackerone|dib-vdp"
+ ],
+ "subdomains": [
+  "225434cf-1c40-4885-9a46-c2feb7c650d5.safran-dsi.com",
+  "8200-nh-2.sma.safran-dsi.com",
+  "8200-nh-3.sma.safran-dsi.com",
+  "admin-edge8.safran-dsi.com",
+  "api.safran-dsi.com",
+  "assets.safran-dsi.com",
+  "backup.safran-dsi.com",
+  "beta.safran-dsi.com",
+  "careers-deploy.safran-dsi.com",
+  "careers.safran-dsi.com",
+  "careers2024.safran-dsi.com",
+  "casa-autodiscover.safran-dsi.com",
+  "cdn.safran-dsi.com",
+  "chi2.safran-dsi.com",
+  "dashboard.safran-dsi.com",
+  "dev.safran-dsi.com",
+  "dracula.safran-dsi.com",
+  "home.safran-dsi.com",
+  "int.safran-dsi.com",
+  "internal.safran-dsi.com",
+  "market.safran-dsi.com",
+  "mobile.safran-dsi.com",
+  "payments.safran-dsi.com",
+  "safran-dsi.com",
+  "sbc01.safran-dsi.com",
+  "sbc02.safran-dsi.com",
+  "sma.safran-dsi.com",
+  "sso.safran-dsi.com",
+  "staging.safran-dsi.com",
+  "static.safran-dsi.com",
+  "support.safran-dsi.com",
+  "test.safran-dsi.com",
+  "training.safran-dsi.com",
+  "v1-careers.safran-dsi.com",
+  "webmail.safran-dsi.com",
+  "wildcard.safran-dsi.com",
+  "www.225434cf-1c40-4885-9a46-c2feb7c650d5.safran-dsi.com",
+  "www.admin-edge8.safran-dsi.com",
+  "www.assets.safran-dsi.com",
+  "www.backup.safran-dsi.com",
+  "www.beta.safran-dsi.com",
+  "www.careers.safran-dsi.com",
+  "www.careers2024.safran-dsi.com",
+  "www.casa-autodiscover.safran-dsi.com",
+  "www.cdn.safran-dsi.com",
+  "www.chi2.safran-dsi.com",
+  "www.dashboard.safran-dsi.com",
+  "www.dev.safran-dsi.com",
+  "www.dracula.safran-dsi.com",
+  "www.int.safran-dsi.com",
+  "www.internal.safran-dsi.com",
+  "www.mobile.safran-dsi.com",
+  "www.payments.safran-dsi.com",
+  "www.safran-dsi.com",
+  "www.sbc01.safran-dsi.com",
+  "www.sbc02.safran-dsi.com",
+  "www.sma.safran-dsi.com",
+  "www.sso.safran-dsi.com",
+  "www.staging.safran-dsi.com",
+  "www.static.safran-dsi.com",
+  "www.test.safran-dsi.com",
+  "www.training.safran-dsi.com",
+  "www.v1-careers.safran-dsi.com",
+  "www.wildcard.safran-dsi.com",
+  "wwwl.safran-dsi.com"
+ ],
+ "http": [
+  {
+   "url": "http://careers.safran-dsi.com:80",
+   "host": "careers.safran-dsi.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.72.77.70",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safran-dsi.com:2082",
+   "host": "safran-dsi.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safran-dsi.com:2095",
+   "host": "safran-dsi.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safran-dsi.com:80",
+   "host": "safran-dsi.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safran-dsi.com:8080",
+   "host": "safran-dsi.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safran-dsi.com:2082",
+   "host": "www.safran-dsi.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safran-dsi.com:2095",
+   "host": "www.safran-dsi.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safran-dsi.com:80",
+   "host": "www.safran-dsi.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safran-dsi.com:8080",
+   "host": "www.safran-dsi.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://careers.safran-dsi.com:443",
+   "host": "careers.safran-dsi.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Careers at Safran DSI",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Bootstrap:3.4.8",
+    "Google Analytics",
+    "HSTS",
+    "Java",
+    "Lightbox",
+    "YouTube",
+    "jQuery",
+    "jQuery Migrate"
+   ],
+   "cdn": true,
+   "ip": "20.72.77.70",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safran-dsi.com:2083",
+   "host": "safran-dsi.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safran-dsi.com:2087",
+   "host": "safran-dsi.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safran-dsi.com:2096",
+   "host": "safran-dsi.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safran-dsi.com:443",
+   "host": "safran-dsi.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safran-dsi.com:8443",
+   "host": "safran-dsi.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safran-dsi.com:2083",
+   "host": "www.safran-dsi.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safran-dsi.com:2087",
+   "host": "www.safran-dsi.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safran-dsi.com:2096",
+   "host": "www.safran-dsi.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safran-dsi.com:443",
+   "host": "www.safran-dsi.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safran-dsi.com:8443",
+   "host": "www.safran-dsi.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.20.22.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

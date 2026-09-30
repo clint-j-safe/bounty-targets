@@ -1,0 +1,259 @@
+{
+ "domain": "securenet.vodafone.it",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 9,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "hl.mobile.securenet.vodafone.it",
+  "hl.securenet.vodafone.it",
+  "hlu.mobile.securenet.vodafone.it",
+  "mobile.securenet.vodafone.it",
+  "mobileo.securenet.vodafone.it",
+  "preprod.mobile.securenet.vodafone.it",
+  "preprod.securenet.vodafone.it",
+  "preprodq.securenet.vodafone.it",
+  "securenet.vodafone.it"
+ ],
+ "http": [
+  {
+   "url": "http://hl.securenet.vodafone.it:80",
+   "host": "hl.securenet.vodafone.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:2082",
+   "host": "securenet.vodafone.it",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:2095",
+   "host": "securenet.vodafone.it",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:3000",
+   "host": "securenet.vodafone.it",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:80",
+   "host": "securenet.vodafone.it",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8000",
+   "host": "securenet.vodafone.it",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8001",
+   "host": "securenet.vodafone.it",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8008",
+   "host": "securenet.vodafone.it",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8080",
+   "host": "securenet.vodafone.it",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8081",
+   "host": "securenet.vodafone.it",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8090",
+   "host": "securenet.vodafone.it",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:81",
+   "host": "securenet.vodafone.it",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8443",
+   "host": "securenet.vodafone.it",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:8888",
+   "host": "securenet.vodafone.it",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:9000",
+   "host": "securenet.vodafone.it",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:9090",
+   "host": "securenet.vodafone.it",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securenet.vodafone.it:9443",
+   "host": "securenet.vodafone.it",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://hl.securenet.vodafone.it:443",
+   "host": "hl.securenet.vodafone.it",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Authorization Required",
+   "webserver": "",
+   "technologies": [
+    "Basic",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securenet.vodafone.it:443",
+   "host": "securenet.vodafone.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva",
+    "jQuery:3.6.0"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

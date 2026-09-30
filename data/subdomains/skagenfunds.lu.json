@@ -1,0 +1,137 @@
+{
+ "domain": "skagenfunds.lu",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 13,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "enterpriseregistration.skagenfunds.lu",
+  "enterpriseregistrationg.skagenfunds.lu",
+  "lyncdiscover.skagenfunds.lu",
+  "lyncdiscovera.skagenfunds.lu",
+  "observe-t.skagenfunds.lu",
+  "observe.skagenfunds.lu",
+  "skagenfunds.lu",
+  "t-www.skagenfunds.lu",
+  "www.enterpriseregistration.skagenfunds.lu",
+  "www.observe-t.skagenfunds.lu",
+  "www.observe.skagenfunds.lu",
+  "www.skagenfunds.lu",
+  "wwwm.skagenfunds.lu"
+ ],
+ "http": [
+  {
+   "url": "http://observe-t.skagenfunds.lu:80",
+   "host": "observe-t.skagenfunds.lu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe.skagenfunds.lu:80",
+   "host": "observe.skagenfunds.lu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://skagenfunds.lu:80",
+   "host": "skagenfunds.lu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.skagenfunds.lu:80",
+   "host": "www.skagenfunds.lu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe-t.skagenfunds.lu:443",
+   "host": "observe-t.skagenfunds.lu",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.skagenfunds.lu:443",
+   "host": "observe.skagenfunds.lu",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://skagenfunds.lu:443",
+   "host": "skagenfunds.lu",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.skagenfunds.lu:443",
+   "host": "www.skagenfunds.lu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

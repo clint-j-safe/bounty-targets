@@ -1,0 +1,91 @@
+{
+ "domain": "starbucks.com.kz",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 21,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "app.starbucks.com.kz",
+  "appi.starbucks.com.kz",
+  "card.starbucks.com.kz",
+  "carde.starbucks.com.kz",
+  "cards.starbucks.com.kz",
+  "cardsm.starbucks.com.kz",
+  "cms.starbucks.com.kz",
+  "dev.starbucks.com.kz",
+  "devg.starbucks.com.kz",
+  "mobile.starbucks.com.kz",
+  "starbucks.com.kz",
+  "tst.starbucks.com.kz",
+  "www.app.starbucks.com.kz",
+  "www.card.starbucks.com.kz",
+  "www.cards.starbucks.com.kz",
+  "www.cms.starbucks.com.kz",
+  "www.dev.starbucks.com.kz",
+  "www.mobile.starbucks.com.kz",
+  "www.starbucks.com.kz",
+  "www.tst.starbucks.com.kz",
+  "wwwa.starbucks.com.kz"
+ ],
+ "http": [
+  {
+   "url": "http://starbucks.com.kz:80",
+   "host": "starbucks.com.kz",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "87.199.131.122",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.starbucks.com.kz:80",
+   "host": "www.starbucks.com.kz",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "87.199.131.122",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://starbucks.com.kz:443",
+   "host": "starbucks.com.kz",
+   "port": "443",
+   "status_code": 200,
+   "title": "Starbucks \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "87.199.131.122",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.starbucks.com.kz:443",
+   "host": "www.starbucks.com.kz",
+   "port": "443",
+   "status_code": 200,
+   "title": "Starbucks \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "87.199.131.122",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

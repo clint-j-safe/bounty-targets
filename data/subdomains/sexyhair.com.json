@@ -1,0 +1,431 @@
+{
+ "domain": "sexyhair.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 71,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.sexyhair.com",
+  "3com.sexyhair.mxmx.sexyhair.com",
+  "adfs.sexyhair.com",
+  "app-community.sexyhair.com",
+  "app-communityk.sexyhair.com",
+  "assets.sexyhair.com",
+  "assetsc.sexyhair.com",
+  "community-qa.sexyhair.com",
+  "community-staging.sexyhair.com",
+  "community-stagingo.sexyhair.com",
+  "community.sexyhair.com",
+  "communityg.sexyhair.com",
+  "content.sexyhair.com",
+  "dev.sexyhair.com",
+  "devs.sexyhair.com",
+  "email.sexyhair.com",
+  "fileshare.sexyhair.com",
+  "filesharekw.sexyhair.com",
+  "jetmobile.sexyhair.com",
+  "jetmobile7.sexyhair.com",
+  "mail.sexyhair.com",
+  "mta-sts.sexyhair.com",
+  "mxmx.sexyhair.com",
+  "portal.sexyhair.com",
+  "portalk.sexyhair.com",
+  "proshop.sexyhair.com",
+  "proshopk.sexyhair.com",
+  "qa.sexyhair.com",
+  "salestracking.sexyhair.com",
+  "salestracking9.sexyhair.com",
+  "secureserver.sexyhair.com",
+  "sexyhair.com",
+  "sexyhair.mxmx.sexyhair.com",
+  "sms.sexyhair.com",
+  "sms5.sexyhair.com",
+  "smstest.sexyhair.com",
+  "smstesti.sexyhair.com",
+  "spanish.sexyhair.com",
+  "spanishdev.sexyhair.com",
+  "spanishtest.sexyhair.com",
+  "staging.sexyhair.com",
+  "store-assets.sexyhair.com",
+  "store-qa-assets.sexyhair.com",
+  "store-qa-assetsc.sexyhair.com",
+  "store-qa.sexyhair.com",
+  "store-skin.sexyhair.com",
+  "store-staging-assets.sexyhair.com",
+  "store-staging-assetso.sexyhair.com",
+  "store-staging.sexyhair.com",
+  "store-staginge.sexyhair.com",
+  "store.sexyhair.com",
+  "storei.sexyhair.com",
+  "sts.sexyhair.com",
+  "test.sexyhair.com",
+  "webmail.sexyhair.com",
+  "webmailg.sexyhair.com",
+  "workamajig.sexyhair.com",
+  "www.adfs.sexyhair.com",
+  "www.assets.sexyhair.com",
+  "www.fileshare.sexyhair.com",
+  "www.filesharekw.sexyhair.com",
+  "www.jetmobile.sexyhair.com",
+  "www.sexyhair.com",
+  "www.sms.sexyhair.com",
+  "www.smstest.sexyhair.com",
+  "www.webmail.sexyhair.com",
+  "www7.adfs.sexyhair.com",
+  "wwwa.sms.sexyhair.com",
+  "wwwe.fileshare.sexyhair.com",
+  "wwwg.jetmobile.sexyhair.com",
+  "wwwy.sexyhair.com"
+ ],
+ "http": [
+  {
+   "url": "http://mta-sts.sexyhair.com:80",
+   "host": "mta-sts.sexyhair.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sexyhair.com:2082",
+   "host": "sexyhair.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sexyhair.com:2095",
+   "host": "sexyhair.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sexyhair.com:80",
+   "host": "sexyhair.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "Kinsta",
+    "WordPress"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sexyhair.com:8080",
+   "host": "sexyhair.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sexyhair.com:2082",
+   "host": "www.sexyhair.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sexyhair.com:2095",
+   "host": "www.sexyhair.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sexyhair.com:80",
+   "host": "www.sexyhair.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "Kinsta",
+    "WordPress"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sexyhair.com:8080",
+   "host": "www.sexyhair.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mta-sts.sexyhair.com:443",
+   "host": "mta-sts.sexyhair.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.249.141.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sexyhair.com:2083",
+   "host": "sexyhair.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sexyhair.com:2087",
+   "host": "sexyhair.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sexyhair.com:2096",
+   "host": "sexyhair.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sexyhair.com:443",
+   "host": "sexyhair.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3",
+    "Kinsta",
+    "WordPress"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sexyhair.com:8443",
+   "host": "sexyhair.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sexyhair.com:2083",
+   "host": "www.sexyhair.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sexyhair.com:2087",
+   "host": "www.sexyhair.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sexyhair.com:2096",
+   "host": "www.sexyhair.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sexyhair.com:443",
+   "host": "www.sexyhair.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SexyHair \u2013 We create the products, you make them Sexy.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Bootstrap",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Tag Manager",
+    "Gravity Forms:3.1.1",
+    "HSTS",
+    "HTTP/3",
+    "Kinsta",
+    "Klaviyo",
+    "MySQL",
+    "OneTrust",
+    "PHP",
+    "Redux Framework:4.4.12.2",
+    "Sassy Social Share:3.3.79",
+    "The Events Calendar",
+    "UserWay",
+    "WordPress:6.9.9",
+    "imagesLoaded:5.0.0",
+    "jQuery",
+    "jQuery Migrate:3.4.1",
+    "jQuery UI",
+    "reCAPTCHA",
+    "wpBakery"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sexyhair.com:8443",
+   "host": "www.sexyhair.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "162.159.135.42",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

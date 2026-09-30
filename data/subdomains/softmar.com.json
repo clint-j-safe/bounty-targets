@@ -1,0 +1,59 @@
+{
+ "domain": "softmar.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 17,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "db1.softmar.com",
+  "fw1.softmar.com",
+  "mail.softmar.com",
+  "maul.softmar.com",
+  "members.softmar.com",
+  "ns1.softmar.com",
+  "ns2.softmar.com",
+  "rackspace.softmar.com",
+  "sdds.softmar.com",
+  "sddstest.softmar.com",
+  "sddstestq.softmar.com",
+  "softmar.com",
+  "www.members.softmar.com",
+  "www.rackspace.softmar.com",
+  "www.sdds.softmar.com",
+  "www.sddstest.softmar.com",
+  "www.softmar.com"
+ ],
+ "http": [
+  {
+   "url": "https://sdds.softmar.com:443",
+   "host": "sdds.softmar.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache-Coyote/1.1",
+   "technologies": [
+    "Apache Tomcat",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "99.83.237.150",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sddstest.softmar.com:443",
+   "host": "sddstest.softmar.com",
+   "port": "443",
+   "status_code": 502,
+   "title": "502 Bad Gateway",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.248.154.125",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

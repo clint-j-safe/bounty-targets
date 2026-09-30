@@ -1,0 +1,235 @@
+{
+ "domain": "royalcaninevent.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 31,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "kr.royalcaninevent.com",
+  "kr2.royalcaninevent.com",
+  "kr2o.royalcaninevent.com",
+  "lifestage.royalcaninevent.com",
+  "m.royalcaninevent.com",
+  "m.test.royalcaninevent.com",
+  "micrm.royalcaninevent.com",
+  "mua.royalcaninevent.com",
+  "mycatdiary.royalcaninevent.com",
+  "origin.royalcaninevent.com",
+  "royalcaninevent.com",
+  "stg.royalcaninevent.com",
+  "symposium.royalcaninevent.com",
+  "tableau.royalcaninevent.com",
+  "test.royalcaninevent.com",
+  "testm.royalcaninevent.com",
+  "tr.royalcaninevent.com",
+  "www.kr.royalcaninevent.com",
+  "www.lifestage.royalcaninevent.com",
+  "www.m.royalcaninevent.com",
+  "www.m.test.royalcaninevent.com",
+  "www.micrm.royalcaninevent.com",
+  "www.mycatdiary.royalcaninevent.com",
+  "www.royalcaninevent.com",
+  "www.stg.royalcaninevent.com",
+  "www.symposium.royalcaninevent.com",
+  "www.tableau.royalcaninevent.com",
+  "www.test.royalcaninevent.com",
+  "www.testm.royalcaninevent.com",
+  "www.tr.royalcaninevent.com",
+  "wwwf.royalcaninevent.com"
+ ],
+ "http": [
+  {
+   "url": "http://kr.royalcaninevent.com:80",
+   "host": "kr.royalcaninevent.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "210.116.86.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://kr2.royalcaninevent.com:80",
+   "host": "kr2.royalcaninevent.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx/1.20.1",
+   "technologies": [
+    "Nginx:1.20.1"
+   ],
+   "cdn": false,
+   "ip": "211.37.149.143",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://lifestage.royalcaninevent.com:80",
+   "host": "lifestage.royalcaninevent.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "210.116.86.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mycatdiary.royalcaninevent.com:80",
+   "host": "mycatdiary.royalcaninevent.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "210.116.86.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcaninevent.com:80",
+   "host": "royalcaninevent.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://stg.royalcaninevent.com:80",
+   "host": "stg.royalcaninevent.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://symposium.royalcaninevent.com:80",
+   "host": "symposium.royalcaninevent.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "210.116.86.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcaninevent.com:80",
+   "host": "www.royalcaninevent.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://kr2.royalcaninevent.com:443",
+   "host": "kr2.royalcaninevent.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx/1.20.1",
+   "technologies": [
+    "Nginx:1.20.1",
+    "PHP:8.2.30"
+   ],
+   "cdn": false,
+   "ip": "211.37.149.143",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://lifestage.royalcaninevent.com:443",
+   "host": "lifestage.royalcaninevent.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "210.116.86.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcaninevent.com:443",
+   "host": "royalcaninevent.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://stg.royalcaninevent.com:443",
+   "host": "stg.royalcaninevent.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "\ubc18\ub824\ub3d9\ubb3c \ub9de\ucda4 \uc0ac\ub8cc \ub85c\uc584\uce90\ub2cc \ud074\ub7fd | RoyalCanin",
+   "webserver": "",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "OneTrust",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcaninevent.com:443",
+   "host": "www.royalcaninevent.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "\ubc18\ub824\ub3d9\ubb3c \ub9de\ucda4 \uc0ac\ub8cc \ub85c\uc584\uce90\ub2cc \ud074\ub7fd | RoyalCanin",
+   "webserver": "",
+   "technologies": [
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Naver Analytics",
+    "OneTrust",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

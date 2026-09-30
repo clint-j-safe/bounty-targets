@@ -1,0 +1,62 @@
+{
+ "domain": "timequities.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "timequities.com",
+  "www.timequities.com"
+ ],
+ "http": [
+  {
+   "url": "http://timequities.com:80",
+   "host": "timequities.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.123.207",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.timequities.com:80",
+   "host": "www.timequities.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.122.210",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://timequities.com:443",
+   "host": "timequities.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.123.207",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.timequities.com:443",
+   "host": "www.timequities.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Constellix HTTP Redirection",
+   "technologies": [],
+   "cdn": false,
+   "ip": "208.80.122.210",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

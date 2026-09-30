@@ -1,0 +1,124 @@
+{
+ "domain": "syoss.ro",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "m.syoss.ro",
+  "syoss.ro",
+  "www.m.syoss.ro",
+  "www.syoss.ro"
+ ],
+ "http": [
+  {
+   "url": "http://m.syoss.ro:80",
+   "host": "m.syoss.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.219.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://syoss.ro:80",
+   "host": "syoss.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.63",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.m.syoss.ro:80",
+   "host": "www.m.syoss.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.219.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.syoss.ro:80",
+   "host": "www.syoss.ro",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.199.55",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://m.syoss.ro:443",
+   "host": "m.syoss.ro",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.219.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://syoss.ro:443",
+   "host": "syoss.ro",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.63",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.m.syoss.ro:443",
+   "host": "www.m.syoss.ro",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.154.219.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

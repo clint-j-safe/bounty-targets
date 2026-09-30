@@ -1,0 +1,74 @@
+{
+ "domain": "sdrfix.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "sdrfix.com",
+  "www.sdrfix.com"
+ ],
+ "http": [
+  {
+   "url": "http://sdrfix.com:80",
+   "host": "sdrfix.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.207.137",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sdrfix.com:8080",
+   "host": "sdrfix.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.207.137",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sdrfix.com:80",
+   "host": "www.sdrfix.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.199.154",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sdrfix.com:8080",
+   "host": "www.sdrfix.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.199.154",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

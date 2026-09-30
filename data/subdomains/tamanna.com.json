@@ -1,0 +1,1791 @@
+{
+ "domain": "tamanna.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 54,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "123-nonexistant-dnsjedi-456.tamanna.com",
+  "admin.tamanna.com",
+  "airflow.tamanna.com",
+  "airflow5.tamanna.com",
+  "api.tamanna.com",
+  "app.tamanna.com",
+  "assets.tamanna.com",
+  "cdn.tamanna.com",
+  "dr.tamanna.com",
+  "e.my.tamanna.com",
+  "erp.tamanna.com",
+  "exporter.tamanna.com",
+  "gh-mail.tamanna.com",
+  "gh-mailc.tamanna.com",
+  "graphql.tamanna.com",
+  "graphqlc.tamanna.com",
+  "hostmaster.hostmaster.tamanna.com",
+  "hostmaster.tamanna.com",
+  "hostmaster.www.tamanna.com",
+  "hostmaster9.tamanna.com",
+  "hostmastera.hostmaster.hostmaster.tamanna.com",
+  "hostmasterc.hostmaster.tamanna.com",
+  "kibana.tamanna.com",
+  "kibanak.tamanna.com",
+  "ksa.tamanna.com",
+  "launch.tamanna.com",
+  "launch5.tamanna.com",
+  "logs.tamanna.com",
+  "mon.tamanna.com",
+  "msg.tamanna.com",
+  "my.tamanna.com",
+  "o649.e.my.tamanna.com",
+  "o649y.e.my.tamanna.com",
+  "prod.tamanna.com",
+  "productchecker.tamanna.com",
+  "rajwap.tamanna.com",
+  "seller-api.tamanna.com",
+  "seller-api9.tamanna.com",
+  "seller.tamanna.com",
+  "solr.tamanna.com",
+  "tamanna.com",
+  "track.tamanna.com",
+  "web.tamanna.com",
+  "www.admin.tamanna.com",
+  "www.api.tamanna.com",
+  "www.graphql.tamanna.com",
+  "www.ksa.tamanna.com",
+  "www.launch.tamanna.com",
+  "www.logs.tamanna.com",
+  "www.mon.tamanna.com",
+  "www.seller-api.tamanna.com",
+  "www.seller.tamanna.com",
+  "www.tamanna.com",
+  "www.track.tamanna.com"
+ ],
+ "http": [
+  {
+   "url": "http://admin.tamanna.com:2082",
+   "host": "admin.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:2083",
+   "host": "admin.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:2087",
+   "host": "admin.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:2095",
+   "host": "admin.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:2096",
+   "host": "admin.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:80",
+   "host": "admin.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:8080",
+   "host": "admin.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://admin.tamanna.com:8443",
+   "host": "admin.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:2082",
+   "host": "api.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:2083",
+   "host": "api.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:2087",
+   "host": "api.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:2095",
+   "host": "api.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:2096",
+   "host": "api.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:80",
+   "host": "api.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:8080",
+   "host": "api.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.tamanna.com:8443",
+   "host": "api.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:2082",
+   "host": "app.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:2083",
+   "host": "app.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:2087",
+   "host": "app.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:2095",
+   "host": "app.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:2096",
+   "host": "app.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:80",
+   "host": "app.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:8080",
+   "host": "app.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://app.tamanna.com:8443",
+   "host": "app.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://assets.tamanna.com:2082",
+   "host": "assets.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://assets.tamanna.com:2095",
+   "host": "assets.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://assets.tamanna.com:80",
+   "host": "assets.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://assets.tamanna.com:8080",
+   "host": "assets.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cdn.tamanna.com:2082",
+   "host": "cdn.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cdn.tamanna.com:2095",
+   "host": "cdn.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cdn.tamanna.com:80",
+   "host": "cdn.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cdn.tamanna.com:8080",
+   "host": "cdn.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://launch.tamanna.com:2082",
+   "host": "launch.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://launch.tamanna.com:2095",
+   "host": "launch.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://launch.tamanna.com:80",
+   "host": "launch.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://launch.tamanna.com:8080",
+   "host": "launch.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://logs.tamanna.com:2082",
+   "host": "logs.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://logs.tamanna.com:2095",
+   "host": "logs.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://logs.tamanna.com:80",
+   "host": "logs.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://logs.tamanna.com:8080",
+   "host": "logs.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mon.tamanna.com:2082",
+   "host": "mon.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mon.tamanna.com:2095",
+   "host": "mon.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mon.tamanna.com:80",
+   "host": "mon.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mon.tamanna.com:8080",
+   "host": "mon.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:2082",
+   "host": "seller-api.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:2083",
+   "host": "seller-api.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:2087",
+   "host": "seller-api.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:2095",
+   "host": "seller-api.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:2096",
+   "host": "seller-api.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:80",
+   "host": "seller-api.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:8080",
+   "host": "seller-api.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller-api.tamanna.com:8443",
+   "host": "seller-api.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:2082",
+   "host": "seller.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:2083",
+   "host": "seller.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:2087",
+   "host": "seller.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:2095",
+   "host": "seller.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:2096",
+   "host": "seller.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:80",
+   "host": "seller.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:8080",
+   "host": "seller.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://seller.tamanna.com:8443",
+   "host": "seller.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:2082",
+   "host": "tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:2083",
+   "host": "tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:2087",
+   "host": "tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:2095",
+   "host": "tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:2096",
+   "host": "tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:80",
+   "host": "tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:8080",
+   "host": "tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tamanna.com:8443",
+   "host": "tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:2082",
+   "host": "track.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:2083",
+   "host": "track.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:2087",
+   "host": "track.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:2095",
+   "host": "track.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:2096",
+   "host": "track.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:80",
+   "host": "track.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:8080",
+   "host": "track.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://track.tamanna.com:8443",
+   "host": "track.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:2082",
+   "host": "www.tamanna.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:2083",
+   "host": "www.tamanna.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:2087",
+   "host": "www.tamanna.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:2095",
+   "host": "www.tamanna.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:2096",
+   "host": "www.tamanna.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:80",
+   "host": "www.tamanna.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:8080",
+   "host": "www.tamanna.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tamanna.com:8443",
+   "host": "www.tamanna.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://app.tamanna.com:443",
+   "host": "app.tamanna.com",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://assets.tamanna.com:2083",
+   "host": "assets.tamanna.com",
+   "port": "2083",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://assets.tamanna.com:2087",
+   "host": "assets.tamanna.com",
+   "port": "2087",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://assets.tamanna.com:2096",
+   "host": "assets.tamanna.com",
+   "port": "2096",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://assets.tamanna.com:443",
+   "host": "assets.tamanna.com",
+   "port": "443",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://assets.tamanna.com:8443",
+   "host": "assets.tamanna.com",
+   "port": "8443",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn.tamanna.com:2083",
+   "host": "cdn.tamanna.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn.tamanna.com:2087",
+   "host": "cdn.tamanna.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn.tamanna.com:2096",
+   "host": "cdn.tamanna.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn.tamanna.com:443",
+   "host": "cdn.tamanna.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cdn.tamanna.com:8443",
+   "host": "cdn.tamanna.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://launch.tamanna.com:2083",
+   "host": "launch.tamanna.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://launch.tamanna.com:2087",
+   "host": "launch.tamanna.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://launch.tamanna.com:2096",
+   "host": "launch.tamanna.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://launch.tamanna.com:443",
+   "host": "launch.tamanna.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://launch.tamanna.com:8443",
+   "host": "launch.tamanna.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://logs.tamanna.com:2083",
+   "host": "logs.tamanna.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://logs.tamanna.com:2087",
+   "host": "logs.tamanna.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://logs.tamanna.com:2096",
+   "host": "logs.tamanna.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://logs.tamanna.com:443",
+   "host": "logs.tamanna.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://logs.tamanna.com:8443",
+   "host": "logs.tamanna.com",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mon.tamanna.com:2083",
+   "host": "mon.tamanna.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mon.tamanna.com:2087",
+   "host": "mon.tamanna.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mon.tamanna.com:2096",
+   "host": "mon.tamanna.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mon.tamanna.com:443",
+   "host": "mon.tamanna.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mon.tamanna.com:8443",
+   "host": "mon.tamanna.com",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.76.227",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://track.tamanna.com:443",
+   "host": "track.tamanna.com",
+   "port": "443",
+   "status_code": 500,
+   "title": "500 Server Error",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Browser Insights",
+    "Google Cloud",
+    "Google Cloud Trace",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.201.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

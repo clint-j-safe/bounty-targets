@@ -1,0 +1,302 @@
+{
+ "domain": "royalcanin.com.ar",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 23,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "emailautomation-api-test.mkt.royalcanin.com.ar",
+  "emailautomation-api-testa.mkt.royalcanin.com.ar",
+  "emailautomation-api.mkt.royalcanin.com.ar",
+  "emailautomation-test.mkt.royalcanin.com.ar",
+  "emailautomation-testa.mkt.royalcanin.com.ar",
+  "emailautomation.mkt.royalcanin.com.ar",
+  "emailautomation9.mkt.royalcanin.com.ar",
+  "mail.mkt.royalcanin.com.ar",
+  "mailk.mkt.royalcanin.com.ar",
+  "mkt.royalcanin.com.ar",
+  "mktk.royalcanin.com.ar",
+  "pedidos.royalcanin.com.ar",
+  "royalcanin.com.ar",
+  "www.emailautomation-api-test.mkt.royalcanin.com.ar",
+  "www.emailautomation-api.mkt.royalcanin.com.ar",
+  "www.emailautomation-test.mkt.royalcanin.com.ar",
+  "www.emailautomation.mkt.royalcanin.com.ar",
+  "www.mail.mkt.royalcanin.com.ar",
+  "www.mkt.royalcanin.com.ar",
+  "www.pedidos.royalcanin.com.ar",
+  "www.royalcanin.com.ar",
+  "wwwa.pedidos.royalcanin.com.ar",
+  "wwwq.royalcanin.com.ar"
+ ],
+ "http": [
+  {
+   "url": "http://emailautomation-api-test.mkt.royalcanin.com.ar:80",
+   "host": "emailautomation-api-test.mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://emailautomation-api.mkt.royalcanin.com.ar:80",
+   "host": "emailautomation-api.mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://emailautomation-test.mkt.royalcanin.com.ar:80",
+   "host": "emailautomation-test.mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://emailautomation.mkt.royalcanin.com.ar:80",
+   "host": "emailautomation.mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.mkt.royalcanin.com.ar:80",
+   "host": "mail.mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mkt.royalcanin.com.ar:80",
+   "host": "mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.com.ar:80",
+   "host": "royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.mkt.royalcanin.com.ar:80",
+   "host": "www.mkt.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.com.ar:80",
+   "host": "www.royalcanin.com.ar",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://emailautomation-api-test.mkt.royalcanin.com.ar:443",
+   "host": "emailautomation-api-test.mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://emailautomation-api.mkt.royalcanin.com.ar:443",
+   "host": "emailautomation-api.mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://emailautomation-test.mkt.royalcanin.com.ar:443",
+   "host": "emailautomation-test.mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://emailautomation.mkt.royalcanin.com.ar:443",
+   "host": "emailautomation.mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "Royal Canin - Marketing Automation Tool",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "React"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.mkt.royalcanin.com.ar:443",
+   "host": "mail.mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mkt.royalcanin.com.ar:443",
+   "host": "mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.com.ar:443",
+   "host": "royalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.mkt.royalcanin.com.ar:443",
+   "host": "www.mkt.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "50.116.36.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcanin.com.ar:443",
+   "host": "www.royalcanin.com.ar",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "domain": "sigrade.it",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 22,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "av.sigrade.it",
+  "dns.sigrade.it",
+  "lyncweb.sigrade.it",
+  "lyncweb1.sigrade.it",
+  "mail.sigrade.it",
+  "meet.sigrade.it",
+  "sigrade.it",
+  "sip.sigrade.it",
+  "vpn.sigrade.it",
+  "vpnssl.sigrade.it",
+  "webconf.sigrade.it",
+  "webconf3.sigrade.it",
+  "webmail.sigrade.it",
+  "www.av.sigrade.it",
+  "www.dns.sigrade.it",
+  "www.mail.sigrade.it",
+  "www.sigrade.it",
+  "www.sip.sigrade.it",
+  "www.vpn.sigrade.it",
+  "www.vpnssl.sigrade.it",
+  "www.webconf.sigrade.it",
+  "www.webmail.sigrade.it"
+ ],
+ "http": [
+  {
+   "url": "https://vpn.sigrade.it:443",
+   "host": "vpn.sigrade.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "89.118.107.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webmail.sigrade.it:443",
+   "host": "webmail.sigrade.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Kerio Connect 10.0.6 patch 2",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "89.118.107.7",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sigrade.it:443",
+   "host": "www.sigrade.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "F5 Distributed Cloud Services"
+   ],
+   "cdn": false,
+   "ip": "159.60.155.123",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sigrade.it:8443",
+   "host": "www.sigrade.it",
+   "port": "8443",
+   "status_code": 421,
+   "title": "421 Misdirected Request",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud"
+   ],
+   "cdn": false,
+   "ip": "159.60.155.123",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

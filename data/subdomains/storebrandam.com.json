@@ -1,0 +1,279 @@
+{
+ "domain": "storebrandam.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 17,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "click.email.storebrandam.com",
+  "cloud.email.storebrandam.com",
+  "edit-d.storebrandam.com",
+  "edit-t.storebrandam.com",
+  "edit.storebrandam.com",
+  "image.email.storebrandam.com",
+  "investor-t.storebrandam.com",
+  "investor.storebrandam.com",
+  "observe-t.storebrandam.com",
+  "observe.storebrandam.com",
+  "storebrandam.com",
+  "view.email.storebrandam.com",
+  "www-d.storebrandam.com",
+  "www-t.storebrandam.com",
+  "www.observe-t.storebrandam.com",
+  "www.observe.storebrandam.com",
+  "www.storebrandam.com"
+ ],
+ "http": [
+  {
+   "url": "http://click.email.storebrandam.com:80",
+   "host": "click.email.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "161.71.96.1",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cloud.email.storebrandam.com:80",
+   "host": "cloud.email.storebrandam.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "160.8.160.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://image.email.storebrandam.com:80",
+   "host": "image.email.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://investor.storebrandam.com:80",
+   "host": "investor.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.124.51.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe-t.storebrandam.com:80",
+   "host": "observe-t.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe.storebrandam.com:80",
+   "host": "observe.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://storebrandam.com:80",
+   "host": "storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://view.email.storebrandam.com:80",
+   "host": "view.email.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "161.71.104.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.storebrandam.com:80",
+   "host": "www.storebrandam.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://click.email.storebrandam.com:443",
+   "host": "click.email.storebrandam.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "161.71.96.1",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cloud.email.storebrandam.com:443",
+   "host": "cloud.email.storebrandam.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404Error",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "160.8.160.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://image.email.storebrandam.com:443",
+   "host": "image.email.storebrandam.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Access Denied",
+   "webserver": "AkamaiGHost",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://investor.storebrandam.com:443",
+   "host": "investor.storebrandam.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "51.124.51.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe-t.storebrandam.com:443",
+   "host": "observe-t.storebrandam.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.storebrandam.com:443",
+   "host": "observe.storebrandam.com",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://storebrandam.com:443",
+   "host": "storebrandam.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://view.email.storebrandam.com:443",
+   "host": "view.email.storebrandam.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "161.71.104.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.storebrandam.com:443",
+   "host": "www.storebrandam.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Storebrand Asset Management | Sustainable Investment Solutions - Storebrand Asset Management",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Bootstrap:4",
+    "Google Tag Manager",
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

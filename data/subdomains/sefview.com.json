@@ -1,0 +1,74 @@
+{
+ "domain": "sefview.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "sefview.com",
+  "www.sefview.com"
+ ],
+ "http": [
+  {
+   "url": "http://sefview.com:80",
+   "host": "sefview.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.245.224",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sefview.com:8080",
+   "host": "sefview.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.245.224",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sefview.com:80",
+   "host": "www.sefview.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.191.27",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sefview.com:8080",
+   "host": "www.sefview.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "16.15.191.27",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

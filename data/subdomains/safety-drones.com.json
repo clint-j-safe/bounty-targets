@@ -1,0 +1,583 @@
+{
+ "domain": "safety-drones.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 67,
+ "programs": [
+  "intigriti|responsiblevulnerabilitydisclosureprogram"
+ ],
+ "subdomains": [
+  "227.safety-drones.com",
+  "api-sense-accept.safety-drones.com",
+  "api-sense-accepta.safety-drones.com",
+  "api-sense-demo.safety-drones.com",
+  "api-sense-demow.safety-drones.com",
+  "api-sense-dev.safety-drones.com",
+  "api-sense-test.safety-drones.com",
+  "api-sense-testu.safety-drones.com",
+  "api-sense.safety-drones.com",
+  "api-sensei.safety-drones.com",
+  "api.safety-drones.com",
+  "apia.safety-drones.com",
+  "cc.safety-drones.com",
+  "cck.safety-drones.com",
+  "core-api.safety-drones.com",
+  "core-api.staging.safety-drones.com",
+  "core-apio.staging.safety-drones.com",
+  "core-apiy.safety-drones.com",
+  "mediaserver-accept.safety-drones.com",
+  "mediaserver-demo.safety-drones.com",
+  "mediaserver-dev.safety-drones.com",
+  "mediaserver-test.safety-drones.com",
+  "mediaserver.safety-drones.com",
+  "pilot-accept.safety-drones.com",
+  "pilot-demo.safety-drones.com",
+  "pilot-dev.safety-drones.com",
+  "pilot-test.safety-drones.com",
+  "pilot.safety-drones.com",
+  "safety-drones.com",
+  "staging.api.safety-drones.com",
+  "staging.cc.safety-drones.com",
+  "staging.core-api.safety-drones.com",
+  "staging.safety-drones.com",
+  "staging.streams.safety-drones.com",
+  "stagingi.core-api.safety-drones.com",
+  "stagingq.streams.safety-drones.com",
+  "streams.safety-drones.com",
+  "viewer-accept.safety-drones.com",
+  "viewer-demo.safety-drones.com",
+  "viewer-dev.safety-drones.com",
+  "viewer-test.safety-drones.com",
+  "viewer.safety-drones.com",
+  "www.api-sense-accept.safety-drones.com",
+  "www.api-sense-test.safety-drones.com",
+  "www.api-sense.safety-drones.com",
+  "www.api.safety-drones.com",
+  "www.cc.safety-drones.com",
+  "www.core-api.safety-drones.com",
+  "www.core-api.staging.safety-drones.com",
+  "www.mediaserver-accept.safety-drones.com",
+  "www.mediaserver-demo.safety-drones.com",
+  "www.mediaserver-dev.safety-drones.com",
+  "www.mediaserver-test.safety-drones.com",
+  "www.mediaserver.safety-drones.com",
+  "www.pilot-accept.safety-drones.com",
+  "www.pilot-test.safety-drones.com",
+  "www.pilot.safety-drones.com",
+  "www.safety-drones.com",
+  "www.staging.api.safety-drones.com",
+  "www.staging.cc.safety-drones.com",
+  "www.staging.core-api.safety-drones.com",
+  "www.staging.streams.safety-drones.com",
+  "www.streams.safety-drones.com",
+  "www.viewer-accept.safety-drones.com",
+  "www.viewer-test.safety-drones.com",
+  "www.viewer.safety-drones.com",
+  "wwwe.safety-drones.com"
+ ],
+ "http": [
+  {
+   "url": "http://api-sense-accept.safety-drones.com:80",
+   "host": "api-sense-accept.safety-drones.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api-sense-test.safety-drones.com:80",
+   "host": "api-sense-test.safety-drones.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api-sense.safety-drones.com:80",
+   "host": "api-sense.safety-drones.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mediaserver-test.safety-drones.com:80",
+   "host": "mediaserver-test.safety-drones.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mediaserver.safety-drones.com:80",
+   "host": "mediaserver.safety-drones.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://pilot.safety-drones.com:80",
+   "host": "pilot.safety-drones.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safety-drones.com:2082",
+   "host": "safety-drones.com",
+   "port": "2082",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safety-drones.com:2095",
+   "host": "safety-drones.com",
+   "port": "2095",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safety-drones.com:80",
+   "host": "safety-drones.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safety-drones.com:8080",
+   "host": "safety-drones.com",
+   "port": "8080",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://viewer-accept.safety-drones.com:80",
+   "host": "viewer-accept.safety-drones.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://viewer-test.safety-drones.com:80",
+   "host": "viewer-test.safety-drones.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://viewer.safety-drones.com:80",
+   "host": "viewer.safety-drones.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safety-drones.com:2082",
+   "host": "www.safety-drones.com",
+   "port": "2082",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safety-drones.com:2095",
+   "host": "www.safety-drones.com",
+   "port": "2095",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safety-drones.com:80",
+   "host": "www.safety-drones.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safety-drones.com:8080",
+   "host": "www.safety-drones.com",
+   "port": "8080",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api-sense-accept.safety-drones.com:443",
+   "host": "api-sense-accept.safety-drones.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api-sense-test.safety-drones.com:443",
+   "host": "api-sense-test.safety-drones.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api-sense.safety-drones.com:443",
+   "host": "api-sense.safety-drones.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mediaserver-test.safety-drones.com:443",
+   "host": "mediaserver-test.safety-drones.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mediaserver.safety-drones.com:443",
+   "host": "mediaserver.safety-drones.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://pilot.safety-drones.com:443",
+   "host": "pilot.safety-drones.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SENSE",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "React"
+   ],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safety-drones.com:2083",
+   "host": "safety-drones.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safety-drones.com:2087",
+   "host": "safety-drones.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safety-drones.com:2096",
+   "host": "safety-drones.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safety-drones.com:443",
+   "host": "safety-drones.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safety-drones.com:8443",
+   "host": "safety-drones.com",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.205.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://viewer-accept.safety-drones.com:443",
+   "host": "viewer-accept.safety-drones.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SENSE - Web Viewer",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://viewer-test.safety-drones.com:443",
+   "host": "viewer-test.safety-drones.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SENSE - Web Viewer",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "57.153.75.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://viewer.safety-drones.com:443",
+   "host": "viewer.safety-drones.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SENSE - Web Viewer",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.142.113.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safety-drones.com:2083",
+   "host": "www.safety-drones.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safety-drones.com:2087",
+   "host": "www.safety-drones.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safety-drones.com:2096",
+   "host": "www.safety-drones.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safety-drones.com:443",
+   "host": "www.safety-drones.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.safety-drones.com:8443",
+   "host": "www.safety-drones.com",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.37.79",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

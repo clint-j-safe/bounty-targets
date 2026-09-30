@@ -1,0 +1,81 @@
+{
+ "domain": "royalcanin.de",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "mail.royalcanin.de",
+  "mail9.royalcanin.de",
+  "royalcanin.de",
+  "shop.royalcanin.de",
+  "shopc.royalcanin.de",
+  "www.royalcanin.de",
+  "www.shop.royalcanin.de"
+ ],
+ "http": [
+  {
+   "url": "http://mail.royalcanin.de:80",
+   "host": "mail.royalcanin.de",
+   "port": "80",
+   "status_code": 200,
+   "title": "HIQ-host - managed hosting",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "92.51.130.61",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.royalcanin.de:80",
+   "host": "shop.royalcanin.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.royalcanin.de:443",
+   "host": "mail.royalcanin.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "HIQ-host - managed hosting",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "92.51.130.61",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shop.royalcanin.de:443",
+   "host": "shop.royalcanin.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

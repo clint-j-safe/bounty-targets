@@ -1,0 +1,270 @@
+{
+ "domain": "safetydrones.be",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 7,
+ "programs": [
+  "intigriti|responsiblevulnerabilitydisclosureprogram"
+ ],
+ "subdomains": [
+  "227.safetydrones.be",
+  "core-api.staging.safetydrones.be",
+  "safetydrones.be",
+  "staging.safetydrones.be",
+  "www.core-api.staging.safetydrones.be",
+  "www.safetydrones.be",
+  "wwww.safetydrones.be"
+ ],
+ "http": [
+  {
+   "url": "http://safetydrones.be:2082",
+   "host": "safetydrones.be",
+   "port": "2082",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safetydrones.be:2095",
+   "host": "safetydrones.be",
+   "port": "2095",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safetydrones.be:80",
+   "host": "safetydrones.be",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://safetydrones.be:8080",
+   "host": "safetydrones.be",
+   "port": "8080",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:2082",
+   "host": "www.safetydrones.be",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:2083",
+   "host": "www.safetydrones.be",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:2087",
+   "host": "www.safetydrones.be",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:2095",
+   "host": "www.safetydrones.be",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:2096",
+   "host": "www.safetydrones.be",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:80",
+   "host": "www.safetydrones.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:8080",
+   "host": "www.safetydrones.be",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.safetydrones.be:8443",
+   "host": "www.safetydrones.be",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safetydrones.be:2083",
+   "host": "safetydrones.be",
+   "port": "2083",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safetydrones.be:2087",
+   "host": "safetydrones.be",
+   "port": "2087",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safetydrones.be:2096",
+   "host": "safetydrones.be",
+   "port": "2096",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safetydrones.be:443",
+   "host": "safetydrones.be",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://safetydrones.be:8443",
+   "host": "safetydrones.be",
+   "port": "8443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.67.217.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

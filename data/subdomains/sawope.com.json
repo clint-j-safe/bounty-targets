@@ -1,0 +1,290 @@
+{
+ "domain": "sawope.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 19,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "admin.sawope.com",
+  "adming.sawope.com",
+  "mail.sawope.com",
+  "munin.sawope.com",
+  "new.sawope.com",
+  "old.sawope.com",
+  "prod.sawope.com",
+  "sawope.com",
+  "status.sawope.com",
+  "webmail.sawope.com",
+  "webmaila.sawope.com",
+  "www.admin.sawope.com",
+  "www.mail.sawope.com",
+  "www.munin.sawope.com",
+  "www.new.sawope.com",
+  "www.old.sawope.com",
+  "www.prod.sawope.com",
+  "www.sawope.com",
+  "www.webmail.sawope.com"
+ ],
+ "http": [
+  {
+   "url": "http://admin.sawope.com:80",
+   "host": "admin.sawope.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Servicio disponible",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.18.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.sawope.com:80",
+   "host": "mail.sawope.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Servicio disponible",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.18.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://new.sawope.com:80",
+   "host": "new.sawope.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.18.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prod.sawope.com:80",
+   "host": "prod.sawope.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Servicio disponible",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.18.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sawope.com:80",
+   "host": "sawope.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.18.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://status.sawope.com:80",
+   "host": "status.sawope.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx/1.24.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.24.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.91.147.222",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sawope.com:80",
+   "host": "www.sawope.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Servicio disponible",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.18.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://admin.sawope.com:443",
+   "host": "admin.sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio | Safe Work Permits",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Bootstrap",
+    "Drupal:7",
+    "Modernizr",
+    "Moment.js",
+    "Nginx:1.18.0",
+    "PHP",
+    "Snap.svg",
+    "Ubuntu",
+    "jQuery",
+    "jQuery BlockUI"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.sawope.com:443",
+   "host": "mail.sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio | Safe Work Permits",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Bootstrap",
+    "Drupal:7",
+    "Modernizr",
+    "Moment.js",
+    "Nginx:1.18.0",
+    "PHP",
+    "Snap.svg",
+    "Ubuntu",
+    "jQuery",
+    "jQuery BlockUI"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://new.sawope.com:443",
+   "host": "new.sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio | Safe Work Permits",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Bootstrap",
+    "Drupal:7",
+    "Modernizr",
+    "Moment.js",
+    "Nginx:1.18.0",
+    "PHP",
+    "Snap.svg",
+    "Ubuntu",
+    "jQuery",
+    "jQuery BlockUI"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prod.sawope.com:443",
+   "host": "prod.sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio | Safe Work Permits",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Bootstrap",
+    "Drupal:7",
+    "Modernizr",
+    "Moment.js",
+    "Nginx:1.18.0",
+    "PHP",
+    "Snap.svg",
+    "Ubuntu",
+    "jQuery",
+    "jQuery BlockUI"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sawope.com:443",
+   "host": "sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio | Safe Work Permits",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Bootstrap",
+    "Drupal:7",
+    "Modernizr",
+    "Moment.js",
+    "Nginx:1.18.0",
+    "PHP",
+    "Snap.svg",
+    "Ubuntu",
+    "jQuery BlockUI",
+    "jQuery CDN",
+    "jQuery:1.10.0"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://status.sawope.com:443",
+   "host": "status.sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Estado de Servicio Sawope",
+   "webserver": "nginx/1.24.0 (Ubuntu)",
+   "technologies": [
+    "Nginx:1.24.0",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "51.91.147.222",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sawope.com:443",
+   "host": "www.sawope.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio | Safe Work Permits",
+   "webserver": "nginx/1.18.0 (Ubuntu)",
+   "technologies": [
+    "Bootstrap",
+    "Drupal:7",
+    "Modernizr",
+    "Moment.js",
+    "Nginx:1.18.0",
+    "PHP",
+    "Snap.svg",
+    "Ubuntu",
+    "jQuery",
+    "jQuery BlockUI"
+   ],
+   "cdn": false,
+   "ip": "51.210.121.241",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

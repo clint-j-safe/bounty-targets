@@ -1,0 +1,564 @@
+{
+ "domain": "royalcanin.sk",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 29,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.royalcanin.sk",
+  "eng.royalcanin.sk",
+  "maciatka.royalcanin.sk",
+  "maciatkae.royalcanin.sk",
+  "multifunction.royalcanin.sk",
+  "multifunction5.royalcanin.sk",
+  "my.royalcanin.sk",
+  "plemena.royalcanin.sk",
+  "plemenag.royalcanin.sk",
+  "plemenapsov.royalcanin.sk",
+  "portail.royalcanin.sk",
+  "portaila.royalcanin.sk",
+  "portailb.royalcanin.sk",
+  "royalcanin.sk",
+  "steniatka.royalcanin.sk",
+  "vernostnyprogram.royalcanin.sk",
+  "vetservices.royalcanin.sk",
+  "www.maciatka.royalcanin.sk",
+  "www.multifunction.royalcanin.sk",
+  "www.my.royalcanin.sk",
+  "www.plemena.royalcanin.sk",
+  "www.portail.royalcanin.sk",
+  "www.royalcanin.sk",
+  "www.steniatka.royalcanin.sk",
+  "www.vernostnyprogram.royalcanin.sk",
+  "www.vetservices.royalcanin.sk",
+  "www1.steniatka.royalcanin.sk",
+  "wwwe.vernostnyprogram.royalcanin.sk",
+  "zivotmacky.royalcanin.sk"
+ ],
+ "http": [
+  {
+   "url": "http://maciatka.royalcanin.sk:80",
+   "host": "maciatka.royalcanin.sk",
+   "port": "80",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://multifunction.royalcanin.sk:80",
+   "host": "multifunction.royalcanin.sk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.70",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://my.royalcanin.sk:80",
+   "host": "my.royalcanin.sk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://plemena.royalcanin.sk:80",
+   "host": "plemena.royalcanin.sk",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://portail.royalcanin.sk:80",
+   "host": "portail.royalcanin.sk",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.sk:80",
+   "host": "royalcanin.sk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://steniatka.royalcanin.sk:80",
+   "host": "steniatka.royalcanin.sk",
+   "port": "80",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://vernostnyprogram.royalcanin.sk:80",
+   "host": "vernostnyprogram.royalcanin.sk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.39",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.maciatka.royalcanin.sk:80",
+   "host": "www.maciatka.royalcanin.sk",
+   "port": "80",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.my.royalcanin.sk:80",
+   "host": "www.my.royalcanin.sk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.plemena.royalcanin.sk:80",
+   "host": "www.plemena.royalcanin.sk",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.sk:80",
+   "host": "www.royalcanin.sk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.83",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.steniatka.royalcanin.sk:80",
+   "host": "www.steniatka.royalcanin.sk",
+   "port": "80",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://maciatka.royalcanin.sk:443",
+   "host": "maciatka.royalcanin.sk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://maciatka.royalcanin.sk:8000",
+   "host": "maciatka.royalcanin.sk",
+   "port": "8000",
+   "status_code": 300,
+   "title": "",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://maciatka.royalcanin.sk:8888",
+   "host": "maciatka.royalcanin.sk",
+   "port": "8888",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://multifunction.royalcanin.sk:443",
+   "host": "multifunction.royalcanin.sk",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.70",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://my.royalcanin.sk:443",
+   "host": "my.royalcanin.sk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Prostredn\u00edctvom prisp\u00f4sobenej v\u00fd\u017eivy a inovat\u00edvnych slu\u017eieb sa star\u00e1me o zdravie psov a ma\u010diek. | Royal Canin SK",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "OneTrust",
+    "Unpkg",
+    "Varnish",
+    "Windows Server",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://plemena.royalcanin.sk:443",
+   "host": "plemena.royalcanin.sk",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portail.royalcanin.sk:443",
+   "host": "portail.royalcanin.sk",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nette Framework",
+    "Nginx",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.sk:443",
+   "host": "royalcanin.sk",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://steniatka.royalcanin.sk:443",
+   "host": "steniatka.royalcanin.sk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://steniatka.royalcanin.sk:8000",
+   "host": "steniatka.royalcanin.sk",
+   "port": "8000",
+   "status_code": 300,
+   "title": "",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://steniatka.royalcanin.sk:8888",
+   "host": "steniatka.royalcanin.sk",
+   "port": "8888",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://vernostnyprogram.royalcanin.sk:443",
+   "host": "vernostnyprogram.royalcanin.sk",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.39",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.maciatka.royalcanin.sk:443",
+   "host": "www.maciatka.royalcanin.sk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.maciatka.royalcanin.sk:8000",
+   "host": "www.maciatka.royalcanin.sk",
+   "port": "8000",
+   "status_code": 300,
+   "title": "",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.maciatka.royalcanin.sk:8888",
+   "host": "www.maciatka.royalcanin.sk",
+   "port": "8888",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.my.royalcanin.sk:443",
+   "host": "www.my.royalcanin.sk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Prostredn\u00edctvom prisp\u00f4sobenej v\u00fd\u017eivy a inovat\u00edvnych slu\u017eieb sa star\u00e1me o zdravie psov a ma\u010diek. | Royal Canin SK",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "OneTrust",
+    "Unpkg",
+    "Varnish",
+    "Windows Server",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcanin.sk:443",
+   "host": "www.royalcanin.sk",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.83",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.steniatka.royalcanin.sk:443",
+   "host": "www.steniatka.royalcanin.sk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Registr\u00e1cia dom\u00e9n, hosting a servery :: Websupport.sk",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.steniatka.royalcanin.sk:8000",
+   "host": "www.steniatka.royalcanin.sk",
+   "port": "8000",
+   "status_code": 300,
+   "title": "",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.steniatka.royalcanin.sk:8888",
+   "host": "www.steniatka.royalcanin.sk",
+   "port": "8888",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": false,
+   "ip": "37.9.175.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

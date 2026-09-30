@@ -1,0 +1,132 @@
+{
+ "domain": "royalcanin.edu.pl",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 54,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "123-nonexistant-dnsjedi-456.royalcanin.edu.pl",
+  "222.royalcanin.edu.pl",
+  "222o.royalcanin.edu.pl",
+  "227.royalcanin.edu.pl",
+  "229.royalcanin.edu.pl",
+  "229o.royalcanin.edu.pl",
+  "236.royalcanin.edu.pl",
+  "236o.royalcanin.edu.pl",
+  "ad.royalcanin.edu.pl",
+  "akademia.royalcanin.edu.pl",
+  "akademiaapps.royalcanin.edu.pl",
+  "akademiaq.royalcanin.edu.pl",
+  "akademiawet-domains.royalcanin.edu.pl",
+  "akademiawet.royalcanin.edu.pl",
+  "akademiawetk.royalcanin.edu.pl",
+  "aws.simplycommunitiesoauth2-mcdn.royalcanin.edu.pl",
+  "com.royalcanin.edu.pl",
+  "com9.royalcanin.edu.pl",
+  "corp.royalcanin.edu.pl",
+  "corpi.royalcanin.edu.pl",
+  "cs.royalcanin.edu.pl",
+  "demo.royalcanin.edu.pl",
+  "dev.royalcanin.edu.pl",
+  "dev4edupersonel.royalcanin.edu.pl",
+  "dev4edupersonelu.royalcanin.edu.pl",
+  "dsl.royalcanin.edu.pl",
+  "dslo.royalcanin.edu.pl",
+  "edupersonel.royalcanin.edu.pl",
+  "edupersoneli.royalcanin.edu.pl",
+  "erp1.akademiawet.royalcanin.edu.pl",
+  "imap7dedupersonel.royalcanin.edu.pl",
+  "lecarrefourdesimplycommunitiesoauth2-mcdn.royalcanin.edu.pl",
+  "mobilesimplycommunitiesoauth2-mcdn.royalcanin.edu.pl",
+  "mta-sts.royalcanin.edu.pl",
+  "plus.royalcanin.edu.pl",
+  "pluss.royalcanin.edu.pl",
+  "ppp.royalcanin.edu.pl",
+  "qa.royalcanin.edu.pl",
+  "royalcanin.edu.pl",
+  "s5hckv26mgg4tc3lcj4cfiiabftldcjk.royalcanin.edu.pl",
+  "static.royalcanin.edu.pl",
+  "test.royalcanin.edu.pl",
+  "u93lsln0j33m797kn8a90u7gljamqq2i.royalcanin.edu.pl",
+  "www.akademia.royalcanin.edu.pl",
+  "www.akademiawet.royalcanin.edu.pl",
+  "www.edupersonel.royalcanin.edu.pl",
+  "www.mta-sts.royalcanin.edu.pl",
+  "www.plus.royalcanin.edu.pl",
+  "www.royalcanin.edu.pl",
+  "www9.plus.royalcanin.edu.pl",
+  "wwwa.edupersonel.royalcanin.edu.pl",
+  "wwwq.akademiawet.royalcanin.edu.pl",
+  "wwwy.akademia.royalcanin.edu.pl",
+  "wwwy.royalcanin.edu.pl"
+ ],
+ "http": [
+  {
+   "url": "http://akademiawet.royalcanin.edu.pl:80",
+   "host": "akademiawet.royalcanin.edu.pl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.38.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.edu.pl:80",
+   "host": "royalcanin.edu.pl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://akademiawet.royalcanin.edu.pl:443",
+   "host": "akademiawet.royalcanin.edu.pl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.38.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.edu.pl:443",
+   "host": "royalcanin.edu.pl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

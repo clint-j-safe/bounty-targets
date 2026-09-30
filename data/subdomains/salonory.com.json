@@ -1,0 +1,949 @@
+{
+ "domain": "salonory.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 25,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "blog.salonory.com",
+  "email.salonory.com",
+  "employee.salonory.com",
+  "m1.mail.salonory.com",
+  "mail.salonory.com",
+  "member-us.salonory.com",
+  "mta-sts.salonory.com",
+  "res1.email.salonory.com",
+  "res1.mail.salonory.com",
+  "salonory.com",
+  "studio.salonory.com",
+  "studiog.salonory.com",
+  "t1.email.salonory.com",
+  "t1.mail.salonory.com",
+  "www.blog.salonory.com",
+  "www.employee.salonory.com",
+  "www.m1.mail.salonory.com",
+  "www.mail.salonory.com",
+  "www.member-us.salonory.com",
+  "www.res1.email.salonory.com",
+  "www.res1.mail.salonory.com",
+  "www.salonory.com",
+  "www.studio.salonory.com",
+  "www.t1.email.salonory.com",
+  "www.t1.mail.salonory.com"
+ ],
+ "http": [
+  {
+   "url": "http://blog.salonory.com:2083",
+   "host": "blog.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://blog.salonory.com:2087",
+   "host": "blog.salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://blog.salonory.com:2096",
+   "host": "blog.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://blog.salonory.com:80",
+   "host": "blog.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://blog.salonory.com:8443",
+   "host": "blog.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://employee.salonory.com:2083",
+   "host": "employee.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://employee.salonory.com:2087",
+   "host": "employee.salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://employee.salonory.com:2095",
+   "host": "employee.salonory.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://employee.salonory.com:2096",
+   "host": "employee.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://employee.salonory.com:80",
+   "host": "employee.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://employee.salonory.com:8443",
+   "host": "employee.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://m1.mail.salonory.com:80",
+   "host": "m1.mail.salonory.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "54.216.23.167",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://member-us.salonory.com:80",
+   "host": "member-us.salonory.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mta-sts.salonory.com:80",
+   "host": "mta-sts.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://res1.mail.salonory.com:80",
+   "host": "res1.mail.salonory.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.40",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://salonory.com:2083",
+   "host": "salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://salonory.com:2087",
+   "host": "salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://salonory.com:2095",
+   "host": "salonory.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://salonory.com:80",
+   "host": "salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://salonory.com:8443",
+   "host": "salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://studio.salonory.com:2083",
+   "host": "studio.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://studio.salonory.com:2087",
+   "host": "studio.salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://studio.salonory.com:2096",
+   "host": "studio.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://studio.salonory.com:80",
+   "host": "studio.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://studio.salonory.com:8443",
+   "host": "studio.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://t1.mail.salonory.com:80",
+   "host": "t1.mail.salonory.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "54.77.143.194",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.blog.salonory.com:2083",
+   "host": "www.blog.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.blog.salonory.com:2087",
+   "host": "www.blog.salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.blog.salonory.com:2096",
+   "host": "www.blog.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.blog.salonory.com:80",
+   "host": "www.blog.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.blog.salonory.com:8443",
+   "host": "www.blog.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.employee.salonory.com:2083",
+   "host": "www.employee.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.employee.salonory.com:2087",
+   "host": "www.employee.salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.employee.salonory.com:2096",
+   "host": "www.employee.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.employee.salonory.com:80",
+   "host": "www.employee.salonory.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.employee.salonory.com:8080",
+   "host": "www.employee.salonory.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.employee.salonory.com:8443",
+   "host": "www.employee.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.salonory.com:2083",
+   "host": "www.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.salonory.com:2087",
+   "host": "www.salonory.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.salonory.com:2096",
+   "host": "www.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.salonory.com:80",
+   "host": "www.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.salonory.com:8443",
+   "host": "www.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.studio.salonory.com:2083",
+   "host": "www.studio.salonory.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.studio.salonory.com:2096",
+   "host": "www.studio.salonory.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.studio.salonory.com:80",
+   "host": "www.studio.salonory.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.studio.salonory.com:8080",
+   "host": "www.studio.salonory.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.studio.salonory.com:8443",
+   "host": "www.studio.salonory.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://blog.salonory.com:443",
+   "host": "blog.salonory.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://m1.mail.salonory.com:443",
+   "host": "m1.mail.salonory.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "54.216.23.167",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://member-us.salonory.com:443",
+   "host": "member-us.salonory.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.180.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mta-sts.salonory.com:443",
+   "host": "mta-sts.salonory.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.19",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://res1.mail.salonory.com:443",
+   "host": "res1.mail.salonory.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.40",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://salonory.com:2096",
+   "host": "salonory.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://salonory.com:443",
+   "host": "salonory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://studio.salonory.com:443",
+   "host": "studio.salonory.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SALONORY Studio",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Animate It",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Contact Form 7:6.0.1",
+    "Google Tag Manager",
+    "HTTP/3",
+    "MySQL",
+    "OneTrust",
+    "PHP",
+    "Select2",
+    "Slick",
+    "WP Engine",
+    "WordPress",
+    "Yoast SEO:24.0",
+    "jQuery",
+    "jQuery Migrate:3.4.1"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://t1.mail.salonory.com:443",
+   "host": "t1.mail.salonory.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "54.77.143.194",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.blog.salonory.com:443",
+   "host": "www.blog.salonory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.salonory.com:443",
+   "host": "www.salonory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.studio.salonory.com:2087",
+   "host": "www.studio.salonory.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.studio.salonory.com:443",
+   "host": "www.studio.salonory.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

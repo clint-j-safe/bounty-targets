@@ -1,0 +1,546 @@
+{
+ "domain": "spaziodati.eu",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 112,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "annotator.spaziodati.eu",
+  "api-u.spaziodati.eu",
+  "api.spaziodati.eu",
+  "atoka-metrics-db.spaziodati.eu",
+  "atoka-metrics-db1.spaziodati.eu",
+  "augustus-u.spaziodati.eu",
+  "authentik.spaziodati.eu",
+  "bignami.spaziodati.eu",
+  "blog.spaziodati.eu",
+  "blog5.spaziodati.eu",
+  "bore.spaziodati.eu",
+  "clio-pgbouncer.spaziodati.eu",
+  "clio-pgbouncer1.spaziodati.eu",
+  "comare-test.spaziodati.eu",
+  "comare.spaziodati.eu",
+  "companytxt.spaziodati.eu",
+  "contrattipubblici-db.spaziodati.eu",
+  "contrattipubblici-dbx.spaziodati.eu",
+  "cybercheck-u.spaziodati.eu",
+  "dashboard-grenke.spaziodati.eu",
+  "data.spaziodati.eu",
+  "demo-payline.spaziodati.eu",
+  "dev2-datatxt.spaziodati.eu",
+  "dev3.spaziodati.eu",
+  "discuss.spaziodati.eu",
+  "es-atoka.spaziodati.eu",
+  "es.spaziodati.eu",
+  "grafana.spaziodati.eu",
+  "grenke.spaziodati.eu",
+  "hetzy1.spaziodati.eu",
+  "hetzy2.spaziodati.eu",
+  "hetzy3.spaziodati.eu",
+  "hetzy4.spaziodati.eu",
+  "hetzy5.spaziodati.eu",
+  "hetzy6.spaziodati.eu",
+  "jenkins-u.spaziodati.eu",
+  "jenkins.spaziodati.eu",
+  "kafka-manager.spaziodati.eu",
+  "kibidemo.spaziodati.eu",
+  "linkedstat.spaziodati.eu",
+  "litellm.spaziodati.eu",
+  "mail.spaziodati.eu",
+  "mapviz.spaziodati.eu",
+  "mapviz2.spaziodati.eu",
+  "note-integrative.spaziodati.eu",
+  "notebook.spaziodati.eu",
+  "ontologies.spaziodati.eu",
+  "pat-ckan-staging.spaziodati.eu",
+  "pepe1.spaziodati.eu",
+  "pepe3.spaziodati.eu",
+  "public-bin.spaziodati.eu",
+  "ragflow.spaziodati.eu",
+  "ragflow2.spaziodati.eu",
+  "ragflow3.spaziodati.eu",
+  "registry-dev.spaziodati.eu",
+  "scanzia.spaziodati.eu",
+  "sedano.spaziodati.eu",
+  "selenium.spaziodati.eu",
+  "senape-web.spaziodati.eu",
+  "senape.spaziodati.eu",
+  "sentry.spaziodati.eu",
+  "spaziodati.eu",
+  "status.spaziodati.eu",
+  "stilla-u.spaziodati.eu",
+  "stilla.spaziodati.eu",
+  "tlg.spaziodati.eu",
+  "tlgapi.spaziodati.eu",
+  "tovel-db.spaziodati.eu",
+  "tovel-dbvk.spaziodati.eu",
+  "trentino-sviluppo.spaziodati.eu",
+  "upsource.spaziodati.eu",
+  "vrata.spaziodati.eu",
+  "web.stilla-u.spaziodati.eu",
+  "web.stilla.spaziodati.eu",
+  "wildcard.senape.spaziodati.eu",
+  "www.atoka-metrics-db.spaziodati.eu",
+  "www.bignami.spaziodati.eu",
+  "www.blog.spaziodati.eu",
+  "www.clio-pgbouncer.spaziodati.eu",
+  "www.comare.spaziodati.eu",
+  "www.companytxt.spaziodati.eu",
+  "www.contrattipubblici-db.spaziodati.eu",
+  "www.cybercheck-u.spaziodati.eu",
+  "www.dev3.spaziodati.eu",
+  "www.es-atoka.spaziodati.eu",
+  "www.hetzy3.spaziodati.eu",
+  "www.hetzy4.spaziodati.eu",
+  "www.hetzy6.spaziodati.eu",
+  "www.kafka-manager.spaziodati.eu",
+  "www.mapviz.spaziodati.eu",
+  "www.mapviz2.spaziodati.eu",
+  "www.notebook.spaziodati.eu",
+  "www.public-bin.spaziodati.eu",
+  "www.ragflow.spaziodati.eu",
+  "www.ragflow2.spaziodati.eu",
+  "www.ragflow3.spaziodati.eu",
+  "www.scanzia.spaziodati.eu",
+  "www.senape-web.spaziodati.eu",
+  "www.senape.spaziodati.eu",
+  "www.sentry.spaziodati.eu",
+  "www.spaziodati.eu",
+  "www.status.spaziodati.eu",
+  "www.stilla-u.spaziodati.eu",
+  "www.stilla.spaziodati.eu",
+  "www.tovel-db.spaziodati.eu",
+  "www.vrata.spaziodati.eu",
+  "www.web.stilla-u.spaziodati.eu",
+  "www.web.stilla.spaziodati.eu",
+  "www.wildcard.senape.spaziodati.eu",
+  "www.youtrack.spaziodati.eu",
+  "youtrack.spaziodati.eu",
+  "youtrack9.spaziodati.eu"
+ ],
+ "http": [
+  {
+   "url": "http://augustus-u.spaziodati.eu:80",
+   "host": "augustus-u.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://authentik.spaziodati.eu:80",
+   "host": "authentik.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bignami.spaziodati.eu:80",
+   "host": "bignami.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://blog.spaziodati.eu:80",
+   "host": "blog.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.5.66.54",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://blog.spaziodati.eu:8080",
+   "host": "blog.spaziodati.eu",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.5.66.54",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bore.spaziodati.eu:80",
+   "host": "bore.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "166.117.85.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cybercheck-u.spaziodati.eu:80",
+   "host": "cybercheck-u.spaziodati.eu",
+   "port": "80",
+   "status_code": 302,
+   "title": "Redirecting to https://cybercheck-u.spaziodati.eu",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.242.208.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://data.spaziodati.eu:80",
+   "host": "data.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "166.117.85.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://es-atoka.spaziodati.eu:80",
+   "host": "es-atoka.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.155.238.129",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://grafana.spaziodati.eu:80",
+   "host": "grafana.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jenkins.spaziodati.eu:80",
+   "host": "jenkins.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://litellm.spaziodati.eu:80",
+   "host": "litellm.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://public-bin.spaziodati.eu:80",
+   "host": "public-bin.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://scanzia.spaziodati.eu:80",
+   "host": "scanzia.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.90.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://senape.spaziodati.eu:80",
+   "host": "senape.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.242.133.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://wildcard.senape.spaziodati.eu:80",
+   "host": "wildcard.senape.spaziodati.eu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.242.133.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api-u.spaziodati.eu:443",
+   "host": "api-u.spaziodati.eu",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "63.35.74.150",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://augustus-u.spaziodati.eu:443",
+   "host": "augustus-u.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://authentik.spaziodati.eu:443",
+   "host": "authentik.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "uvicorn",
+   "technologies": [
+    "HSTS",
+    "Python",
+    "Uvicorn"
+   ],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bignami.spaziodati.eu:443",
+   "host": "bignami.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bore.spaziodati.eu:443",
+   "host": "bore.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "166.117.85.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cybercheck-u.spaziodati.eu:443",
+   "host": "cybercheck-u.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to https://cybercheck-u.spaziodati.eu/cybercheck/login",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.242.208.33",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://data.spaziodati.eu:443",
+   "host": "data.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "166.117.85.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://es-atoka.spaziodati.eu:443",
+   "host": "es-atoka.spaziodati.eu",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "54.155.238.129",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://grafana.spaziodati.eu:443",
+   "host": "grafana.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jenkins.spaziodati.eu:443",
+   "host": "jenkins.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://litellm.spaziodati.eu:443",
+   "host": "litellm.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.33.193.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://scanzia.spaziodati.eu:443",
+   "host": "scanzia.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "99.81.90.244",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://senape.spaziodati.eu:443",
+   "host": "senape.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "34.242.133.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://wildcard.senape.spaziodati.eu:443",
+   "host": "wildcard.senape.spaziodati.eu",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.242.133.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "domain": "royalcanin.com.my",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 10,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "club.royalcanin.com.my",
+  "cms.club.royalcanin.com.my",
+  "royalcanin.com.my",
+  "uat.club.royalcanin.com.my",
+  "uatcms.club.royalcanin.com.my",
+  "www.club.royalcanin.com.my",
+  "www.cms.club.royalcanin.com.my",
+  "www.royalcanin.com.my",
+  "www.uat.club.royalcanin.com.my",
+  "www.uatcms.club.royalcanin.com.my"
+ ],
+ "http": [
+  {
+   "url": "http://club.royalcanin.com.my:80",
+   "host": "club.royalcanin.com.my",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx Odoo.sh",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "35.240.237.57",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cms.club.royalcanin.com.my:80",
+   "host": "cms.club.royalcanin.com.my",
+   "port": "80",
+   "status_code": 200,
+   "title": "Login | CMS",
+   "webserver": "Odoo.sh",
+   "technologies": [
+    "Google Tag Manager",
+    "Less",
+    "Odoo",
+    "PostgreSQL",
+    "Python",
+    "jQuery:3.6.3"
+   ],
+   "cdn": true,
+   "ip": "35.240.237.57",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://uat.club.royalcanin.com.my:80",
+   "host": "uat.club.royalcanin.com.my",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx Odoo.sh",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "35.240.237.57",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://uatcms.club.royalcanin.com.my:80",
+   "host": "uatcms.club.royalcanin.com.my",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx Odoo.sh",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "35.240.237.57",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.club.royalcanin.com.my:80",
+   "host": "www.club.royalcanin.com.my",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.39",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://club.royalcanin.com.my:443",
+   "host": "club.royalcanin.com.my",
+   "port": "443",
+   "status_code": 200,
+   "title": "Tailored Health Nutrition For Cats & Dogs | Royal Canin Club Malaysia",
+   "webserver": "Odoo.sh",
+   "technologies": [
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "Less",
+    "Odoo",
+    "OneTrust",
+    "PostgreSQL",
+    "Python"
+   ],
+   "cdn": true,
+   "ip": "35.240.237.57",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cms.club.royalcanin.com.my:443",
+   "host": "cms.club.royalcanin.com.my",
+   "port": "443",
+   "status_code": 200,
+   "title": "Login | CMS",
+   "webserver": "Odoo.sh",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS",
+    "Less",
+    "Odoo",
+    "PostgreSQL",
+    "Python",
+    "jQuery:3.6.3"
+   ],
+   "cdn": true,
+   "ip": "35.240.237.57",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.club.royalcanin.com.my:443",
+   "host": "www.club.royalcanin.com.my",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.39",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

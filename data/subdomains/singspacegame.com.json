@@ -1,0 +1,373 @@
+{
+ "domain": "singspacegame.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 91,
+ "programs": [
+  "hackerone|epicgames-vdp"
+ ],
+ "subdomains": [
+  "1.singspacegame.com",
+  "1e.singspacegame.com",
+  "227.singspacegame.com",
+  "7app.singspacegame.com",
+  "a.singspacegame.com",
+  "ac.singspacegame.com",
+  "acy.singspacegame.com",
+  "ad.singspacegame.com",
+  "ads.singspacegame.com",
+  "adso.singspacegame.com",
+  "ak.singspacegame.com",
+  "api.singspacegame.com",
+  "api1.singspacegame.com",
+  "app.singspacegame.com",
+  "apps.singspacegame.com",
+  "appsq.singspacegame.com",
+  "aswmkq1edyb4fufoxijsdrmkpo8lhhazq5c9ltyv.singspacegame.com",
+  "athena.singspacegame.com",
+  "atlassian-appk.eu.singspacegame.com",
+  "aws.singspacegame.com",
+  "awso.singspacegame.com",
+  "beta.singspacegame.com",
+  "betaq.singspacegame.com",
+  "bloba.core.singspacegame.com",
+  "blog.singspacegame.com",
+  "blogo.singspacegame.com",
+  "build.singspacegame.com",
+  "cable.singspacegame.com",
+  "cdn.singspacegame.com",
+  "cdnc.singspacegame.com",
+  "central.singspacegame.com",
+  "cloud.singspacegame.com",
+  "cloudk.prod.cloud.singspacegame.com",
+  "com.singspacegame.com",
+  "com9.singspacegame.com",
+  "core.singspacegame.com",
+  "coreq.singspacegame.com",
+  "corp.singspacegame.com",
+  "corpq.singspacegame.com",
+  "cs.singspacegame.com",
+  "csm.singspacegame.com",
+  "ddns.singspacegame.com",
+  "ddns7.singspacegame.com",
+  "demo.singspacegame.com",
+  "demoq.singspacegame.com",
+  "dev.singspacegame.com",
+  "devk.network-auth.singspacegame.com",
+  "devo.singspacegame.com",
+  "digitalpublishing.singspacegame.com",
+  "digitalpublishingm.singspacegame.com",
+  "do.singspacegame.com",
+  "dok.singspacegame.com",
+  "e.singspacegame.com",
+  "em.singspacegame.com",
+  "ema.singspacegame.com",
+  "email.singspacegame.com",
+  "en.singspacegame.com",
+  "enc.singspacegame.com",
+  "erc.singspacegame.com",
+  "ercq.singspacegame.com",
+  "eu.singspacegame.com",
+  "eum.singspacegame.com",
+  "files.singspacegame.com",
+  "fls.singspacegame.com",
+  "flse.singspacegame.com",
+  "fr.singspacegame.com",
+  "frm.singspacegame.com",
+  "ftl.singspacegame.com",
+  "ftlc.prod.ftl.singspacegame.com",
+  "getaws.singspacegame.com",
+  "gid.singspacegame.com",
+  "gslb.singspacegame.com",
+  "gslbg.singspacegame.com",
+  "info.singspacegame.com",
+  "infra.singspacegame.com",
+  "int.singspacegame.com",
+  "ll.singspacegame.com",
+  "m.singspacegame.com",
+  "members.singspacegame.com",
+  "net.singspacegame.com",
+  "network-auth.singspacegame.com",
+  "oca.singspacegame.com",
+  "prod.cloud.singspacegame.com",
+  "prod.ftl.singspacegame.com",
+  "qa.singspacegame.com",
+  "s.singspacegame.com",
+  "s3.singspacegame.com",
+  "singspacegame.com",
+  "test.singspacegame.com",
+  "www.singspacegame.com",
+  "www3.singspacegame.com"
+ ],
+ "http": [
+  {
+   "url": "http://singspacegame.com:2082",
+   "host": "singspacegame.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://singspacegame.com:2095",
+   "host": "singspacegame.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://singspacegame.com:80",
+   "host": "singspacegame.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://singspacegame.com:8080",
+   "host": "singspacegame.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.singspacegame.com:2082",
+   "host": "www.singspacegame.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.singspacegame.com:2095",
+   "host": "www.singspacegame.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.singspacegame.com:80",
+   "host": "www.singspacegame.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.singspacegame.com:8080",
+   "host": "www.singspacegame.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://singspacegame.com:2083",
+   "host": "singspacegame.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://singspacegame.com:2087",
+   "host": "singspacegame.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://singspacegame.com:2096",
+   "host": "singspacegame.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://singspacegame.com:443",
+   "host": "singspacegame.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://singspacegame.com:8443",
+   "host": "singspacegame.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.25.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.singspacegame.com:2083",
+   "host": "www.singspacegame.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.singspacegame.com:2087",
+   "host": "www.singspacegame.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.singspacegame.com:2096",
+   "host": "www.singspacegame.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.singspacegame.com:443",
+   "host": "www.singspacegame.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.singspacegame.com:8443",
+   "host": "www.singspacegame.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.24.113",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

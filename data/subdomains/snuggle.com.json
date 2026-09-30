@@ -1,0 +1,132 @@
+{
+ "domain": "snuggle.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "mail.snuggle.com",
+  "member.snuggle.com",
+  "play.snuggle.com",
+  "rinse-guide.snuggle.com",
+  "share.snuggle.com",
+  "snuggle.com",
+  "www.mail.snuggle.com",
+  "www.member.snuggle.com",
+  "www.play.snuggle.com",
+  "www.rinse-guide.snuggle.com",
+  "www.share.snuggle.com",
+  "www.snuggle.com"
+ ],
+ "http": [
+  {
+   "url": "http://rinse-guide.snuggle.com:80",
+   "host": "rinse-guide.snuggle.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.124",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://share.snuggle.com:80",
+   "host": "share.snuggle.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.139.29.104",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://snuggle.com:80",
+   "host": "snuggle.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.139.29.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.rinse-guide.snuggle.com:80",
+   "host": "www.rinse-guide.snuggle.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.24",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://rinse-guide.snuggle.com:443",
+   "host": "rinse-guide.snuggle.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.124",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://snuggle.com:443",
+   "host": "snuggle.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "108.139.29.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.rinse-guide.snuggle.com:443",
+   "host": "www.rinse-guide.snuggle.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.24",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

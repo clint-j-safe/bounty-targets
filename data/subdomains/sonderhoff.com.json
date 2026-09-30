@@ -1,0 +1,225 @@
+{
+ "domain": "sonderhoff.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 43,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "ai-service-assistant.sonderhoff.com",
+  "ai-service-assistantm.sonderhoff.com",
+  "at1activesync.sonderhoff.com",
+  "at1cag.sonderhoff.com",
+  "at1cag7.sonderhoff.com",
+  "at1cagp.sonderhoff.com",
+  "at1m.sonderhoff.com",
+  "at1mdm.sonderhoff.com",
+  "at1mp.sonderhoff.com",
+  "at1sync.sonderhoff.com",
+  "cagseng.sonderhoff.com",
+  "cn1activesync.sonderhoff.com",
+  "crypt.sonderhoff.com",
+  "cryptm.sonderhoff.com",
+  "de1-mobile.sonderhoff.com",
+  "de1activesync.sonderhoff.com",
+  "de1activesynck.sonderhoff.com",
+  "de1cag.sonderhoff.com",
+  "de1sync.sonderhoff.com",
+  "de1vpn.sonderhoff.com",
+  "de1www.sonderhoff.com",
+  "hubs.sonderhoff.com",
+  "mdm.sonderhoff.com",
+  "mseng.sonderhoff.com",
+  "redirect-www.sonderhoff.com",
+  "sonderhoff.com",
+  "stage.sonderhoff.com",
+  "stagew.sonderhoff.com",
+  "sync.sonderhoff.com",
+  "syncseng.sonderhoff.com",
+  "typo3-11.sonderhoff.com",
+  "www-temp.sonderhoff.com",
+  "www.ai-service-assistant.sonderhoff.com",
+  "www.at1cag.sonderhoff.com",
+  "www.at1m.sonderhoff.com",
+  "www.at1mdm.sonderhoff.com",
+  "www.crypt.sonderhoff.com",
+  "www.de1cag.sonderhoff.com",
+  "www.hubs.sonderhoff.com",
+  "www.redirect-www.sonderhoff.com",
+  "www.sonderhoff.com",
+  "www.stage.sonderhoff.com",
+  "www.typo3-11.sonderhoff.com"
+ ],
+ "http": [
+  {
+   "url": "http://ai-service-assistant.sonderhoff.com:80",
+   "host": "ai-service-assistant.sonderhoff.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.79.107.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://hubs.sonderhoff.com:80",
+   "host": "hubs.sonderhoff.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.73",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://redirect-www.sonderhoff.com:80",
+   "host": "redirect-www.sonderhoff.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "194.6.210.220",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sonderhoff.com:80",
+   "host": "sonderhoff.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "194.6.210.220",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://typo3-11.sonderhoff.com:80",
+   "host": "typo3-11.sonderhoff.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "194.6.210.220",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.hubs.sonderhoff.com:80",
+   "host": "www.hubs.sonderhoff.com",
+   "port": "80",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.77",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ai-service-assistant.sonderhoff.com:443",
+   "host": "ai-service-assistant.sonderhoff.com",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.79.107.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://hubs.sonderhoff.com:443",
+   "host": "hubs.sonderhoff.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Facts Portal",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.73",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://redirect-www.sonderhoff.com:443",
+   "host": "redirect-www.sonderhoff.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "194.6.210.220",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sonderhoff.com:443",
+   "host": "sonderhoff.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "194.6.210.220",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://typo3-11.sonderhoff.com:443",
+   "host": "typo3-11.sonderhoff.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "194.6.210.220",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.hubs.sonderhoff.com:443",
+   "host": "www.hubs.sonderhoff.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Facts Portal",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.77",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,620 @@
+{
+ "domain": "royalcanin.nl",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 92,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "acc-laravel.royalcanin.nl",
+  "acties.royalcanin.nl",
+  "actieso.royalcanin.nl",
+  "api-cmd-belux.royalcanin.nl",
+  "api-cmd-beluxi.royalcanin.nl",
+  "api-cmd.royalcanin.nl",
+  "api-cmdm.royalcanin.nl",
+  "api.royalcanin.nl",
+  "api.secweb-acc.royalcanin.nl",
+  "api.secweb.royalcanin.nl",
+  "api9.secweb-acc.royalcanin.nl",
+  "beheer-cmd-belux.royalcanin.nl",
+  "beheer-cmd-beluxo.royalcanin.nl",
+  "beheer-cmd.royalcanin.nl",
+  "beheer-sync.royalcanin.nl",
+  "cmd.secweb-acc.royalcanin.nl",
+  "cmd5.secweb-acc.royalcanin.nl",
+  "e-tracking.royalcanin.nl",
+  "laravel.royalcanin.nl",
+  "mail.royalcanin.nl",
+  "mail1.royalcanin.nl",
+  "multifunction.royalcanin.nl",
+  "nieuw.royalcanin.nl",
+  "nieuwsbrief.royalcanin.nl",
+  "rcaccept.royalcanin.nl",
+  "retailwebshop.royalcanin.nl",
+  "router.royalcanin.nl",
+  "royalcanin.nl",
+  "secweb-acc.royalcanin.nl",
+  "secweb.royalcanin.nl",
+  "static.royalcanin.nl",
+  "static.secweb-acc.royalcanin.nl",
+  "sync.secweb-acc.royalcanin.nl",
+  "vetservices.royalcanin.nl",
+  "w.royalcanin.nl",
+  "webmail.royalcanin.nl",
+  "weinliste.royalcanin.nl",
+  "wesboydbooks.royalcanin.nl",
+  "wesep-legacy.royalcanin.nl",
+  "weylandhost.royalcanin.nl",
+  "weymann.royalcanin.nl",
+  "wfprodwesteuropev2ase1.royalcanin.nl",
+  "wfs-fleetwatchserv3.royalcanin.nl",
+  "wg-dev-46218b1573ce41a3d7devpos.royalcanin.nl",
+  "wgz.royalcanin.nl",
+  "wheezy.royalcanin.nl",
+  "wicklowdem-wicklow-demo-504811-d8750748.royalcanin.nl",
+  "wilkieoverseerr.royalcanin.nl",
+  "wilsonpemag2.royalcanin.nl",
+  "windfrank.royalcanin.nl",
+  "wings-pes.royalcanin.nl",
+  "wiunion.royalcanin.nl",
+  "wizardly-colden.royalcanin.nl",
+  "wkfs-ho-cms.royalcanin.nl",
+  "wms-sit.royalcanin.nl",
+  "wn5g-k7sb.royalcanin.nl",
+  "wolverine-res-api-s2-tc1-cert.royalcanin.nl",
+  "wonlinemenu.royalcanin.nl",
+  "woodyswholesalehouses.royalcanin.nl",
+  "wordclock.royalcanin.nl",
+  "workbook-oitc-emea1.royalcanin.nl",
+  "workforcetoolkit.royalcanin.nl",
+  "workstation-ebukhgammer.royalcanin.nl",
+  "workup.royalcanin.nl",
+  "wp-dash.royalcanin.nl",
+  "wpgwn-app.royalcanin.nl",
+  "wpstvs2.royalcanin.nl",
+  "wreiser.royalcanin.nl",
+  "ws-podcastapi-static.royalcanin.nl",
+  "wscj.royalcanin.nl",
+  "wso-ds.royalcanin.nl",
+  "wtools.royalcanin.nl",
+  "wts-farm.royalcanin.nl",
+  "www-pt2-helix.royalcanin.nl",
+  "www-qaitsmschange.royalcanin.nl",
+  "www-qas.royalcanin.nl",
+  "www.acties.royalcanin.nl",
+  "www.retailwebshop.royalcanin.nl",
+  "www.royalcanin.nl",
+  "www.secweb-acc.royalcanin.nl",
+  "www.vetservices.royalcanin.nl",
+  "www.www2.royalcanin.nl",
+  "www2.royalcanin.nl",
+  "www2e.royalcanin.nl",
+  "www5.vetservices.royalcanin.nl",
+  "wwwdev02.royalcanin.nl",
+  "wwwoutage.royalcanin.nl",
+  "wwwq.retailwebshop.royalcanin.nl",
+  "xenodochial-turing.royalcanin.nl",
+  "xephon.royalcanin.nl",
+  "ydo.royalcanin.nl",
+  "zayer-dev-3a1626910791a061adevaossoap.royalcanin.nl"
+ ],
+ "http": [
+  {
+   "url": "http://acties.royalcanin.nl:80",
+   "host": "acties.royalcanin.nl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "185.190.86.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api-cmd-belux.royalcanin.nl:80",
+   "host": "api-cmd-belux.royalcanin.nl",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api-cmd.royalcanin.nl:80",
+   "host": "api-cmd.royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.royalcanin.nl:80",
+   "host": "api.royalcanin.nl",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://api.secweb-acc.royalcanin.nl:80",
+   "host": "api.secweb-acc.royalcanin.nl",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.99.205.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://beheer-cmd-belux.royalcanin.nl:80",
+   "host": "beheer-cmd-belux.royalcanin.nl",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://beheer-cmd.royalcanin.nl:80",
+   "host": "beheer-cmd.royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://e-tracking.royalcanin.nl:80",
+   "host": "e-tracking.royalcanin.nl",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.136.65.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://laravel.royalcanin.nl:80",
+   "host": "laravel.royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcanin.nl:80",
+   "host": "mail.royalcanin.nl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.51",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://rcaccept.royalcanin.nl:80",
+   "host": "rcaccept.royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.nl:80",
+   "host": "royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://static.royalcanin.nl:80",
+   "host": "static.royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://vetservices.royalcanin.nl:80",
+   "host": "vetservices.royalcanin.nl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.38.49",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcanin.nl:80",
+   "host": "webmail.royalcanin.nl",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.nl:80",
+   "host": "www.royalcanin.nl",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.vetservices.royalcanin.nl:80",
+   "host": "www.vetservices.royalcanin.nl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.38.49",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www2.royalcanin.nl:80",
+   "host": "www2.royalcanin.nl",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "185.190.86.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://acties.royalcanin.nl:443",
+   "host": "acties.royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.190.86.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api-cmd-belux.royalcanin.nl:443",
+   "host": "api-cmd-belux.royalcanin.nl",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api-cmd.royalcanin.nl:443",
+   "host": "api-cmd.royalcanin.nl",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.royalcanin.nl:443",
+   "host": "api.royalcanin.nl",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://api.secweb-acc.royalcanin.nl:443",
+   "host": "api.secweb-acc.royalcanin.nl",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.99.205.202",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://beheer-cmd-belux.royalcanin.nl:443",
+   "host": "beheer-cmd-belux.royalcanin.nl",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://beheer-cmd.royalcanin.nl:443",
+   "host": "beheer-cmd.royalcanin.nl",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://e-tracking.royalcanin.nl:443",
+   "host": "e-tracking.royalcanin.nl",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.136.65.6",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://laravel.royalcanin.nl:443",
+   "host": "laravel.royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.royalcanin.nl:443",
+   "host": "mail.royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.67.65.51",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://nieuwsbrief.royalcanin.nl:443",
+   "host": "nieuwsbrief.royalcanin.nl",
+   "port": "443",
+   "status_code": 204,
+   "title": "",
+   "webserver": "Spotler",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "46.31.51.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://rcaccept.royalcanin.nl:443",
+   "host": "rcaccept.royalcanin.nl",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.nl:443",
+   "host": "royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://static.royalcanin.nl:443",
+   "host": "static.royalcanin.nl",
+   "port": "443",
+   "status_code": 403,
+   "title": "Toegang geweigerd / Access denied",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://vetservices.royalcanin.nl:443",
+   "host": "vetservices.royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.38.49",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webmail.royalcanin.nl:443",
+   "host": "webmail.royalcanin.nl",
+   "port": "443",
+   "status_code": 200,
+   "title": "Roundcube Webmail :: Welcome to Roundcube Webmail",
+   "webserver": "BitNinja-WafPro",
+   "technologies": [
+    "Bootstrap",
+    "HSTS",
+    "HTTP/3",
+    "PHP:8.3.35",
+    "RoundCube",
+    "Varnish",
+    "jQuery",
+    "jQuery UI"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcanin.nl:443",
+   "host": "www.royalcanin.nl",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirecting to https://www.royalcanin.com/nl/",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "45.129.61.44",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.vetservices.royalcanin.nl:443",
+   "host": "www.vetservices.royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.171.38.49",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www2.royalcanin.nl:443",
+   "host": "www2.royalcanin.nl",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "185.190.86.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

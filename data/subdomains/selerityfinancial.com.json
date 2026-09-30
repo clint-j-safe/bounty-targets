@@ -1,0 +1,308 @@
+{
+ "domain": "selerityfinancial.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 6,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "ex1zinfp01.selerityfinancial.com",
+  "ex1zinfp011.selerityfinancial.com",
+  "ex1zinfp01jb.selerityfinancial.com",
+  "selerityfinancial.com",
+  "www.ex1zinfp01.selerityfinancial.com",
+  "www.selerityfinancial.com"
+ ],
+ "http": [
+  {
+   "url": "http://selerityfinancial.com:2082",
+   "host": "selerityfinancial.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://selerityfinancial.com:2095",
+   "host": "selerityfinancial.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://selerityfinancial.com:80",
+   "host": "selerityfinancial.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://selerityfinancial.com:8080",
+   "host": "selerityfinancial.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.selerityfinancial.com:2082",
+   "host": "www.selerityfinancial.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.selerityfinancial.com:2095",
+   "host": "www.selerityfinancial.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.selerityfinancial.com:80",
+   "host": "www.selerityfinancial.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.selerityfinancial.com:8080",
+   "host": "www.selerityfinancial.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://selerityfinancial.com:2083",
+   "host": "selerityfinancial.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://selerityfinancial.com:2087",
+   "host": "selerityfinancial.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://selerityfinancial.com:2096",
+   "host": "selerityfinancial.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://selerityfinancial.com:443",
+   "host": "selerityfinancial.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://selerityfinancial.com:8443",
+   "host": "selerityfinancial.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.selerityfinancial.com:2083",
+   "host": "www.selerityfinancial.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.selerityfinancial.com:2087",
+   "host": "www.selerityfinancial.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.selerityfinancial.com:2096",
+   "host": "www.selerityfinancial.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.selerityfinancial.com:443",
+   "host": "www.selerityfinancial.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.selerityfinancial.com:8443",
+   "host": "www.selerityfinancial.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "141.193.213.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

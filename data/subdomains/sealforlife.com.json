@@ -1,0 +1,150 @@
+{
+ "domain": "sealforlife.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 20,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "europe-vpn.sealforlife.com",
+  "europe-vpn1.sealforlife.com",
+  "lms.sealforlife.com",
+  "mail.sealforlife.com",
+  "maps.sealforlife.com",
+  "sealforlife.com",
+  "sfl.sealforlife.com",
+  "sflrvifgt01.sealforlife.com",
+  "tableau.sfl.sealforlife.com",
+  "tableautest.sfl.sealforlife.com",
+  "us-vpn.sealforlife.com",
+  "us-vpno.sealforlife.com",
+  "vmsflex001.sfl.sealforlife.com",
+  "www.europe-vpn.sealforlife.com",
+  "www.lms.sealforlife.com",
+  "www.mail.sealforlife.com",
+  "www.maps.sealforlife.com",
+  "www.sealforlife.com",
+  "www.us-vpn.sealforlife.com",
+  "www.vmsflex001.sfl.sealforlife.com"
+ ],
+ "http": [
+  {
+   "url": "http://lms.sealforlife.com:80",
+   "host": "lms.sealforlife.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "Access is denied.",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "IIS:10.0",
+    "Microsoft ASP.NET:4.0.30319",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "13.81.45.94",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sealforlife.com:80",
+   "host": "sealforlife.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sealforlife.com:80",
+   "host": "www.sealforlife.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://europe-vpn.sealforlife.com:443",
+   "host": "europe-vpn.sealforlife.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "94.199.131.111",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://lms.sealforlife.com:443",
+   "host": "lms.sealforlife.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Access is denied.",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "IIS:10.0",
+    "Microsoft ASP.NET:4.0.30319",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "13.81.45.94",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sealforlife.com:443",
+   "host": "sealforlife.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://us-vpn.sealforlife.com:443",
+   "host": "us-vpn.sealforlife.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "64.47.180.133",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sealforlife.com:443",
+   "host": "www.sealforlife.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "One moment, please...",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "46.101.78.195",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

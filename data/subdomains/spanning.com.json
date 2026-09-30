@@ -1,0 +1,725 @@
+{
+ "domain": "spanning.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 34,
+ "programs": [
+  "hackerone|kaseya"
+ ],
+ "subdomains": [
+  "click.spanning.com",
+  "em.spanning.com",
+  "error-codes.spanning.com",
+  "freetools.spanning.com",
+  "go.spanning.com",
+  "help.spanning.com",
+  "it.spanning.com",
+  "lp.spanning.com",
+  "mail.spanning.com",
+  "press.spanning.com",
+  "pressk.spanning.com",
+  "sbinfo.spanning.com",
+  "sbinfo5.spanning.com",
+  "spanning.com",
+  "status.spanning.com",
+  "status7.spanning.com",
+  "support.spanning.com",
+  "supporta.spanning.com",
+  "techblog.spanning.com",
+  "techblog7.spanning.com",
+  "www.click.spanning.com",
+  "www.freetools.spanning.com",
+  "www.go.spanning.com",
+  "www.it.spanning.com",
+  "www.lp.spanning.com",
+  "www.sbinfo.spanning.com",
+  "www.spanning.com",
+  "www.status.spanning.com",
+  "www.support.spanning.com",
+  "www.techblog.spanning.com",
+  "www.www2.spanning.com",
+  "www2.spanning.com",
+  "www9.spanning.com",
+  "wwwc.freetools.spanning.com"
+ ],
+ "http": [
+  {
+   "url": "http://click.spanning.com:2082",
+   "host": "click.spanning.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://click.spanning.com:2095",
+   "host": "click.spanning.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://click.spanning.com:80",
+   "host": "click.spanning.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://click.spanning.com:8080",
+   "host": "click.spanning.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://go.spanning.com:80",
+   "host": "go.spanning.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": true,
+   "ip": "34.136.151.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:2082",
+   "host": "it.spanning.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:2083",
+   "host": "it.spanning.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:2087",
+   "host": "it.spanning.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:2095",
+   "host": "it.spanning.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:2096",
+   "host": "it.spanning.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:80",
+   "host": "it.spanning.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:8080",
+   "host": "it.spanning.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://it.spanning.com:8443",
+   "host": "it.spanning.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://lp.spanning.com:80",
+   "host": "lp.spanning.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.202.203.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://lp.spanning.com:81",
+   "host": "lp.spanning.com",
+   "port": "81",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.202.203.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.spanning.com:80",
+   "host": "mail.spanning.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved",
+   "webserver": "ghs",
+   "technologies": [],
+   "cdn": true,
+   "ip": "192.178.155.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sbinfo.spanning.com:2082",
+   "host": "sbinfo.spanning.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sbinfo.spanning.com:2095",
+   "host": "sbinfo.spanning.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sbinfo.spanning.com:80",
+   "host": "sbinfo.spanning.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sbinfo.spanning.com:8080",
+   "host": "sbinfo.spanning.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://status.spanning.com:80",
+   "host": "status.spanning.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "Pingdom Public Reports Overview",
+   "webserver": "nginx",
+   "technologies": [
+    "DataTables",
+    "Google Hosted Libraries",
+    "Nginx",
+    "Pingdom Uptime Monitoring",
+    "jQuery:3.6.0"
+   ],
+   "cdn": true,
+   "ip": "63.32.212.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:2082",
+   "host": "support.spanning.com",
+   "port": "2082",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:2083",
+   "host": "support.spanning.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:2087",
+   "host": "support.spanning.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:2095",
+   "host": "support.spanning.com",
+   "port": "2095",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:2096",
+   "host": "support.spanning.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:80",
+   "host": "support.spanning.com",
+   "port": "80",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:8080",
+   "host": "support.spanning.com",
+   "port": "8080",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://support.spanning.com:8443",
+   "host": "support.spanning.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "216.198.53.2",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.spanning.com:80",
+   "host": "www.spanning.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Netlify",
+   "technologies": [
+    "Netlify"
+   ],
+   "cdn": true,
+   "ip": "3.33.186.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://click.spanning.com:2083",
+   "host": "click.spanning.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://click.spanning.com:2087",
+   "host": "click.spanning.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://click.spanning.com:2096",
+   "host": "click.spanning.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://click.spanning.com:443",
+   "host": "click.spanning.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://click.spanning.com:8443",
+   "host": "click.spanning.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.72.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://go.spanning.com:443",
+   "host": "go.spanning.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "WP Engine",
+    "WordPress"
+   ],
+   "cdn": true,
+   "ip": "34.136.151.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://it.spanning.com:443",
+   "host": "it.spanning.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Pageserver 404",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Sign-in",
+    "Google Tag Manager",
+    "HSTS",
+    "Instapage",
+    "Lua",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.43",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://lp.spanning.com:443",
+   "host": "lp.spanning.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Spanning Landing Pages",
+   "webserver": "",
+   "technologies": [
+    "Cloudflare",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "Unpkg",
+    "jQuery:3.5.1"
+   ],
+   "cdn": true,
+   "ip": "34.202.203.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sbinfo.spanning.com:2083",
+   "host": "sbinfo.spanning.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sbinfo.spanning.com:2087",
+   "host": "sbinfo.spanning.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sbinfo.spanning.com:2096",
+   "host": "sbinfo.spanning.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sbinfo.spanning.com:443",
+   "host": "sbinfo.spanning.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sbinfo.spanning.com:8443",
+   "host": "sbinfo.spanning.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.17.71.206",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://status.spanning.com:443",
+   "host": "status.spanning.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Pingdom Public Reports Overview",
+   "webserver": "nginx",
+   "technologies": [
+    "DataTables",
+    "Google Hosted Libraries",
+    "Nginx",
+    "Pingdom Uptime Monitoring",
+    "jQuery:3.6.0"
+   ],
+   "cdn": true,
+   "ip": "63.32.212.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.spanning.com:443",
+   "host": "www.spanning.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "SaaS Backup Software - Cloud-to-Cloud Backup | Spanning",
+   "webserver": "Netlify",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS",
+    "Hugo:0.131.0",
+    "Netlify"
+   ],
+   "cdn": true,
+   "ip": "3.33.186.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

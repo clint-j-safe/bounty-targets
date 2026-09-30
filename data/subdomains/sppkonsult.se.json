@@ -1,0 +1,160 @@
+{
+ "domain": "sppkonsult.se",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 22,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "observe.sppkonsult.se",
+  "observe9.sppkonsult.se",
+  "onprem.sppkonsult.se",
+  "sppkonsult.se",
+  "www-at.onprem.sppkonsult.se",
+  "www-at.sppkonsult.se",
+  "www-ate.sppkonsult.se",
+  "www-atm.onprem.sppkonsult.se",
+  "www-az-at.sppkonsult.se",
+  "www-az-ft.sppkonsult.se",
+  "www-ft.sppkonsult.se",
+  "www-fte.sppkonsult.se",
+  "www-st.onprem.sppkonsult.se",
+  "www.observe.sppkonsult.se",
+  "www.onprem.sppkonsult.se",
+  "www.sppkonsult.se",
+  "www.www-at.onprem.sppkonsult.se",
+  "www.www-at.sppkonsult.se",
+  "www.www-az-at.sppkonsult.se",
+  "www.www-az-ft.sppkonsult.se",
+  "www.www-ft.sppkonsult.se",
+  "www.www-st.onprem.sppkonsult.se"
+ ],
+ "http": [
+  {
+   "url": "http://observe.sppkonsult.se:80",
+   "host": "observe.sppkonsult.se",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sppkonsult.se:80",
+   "host": "sppkonsult.se",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.103.30.120",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sppkonsult.se:80",
+   "host": "www.sppkonsult.se",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.103.30.120",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.sppkonsult.se:443",
+   "host": "observe.sppkonsult.se",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sppkonsult.se:443",
+   "host": "sppkonsult.se",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.103.30.120",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www-at.sppkonsult.se:443",
+   "host": "www-at.sppkonsult.se",
+   "port": "443",
+   "status_code": 403,
+   "title": "Forbidden",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.73.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www-az-at.sppkonsult.se:443",
+   "host": "www-az-at.sppkonsult.se",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.73.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www-az-ft.sppkonsult.se:443",
+   "host": "www-az-ft.sppkonsult.se",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.73.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www-ft.sppkonsult.se:443",
+   "host": "www-ft.sppkonsult.se",
+   "port": "443",
+   "status_code": 403,
+   "title": "Forbidden",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.23.73.72",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sppkonsult.se:443",
+   "host": "www.sppkonsult.se",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.103.30.120",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

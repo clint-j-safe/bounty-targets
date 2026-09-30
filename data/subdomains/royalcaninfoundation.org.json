@@ -1,0 +1,164 @@
+{
+ "domain": "royalcaninfoundation.org",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 10,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "dev.royalcaninfoundation.org",
+  "dev3.royalcaninfoundation.org",
+  "live.royalcaninfoundation.org",
+  "qa.royalcaninfoundation.org",
+  "royalcaninfoundation.org",
+  "test.royalcaninfoundation.org",
+  "www.dev.royalcaninfoundation.org",
+  "www.live.royalcaninfoundation.org",
+  "www.royalcaninfoundation.org",
+  "www.test.royalcaninfoundation.org"
+ ],
+ "http": [
+  {
+   "url": "http://dev.royalcaninfoundation.org:80",
+   "host": "dev.royalcaninfoundation.org",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcaninfoundation.org:80",
+   "host": "royalcaninfoundation.org",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.119",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://test.royalcaninfoundation.org:80",
+   "host": "test.royalcaninfoundation.org",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcaninfoundation.org:80",
+   "host": "www.royalcaninfoundation.org",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.43.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dev.royalcaninfoundation.org:443",
+   "host": "dev.royalcaninfoundation.org",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.195.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcaninfoundation.org:443",
+   "host": "royalcaninfoundation.org",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.173.121.119",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://test.royalcaninfoundation.org:443",
+   "host": "test.royalcaninfoundation.org",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcaninfoundation.org:443",
+   "host": "www.royalcaninfoundation.org",
+   "port": "443",
+   "status_code": 301,
+   "title": "Redirecting to https://www.royalcaninfoundation.org/en",
+   "webserver": "nginx",
+   "technologies": [
+    "Acquia Cloud Platform:next",
+    "Amazon Web Services",
+    "Drupal:11",
+    "HSTS",
+    "HTTP/3",
+    "Nginx",
+    "PHP",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.43.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

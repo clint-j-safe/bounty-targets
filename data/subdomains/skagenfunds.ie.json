@@ -1,0 +1,137 @@
+{
+ "domain": "skagenfunds.ie",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 9,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "observe-t.skagenfunds.ie",
+  "observe.skagenfunds.ie",
+  "observeg.skagenfunds.ie",
+  "skagenfunds.ie",
+  "t-www.skagenfunds.ie",
+  "www.observe-t.skagenfunds.ie",
+  "www.observe.skagenfunds.ie",
+  "www.skagenfunds.ie",
+  "wwwc.skagenfunds.ie"
+ ],
+ "http": [
+  {
+   "url": "http://observe-t.skagenfunds.ie:80",
+   "host": "observe-t.skagenfunds.ie",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe.skagenfunds.ie:80",
+   "host": "observe.skagenfunds.ie",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://skagenfunds.ie:80",
+   "host": "skagenfunds.ie",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.skagenfunds.ie:80",
+   "host": "www.skagenfunds.ie",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe-t.skagenfunds.ie:443",
+   "host": "observe-t.skagenfunds.ie",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.skagenfunds.ie:443",
+   "host": "observe.skagenfunds.ie",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://skagenfunds.ie:443",
+   "host": "skagenfunds.ie",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.skagenfunds.ie:443",
+   "host": "www.skagenfunds.ie",
+   "port": "443",
+   "status_code": 200,
+   "title": "Fund manager - active and independent | SKAGEN Funds - SKAGEN Funds",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Bootstrap:4",
+    "Google Tag Manager",
+    "HSTS",
+    "Highcharts",
+    "Kestrel",
+    "Microsoft ASP.NET",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

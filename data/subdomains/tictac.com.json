@@ -1,0 +1,1475 @@
+{
+ "domain": "tictac.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 120,
+ "programs": [
+  "hackerone|ferrero"
+ ],
+ "subdomains": [
+  "api.pinball.tictac.com",
+  "apic.pinball.tictac.com",
+  "cms.prod.tictac.com",
+  "cms.staging-d9.tictac.com",
+  "cms.staging.tictac.com",
+  "cms.tictac.com",
+  "cms1.staging.tictac.com",
+  "cmsquality.tictac.com",
+  "cmsstaging.tictac.com",
+  "cmsy.prod.tictac.com",
+  "dev-identity-ca.tictac.com",
+  "dev-identity-de.tictac.com",
+  "dev-identity-de9.tictac.com",
+  "dev-identity-fr.tictac.com",
+  "dev-identity-fru.tictac.com",
+  "dev-identity-it.tictac.com",
+  "dev-identity-itm.tictac.com",
+  "dev-identity-us.tictac.com",
+  "ds.www.tictac.com",
+  "dsk.prv-www.tictac.com",
+  "flsc.www.unepetiteattention.tictac.com",
+  "game.pinball.tictac.com",
+  "gentlem.tictac.com",
+  "gentlemessages.tictac.com",
+  "gentlemessagesbot.tictac.com",
+  "gentlemessagesbote.tictac.com",
+  "good-vibes-preview.tictac.com",
+  "good-vibes.tictac.com",
+  "institutional.tictac.com",
+  "jarpecarpromo-qa.tictac.com",
+  "jarpecarpromo.tictac.com",
+  "live.prod.tictac.com",
+  "live.staging.tictac.com",
+  "localpromo-fr-pp.tictac.com",
+  "localpromo-fr-prod.tictac.com",
+  "localpromo-fr.tictac.com",
+  "localpromo-re-prod.tictac.com",
+  "localpromo-re.tictac.com",
+  "magazine.tictac.com",
+  "pinball.tictac.com",
+  "playground.prod.tictac.com",
+  "playground.staging.tictac.com",
+  "playgrounde.prod.tictac.com",
+  "playgroundi.staging.tictac.com",
+  "prod-identity-ca.tictac.com",
+  "prod-identity-de.tictac.com",
+  "prod-identity-dek.tictac.com",
+  "prod-identity-fr.tictac.com",
+  "prod-identity-it.tictac.com",
+  "prod-identity-itq.tictac.com",
+  "prod-identity-us.tictac.com",
+  "prod.tictac.com",
+  "prv-www.tictac.com",
+  "prv-wwwe.tictac.com",
+  "qa-identity-ca.tictac.com",
+  "qa-identity-de.tictac.com",
+  "qa-identity-fr.tictac.com",
+  "qa-identity-it.tictac.com",
+  "qa-identity-us.tictac.com",
+  "qr.tictac.com",
+  "quality.prod.tictac.com",
+  "quality.staging.tictac.com",
+  "quality.tictac.com",
+  "qualitya.staging.tictac.com",
+  "refreshyourvibe.tictac.com",
+  "scanandwinpromo-qa.tictac.com",
+  "scanandwinpromo.tictac.com",
+  "staging-d9.tictac.com",
+  "staging.tictac.com",
+  "sunnylife-2026.tictac.com",
+  "tic-tac-two-preview.tictac.com",
+  "tic-tac-two.tictac.com",
+  "tictac.com",
+  "tictacize.tictac.com",
+  "tictacizek.tictac.com",
+  "unepetiteattention.tictac.com",
+  "www.api.pinball.tictac.com",
+  "www.cms.prod.tictac.com",
+  "www.cms.staging-d9.tictac.com",
+  "www.cms.staging.tictac.com",
+  "www.dev-identity-de.tictac.com",
+  "www.dev-identity-it.tictac.com",
+  "www.dev-identity-us.tictac.com",
+  "www.game.pinball.tictac.com",
+  "www.gentlemessages.tictac.com",
+  "www.gentlemessagesbot.tictac.com",
+  "www.ghana.tictac.com",
+  "www.jarpecarpromo-qa.tictac.com",
+  "www.jarpecarpromo.tictac.com",
+  "www.live.prod.tictac.com",
+  "www.live.staging.tictac.com",
+  "www.localpromo-fr-pp.tictac.com",
+  "www.localpromo-fr-prod.tictac.com",
+  "www.localpromo-fr.tictac.com",
+  "www.localpromo-re-prod.tictac.com",
+  "www.localpromo-re.tictac.com",
+  "www.pinball.tictac.com",
+  "www.playground.prod.tictac.com",
+  "www.playground.staging.tictac.com",
+  "www.prod-identity-de.tictac.com",
+  "www.prod-identity-fr.tictac.com",
+  "www.prod-identity-it.tictac.com",
+  "www.prv-www.tictac.com",
+  "www.qa-identity-de.tictac.com",
+  "www.qa-identity-fr.tictac.com",
+  "www.qa-identity-it.tictac.com",
+  "www.qr.tictac.com",
+  "www.quality.prod.tictac.com",
+  "www.quality.staging.tictac.com",
+  "www.refreshyourvibe.tictac.com",
+  "www.scanandwinpromo-qa.tictac.com",
+  "www.scanandwinpromo.tictac.com",
+  "www.staging.tictac.com",
+  "www.tictac.com",
+  "www.unepetiteattention.tictac.com",
+  "www3.api.pinball.tictac.com",
+  "www3.unepetiteattention.tictac.com",
+  "wwwi.gentlemessagesbot.tictac.com",
+  "wwwq.gentlemessages.tictac.com",
+  "wwww.tictac.com"
+ ],
+ "http": [
+  {
+   "url": "http://dev-identity-ca.tictac.com:80",
+   "host": "dev-identity-ca.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.225.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://dev-identity-de.tictac.com:80",
+   "host": "dev-identity-de.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://dev-identity-fr.tictac.com:80",
+   "host": "dev-identity-fr.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://dev-identity-it.tictac.com:80",
+   "host": "dev-identity-it.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.110.69",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://dev-identity-us.tictac.com:80",
+   "host": "dev-identity-us.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.183.119",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://game.pinball.tictac.com:80",
+   "host": "game.pinball.tictac.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://gentlemessages.tictac.com:80",
+   "host": "gentlemessages.tictac.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://gentlemessagesbot.tictac.com:80",
+   "host": "gentlemessagesbot.tictac.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://good-vibes-preview.tictac.com:80",
+   "host": "good-vibes-preview.tictac.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.61",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://good-vibes.tictac.com:80",
+   "host": "good-vibes.tictac.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.22",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jarpecarpromo-qa.tictac.com:80",
+   "host": "jarpecarpromo-qa.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jarpecarpromo.tictac.com:80",
+   "host": "jarpecarpromo.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://live.staging.tictac.com:80",
+   "host": "live.staging.tictac.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.18",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://playground.staging.tictac.com:80",
+   "host": "playground.staging.tictac.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.18",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prod-identity-ca.tictac.com:80",
+   "host": "prod-identity-ca.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.123",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prod-identity-de.tictac.com:80",
+   "host": "prod-identity-de.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prod-identity-fr.tictac.com:80",
+   "host": "prod-identity-fr.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.112",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prod-identity-it.tictac.com:80",
+   "host": "prod-identity-it.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.96",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prod-identity-us.tictac.com:80",
+   "host": "prod-identity-us.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.91.63",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://prv-www.tictac.com:80",
+   "host": "prv-www.tictac.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.47.72.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://qa-identity-ca.tictac.com:80",
+   "host": "qa-identity-ca.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://qa-identity-de.tictac.com:80",
+   "host": "qa-identity-de.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.95",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://qa-identity-fr.tictac.com:80",
+   "host": "qa-identity-fr.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.163.26",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://qa-identity-it.tictac.com:80",
+   "host": "qa-identity-it.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.16",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://qa-identity-us.tictac.com:80",
+   "host": "qa-identity-us.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.103",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://qr.tictac.com:80",
+   "host": "qr.tictac.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.13",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://quality.prod.tictac.com:80",
+   "host": "quality.prod.tictac.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.47.72.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://quality.staging.tictac.com:80",
+   "host": "quality.staging.tictac.com",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "23.66.127.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://scanandwinpromo-qa.tictac.com:80",
+   "host": "scanandwinpromo-qa.tictac.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://scanandwinpromo.tictac.com:80",
+   "host": "scanandwinpromo.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sunnylife-2026.tictac.com:80",
+   "host": "sunnylife-2026.tictac.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "216.150.1.193",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two-preview.tictac.com:2083",
+   "host": "tic-tac-two-preview.tictac.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.43.45",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two-preview.tictac.com:2087",
+   "host": "tic-tac-two-preview.tictac.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.43.45",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two-preview.tictac.com:2096",
+   "host": "tic-tac-two-preview.tictac.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.43.45",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two-preview.tictac.com:8443",
+   "host": "tic-tac-two-preview.tictac.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.43.45",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two.tictac.com:2083",
+   "host": "tic-tac-two.tictac.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.162.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two.tictac.com:2087",
+   "host": "tic-tac-two.tictac.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.162.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two.tictac.com:2096",
+   "host": "tic-tac-two.tictac.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.162.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tic-tac-two.tictac.com:8443",
+   "host": "tic-tac-two.tictac.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.162.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tictac.com:80",
+   "host": "tictac.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.gentlemessages.tictac.com:80",
+   "host": "www.gentlemessages.tictac.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.gentlemessagesbot.tictac.com:80",
+   "host": "www.gentlemessagesbot.tictac.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.jarpecarpromo-qa.tictac.com:80",
+   "host": "www.jarpecarpromo-qa.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.jarpecarpromo.tictac.com:80",
+   "host": "www.jarpecarpromo.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.qr.tictac.com:80",
+   "host": "www.qr.tictac.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.47.72.7",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.refreshyourvibe.tictac.com:80",
+   "host": "www.refreshyourvibe.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.scanandwinpromo-qa.tictac.com:80",
+   "host": "www.scanandwinpromo-qa.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.scanandwinpromo.tictac.com:80",
+   "host": "www.scanandwinpromo.tictac.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tictac.com:80",
+   "host": "www.tictac.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.9",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dev-identity-ca.tictac.com:443",
+   "host": "dev-identity-ca.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.225.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dev-identity-de.tictac.com:443",
+   "host": "dev-identity-de.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dev-identity-fr.tictac.com:443",
+   "host": "dev-identity-fr.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.86.77.10",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dev-identity-it.tictac.com:443",
+   "host": "dev-identity-it.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.154.110.69",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dev-identity-us.tictac.com:443",
+   "host": "dev-identity-us.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.183.119",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://game.pinball.tictac.com:443",
+   "host": "game.pinball.tictac.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://game.pinball.tictac.com:8443",
+   "host": "game.pinball.tictac.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://game.pinball.tictac.com:9443",
+   "host": "game.pinball.tictac.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.229.192.145",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://gentlemessages.tictac.com:443",
+   "host": "gentlemessages.tictac.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://gentlemessagesbot.tictac.com:443",
+   "host": "gentlemessagesbot.tictac.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://good-vibes-preview.tictac.com:443",
+   "host": "good-vibes-preview.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.61",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://good-vibes.tictac.com:443",
+   "host": "good-vibes.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.22",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jarpecarpromo-qa.tictac.com:443",
+   "host": "jarpecarpromo-qa.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jarpecarpromo.tictac.com:443",
+   "host": "jarpecarpromo.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://live.staging.tictac.com:443",
+   "host": "live.staging.tictac.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.18",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://playground.staging.tictac.com:443",
+   "host": "playground.staging.tictac.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.18",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prod-identity-ca.tictac.com:443",
+   "host": "prod-identity-ca.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.123",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prod-identity-de.tictac.com:443",
+   "host": "prod-identity-de.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.174.5",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prod-identity-fr.tictac.com:443",
+   "host": "prod-identity-fr.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.112",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prod-identity-it.tictac.com:443",
+   "host": "prod-identity-it.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.163.96",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prod-identity-us.tictac.com:443",
+   "host": "prod-identity-us.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.156.91.63",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://prv-www.tictac.com:443",
+   "host": "prv-www.tictac.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "AkamaiGHost",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.47.72.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://qa-identity-ca.tictac.com:443",
+   "host": "qa-identity-ca.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.185.17",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://qa-identity-de.tictac.com:443",
+   "host": "qa-identity-de.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.12.95",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://qa-identity-fr.tictac.com:443",
+   "host": "qa-identity-fr.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.163.26",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://qa-identity-it.tictac.com:443",
+   "host": "qa-identity-it.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.249.16",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://qa-identity-us.tictac.com:443",
+   "host": "qa-identity-us.tictac.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.192.55.103",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://qr.tictac.com:443",
+   "host": "qr.tictac.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.200.156.13",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://quality.prod.tictac.com:443",
+   "host": "quality.prod.tictac.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.47.72.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://quality.staging.tictac.com:443",
+   "host": "quality.staging.tictac.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Basic",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.66.127.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://scanandwinpromo-qa.tictac.com:443",
+   "host": "scanandwinpromo-qa.tictac.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://scanandwinpromo.tictac.com:443",
+   "host": "scanandwinpromo.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sunnylife-2026.tictac.com:443",
+   "host": "sunnylife-2026.tictac.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "216.150.1.193",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tic-tac-two-preview.tictac.com:443",
+   "host": "tic-tac-two-preview.tictac.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "Redirecting to https://tic-tac-two-preview.tictac.com/au/en/xp/tic-tac-two",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.20.43.45",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tic-tac-two.tictac.com:443",
+   "host": "tic-tac-two.tictac.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "Redirecting to https://tic-tac-two.tictac.com/au/en/xp/tic-tac-two",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.162.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tictac.com:443",
+   "host": "tictac.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tictac.com:8443",
+   "host": "tictac.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tictac.com:9443",
+   "host": "tictac.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.76.9.40",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.gentlemessages.tictac.com:443",
+   "host": "www.gentlemessages.tictac.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.gentlemessagesbot.tictac.com:443",
+   "host": "www.gentlemessagesbot.tictac.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "188.117.179.164",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.jarpecarpromo-qa.tictac.com:443",
+   "host": "www.jarpecarpromo-qa.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.jarpecarpromo.tictac.com:443",
+   "host": "www.jarpecarpromo.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.qr.tictac.com:443",
+   "host": "www.qr.tictac.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "23.47.72.7",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.refreshyourvibe.tictac.com:443",
+   "host": "www.refreshyourvibe.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.scanandwinpromo-qa.tictac.com:443",
+   "host": "www.scanandwinpromo-qa.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "43.205.44.192",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.scanandwinpromo.tictac.com:443",
+   "host": "www.scanandwinpromo.tictac.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "15.206.201.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.tictac.com:443",
+   "host": "www.tictac.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "23.200.156.9",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

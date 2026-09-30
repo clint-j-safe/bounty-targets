@@ -1,0 +1,69 @@
+{
+ "domain": "storebrandfondene.dk",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 5,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "onprem.storebrandfondene.dk",
+  "storebrandfondene.dk",
+  "www.onprem.storebrandfondene.dk",
+  "www.storebrandfondene.dk",
+  "wwwg.onprem.storebrandfondene.dk"
+ ],
+ "http": [
+  {
+   "url": "http://storebrandfondene.dk:80",
+   "host": "storebrandfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.storebrandfondene.dk:80",
+   "host": "www.storebrandfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://storebrandfondene.dk:443",
+   "host": "storebrandfondene.dk",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.storebrandfondene.dk:443",
+   "host": "www.storebrandfondene.dk",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

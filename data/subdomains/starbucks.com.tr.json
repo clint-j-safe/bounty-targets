@@ -1,0 +1,74 @@
+{
+ "domain": "starbucks.com.tr",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "starbucks.com.tr",
+  "www.starbucks.com.tr"
+ ],
+ "http": [
+  {
+   "url": "http://starbucks.com.tr:80",
+   "host": "starbucks.com.tr",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.21",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.starbucks.com.tr:80",
+   "host": "www.starbucks.com.tr",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "66.33.60.66",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://starbucks.com.tr:443",
+   "host": "starbucks.com.tr",
+   "port": "443",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.21",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.starbucks.com.tr:443",
+   "host": "www.starbucks.com.tr",
+   "port": "443",
+   "status_code": 200,
+   "title": "Starbucks T\u00fcrkiye - Starbucks T\u00fcrkiye",
+   "webserver": "Vercel",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "66.33.60.66",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "domain": "sequentra.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 29,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "alt1.aspmx.l.google.com.sequentra.com",
+  "alt1a.aspmx.l.google.com.sequentra.com",
+  "alt2.aspmx.l.google.com.sequentra.com",
+  "alt2a.aspmx.l.google.com.sequentra.com",
+  "alt3.aspmx.l.google.com.sequentra.com",
+  "alt4.aspmx.l.google.com.sequentra.com",
+  "alt4a.aspmx.l.google.com.sequentra.com",
+  "aspmx.l.google.com.sequentra.com",
+  "com.sequentra.com",
+  "corp.sequentra.com",
+  "corpg.sequentra.com",
+  "demo.sequentra.com",
+  "demog.sequentra.com",
+  "dev.sequentra.com",
+  "google.com.sequentra.com",
+  "l.google.com.sequentra.com",
+  "mail.sequentra.com",
+  "mail9.sequentra.com",
+  "sequentra.com",
+  "www.alt1.aspmx.l.google.com.sequentra.com",
+  "www.alt2.aspmx.l.google.com.sequentra.com",
+  "www.alt3.aspmx.l.google.com.sequentra.com",
+  "www.alt4.aspmx.l.google.com.sequentra.com",
+  "www.aspmx.l.google.com.sequentra.com",
+  "www.com.sequentra.com",
+  "www.google.com.sequentra.com",
+  "www.l.google.com.sequentra.com",
+  "www.mail.sequentra.com",
+  "www.sequentra.com"
+ ],
+ "http": [
+  {
+   "url": "http://sequentra.com:2082",
+   "host": "sequentra.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sequentra.com:2095",
+   "host": "sequentra.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sequentra.com:80",
+   "host": "sequentra.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://sequentra.com:8080",
+   "host": "sequentra.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sequentra.com:2082",
+   "host": "www.sequentra.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sequentra.com:2095",
+   "host": "www.sequentra.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sequentra.com:80",
+   "host": "www.sequentra.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.sequentra.com:8080",
+   "host": "www.sequentra.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sequentra.com:2083",
+   "host": "sequentra.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sequentra.com:2087",
+   "host": "sequentra.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sequentra.com:2096",
+   "host": "sequentra.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sequentra.com:443",
+   "host": "sequentra.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://sequentra.com:8443",
+   "host": "sequentra.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.121",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sequentra.com:2083",
+   "host": "www.sequentra.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sequentra.com:2087",
+   "host": "www.sequentra.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sequentra.com:2096",
+   "host": "www.sequentra.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sequentra.com:443",
+   "host": "www.sequentra.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.sequentra.com:8443",
+   "host": "www.sequentra.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.21.81.25",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

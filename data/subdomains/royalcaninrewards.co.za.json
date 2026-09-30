@@ -1,0 +1,82 @@
+{
+ "domain": "royalcaninrewards.co.za",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "royalcaninrewards.co.za",
+  "www.royalcaninrewards.co.za"
+ ],
+ "http": [
+  {
+   "url": "http://royalcaninrewards.co.za:80",
+   "host": "royalcaninrewards.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.151.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcaninrewards.co.za:80",
+   "host": "www.royalcaninrewards.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcaninrewards.co.za:443",
+   "host": "royalcaninrewards.co.za",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "52.85.151.3",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcaninrewards.co.za:443",
+   "host": "www.royalcaninrewards.co.za",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home Page - Royal Canin One Recruitment",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap:3",
+    "HSTS",
+    "HTTP/3",
+    "OneTrust",
+    "Varnish",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "domain": "royalcanin.digital",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 5,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "pim.royalcanin.digital",
+  "pim1.royalcanin.digital",
+  "royalcanin.digital",
+  "www.pim.royalcanin.digital",
+  "www.royalcanin.digital"
+ ],
+ "http": [
+  {
+   "url": "http://pim.royalcanin.digital:80",
+   "host": "pim.royalcanin.digital",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.digital:80",
+   "host": "www.royalcanin.digital",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

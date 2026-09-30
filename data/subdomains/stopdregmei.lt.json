@@ -1,0 +1,209 @@
+{
+ "domain": "stopdregmei.lt",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "2249525.stopdregmei.lt",
+  "m.stopdregmei.lt",
+  "stopdregmei.lt",
+  "www.2249525.stopdregmei.lt",
+  "www.m.stopdregmei.lt",
+  "www.stopdregmei.lt",
+  "www9.m.stopdregmei.lt",
+  "wwwi.stopdregmei.lt"
+ ],
+ "http": [
+  {
+   "url": "http://2249525.stopdregmei.lt:80",
+   "host": "2249525.stopdregmei.lt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.67.76.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://m.stopdregmei.lt:80",
+   "host": "m.stopdregmei.lt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://stopdregmei.lt:80",
+   "host": "stopdregmei.lt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.143.94",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.2249525.stopdregmei.lt:80",
+   "host": "www.2249525.stopdregmei.lt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.67.76.90",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.m.stopdregmei.lt:80",
+   "host": "www.m.stopdregmei.lt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.stopdregmei.lt:80",
+   "host": "www.stopdregmei.lt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://2249525.stopdregmei.lt:443",
+   "host": "2249525.stopdregmei.lt",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.67.76.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://m.stopdregmei.lt:443",
+   "host": "m.stopdregmei.lt",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://stopdregmei.lt:443",
+   "host": "stopdregmei.lt",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.225.143.94",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.2249525.stopdregmei.lt:443",
+   "host": "www.2249525.stopdregmei.lt",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "18.67.76.90",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.m.stopdregmei.lt:443",
+   "host": "www.m.stopdregmei.lt",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.stopdregmei.lt:443",
+   "host": "www.stopdregmei.lt",
+   "port": "443",
+   "status_code": 200,
+   "title": "Homepage",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "3.167.112.117",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "domain": "starbuckscardtr.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 3,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "mail.starbuckscardtr.com",
+  "starbuckscardtr.com",
+  "www.starbuckscardtr.com"
+ ],
+ "http": [
+  {
+   "url": "http://starbuckscardtr.com:80",
+   "host": "starbuckscardtr.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.21",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.starbuckscardtr.com:80",
+   "host": "www.starbuckscardtr.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "66.33.60.129",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://starbuckscardtr.com:443",
+   "host": "starbuckscardtr.com",
+   "port": "443",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "76.76.21.21",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.starbuckscardtr.com:443",
+   "host": "www.starbuckscardtr.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Vercel",
+   "technologies": [
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "Vercel"
+   ],
+   "cdn": false,
+   "ip": "66.33.60.129",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

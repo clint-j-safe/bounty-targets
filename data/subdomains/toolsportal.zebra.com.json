@@ -1,0 +1,32 @@
+{
+ "domain": "toolsportal.zebra.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|zebra_vdp"
+ ],
+ "subdomains": [
+  "admin.toolsportal.zebra.com",
+  "admink.toolsportal.zebra.com",
+  "qa-admin.toolsportal.zebra.com",
+  "toolsportal.zebra.com"
+ ],
+ "http": [
+  {
+   "url": "https://admin.toolsportal.zebra.com:443",
+   "host": "admin.toolsportal.zebra.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.117.10.24",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

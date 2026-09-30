@@ -1,0 +1,640 @@
+{
+ "domain": "royalcaninvetdiets.com.sg",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 20,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "cpanel.royalcaninvetdiets.com.sg",
+  "cpanelg.royalcaninvetdiets.com.sg",
+  "cpcalendars.royalcaninvetdiets.com.sg",
+  "cpcontacts.royalcaninvetdiets.com.sg",
+  "cpcontactso.royalcaninvetdiets.com.sg",
+  "mail.royalcaninvetdiets.com.sg",
+  "mailc.royalcaninvetdiets.com.sg",
+  "royalcaninvetdiets.com.sg",
+  "webdisk.royalcaninvetdiets.com.sg",
+  "webdiski.royalcaninvetdiets.com.sg",
+  "webmail.royalcaninvetdiets.com.sg",
+  "webmaili.royalcaninvetdiets.com.sg",
+  "www.cpanel.royalcaninvetdiets.com.sg",
+  "www.cpcalendars.royalcaninvetdiets.com.sg",
+  "www.cpcontacts.royalcaninvetdiets.com.sg",
+  "www.mail.royalcaninvetdiets.com.sg",
+  "www.royalcaninvetdiets.com.sg",
+  "www.webdisk.royalcaninvetdiets.com.sg",
+  "www.webmail.royalcaninvetdiets.com.sg",
+  "wwwa.royalcaninvetdiets.com.sg"
+ ],
+ "http": [
+  {
+   "url": "http://cpanel.royalcaninvetdiets.com.sg:2082",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "2082",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "",
+   "technologies": [
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpanel.royalcaninvetdiets.com.sg:2083",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpanel.royalcaninvetdiets.com.sg:2087",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpanel.royalcaninvetdiets.com.sg:2095",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpanel.royalcaninvetdiets.com.sg:2096",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpanel.royalcaninvetdiets.com.sg:80",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcalendars.royalcaninvetdiets.com.sg:2082",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "2082",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "",
+   "technologies": [
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcalendars.royalcaninvetdiets.com.sg:2083",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcalendars.royalcaninvetdiets.com.sg:2087",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcalendars.royalcaninvetdiets.com.sg:2095",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcalendars.royalcaninvetdiets.com.sg:2096",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcalendars.royalcaninvetdiets.com.sg:80",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcontacts.royalcaninvetdiets.com.sg:2082",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "2082",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "",
+   "technologies": [
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcontacts.royalcaninvetdiets.com.sg:2083",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcontacts.royalcaninvetdiets.com.sg:2087",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcontacts.royalcaninvetdiets.com.sg:2095",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcontacts.royalcaninvetdiets.com.sg:2096",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cpcontacts.royalcaninvetdiets.com.sg:80",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcaninvetdiets.com.sg:2082",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "2082",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "",
+   "technologies": [
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcaninvetdiets.com.sg:2083",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcaninvetdiets.com.sg:2087",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcaninvetdiets.com.sg:2095",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcaninvetdiets.com.sg:2096",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.royalcaninvetdiets.com.sg:80",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 500,
+   "title": "WordPress \u203a Error",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcaninvetdiets.com.sg:80",
+   "host": "royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webdisk.royalcaninvetdiets.com.sg:2082",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "2082",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "",
+   "technologies": [
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webdisk.royalcaninvetdiets.com.sg:2083",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webdisk.royalcaninvetdiets.com.sg:2087",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webdisk.royalcaninvetdiets.com.sg:2095",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webdisk.royalcaninvetdiets.com.sg:2096",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webdisk.royalcaninvetdiets.com.sg:80",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcaninvetdiets.com.sg:2082",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "2082",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "",
+   "technologies": [
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcaninvetdiets.com.sg:2083",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcaninvetdiets.com.sg:2087",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcaninvetdiets.com.sg:2095",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "2095",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcaninvetdiets.com.sg:2096",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://webmail.royalcaninvetdiets.com.sg:80",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcaninvetdiets.com.sg:80",
+   "host": "www.royalcaninvetdiets.com.sg",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.59",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cpanel.royalcaninvetdiets.com.sg:443",
+   "host": "cpanel.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 200,
+   "title": "cPanel Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "cPanel"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cpcalendars.royalcaninvetdiets.com.sg:443",
+   "host": "cpcalendars.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cpcontacts.royalcaninvetdiets.com.sg:443",
+   "host": "cpcontacts.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.royalcaninvetdiets.com.sg:443",
+   "host": "mail.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 500,
+   "title": "WordPress \u203a Error",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcaninvetdiets.com.sg:443",
+   "host": "royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.76",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webdisk.royalcaninvetdiets.com.sg:443",
+   "host": "webdisk.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "cPanel",
+   "technologies": [
+    "Basic"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://webmail.royalcaninvetdiets.com.sg:443",
+   "host": "webmail.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 200,
+   "title": "Webmail Login",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "101.100.204.130",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcaninvetdiets.com.sg:443",
+   "host": "www.royalcaninvetdiets.com.sg",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.244.214.59",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

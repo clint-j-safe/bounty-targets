@@ -1,0 +1,404 @@
+{
+ "domain": "royalcanin.cz",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 36,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "admin.portail.royalcanin.cz",
+  "adminm.portail.royalcanin.cz",
+  "com.royalcanin.cz",
+  "mails.royalcanin.cz",
+  "mails7.royalcanin.cz",
+  "muj.royalcanin.cz",
+  "multifunction.royalcanin.cz",
+  "my.royalcanin.cz",
+  "mya.royalcanin.cz",
+  "nutricnimyty.royalcanin.cz",
+  "nutricnimytyc.royalcanin.cz",
+  "pediatric.royalcanin.cz",
+  "plemena.royalcanin.cz",
+  "plemenai.royalcanin.cz",
+  "portail.royalcanin.cz",
+  "portail9.royalcanin.cz",
+  "royalcanin.cz",
+  "special.royalcanin.cz",
+  "specialk.royalcanin.cz",
+  "vernostniprogram.royalcanin.cz",
+  "vernostniprograma.royalcanin.cz",
+  "vetservices.royalcanin.cz",
+  "www.admin.portail.royalcanin.cz",
+  "www.mails.royalcanin.cz",
+  "www.muj.royalcanin.cz",
+  "www.multifunction.royalcanin.cz",
+  "www.my.royalcanin.cz",
+  "www.nutricnimyty.royalcanin.cz",
+  "www.plemena.royalcanin.cz",
+  "www.portail.royalcanin.cz",
+  "www.royalcanin.cz",
+  "www.special.royalcanin.cz",
+  "www.vernostniprogram.royalcanin.cz",
+  "www.vetservices.royalcanin.cz",
+  "wwwa.muj.royalcanin.cz",
+  "wwws.vernostniprogram.royalcanin.cz"
+ ],
+ "http": [
+  {
+   "url": "http://admin.portail.royalcanin.cz:80",
+   "host": "admin.portail.royalcanin.cz",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mails.royalcanin.cz:80",
+   "host": "mails.royalcanin.cz",
+   "port": "80",
+   "status_code": 200,
+   "title": "Home Page",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET:4.0.30319",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "80.79.28.24",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://muj.royalcanin.cz:80",
+   "host": "muj.royalcanin.cz",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://multifunction.royalcanin.cz:80",
+   "host": "multifunction.royalcanin.cz",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.70",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://my.royalcanin.cz:80",
+   "host": "my.royalcanin.cz",
+   "port": "80",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "20.126.51.172",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://plemena.royalcanin.cz:80",
+   "host": "plemena.royalcanin.cz",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://portail.royalcanin.cz:80",
+   "host": "portail.royalcanin.cz",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.cz:80",
+   "host": "royalcanin.cz",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://special.royalcanin.cz:80",
+   "host": "special.royalcanin.cz",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/8.5",
+   "technologies": [
+    "HSTS",
+    "IIS:8.5",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "104.47.160.134",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.my.royalcanin.cz:80",
+   "host": "www.my.royalcanin.cz",
+   "port": "80",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "20.126.51.172",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.plemena.royalcanin.cz:80",
+   "host": "www.plemena.royalcanin.cz",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://admin.portail.royalcanin.cz:443",
+   "host": "admin.portail.royalcanin.cz",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Nette Framework",
+    "Nginx",
+    "PHP",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mails.royalcanin.cz:443",
+   "host": "mails.royalcanin.cz",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home Page",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET:4.0.30319",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "80.79.28.24",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://muj.royalcanin.cz:443",
+   "host": "muj.royalcanin.cz",
+   "port": "443",
+   "status_code": 200,
+   "title": "Zdrav\u00e1 v\u00fd\u017eiva na m\u00edru pro ko\u010dky a psy | Royal Canin Czech",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "Google Analytics",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "OneTrust",
+    "Unpkg",
+    "Varnish",
+    "Windows Server",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://multifunction.royalcanin.cz:443",
+   "host": "multifunction.royalcanin.cz",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.70",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://my.royalcanin.cz:443",
+   "host": "my.royalcanin.cz",
+   "port": "443",
+   "status_code": 200,
+   "title": "IIS Windows Server",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "20.126.51.172",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://plemena.royalcanin.cz:443",
+   "host": "plemena.royalcanin.cz",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://portail.royalcanin.cz:443",
+   "host": "portail.royalcanin.cz",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nette Framework",
+    "Nginx",
+    "PHP"
+   ],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.cz:443",
+   "host": "royalcanin.cz",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://special.royalcanin.cz:443",
+   "host": "special.royalcanin.cz",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET",
+    "OneTrust",
+    "PHP",
+    "eZ Publish"
+   ],
+   "cdn": true,
+   "ip": "104.47.160.134",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.muj.royalcanin.cz:443",
+   "host": "www.muj.royalcanin.cz",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "18.160.10.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.plemena.royalcanin.cz:443",
+   "host": "www.plemena.royalcanin.cz",
+   "port": "443",
+   "status_code": 500,
+   "title": "500 Internal Server Error",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "185.50.229.149",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

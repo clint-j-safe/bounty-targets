@@ -1,0 +1,39 @@
+{
+ "domain": "stratus.abb.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 28,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "app01.stratus.abb.com",
+  "app02.stratus.abb.com",
+  "app03a.stratus.abb.com",
+  "app04e.stratus.abb.com",
+  "app05.stratus.abb.com",
+  "app06.stratus.abb.com",
+  "app07o.stratus.abb.com",
+  "app08s.stratus.abb.com",
+  "app417.stratus.abb.com",
+  "app43i.stratus.abb.com",
+  "app44.stratus.abb.com",
+  "app46.stratus.abb.com",
+  "app47.stratus.abb.com",
+  "app49.stratus.abb.com",
+  "app49m.stratus.abb.com",
+  "app50.stratus.abb.com",
+  "demo-trainingcert.stratus.abb.com",
+  "demo-trainingcertu.stratus.abb.com",
+  "demo-webapp01.stratus.abb.com",
+  "demo-webapp02.stratus.abb.com",
+  "demoapp.stratus.abb.com",
+  "dev-trainingcert.stratus.abb.com",
+  "dev-trainingcertc.stratus.abb.com",
+  "dummyc.stratus.abb.com",
+  "stratus.abb.com",
+  "waf-cert013.stratus.abb.com",
+  "waf-cert02.stratus.abb.com",
+  "waf-cert04.stratus.abb.com"
+ ],
+ "http": []
+}

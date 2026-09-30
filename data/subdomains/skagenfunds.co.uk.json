@@ -1,0 +1,204 @@
+{
+ "domain": "skagenfunds.co.uk",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 24,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "email.skagenfunds.co.uk",
+  "enterpriseregistration.skagenfunds.co.uk",
+  "im.skagenfunds.co.uk",
+  "ima.skagenfunds.co.uk",
+  "lyncdiscover.skagenfunds.co.uk",
+  "lyncdiscovera.skagenfunds.co.uk",
+  "observe-t.skagenfunds.co.uk",
+  "observe-t9.skagenfunds.co.uk",
+  "observe.skagenfunds.co.uk",
+  "portal.skagenfunds.co.uk",
+  "securemail.skagenfunds.co.uk",
+  "securemaili.skagenfunds.co.uk",
+  "sip.skagenfunds.co.uk",
+  "sipe.skagenfunds.co.uk",
+  "skagenfunds.co.uk",
+  "t-www.skagenfunds.co.uk",
+  "www.email.skagenfunds.co.uk",
+  "www.enterpriseregistration.skagenfunds.co.uk",
+  "www.lyncdiscover.skagenfunds.co.uk",
+  "www.observe-t.skagenfunds.co.uk",
+  "www.observe.skagenfunds.co.uk",
+  "www.securemail.skagenfunds.co.uk",
+  "www.sip.skagenfunds.co.uk",
+  "www.skagenfunds.co.uk"
+ ],
+ "http": [
+  {
+   "url": "http://email.skagenfunds.co.uk:80",
+   "host": "email.skagenfunds.co.uk",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "18.203.10.161",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe-t.skagenfunds.co.uk:80",
+   "host": "observe-t.skagenfunds.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe.skagenfunds.co.uk:80",
+   "host": "observe.skagenfunds.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securemail.skagenfunds.co.uk:80",
+   "host": "securemail.skagenfunds.co.uk",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.76.249.115",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://skagenfunds.co.uk:80",
+   "host": "skagenfunds.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.skagenfunds.co.uk:80",
+   "host": "www.skagenfunds.co.uk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://email.skagenfunds.co.uk:443",
+   "host": "email.skagenfunds.co.uk",
+   "port": "443",
+   "status_code": 200,
+   "title": "APSIS Pro",
+   "webserver": "",
+   "technologies": [
+    "RequireJS",
+    "jQuery UI:1.8.16",
+    "jQuery:1.6.4"
+   ],
+   "cdn": true,
+   "ip": "18.203.10.161",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe-t.skagenfunds.co.uk:443",
+   "host": "observe-t.skagenfunds.co.uk",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.skagenfunds.co.uk:443",
+   "host": "observe.skagenfunds.co.uk",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securemail.skagenfunds.co.uk:443",
+   "host": "securemail.skagenfunds.co.uk",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.76.249.115",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://skagenfunds.co.uk:443",
+   "host": "skagenfunds.co.uk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.skagenfunds.co.uk:443",
+   "host": "www.skagenfunds.co.uk",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "HSTS",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

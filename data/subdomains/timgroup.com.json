@@ -1,0 +1,2153 @@
+{
+ "domain": "timgroup.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 288,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "accounts-latest.timgroup.com",
+  "accounts-lateste.timgroup.com",
+  "accounts.timgroup.com",
+  "adminscreens-lon.timgroup.com",
+  "adminscreens-lona.timgroup.com",
+  "adminscreens-oy.timgroup.com",
+  "adminscreens-oy5.timgroup.com",
+  "adminscreens-pg.timgroup.com",
+  "adminscreens-pgo.timgroup.com",
+  "adminscreens-test.timgroup.com",
+  "am-karma.timgroup.com",
+  "am-karmao.timgroup.com",
+  "analyticsreports.timgroup.com",
+  "analyticsreportscheduling.timgroup.com",
+  "analyticsreportschedulingg.timgroup.com",
+  "aslive-accounts.timgroup.com",
+  "aslive-ideasequities-aws.timgroup.com",
+  "aslive-ideasequities.timgroup.com",
+  "aslive-mdadmin.timgroup.com",
+  "autodiscover.timgroup.com",
+  "bi-portal-admin-test.timgroup.com",
+  "bi-portal-admin-testy.timgroup.com",
+  "bi-portal-admin.timgroup.com",
+  "bi-portal-test.timgroup.com",
+  "bi-portal.timgroup.com",
+  "bse-latest.timgroup.com",
+  "buyside-latest.timgroup.com",
+  "buyside-latesto.timgroup.com",
+  "buyside.timgroup.com",
+  "buysidea.timgroup.com",
+  "cerebro.timgroup.com",
+  "cerebroi.timgroup.com",
+  "cieye.timgroup.com",
+  "cieyec.timgroup.com",
+  "clientservices-ideas.timgroup.com",
+  "clientservices-ideasm.timgroup.com",
+  "devblog.timgroup.com",
+  "devblogw.timgroup.com",
+  "dpm-latest.timgroup.com",
+  "dpm.timgroup.com",
+  "files.timgroup.com",
+  "filese.timgroup.com",
+  "finmet-idea-aggregator-test.timgroup.com",
+  "funds-dr-sso.timgroup.com",
+  "funds-dr.timgroup.com",
+  "funds-latest.timgroup.com",
+  "funds-mirror-sso.timgroup.com",
+  "funds-mirror-ssoe.timgroup.com",
+  "funds-mirror.timgroup.com",
+  "funds-sso.timgroup.com",
+  "funds-ssoq.timgroup.com",
+  "funds.timgroup.com",
+  "fundsm.timgroup.com",
+  "fundsreporting.timgroup.com",
+  "fundsreportingm.timgroup.com",
+  "futuresroll.timgroup.com",
+  "go.timgroup.com",
+  "grafana-aws.timgroup.com",
+  "grafana.timgroup.com",
+  "grafanak.timgroup.com",
+  "ideasequities-aws.timgroup.com",
+  "ideasequities-clientintegration.timgroup.com",
+  "ideasequities-latest-aws.timgroup.com",
+  "ideasequities-latest.timgroup.com",
+  "ideasequities-mirror.timgroup.com",
+  "ideasequities-projections.timgroup.com",
+  "ideasequities-projectionsc.timgroup.com",
+  "ideasequities.timgroup.com",
+  "ideasequitiesy.timgroup.com",
+  "ideasfx-latest.timgroup.com",
+  "ideasfx-latestw.timgroup.com",
+  "ideasfx.timgroup.com",
+  "ideasfxe.timgroup.com",
+  "internal-api.timgroup.com",
+  "investor-latest.timgroup.com",
+  "investor-latestc.timgroup.com",
+  "investor.timgroup.com",
+  "jenkins.timgroup.com",
+  "jenkinsa.timgroup.com",
+  "jupyter-analytics-001.timgroup.com",
+  "jupyter-analytics-002.timgroup.com",
+  "jupyter-analytics-002q.timgroup.com",
+  "jupyter-analytics-003.timgroup.com",
+  "jupyter-analytics-003o.timgroup.com",
+  "jupyter-analytics-004.timgroup.com",
+  "jupyter-analytics-005.timgroup.com",
+  "jupyter-analytics-006.timgroup.com",
+  "jupyter-analytics-0065.timgroup.com",
+  "jupyter-analytics-007.timgroup.com",
+  "jupyterhub.timgroup.com",
+  "kibana.timgroup.com",
+  "kibana5.timgroup.com",
+  "kibana5g.timgroup.com",
+  "ldn-vpn.timgroup.com",
+  "ldn-vpnm.timgroup.com",
+  "mail.timgroup.com",
+  "mar.timgroup.com",
+  "marc.timgroup.com",
+  "md-explorationdb.timgroup.com",
+  "md-explorationdbo.timgroup.com",
+  "mdadmin-latest.timgroup.com",
+  "mdadmin-lateste.timgroup.com",
+  "mdadmin.timgroup.com",
+  "mdadmino.timgroup.com",
+  "meetspace.timgroup.com",
+  "metrics.timgroup.com",
+  "metricsa.timgroup.com",
+  "nagdash-tv.timgroup.com",
+  "nagdash.timgroup.com",
+  "nagios-lon.timgroup.com",
+  "nagios-oy.timgroup.com",
+  "nagios-pg.timgroup.com",
+  "ops-reports.timgroup.com",
+  "oy-nat-vip.timgroup.com",
+  "oy-nat-vip2.timgroup.com",
+  "oy.timgroup.com",
+  "pg-nat-vip.timgroup.com",
+  "pg-nat-vip2.timgroup.com",
+  "pg.timgroup.com",
+  "polling-latest.timgroup.com",
+  "polling.timgroup.com",
+  "pollings.timgroup.com",
+  "production-sharedproxy-oy.timgroup.com",
+  "production-sharedproxy-oy7.timgroup.com",
+  "production-sharedproxy-pg.timgroup.com",
+  "production-sharedproxy-pg3.timgroup.com",
+  "quant-bi-admin.timgroup.com",
+  "quant-bi-adminm.timgroup.com",
+  "quant-bi.timgroup.com",
+  "quant-bii.timgroup.com",
+  "r-studio-analytics-001.timgroup.com",
+  "r-studio-analytics-001a.timgroup.com",
+  "r-studio-analytics-002.timgroup.com",
+  "r-studio-analytics-003.timgroup.com",
+  "r-studio-analytics-004.timgroup.com",
+  "r-studio-analytics-005.timgroup.com",
+  "r-studio-analytics-006.timgroup.com",
+  "r-studio-analytics-006o.timgroup.com",
+  "r-studio-analytics-007.timgroup.com",
+  "r-studio-analytics-007m.timgroup.com",
+  "rankings-latest.timgroup.com",
+  "rankings-latestg.timgroup.com",
+  "rankings.timgroup.com",
+  "rankingsy.timgroup.com",
+  "recommendations-experiment.timgroup.com",
+  "recommendations-latest.timgroup.com",
+  "recommendations-support.timgroup.com",
+  "recommendations.timgroup.com",
+  "secure-file-sender.timgroup.com",
+  "sentiment-latest.timgroup.com",
+  "sentiment.timgroup.com",
+  "shared-sharedproxy-oy.timgroup.com",
+  "shared-sharedproxy-oyc.timgroup.com",
+  "shiny-analytics-001.timgroup.com",
+  "shiny-analytics-001k.timgroup.com",
+  "shiny-analytics-002.timgroup.com",
+  "shiny-analytics-002m.timgroup.com",
+  "shiny-analytics-003.timgroup.com",
+  "shiny-analytics-003q.timgroup.com",
+  "shiny-analytics-004.timgroup.com",
+  "shiny-analytics-004c.timgroup.com",
+  "shiny-analytics-005.timgroup.com",
+  "shiny-analytics-005e.timgroup.com",
+  "shiny-analytics-006.timgroup.com",
+  "shiny-analytics-006c.timgroup.com",
+  "shiny-analytics-007.timgroup.com",
+  "shiny-analytics-007e.timgroup.com",
+  "staging.timgroup.com",
+  "static-files.timgroup.com",
+  "status-pages-lon.timgroup.com",
+  "status-pages-lon7.timgroup.com",
+  "status-pages-oy.timgroup.com",
+  "status-pages-oyi.timgroup.com",
+  "status-pages-pg.timgroup.com",
+  "status-pages-pgw.timgroup.com",
+  "support.timgroup.com",
+  "supportq.timgroup.com",
+  "techstudygroup.timgroup.com",
+  "timdashboards-latest.timgroup.com",
+  "timdashboards-latestw.timgroup.com",
+  "timdashboards.timgroup.com",
+  "timdashboardsy.timgroup.com",
+  "timgroup-backups-legacy.timgroup.com",
+  "timgroup-backups.timgroup.com",
+  "timgroup-backups9.timgroup.com",
+  "timgroup.com",
+  "wiki-test.timgroup.com",
+  "wiki.timgroup.com",
+  "www.accounts-latest.timgroup.com",
+  "www.accounts.timgroup.com",
+  "www.adminscreens-lon.timgroup.com",
+  "www.adminscreens-oy.timgroup.com",
+  "www.adminscreens-pg.timgroup.com",
+  "www.adminscreens-test.timgroup.com",
+  "www.am-karma.timgroup.com",
+  "www.analyticsreports.timgroup.com",
+  "www.analyticsreportscheduling.timgroup.com",
+  "www.bi-portal-admin-test.timgroup.com",
+  "www.bi-portal-admin.timgroup.com",
+  "www.bi-portal-test.timgroup.com",
+  "www.bi-portal.timgroup.com",
+  "www.bse-latest.timgroup.com",
+  "www.buyside-latest.timgroup.com",
+  "www.buyside.timgroup.com",
+  "www.cerebro.timgroup.com",
+  "www.cieye.timgroup.com",
+  "www.clientservices-ideas.timgroup.com",
+  "www.devblog.timgroup.com",
+  "www.dpm-latest.timgroup.com",
+  "www.dpm.timgroup.com",
+  "www.files.timgroup.com",
+  "www.finmet-idea-aggregator-test.timgroup.com",
+  "www.funds-dr.timgroup.com",
+  "www.funds-latest.timgroup.com",
+  "www.funds-mirror.timgroup.com",
+  "www.funds.timgroup.com",
+  "www.fundsreporting.timgroup.com",
+  "www.go.timgroup.com",
+  "www.grafana-aws.timgroup.com",
+  "www.grafana.timgroup.com",
+  "www.ideasequities-clientintegration.timgroup.com",
+  "www.ideasequities-latest.timgroup.com",
+  "www.ideasequities-mirror.timgroup.com",
+  "www.ideasequities-projections.timgroup.com",
+  "www.ideasequities.timgroup.com",
+  "www.ideasfx-latest.timgroup.com",
+  "www.ideasfx.timgroup.com",
+  "www.investor-latest.timgroup.com",
+  "www.investor.timgroup.com",
+  "www.jenkins.timgroup.com",
+  "www.jupyter-analytics-002.timgroup.com",
+  "www.jupyter-analytics-003.timgroup.com",
+  "www.jupyter-analytics-004.timgroup.com",
+  "www.jupyter-analytics-005.timgroup.com",
+  "www.jupyter-analytics-006.timgroup.com",
+  "www.jupyter-analytics-007.timgroup.com",
+  "www.jupyterhub.timgroup.com",
+  "www.kibana.timgroup.com",
+  "www.kibana5.timgroup.com",
+  "www.mar.timgroup.com",
+  "www.md-explorationdb.timgroup.com",
+  "www.mdadmin-latest.timgroup.com",
+  "www.mdadmin.timgroup.com",
+  "www.meetspace.timgroup.com",
+  "www.metrics.timgroup.com",
+  "www.nagdash-tv.timgroup.com",
+  "www.nagdash.timgroup.com",
+  "www.nagios-oy.timgroup.com",
+  "www.nagios-pg.timgroup.com",
+  "www.oy.timgroup.com",
+  "www.pg-nat-vip2.timgroup.com",
+  "www.pg.timgroup.com",
+  "www.polling-latest.timgroup.com",
+  "www.polling.timgroup.com",
+  "www.production-sharedproxy-oy.timgroup.com",
+  "www.production-sharedproxy-pg.timgroup.com",
+  "www.quant-bi-admin.timgroup.com",
+  "www.r-studio-analytics-001.timgroup.com",
+  "www.r-studio-analytics-002.timgroup.com",
+  "www.r-studio-analytics-003.timgroup.com",
+  "www.r-studio-analytics-004.timgroup.com",
+  "www.r-studio-analytics-005.timgroup.com",
+  "www.r-studio-analytics-006.timgroup.com",
+  "www.r-studio-analytics-007.timgroup.com",
+  "www.rankings-latest.timgroup.com",
+  "www.recommendations-experiment.timgroup.com",
+  "www.recommendations-latest.timgroup.com",
+  "www.recommendations.timgroup.com",
+  "www.secure-file-sender.timgroup.com",
+  "www.sentiment.timgroup.com",
+  "www.shared-sharedproxy-oy.timgroup.com",
+  "www.shiny-analytics-001.timgroup.com",
+  "www.shiny-analytics-002.timgroup.com",
+  "www.shiny-analytics-003.timgroup.com",
+  "www.shiny-analytics-004.timgroup.com",
+  "www.shiny-analytics-005.timgroup.com",
+  "www.shiny-analytics-006.timgroup.com",
+  "www.shiny-analytics-007.timgroup.com",
+  "www.static-files.timgroup.com",
+  "www.status-pages-lon.timgroup.com",
+  "www.status-pages-pg.timgroup.com",
+  "www.timdashboards.timgroup.com",
+  "www.timgroup-backups-legacy.timgroup.com",
+  "www.timgroup-backups.timgroup.com",
+  "www.timgroup.com",
+  "www.wiki-test.timgroup.com",
+  "www.wiki.timgroup.com",
+  "wwww.timgroup.com"
+ ],
+ "http": [
+  {
+   "url": "http://accounts.timgroup.com:80",
+   "host": "accounts.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.105",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://adminscreens-lon.timgroup.com:80",
+   "host": "adminscreens-lon.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://adminscreens-oy.timgroup.com:80",
+   "host": "adminscreens-oy.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://adminscreens-pg.timgroup.com:80",
+   "host": "adminscreens-pg.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://adminscreens-test.timgroup.com:80",
+   "host": "adminscreens-test.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://am-karma.timgroup.com:80",
+   "host": "am-karma.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.184.93",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://analyticsreports.timgroup.com:80",
+   "host": "analyticsreports.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://analyticsreportscheduling.timgroup.com:80",
+   "host": "analyticsreportscheduling.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://aslive-accounts.timgroup.com:80",
+   "host": "aslive-accounts.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.154.131.196",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://aslive-mdadmin.timgroup.com:80",
+   "host": "aslive-mdadmin.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "46.51.155.137",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://autodiscover.timgroup.com:80",
+   "host": "autodiscover.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "40.104.231.136",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bi-portal-admin-test.timgroup.com:80",
+   "host": "bi-portal-admin-test.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bi-portal-admin.timgroup.com:80",
+   "host": "bi-portal-admin.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bi-portal-test.timgroup.com:80",
+   "host": "bi-portal-test.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://bi-portal.timgroup.com:80",
+   "host": "bi-portal.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://buyside.timgroup.com:80",
+   "host": "buyside.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cerebro.timgroup.com:80",
+   "host": "cerebro.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://cieye.timgroup.com:80",
+   "host": "cieye.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://clientservices-ideas.timgroup.com:80",
+   "host": "clientservices-ideas.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://devblog.timgroup.com:80",
+   "host": "devblog.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.105.249.194",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://dpm.timgroup.com:80",
+   "host": "dpm.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://files.timgroup.com:80",
+   "host": "files.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.250.113.129",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://finmet-idea-aggregator-test.timgroup.com:80",
+   "host": "finmet-idea-aggregator-test.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://funds-dr.timgroup.com:80",
+   "host": "funds-dr.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.73.87.211",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://funds-latest.timgroup.com:80",
+   "host": "funds-latest.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.154.131.196",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://funds.timgroup.com:80",
+   "host": "funds.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://fundsreporting.timgroup.com:80",
+   "host": "fundsreporting.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://go.timgroup.com:80",
+   "host": "go.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://grafana-aws.timgroup.com:80",
+   "host": "grafana-aws.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.218.204",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://grafana.timgroup.com:80",
+   "host": "grafana.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.30.34.184",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ideasequities-mirror.timgroup.com:80",
+   "host": "ideasequities-mirror.timgroup.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ideasequities-projections.timgroup.com:80",
+   "host": "ideasequities-projections.timgroup.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ideasequities.timgroup.com:80",
+   "host": "ideasequities.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.105",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ideasfx-latest.timgroup.com:80",
+   "host": "ideasfx-latest.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ideasfx.timgroup.com:80",
+   "host": "ideasfx.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://internal-api.timgroup.com:80",
+   "host": "internal-api.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.194.187.208",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://investor-latest.timgroup.com:80",
+   "host": "investor-latest.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "46.51.155.137",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://investor.timgroup.com:80",
+   "host": "investor.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jenkins.timgroup.com:80",
+   "host": "jenkins.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-001.timgroup.com:80",
+   "host": "jupyter-analytics-001.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-002.timgroup.com:80",
+   "host": "jupyter-analytics-002.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-003.timgroup.com:80",
+   "host": "jupyter-analytics-003.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-004.timgroup.com:80",
+   "host": "jupyter-analytics-004.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-005.timgroup.com:80",
+   "host": "jupyter-analytics-005.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-006.timgroup.com:80",
+   "host": "jupyter-analytics-006.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyter-analytics-007.timgroup.com:80",
+   "host": "jupyter-analytics-007.timgroup.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://jupyterhub.timgroup.com:80",
+   "host": "jupyterhub.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://kibana.timgroup.com:80",
+   "host": "kibana.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://kibana5.timgroup.com:80",
+   "host": "kibana5.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mail.timgroup.com:80",
+   "host": "mail.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.164.146",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mar.timgroup.com:80",
+   "host": "mar.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.108",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://md-explorationdb.timgroup.com:80",
+   "host": "md-explorationdb.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mdadmin-latest.timgroup.com:80",
+   "host": "mdadmin-latest.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://mdadmin.timgroup.com:80",
+   "host": "mdadmin.timgroup.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "54.155.251.66",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://metrics.timgroup.com:80",
+   "host": "metrics.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://nagdash-tv.timgroup.com:80",
+   "host": "nagdash-tv.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://nagdash.timgroup.com:80",
+   "host": "nagdash.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://nagios-oy.timgroup.com:80",
+   "host": "nagios-oy.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://nagios-pg.timgroup.com:80",
+   "host": "nagios-pg.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ops-reports.timgroup.com:80",
+   "host": "ops-reports.timgroup.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://oy.timgroup.com:80",
+   "host": "oy.timgroup.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://pg.timgroup.com:80",
+   "host": "pg.timgroup.com",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://accounts.timgroup.com:443",
+   "host": "accounts.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "TIM",
+   "webserver": "Jetty(9.4.30.v20200611)",
+   "technologies": [
+    "HSTS",
+    "Java",
+    "Jetty:9.4.30"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.105",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://adminscreens-lon.timgroup.com:443",
+   "host": "adminscreens-lon.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://adminscreens-oy.timgroup.com:443",
+   "host": "adminscreens-oy.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://adminscreens-pg.timgroup.com:443",
+   "host": "adminscreens-pg.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://adminscreens-test.timgroup.com:443",
+   "host": "adminscreens-test.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://am-karma.timgroup.com:443",
+   "host": "am-karma.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.184.93",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://analyticsreports.timgroup.com:443",
+   "host": "analyticsreports.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://analyticsreportscheduling.timgroup.com:443",
+   "host": "analyticsreportscheduling.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://aslive-accounts.timgroup.com:443",
+   "host": "aslive-accounts.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "TIM",
+   "webserver": "Jetty(9.4.30.v20200611)",
+   "technologies": [
+    "HSTS",
+    "Java",
+    "Jetty:9.4.30"
+   ],
+   "cdn": true,
+   "ip": "54.154.131.196",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://aslive-ideasequities.timgroup.com:443",
+   "host": "aslive-ideasequities.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Jetty(9.4.z-SNAPSHOT)",
+   "technologies": [
+    "HSTS",
+    "Java",
+    "Jetty:9.4"
+   ],
+   "cdn": true,
+   "ip": "54.73.87.211",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://aslive-mdadmin.timgroup.com:443",
+   "host": "aslive-mdadmin.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "46.51.155.137",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bi-portal-admin-test.timgroup.com:443",
+   "host": "bi-portal-admin-test.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bi-portal-admin.timgroup.com:443",
+   "host": "bi-portal-admin.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bi-portal-test.timgroup.com:443",
+   "host": "bi-portal-test.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://bi-portal.timgroup.com:443",
+   "host": "bi-portal.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://buyside.timgroup.com:443",
+   "host": "buyside.timgroup.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Action not found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cerebro.timgroup.com:443",
+   "host": "cerebro.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://cieye.timgroup.com:443",
+   "host": "cieye.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://clientservices-ideas.timgroup.com:443",
+   "host": "clientservices-ideas.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://devblog.timgroup.com:443",
+   "host": "devblog.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.105.249.194",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://dpm.timgroup.com:443",
+   "host": "dpm.timgroup.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Action not found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.106",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://files.timgroup.com:443",
+   "host": "files.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "34.250.113.129",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://finmet-idea-aggregator-test.timgroup.com:443",
+   "host": "finmet-idea-aggregator-test.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://funds-latest.timgroup.com:443",
+   "host": "funds-latest.timgroup.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.154.131.196",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://funds.timgroup.com:443",
+   "host": "funds.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.107",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://fundsreporting.timgroup.com:443",
+   "host": "fundsreporting.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://go.timgroup.com:443",
+   "host": "go.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://grafana-aws.timgroup.com:443",
+   "host": "grafana-aws.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.81.218.204",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://grafana.timgroup.com:443",
+   "host": "grafana.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.30.34.184",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ideasequities-aws.timgroup.com:443",
+   "host": "ideasequities-aws.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Jetty(9.4.z-SNAPSHOT)",
+   "technologies": [
+    "HSTS",
+    "Java",
+    "Jetty:9.4"
+   ],
+   "cdn": true,
+   "ip": "54.194.187.208",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ideasequities-mirror.timgroup.com:443",
+   "host": "ideasequities-mirror.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ideasequities-projections.timgroup.com:443",
+   "host": "ideasequities-projections.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ideasequities.timgroup.com:443",
+   "host": "ideasequities.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.105",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ideasfx-latest.timgroup.com:443",
+   "host": "ideasfx-latest.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ideasfx.timgroup.com:443",
+   "host": "ideasfx.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://internal-api.timgroup.com:443",
+   "host": "internal-api.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Jetty(9.4.z-SNAPSHOT)",
+   "technologies": [
+    "HSTS",
+    "Java",
+    "Jetty:9.4"
+   ],
+   "cdn": true,
+   "ip": "54.194.187.208",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://investor-latest.timgroup.com:443",
+   "host": "investor-latest.timgroup.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "46.51.155.137",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jenkins.timgroup.com:443",
+   "host": "jenkins.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-001.timgroup.com:443",
+   "host": "jupyter-analytics-001.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-002.timgroup.com:443",
+   "host": "jupyter-analytics-002.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-003.timgroup.com:443",
+   "host": "jupyter-analytics-003.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-004.timgroup.com:443",
+   "host": "jupyter-analytics-004.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-005.timgroup.com:443",
+   "host": "jupyter-analytics-005.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-006.timgroup.com:443",
+   "host": "jupyter-analytics-006.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyter-analytics-007.timgroup.com:443",
+   "host": "jupyter-analytics-007.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://jupyterhub.timgroup.com:443",
+   "host": "jupyterhub.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://kibana.timgroup.com:443",
+   "host": "kibana.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://kibana5.timgroup.com:443",
+   "host": "kibana5.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mail.timgroup.com:443",
+   "host": "mail.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.164.146",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mar.timgroup.com:443",
+   "host": "mar.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "TIM",
+   "webserver": "Jetty(9.4.30.v20200611)",
+   "technologies": [
+    "HSTS",
+    "Java",
+    "Jetty:9.4.30"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.108",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://md-explorationdb.timgroup.com:443",
+   "host": "md-explorationdb.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mdadmin-latest.timgroup.com:443",
+   "host": "mdadmin-latest.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://mdadmin.timgroup.com:443",
+   "host": "mdadmin.timgroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "54.155.251.66",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://metrics.timgroup.com:443",
+   "host": "metrics.timgroup.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://nagdash-tv.timgroup.com:443",
+   "host": "nagdash-tv.timgroup.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://nagdash.timgroup.com:443",
+   "host": "nagdash.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://nagios-oy.timgroup.com:443",
+   "host": "nagios-oy.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://nagios-pg.timgroup.com:443",
+   "host": "nagios-pg.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Basic",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ops-reports.timgroup.com:443",
+   "host": "ops-reports.timgroup.com",
+   "port": "443",
+   "status_code": 401,
+   "title": "401 Unauthorized",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.230",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://oy.timgroup.com:443",
+   "host": "oy.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "80.169.212.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://pg.timgroup.com:443",
+   "host": "pg.timgroup.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "212.161.124.100",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

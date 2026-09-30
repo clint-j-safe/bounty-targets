@@ -1,0 +1,405 @@
+{
+ "domain": "telfordhomes.london",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 33,
+ "programs": [
+  "hackerone|cbre"
+ ],
+ "subdomains": [
+  "ccope.nightlynightly-vimeoentsimplycommunitiesurl1368.telfordhomes.london",
+  "com.telfordhomes.london",
+  "corp.telfordhomes.london",
+  "demo.telfordhomes.london",
+  "dev.telfordhomes.london",
+  "devon.nightlynightly-vimeoentsimplycommunitiesurl1368.telfordhomes.london",
+  "hostmaster.telfordhomes.london",
+  "hostmasterw.telfordhomes.london",
+  "infracfg-vimeoentsimplycommunitieso-ptr6332-temp.telfordhomes.london",
+  "liszt.nightlynightly-vimeoentsimplycommunitiesurl1368.telfordhomes.london",
+  "mail.telfordhomes.london",
+  "moochine.nightlynightly-vimeoentsimplycommunitiesurl1368.telfordhomes.london",
+  "nightlynightly-vimeoentsimplycommunitiesurl1368.telfordhomes.london",
+  "papatzides.nightlynightly-vimeoentsimplycommunitiesurl1368.telfordhomes.london",
+  "register.telfordhomes.london",
+  "remediation.telfordhomes.london",
+  "remediatione.telfordhomes.london",
+  "rs.telfordhomes.london",
+  "rso.telfordhomes.london",
+  "samuelbimo.infracfg-vimeoentsimplycommunitieso-ptr6332-temp.telfordhomes.london",
+  "seoul-ignet.infracfg-vimeoentsimplycommunitieso-ptr6332-temp.telfordhomes.london",
+  "telfordhomes.london",
+  "tsekouratoi.infracfg-vimeoentsimplycommunitieso-ptr6332-temp.telfordhomes.london",
+  "vkinngworld.infracfg-vimeoentsimplycommunitieso-ptr6332-temp.telfordhomes.london",
+  "wildcard.telfordhomes.london",
+  "www.hostmaster.telfordhomes.london",
+  "www.register.telfordhomes.london",
+  "www.remediation.telfordhomes.london",
+  "www.rs.telfordhomes.london",
+  "www.telfordhomes.london",
+  "www.wildcard.telfordhomes.london",
+  "wwwo.register.telfordhomes.london",
+  "wwwu.remediation.telfordhomes.london"
+ ],
+ "http": [
+  {
+   "url": "http://remediation.telfordhomes.london:80",
+   "host": "remediation.telfordhomes.london",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.48.112.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://rs.telfordhomes.london:80",
+   "host": "rs.telfordhomes.london",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "212.54.131.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://telfordhomes.london:2082",
+   "host": "telfordhomes.london",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://telfordhomes.london:2095",
+   "host": "telfordhomes.london",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://telfordhomes.london:80",
+   "host": "telfordhomes.london",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://telfordhomes.london:8080",
+   "host": "telfordhomes.london",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.remediation.telfordhomes.london:80",
+   "host": "www.remediation.telfordhomes.london",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "108.132.143.218",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.telfordhomes.london:2082",
+   "host": "www.telfordhomes.london",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.telfordhomes.london:2095",
+   "host": "www.telfordhomes.london",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.telfordhomes.london:80",
+   "host": "www.telfordhomes.london",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.telfordhomes.london:8080",
+   "host": "www.telfordhomes.london",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://remediation.telfordhomes.london:443",
+   "host": "remediation.telfordhomes.london",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.48.112.228",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://rs.telfordhomes.london:443",
+   "host": "rs.telfordhomes.london",
+   "port": "443",
+   "status_code": 200,
+   "title": "User account | uk04.rocketseed.com",
+   "webserver": "nginx",
+   "technologies": [
+    "Bootstrap",
+    "Drupal",
+    "HSTS",
+    "Nginx",
+    "PHP",
+    "jQuery UI:1.13.2",
+    "jQuery:3.6.4"
+   ],
+   "cdn": false,
+   "ip": "212.54.131.12",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://telfordhomes.london:2083",
+   "host": "telfordhomes.london",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://telfordhomes.london:2087",
+   "host": "telfordhomes.london",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://telfordhomes.london:2096",
+   "host": "telfordhomes.london",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://telfordhomes.london:443",
+   "host": "telfordhomes.london",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://telfordhomes.london:8443",
+   "host": "telfordhomes.london",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.135",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.remediation.telfordhomes.london:443",
+   "host": "www.remediation.telfordhomes.london",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon ALB",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.132.143.218",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.telfordhomes.london:2083",
+   "host": "www.telfordhomes.london",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.telfordhomes.london:2087",
+   "host": "www.telfordhomes.london",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.telfordhomes.london:2096",
+   "host": "www.telfordhomes.london",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.telfordhomes.london:443",
+   "host": "www.telfordhomes.london",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.telfordhomes.london:8443",
+   "host": "www.telfordhomes.london",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

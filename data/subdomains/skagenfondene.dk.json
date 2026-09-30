@@ -1,0 +1,279 @@
+{
+ "domain": "skagenfondene.dk",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 40,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "d-utv-www.skagenfondene.dk",
+  "d-utv-wwwg.skagenfondene.dk",
+  "d-www.skagenfondene.dk",
+  "d-wwwq.skagenfondene.dk",
+  "email.skagenfondene.dk",
+  "enterpriseregistration.skagenfondene.dk",
+  "investor.skagenfondene.dk",
+  "login.onprem.skagenfondene.dk",
+  "login.skagenfondene.dk",
+  "login5.onprem.skagenfondene.dk",
+  "loginq.skagenfondene.dk",
+  "lyncdiscover.skagenfondene.dk",
+  "lyncdiscoverc.skagenfondene.dk",
+  "observe-t.skagenfondene.dk",
+  "observe-tg.skagenfondene.dk",
+  "observe.skagenfondene.dk",
+  "onprem.skagenfondene.dk",
+  "portal.skagenfondene.dk",
+  "securemail.skagenfondene.dk",
+  "sip.skagenfondene.dk",
+  "sipk.skagenfondene.dk",
+  "skagenfondene.dk",
+  "t-edit.skagenfondene.dk",
+  "t-www.skagenfondene.dk",
+  "w.skagenfondene.dk",
+  "www.d-utv-www.skagenfondene.dk",
+  "www.d-www.skagenfondene.dk",
+  "www.email.skagenfondene.dk",
+  "www.enterpriseregistration.skagenfondene.dk",
+  "www.investor.skagenfondene.dk",
+  "www.login.onprem.skagenfondene.dk",
+  "www.login.skagenfondene.dk",
+  "www.lyncdiscover.skagenfondene.dk",
+  "www.observe-t.skagenfondene.dk",
+  "www.observe.skagenfondene.dk",
+  "www.securemail.skagenfondene.dk",
+  "www.sip.skagenfondene.dk",
+  "www.skagenfondene.dk",
+  "www.t-www.skagenfondene.dk",
+  "wwwe.skagenfondene.dk"
+ ],
+ "http": [
+  {
+   "url": "http://email.skagenfondene.dk:80",
+   "host": "email.skagenfondene.dk",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "18.203.10.161",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://investor.skagenfondene.dk:80",
+   "host": "investor.skagenfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "51.124.51.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://login.skagenfondene.dk:80",
+   "host": "login.skagenfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe-t.skagenfondene.dk:80",
+   "host": "observe-t.skagenfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://observe.skagenfondene.dk:80",
+   "host": "observe.skagenfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://securemail.skagenfondene.dk:80",
+   "host": "securemail.skagenfondene.dk",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.76.249.115",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://skagenfondene.dk:80",
+   "host": "skagenfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.skagenfondene.dk:80",
+   "host": "www.skagenfondene.dk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://email.skagenfondene.dk:443",
+   "host": "email.skagenfondene.dk",
+   "port": "443",
+   "status_code": 200,
+   "title": "APSIS Pro",
+   "webserver": "",
+   "technologies": [
+    "RequireJS",
+    "jQuery UI:1.8.16",
+    "jQuery:1.6.4"
+   ],
+   "cdn": true,
+   "ip": "18.203.10.161",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://investor.skagenfondene.dk:443",
+   "host": "investor.skagenfondene.dk",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "51.124.51.20",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://login.skagenfondene.dk:443",
+   "host": "login.skagenfondene.dk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe-t.skagenfondene.dk:443",
+   "host": "observe-t.skagenfondene.dk",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "34.102.232.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://observe.skagenfondene.dk:443",
+   "host": "observe.skagenfondene.dk",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "35.227.251.236",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://securemail.skagenfondene.dk:443",
+   "host": "securemail.skagenfondene.dk",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.76.249.115",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://skagenfondene.dk:443",
+   "host": "skagenfondene.dk",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.skagenfondene.dk:443",
+   "host": "www.skagenfondene.dk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Investering i aktivt forvaltede fonde - Velkommen til SKAGEN Fondene - SKAGEN Fondene",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Bootstrap:4",
+    "Google Tag Manager",
+    "HSTS",
+    "Highcharts",
+    "Kestrel",
+    "Microsoft ASP.NET",
+    "jQuery:3.5.1"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

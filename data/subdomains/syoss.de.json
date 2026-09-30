@@ -1,0 +1,149 @@
+{
+ "domain": "syoss.de",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 10,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "227.syoss.de",
+  "3demo.syoss.caca.syoss.de",
+  "caca.syoss.de",
+  "gratistesten.syoss.de",
+  "m.syoss.de",
+  "syoss.caca.syoss.de",
+  "syoss.de",
+  "www.gratistesten.syoss.de",
+  "www.m.syoss.de",
+  "www.syoss.de"
+ ],
+ "http": [
+  {
+   "url": "http://m.syoss.de:80",
+   "host": "m.syoss.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.222.99",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://syoss.de:80",
+   "host": "syoss.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.47.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.m.syoss.de:80",
+   "host": "www.m.syoss.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.222.99",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.syoss.de:80",
+   "host": "www.syoss.de",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.225.222.112",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://m.syoss.de:443",
+   "host": "m.syoss.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.225.222.99",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://syoss.de:443",
+   "host": "syoss.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.227.47.47",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.m.syoss.de:443",
+   "host": "www.m.syoss.de",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.225.222.99",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.syoss.de:443",
+   "host": "www.syoss.de",
+   "port": "443",
+   "status_code": 200,
+   "title": "SYOSS - Professional Performance",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "13.225.222.112",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

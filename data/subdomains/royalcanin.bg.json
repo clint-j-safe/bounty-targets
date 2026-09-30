@@ -1,0 +1,113 @@
+{
+ "domain": "royalcanin.bg",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 35,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.royalcanin.bg",
+  "eng.royalcanin.bg",
+  "hwww.royalcanin.bg",
+  "mail.protection.outlook.com.royalcanin.bg",
+  "mta-sts.royalcanin-bg.mail.protection.outlook.com.royalcanin.bg",
+  "my.royalcanin.bg",
+  "my9.royalcanin.bg",
+  "origin.stage.my.royalcanin.bg",
+  "origin.stage.v2.my.royalcanin.bg",
+  "outlook.com.royalcanin.bg",
+  "protection.outlook.com.royalcanin.bg",
+  "royalcanin-bg.mail.protection.outlook.com.royalcanin.bg",
+  "royalcanin.bg",
+  "simplycomedy.royalcanin.bg",
+  "stage.my.royalcanin.bg",
+  "stage.v2.my.royalcanin.bg",
+  "v2.my.royalcanin.bg",
+  "wildcard.my.royalcanin.bg",
+  "wildcard.royalcanin.bg",
+  "www.addondomainderekreilly.royalcanin.bg",
+  "www.com.royalcanin.bg",
+  "www.eng.royalcanin.bg",
+  "www.mail.protection.outlook.com.royalcanin.bg",
+  "www.mta-sts.royalcanin-bg.mail.protection.outlook.com.royalcanin.bg",
+  "www.my.royalcanin.bg",
+  "www.origin.stage.my.royalcanin.bg",
+  "www.origin.stage.v2.my.royalcanin.bg",
+  "www.outlook.com.royalcanin.bg",
+  "www.protection.outlook.com.royalcanin.bg",
+  "www.royalcanin-bg.mail.protection.outlook.com.royalcanin.bg",
+  "www.royalcanin.bg",
+  "www.stage.v2.my.royalcanin.bg",
+  "www.v2.my.royalcanin.bg",
+  "www.wildcard.my.royalcanin.bg",
+  "www.wildcard.royalcanin.bg"
+ ],
+ "http": [
+  {
+   "url": "http://royalcanin.bg:80",
+   "host": "royalcanin.bg",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.bg:80",
+   "host": "www.royalcanin.bg",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.bg:443",
+   "host": "royalcanin.bg",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcanin.bg:443",
+   "host": "www.royalcanin.bg",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.116",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

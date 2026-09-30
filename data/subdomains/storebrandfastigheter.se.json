@@ -1,0 +1,248 @@
+{
+ "domain": "storebrandfastigheter.se",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 8,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "123-nonexistant-dnsjedi-456.storebrandfastigheter.se",
+  "b5elv5mfg2dscqtj7v3qjdrihvrk3hmt.storebrandfastigheter.se",
+  "d3cksetfps54gk5231rgss7jeh8d1nmb.storebrandfastigheter.se",
+  "m.storebrandfastigheter.se",
+  "storebrand.nowww.storebrandfastigheter.se",
+  "storebrandfastigheter.se",
+  "tnp5gfrhgirhqvturja0he9p17793rsg.storebrandfastigheter.se",
+  "www.storebrandfastigheter.se"
+ ],
+ "http": [
+  {
+   "url": "http://123-nonexistant-dnsjedi-456.storebrandfastigheter.se:80",
+   "host": "123-nonexistant-dnsjedi-456.storebrandfastigheter.se",
+   "port": "80",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://d3cksetfps54gk5231rgss7jeh8d1nmb.storebrandfastigheter.se:80",
+   "host": "d3cksetfps54gk5231rgss7jeh8d1nmb.storebrandfastigheter.se",
+   "port": "80",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://m.storebrandfastigheter.se:80",
+   "host": "m.storebrandfastigheter.se",
+   "port": "80",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://storebrand.nowww.storebrandfastigheter.se:80",
+   "host": "storebrand.nowww.storebrandfastigheter.se",
+   "port": "80",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://storebrandfastigheter.se:80",
+   "host": "storebrandfastigheter.se",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "93.188.2.53",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.storebrandfastigheter.se:80",
+   "host": "www.storebrandfastigheter.se",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "93.188.2.53",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://123-nonexistant-dnsjedi-456.storebrandfastigheter.se:443",
+   "host": "123-nonexistant-dnsjedi-456.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://b5elv5mfg2dscqtj7v3qjdrihvrk3hmt.storebrandfastigheter.se:443",
+   "host": "b5elv5mfg2dscqtj7v3qjdrihvrk3hmt.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://d3cksetfps54gk5231rgss7jeh8d1nmb.storebrandfastigheter.se:443",
+   "host": "d3cksetfps54gk5231rgss7jeh8d1nmb.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://m.storebrandfastigheter.se:443",
+   "host": "m.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://storebrand.nowww.storebrandfastigheter.se:443",
+   "host": "storebrand.nowww.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.86",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://storebrandfastigheter.se:443",
+   "host": "storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Startsida | Storebrand Real Estate AS, filial Sverige",
+   "webserver": "nginx",
+   "technologies": [
+    "Cookiebot",
+    "Drupal:11",
+    "Hammer.js",
+    "Nginx",
+    "PHP:8.4.24",
+    "jQuery CDN",
+    "jQuery:3.6.4"
+   ],
+   "cdn": false,
+   "ip": "93.188.2.53",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tnp5gfrhgirhqvturja0he9p17793rsg.storebrandfastigheter.se:443",
+   "host": "tnp5gfrhgirhqvturja0he9p17793rsg.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Parked at Loopia",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Tag Manager",
+    "Nginx",
+    "PHP:8.2.33"
+   ],
+   "cdn": false,
+   "ip": "194.9.94.85",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.storebrandfastigheter.se:443",
+   "host": "www.storebrandfastigheter.se",
+   "port": "443",
+   "status_code": 200,
+   "title": "Startsida | Storebrand Real Estate AS, filial Sverige",
+   "webserver": "nginx",
+   "technologies": [
+    "Cookiebot",
+    "Drupal:11",
+    "Hammer.js",
+    "Nginx",
+    "PHP:8.4.24",
+    "jQuery CDN",
+    "jQuery:3.6.4"
+   ],
+   "cdn": false,
+   "ip": "93.188.2.53",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

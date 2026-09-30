@@ -1,0 +1,70 @@
+{
+ "domain": "skagenfunds.is",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 2,
+ "programs": [
+  "intigriti|storebrand-rd"
+ ],
+ "subdomains": [
+  "skagenfunds.is",
+  "www.skagenfunds.is"
+ ],
+ "http": [
+  {
+   "url": "http://skagenfunds.is:80",
+   "host": "skagenfunds.is",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.skagenfunds.is:80",
+   "host": "www.skagenfunds.is",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://skagenfunds.is:443",
+   "host": "skagenfunds.is",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Microsoft-Azure-Application-Gateway/v2",
+   "technologies": [],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.skagenfunds.is:443",
+   "host": "www.skagenfunds.is",
+   "port": "443",
+   "status_code": 200,
+   "title": "Fund manager - active and independent | SKAGEN Funds - SKAGEN Funds",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Bootstrap:4",
+    "Google Tag Manager",
+    "HSTS",
+    "Highcharts",
+    "Kestrel",
+    "Microsoft ASP.NET",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "20.61.160.166",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "domain": "royalcanin.pt",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 38,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.royalcanin.pt",
+  "contacto.royalcanin.pt",
+  "contacto1.royalcanin.pt",
+  "crescimento.royalcanin.pt",
+  "esterilizacao.royalcanin.pt",
+  "esterilizacao5.royalcanin.pt",
+  "fidelidade.royalcanin.pt",
+  "forms.royalcanin.pt",
+  "formsi.royalcanin.pt",
+  "gatinhosecachorros.royalcanin.pt",
+  "id.royalcanin.pt",
+  "id7.royalcanin.pt",
+  "multifunction.royalcanin.pt",
+  "my.royalcanin.pt",
+  "myg.royalcanin.pt",
+  "natal.royalcanin.pt",
+  "pele.royalcanin.pt",
+  "portal.royalcanin.pt",
+  "portalc.royalcanin.pt",
+  "profissionais.royalcanin.pt",
+  "profissionais7.royalcanin.pt",
+  "royalcanin.pt",
+  "smtp.royalcanin.pt",
+  "smtp9.royalcanin.pt",
+  "somsolidario.royalcanin.pt",
+  "testid.royalcanin.pt",
+  "vetservices.royalcanin.pt",
+  "weborder.royalcanin.pt",
+  "www.contacto.royalcanin.pt",
+  "www.id.royalcanin.pt",
+  "www.multifunction.royalcanin.pt",
+  "www.my.royalcanin.pt",
+  "www.portal.royalcanin.pt",
+  "www.profissionais.royalcanin.pt",
+  "www.royalcanin.pt",
+  "www.smtp.royalcanin.pt",
+  "www.testid.royalcanin.pt",
+  "www.vetservices.royalcanin.pt"
+ ],
+ "http": [
+  {
+   "url": "http://contacto.royalcanin.pt:80",
+   "host": "contacto.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.144.106.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://fidelidade.royalcanin.pt:80",
+   "host": "fidelidade.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "104.248.101.127",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://id.royalcanin.pt:80",
+   "host": "id.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://multifunction.royalcanin.pt:80",
+   "host": "multifunction.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://my.royalcanin.pt:80",
+   "host": "my.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://profissionais.royalcanin.pt:80",
+   "host": "profissionais.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://royalcanin.pt:80",
+   "host": "royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.74",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://testid.royalcanin.pt:80",
+   "host": "testid.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Varnish",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "Varnish"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://vetservices.royalcanin.pt:80",
+   "host": "vetservices.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.82",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://weborder.royalcanin.pt:80",
+   "host": "weborder.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "104.248.101.127",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.royalcanin.pt:80",
+   "host": "www.royalcanin.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://contacto.royalcanin.pt:443",
+   "host": "contacto.royalcanin.pt",
+   "port": "443",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.144.106.251",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://fidelidade.royalcanin.pt:443",
+   "host": "fidelidade.royalcanin.pt",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "Strapi"
+   ],
+   "cdn": false,
+   "ip": "104.248.101.127",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://id.royalcanin.pt:443",
+   "host": "id.royalcanin.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Java",
+    "Microsoft ASP.NET",
+    "Varnish",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "151.101.67.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://multifunction.royalcanin.pt:443",
+   "host": "multifunction.royalcanin.pt",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.89",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://my.royalcanin.pt:443",
+   "host": "my.royalcanin.pt",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Java",
+    "Microsoft ASP.NET",
+    "Varnish",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "146.75.31.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://profissionais.royalcanin.pt:443",
+   "host": "profissionais.royalcanin.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "My Royal Canin PRO",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Java",
+    "Microsoft ASP.NET",
+    "OneTrust",
+    "Varnish",
+    "Windows Server",
+    "jQuery:3.7.0"
+   ],
+   "cdn": true,
+   "ip": "151.101.3.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://royalcanin.pt:443",
+   "host": "royalcanin.pt",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.74",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://testid.royalcanin.pt:443",
+   "host": "testid.royalcanin.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "HSTS",
+    "HTTP/3",
+    "IIS:10.0",
+    "Java",
+    "Microsoft ASP.NET",
+    "Varnish",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "146.75.39.52",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://vetservices.royalcanin.pt:443",
+   "host": "vetservices.royalcanin.pt",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "3.170.42.82",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://weborder.royalcanin.pt:443",
+   "host": "weborder.royalcanin.pt",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "Strapi"
+   ],
+   "cdn": false,
+   "ip": "104.248.101.127",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.royalcanin.pt:443",
+   "host": "www.royalcanin.pt",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.81",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,1084 @@
+{
+ "domain": "tastyrewards.com",
+ "last_run": "2026-09-30T15:31:00+00:00",
+ "count": 11,
+ "programs": [
+  "hackerone|pepsico_vdp"
+ ],
+ "subdomains": [
+  "ct-prod.tastyrewards.com",
+  "ct-sand.tastyrewards.com",
+  "segmanta.tastyrewards.com",
+  "shop.tastyrewards.com",
+  "tastyrewards.com",
+  "www.ct-prod.tastyrewards.com",
+  "www.ct-sand.tastyrewards.com",
+  "www.segmanta.tastyrewards.com",
+  "www.shop.tastyrewards.com",
+  "www.tastyrewards.com",
+  "www3.tastyrewards.com"
+ ],
+ "http": [
+  {
+   "url": "http://ct-prod.tastyrewards.com:80",
+   "host": "ct-prod.tastyrewards.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.222.241.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://ct-sand.tastyrewards.com:80",
+   "host": "ct-sand.tastyrewards.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "23.201.195.26",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://segmanta.tastyrewards.com:80",
+   "host": "segmanta.tastyrewards.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.239.152.226",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:2082",
+   "host": "shop.tastyrewards.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:2095",
+   "host": "shop.tastyrewards.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:3000",
+   "host": "shop.tastyrewards.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:80",
+   "host": "shop.tastyrewards.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8000",
+   "host": "shop.tastyrewards.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8001",
+   "host": "shop.tastyrewards.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8008",
+   "host": "shop.tastyrewards.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8080",
+   "host": "shop.tastyrewards.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8081",
+   "host": "shop.tastyrewards.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8090",
+   "host": "shop.tastyrewards.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8443",
+   "host": "shop.tastyrewards.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:8888",
+   "host": "shop.tastyrewards.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:9000",
+   "host": "shop.tastyrewards.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:9090",
+   "host": "shop.tastyrewards.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://shop.tastyrewards.com:9443",
+   "host": "shop.tastyrewards.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:2082",
+   "host": "tastyrewards.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:2095",
+   "host": "tastyrewards.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:3000",
+   "host": "tastyrewards.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:80",
+   "host": "tastyrewards.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8000",
+   "host": "tastyrewards.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8001",
+   "host": "tastyrewards.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8008",
+   "host": "tastyrewards.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8080",
+   "host": "tastyrewards.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8081",
+   "host": "tastyrewards.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8090",
+   "host": "tastyrewards.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8443",
+   "host": "tastyrewards.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:8888",
+   "host": "tastyrewards.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:9000",
+   "host": "tastyrewards.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:9090",
+   "host": "tastyrewards.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://tastyrewards.com:9443",
+   "host": "tastyrewards.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:2082",
+   "host": "www.shop.tastyrewards.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:2095",
+   "host": "www.shop.tastyrewards.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:3000",
+   "host": "www.shop.tastyrewards.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:80",
+   "host": "www.shop.tastyrewards.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8000",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8001",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8008",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8080",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8081",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8090",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8443",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:8888",
+   "host": "www.shop.tastyrewards.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:9000",
+   "host": "www.shop.tastyrewards.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:9090",
+   "host": "www.shop.tastyrewards.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.shop.tastyrewards.com:9443",
+   "host": "www.shop.tastyrewards.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:2082",
+   "host": "www.tastyrewards.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:2095",
+   "host": "www.tastyrewards.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:3000",
+   "host": "www.tastyrewards.com",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:80",
+   "host": "www.tastyrewards.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8000",
+   "host": "www.tastyrewards.com",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8001",
+   "host": "www.tastyrewards.com",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8008",
+   "host": "www.tastyrewards.com",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8080",
+   "host": "www.tastyrewards.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8081",
+   "host": "www.tastyrewards.com",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8090",
+   "host": "www.tastyrewards.com",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:81",
+   "host": "www.tastyrewards.com",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8443",
+   "host": "www.tastyrewards.com",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:8888",
+   "host": "www.tastyrewards.com",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:9000",
+   "host": "www.tastyrewards.com",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:9090",
+   "host": "www.tastyrewards.com",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "http://www.tastyrewards.com:9443",
+   "host": "www.tastyrewards.com",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ct-prod.tastyrewards.com:443",
+   "host": "ct-prod.tastyrewards.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Rewards",
+   "webserver": "",
+   "technologies": [
+    "Clipboard.js",
+    "HSTS",
+    "Modernizr"
+   ],
+   "cdn": false,
+   "ip": "23.222.241.48",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://ct-sand.tastyrewards.com:443",
+   "host": "ct-sand.tastyrewards.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Rewards",
+   "webserver": "",
+   "technologies": [
+    "Clipboard.js",
+    "HSTS",
+    "Modernizr"
+   ],
+   "cdn": false,
+   "ip": "23.201.195.26",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://segmanta.tastyrewards.com:443",
+   "host": "segmanta.tastyrewards.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Express",
+    "HSTS",
+    "Node.js"
+   ],
+   "cdn": true,
+   "ip": "35.239.152.226",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shop.tastyrewards.com:2083",
+   "host": "shop.tastyrewards.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shop.tastyrewards.com:2087",
+   "host": "shop.tastyrewards.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shop.tastyrewards.com:2096",
+   "host": "shop.tastyrewards.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shop.tastyrewards.com:443",
+   "host": "shop.tastyrewards.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://shop.tastyrewards.com:81",
+   "host": "shop.tastyrewards.com",
+   "port": "81",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tastyrewards.com:2083",
+   "host": "tastyrewards.com",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tastyrewards.com:2087",
+   "host": "tastyrewards.com",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tastyrewards.com:2096",
+   "host": "tastyrewards.com",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tastyrewards.com:443",
+   "host": "tastyrewards.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://tastyrewards.com:81",
+   "host": "tastyrewards.com",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shop.tastyrewards.com:2083",
+   "host": "www.shop.tastyrewards.com",
+   "port": "2083",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shop.tastyrewards.com:2087",
+   "host": "www.shop.tastyrewards.com",
+   "port": "2087",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shop.tastyrewards.com:2096",
+   "host": "www.shop.tastyrewards.com",
+   "port": "2096",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shop.tastyrewards.com:443",
+   "host": "www.shop.tastyrewards.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.shop.tastyrewards.com:81",
+   "host": "www.shop.tastyrewards.com",
+   "port": "81",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  },
+  {
+   "url": "https://www.tastyrewards.com:443",
+   "host": "www.tastyrewards.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Discovering, Saving and Winning! | Tasty Rewards",
+   "webserver": "volt-adc",
+   "technologies": [
+    "AddToAny",
+    "Akamai",
+    "Akamai Connected Cloud",
+    "Bootstrap:3.4.8",
+    "Cloudflare",
+    "Drupal:10",
+    "Envoy",
+    "GSAP",
+    "Google Tag Manager",
+    "HSTS",
+    "Imperva",
+    "Okta:5.5.3",
+    "PHP",
+    "Slick:1.9.0",
+    "Underscore.js",
+    "cdnjs",
+    "jQuery",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "45.223.17.132",
+   "checked": "2026-09-30T15:31:00+00:00"
+  }
+ ]
+}
