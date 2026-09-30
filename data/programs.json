@@ -1,6 +1,471 @@
 {
-  "generated_at": "2026-09-30T05:42:45Z",
+  "generated_at": "2026-09-30T12:47:07Z",
   "programs": [
+    {
+      "platform": "intigriti",
+      "id": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
+      "handle": "wpenginebugbounty",
+      "name": "WP Engine Bug Bounty",
+      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2022-05-09T08:34:24Z",
+      "last_updated_at": "2026-09-30T11:16:22Z",
+      "last_activity_at": "2026-09-30T10:04:20Z",
+      "reports_count": 883,
+      "resolved_reports_count": 246,
+      "total_bounty_amount": {
+        "value": 107275.0,
+        "currency": "EUR"
+      },
+      "bounty_min": 0,
+      "bounty_max": 2500,
+      "targets": [
+        {
+          "type": "url",
+          "target": "https://app.getflywheel.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "This is the primary site for researchers to register and test both the Flywheel App as well as the Flywheel Platform. We will not provide credentials or bypass verification controls (i.e, a researcher will need to either provide a valid phone number or credit card to have a live site), but a researcher may register a demo site that matches the platform's functionality without verification. **Please use your Intigriti credentials to register.** Please note that any issues regarding an individual WordPress installation on the Flywheel platform, outside of plugins owned by WP Engine/Flywheel, will be considered out of scope as we do not monitor or manage customer content. We are, however, very interested in issues that may compromise customer isolation on the platform or cause data to be leaked from either a host or an unrelated customer site."
+        },
+        {
+          "type": "url",
+          "target": "https://getflywheel.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "This site is the landing page for Flywheel-branded services. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and chat functionality are out-of-scope - specifically, the Sales Questions functionality or https://getflywheel.com/schedule-a-demo/. No testing should be done against these targets or any 3rd party services. Please do not contact our Support or Sales teams as part of your testing."
+        },
+        {
+          "type": "url",
+          "target": "https://my.wpengine.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "The User Portal for WP Engine. Customers manage their WordPress sites, addons, and billing details through this portal. **No credentials will be provided**. Researchers are free to test functionally that requires authentication with their own accounts. Please note: no reimbursements will be made for money spent to access this part of the application.\n\nResearchers may sign up for a free trial of our Headless Platform which provides full access to the User Portal and WP Engine platform for testing.  The trial signup page can be found at https://wpengine.com/headless-wordpress/ .  Please use your Intigriti researcher email address when signing up."
+        },
+        {
+          "type": "url",
+          "target": "https://payments.wpengine.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://wpengine.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "This the landing page for the main WP Engine website. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and Live Chat are out-of-scope - specifically, the Sales Questions functionality and https://wpengine.com/contact/. No testing should be done against these targets or any 3rd party services.\n\n**Please Note:** All customer sites on subdomains of wpengine.com, unless explicitly listed as in scope, are out of scope."
+        },
+        {
+          "type": "wildcard",
+          "target": "*. advancedcustomfields.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*. bettersearchreplace.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.deliciousbrains.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.localwp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Local is the #1 local WordPress development tool."
+        },
+        {
+          "type": "wildcard",
+          "target": "*.nitropack.io",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "With NitroPack, you get everything you need for a fast website, in one place. Features like caching, image optimization, and a CDN are ready to go out of the box."
+        },
+        {
+          "type": "wildcard",
+          "target": "*.studiopress.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "The studiopress.com, demo.studiopress.com, and my.studiopress.com sites are public facing marketing and WordPress theme e-commerce sites. **No credentials will be provided.** Researchers are free to test functionally that requires authentication with their own accounts."
+        },
+        {
+          "type": "wildcard",
+          "target": "*.wpengine.io",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible."
+        },
+        {
+          "type": "wildcard",
+          "target": "*.wpesvc.net",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible."
+        },
+        {
+          "type": "other",
+          "target": "WP Engine-developed WordPress Plugins and Themes",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "We accept any reports of vulnerabilities in plugins or themes managed or developed by WP Engine, with the exception of any application-level vulnerabilities in the Out of Scope section below.  These free versions closely mirror their paid counterparts, so any vulnerabilities discovered should be applicable to both the paid or free plugins.\n\nWe also accept reports for the following plugins:\nAdvanced Custom Fields\nBetter Search Replace \nWP Migrate\nWP Offload Media for Amazon S3, DigitalOcean Spaces, and Google Cloud Storage\nWP Offload SES"
+        },
+        {
+          "type": "url",
+          "target": "https://makeshift.film",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://studiopress.blog",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://torquemag.io",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://velocitize.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "This domain is deprecated and bounties are no longer paid."
+        },
+        {
+          "type": "url",
+          "target": "marketing.nitropack.io",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": "This asset is hosted at a third-party vendor and is not eligible for bounties."
+        }
+      ]
+    },
+    {
+      "platform": "intigriti",
+      "id": "afaeab02-261f-486e-8a43-4dee76fccabb",
+      "handle": "rivianbugbounty",
+      "name": "Rivian Bug Bounty",
+      "url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2023-07-10T15:28:28Z",
+      "last_updated_at": "2026-09-30T10:28:07Z",
+      "last_activity_at": "2026-09-30T11:54:22Z",
+      "reports_count": 551,
+      "resolved_reports_count": 92,
+      "total_bounty_amount": {
+        "value": 62225.0,
+        "currency": "USD"
+      },
+      "bounty_min": 100,
+      "bounty_max": 5000,
+      "targets": [
+        {
+          "type": "url",
+          "target": "https://business.rivian.com/api",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://rivian.com/api/gql/content/graphql",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://rivian.com/api/gql/gateway/graphql",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://rivian.com/api/gql/orders/graphql",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.rivian.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "Rivian iOS Application",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "basecamp.rivian.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "android",
+          "target": "Rivian Android Application",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "rivian.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "assets.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "careers.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "cloud.e.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "demovehicles.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "feedback.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "internalshop.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "media.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "stories.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "view.e.rivian.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "intigriti",
+      "id": "5ed6962a-7017-4d60-8805-e169b638528d",
+      "handle": "sqillscorporatewebsite",
+      "name": "Sqills",
+      "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2020-11-27T10:10:00Z",
+      "last_updated_at": "2026-09-30T06:30:18Z",
+      "last_activity_at": "2026-08-17T19:46:48Z",
+      "reports_count": 288,
+      "resolved_reports_count": 0,
+      "total_bounty_amount": {
+        "value": 9950.0,
+        "currency": "EUR"
+      },
+      "bounty_min": 0,
+      "bounty_max": 2500,
+      "targets": [
+        {
+          "type": "wildcard",
+          "target": "*.sqills.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.sqills.team",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.red.sqills.team",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "booking.*.cloud.sqills.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "booking.*.sqills.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "careers.sqills.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "welcome.sqills.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
     {
       "platform": "hackerone",
       "id": "valve",
@@ -4810,7 +5275,7 @@
       "last_updated_at": "2026-09-29T14:58:18Z",
       "last_activity_at": "2026-09-29T20:33:37Z",
       "reports_count": 1202,
-      "resolved_reports_count": 406,
+      "resolved_reports_count": 407,
       "total_bounty_amount": null,
       "bounty_min": 25,
       "bounty_max": 500,
@@ -4891,8 +5356,8 @@
       "managed": null,
       "first_started_at": "2026-09-15T21:08:51Z",
       "last_updated_at": "2026-09-29T13:45:30Z",
-      "last_activity_at": "2026-09-29T19:03:03Z",
-      "reports_count": 28,
+      "last_activity_at": "2026-09-30T10:46:05Z",
+      "reports_count": 29,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -5450,7 +5915,7 @@
       "last_updated_at": "2026-09-29T09:46:21Z",
       "last_activity_at": "2026-09-30T02:51:51Z",
       "reports_count": 2298,
-      "resolved_reports_count": 1078,
+      "resolved_reports_count": 1079,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -6042,7 +6507,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-28T16:14:07Z",
       "last_activity_at": null,
-      "reports_count": 3723,
+      "reports_count": 3732,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -6673,7 +7138,7 @@
       "managed": null,
       "first_started_at": "2023-01-05T13:44:34Z",
       "last_updated_at": "2026-09-28T13:36:47Z",
-      "last_activity_at": "2026-09-29T13:41:42Z",
+      "last_activity_at": "2026-09-30T11:28:34Z",
       "reports_count": 0,
       "resolved_reports_count": 662,
       "total_bounty_amount": {
@@ -7267,8 +7732,8 @@
       "managed": null,
       "first_started_at": "2026-08-17T12:08:17Z",
       "last_updated_at": "2026-09-28T10:26:30Z",
-      "last_activity_at": "2026-09-30T04:12:04Z",
-      "reports_count": 794,
+      "last_activity_at": "2026-09-30T11:32:32Z",
+      "reports_count": 804,
       "resolved_reports_count": 45,
       "total_bounty_amount": {
         "value": 103540.0,
@@ -7645,200 +8110,6 @@
           "updated_at": null,
           "severity": "Tier 3",
           "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "intigriti",
-      "id": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
-      "handle": "wpenginebugbounty",
-      "name": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2022-05-09T08:34:24Z",
-      "last_updated_at": "2026-09-28T09:20:47Z",
-      "last_activity_at": "2026-09-30T01:32:33Z",
-      "reports_count": 881,
-      "resolved_reports_count": 244,
-      "total_bounty_amount": {
-        "value": 106525.0,
-        "currency": "EUR"
-      },
-      "bounty_min": 0,
-      "bounty_max": 2500,
-      "targets": [
-        {
-          "type": "url",
-          "target": "https://app.getflywheel.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "This is the primary site for researchers to register and test both the Flywheel App as well as the Flywheel Platform. We will not provide credentials or bypass verification controls (i.e, a researcher will need to either provide a valid phone number or credit card to have a live site), but a researcher may register a demo site that matches the platform's functionality without verification. **Please use your Intigriti credentials to register.** Please note that any issues regarding an individual WordPress installation on the Flywheel platform, outside of plugins owned by WP Engine/Flywheel, will be considered out of scope as we do not monitor or manage customer content. We are, however, very interested in issues that may compromise customer isolation on the platform or cause data to be leaked from either a host or an unrelated customer site."
-        },
-        {
-          "type": "url",
-          "target": "https://getflywheel.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "This site is the landing page for Flywheel-branded services. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and chat functionality are out-of-scope - specifically, the Sales Questions functionality or https://getflywheel.com/schedule-a-demo/. No testing should be done against these targets or any 3rd party services. Please do not contact our Support or Sales teams as part of your testing."
-        },
-        {
-          "type": "url",
-          "target": "https://my.wpengine.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "The User Portal for WP Engine. Customers manage their WordPress sites, addons, and billing details through this portal. **No credentials will be provided**. Researchers are free to test functionally that requires authentication with their own accounts. Please note: no reimbursements will be made for money spent to access this part of the application.\n\nResearchers may sign up for a free trial of our Headless Platform which provides full access to the User Portal and WP Engine platform for testing.  The trial signup page can be found at https://wpengine.com/headless-wordpress/ .  Please use your Intigriti researcher email address when signing up."
-        },
-        {
-          "type": "url",
-          "target": "https://payments.wpengine.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://wpengine.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "This the landing page for the main WP Engine website. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and Live Chat are out-of-scope - specifically, the Sales Questions functionality and https://wpengine.com/contact/. No testing should be done against these targets or any 3rd party services.\n\n**Please Note:** All customer sites on subdomains of wpengine.com, unless explicitly listed as in scope, are out of scope."
-        },
-        {
-          "type": "wildcard",
-          "target": "*. advancedcustomfields.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*. bettersearchreplace.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.deliciousbrains.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.localwp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Local is the #1 local WordPress development tool."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.nitropack.io",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "With NitroPack, you get everything you need for a fast website, in one place. Features like caching, image optimization, and a CDN are ready to go out of the box."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.studiopress.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "The studiopress.com, demo.studiopress.com, and my.studiopress.com sites are public facing marketing and WordPress theme e-commerce sites. **No credentials will be provided.** Researchers are free to test functionally that requires authentication with their own accounts."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.wpengine.io",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.wpesvc.net",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible."
-        },
-        {
-          "type": "other",
-          "target": "WP Engine-developed WordPress Plugins and Themes",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "We accept any reports of vulnerabilities in plugins or themes managed or developed by WP Engine, with the exception of any application-level vulnerabilities in the Out of Scope section below.  These free versions closely mirror their paid counterparts, so any vulnerabilities discovered should be applicable to both the paid or free plugins.\n\nWe also accept reports for the following plugins:\nAdvanced Custom Fields\nBetter Search Replace \nWP Migrate\nWP Offload Media for Amazon S3, DigitalOcean Spaces, and Google Cloud Storage\nWP Offload SES"
-        },
-        {
-          "type": "url",
-          "target": "https://makeshift.film",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://studiopress.blog",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://torquemag.io",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://velocitize.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "This domain is deprecated and bounties are no longer paid."
-        },
-        {
-          "type": "url",
-          "target": "marketing.nitropack.io",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "This asset is hosted at a third-party vendor and is not eligible for bounties."
         }
       ]
     },
@@ -16835,9 +17106,9 @@
       "managed": true,
       "first_started_at": "2015-08-17T02:20:32Z",
       "last_updated_at": "2026-09-21T06:41:48Z",
-      "last_activity_at": "2026-09-29T08:23:01Z",
+      "last_activity_at": "2026-09-30T09:12:48Z",
       "reports_count": null,
-      "resolved_reports_count": 1030,
+      "resolved_reports_count": 1031,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -17199,8 +17470,8 @@
       "managed": null,
       "first_started_at": "2024-03-04T12:19:08Z",
       "last_updated_at": "2026-09-18T14:12:05Z",
-      "last_activity_at": "2026-09-20T02:52:00Z",
-      "reports_count": 25,
+      "last_activity_at": "2026-09-30T06:46:56Z",
+      "reports_count": 26,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -17639,8 +17910,8 @@
       "managed": null,
       "first_started_at": "2026-04-15T21:26:27Z",
       "last_updated_at": "2026-09-17T18:29:56Z",
-      "last_activity_at": "2026-09-29T09:40:25Z",
-      "reports_count": 12,
+      "last_activity_at": "2026-09-30T11:54:50Z",
+      "reports_count": 16,
       "resolved_reports_count": 4,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -17669,7 +17940,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-17T17:25:30Z",
       "last_activity_at": null,
-      "reports_count": 393,
+      "reports_count": 394,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -20828,7 +21099,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-15T15:56:52Z",
       "last_activity_at": null,
-      "reports_count": 615,
+      "reports_count": 616,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -21300,8 +21571,8 @@
       "managed": null,
       "first_started_at": "2021-07-02T06:56:24Z",
       "last_updated_at": "2026-09-14T16:48:32Z",
-      "last_activity_at": "2026-09-29T17:51:37Z",
-      "reports_count": 599,
+      "last_activity_at": "2026-09-30T05:39:50Z",
+      "reports_count": 600,
       "resolved_reports_count": 117,
       "total_bounty_amount": {
         "value": 55625.0,
@@ -23761,8 +24032,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T14:12:04Z",
       "last_updated_at": "2026-09-11T07:00:08Z",
-      "last_activity_at": "2026-09-30T04:39:10Z",
-      "reports_count": 655,
+      "last_activity_at": "2026-09-30T11:42:08Z",
+      "reports_count": 657,
       "resolved_reports_count": 88,
       "total_bounty_amount": {
         "value": 76596.0,
@@ -26543,7 +26814,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-10T12:24:50Z",
       "last_activity_at": null,
-      "reports_count": 179,
+      "reports_count": 181,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -26709,7 +26980,7 @@
       "first_started_at": "2021-06-24T13:40:50Z",
       "last_updated_at": "2026-09-10T11:38:20Z",
       "last_activity_at": "2026-09-20T13:17:18Z",
-      "reports_count": 126,
+      "reports_count": 127,
       "resolved_reports_count": 13,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -27112,7 +27383,7 @@
       "last_updated_at": "2026-09-10T07:32:05Z",
       "last_activity_at": "2026-09-29T08:27:49Z",
       "reports_count": 354,
-      "resolved_reports_count": 154,
+      "resolved_reports_count": 155,
       "total_bounty_amount": null,
       "bounty_min": 100,
       "bounty_max": 2000,
@@ -28089,7 +28360,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-09T16:07:34Z",
       "last_activity_at": null,
-      "reports_count": 482,
+      "reports_count": 483,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -49420,7 +49691,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-07T10:00:29Z",
       "last_activity_at": null,
-      "reports_count": 1970,
+      "reports_count": 1971,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -54133,8 +54404,8 @@
       "managed": null,
       "first_started_at": "2023-01-13T11:51:23Z",
       "last_updated_at": "2026-09-02T15:59:49Z",
-      "last_activity_at": "2026-09-29T16:39:24Z",
-      "reports_count": 2921,
+      "last_activity_at": "2026-09-30T11:43:15Z",
+      "reports_count": 2923,
       "resolved_reports_count": 631,
       "total_bounty_amount": null,
       "bounty_min": 15,
@@ -54540,8 +54811,8 @@
       "managed": null,
       "first_started_at": "2024-03-19T11:20:06Z",
       "last_updated_at": "2026-09-02T14:26:43Z",
-      "last_activity_at": "2026-09-30T03:20:24Z",
-      "reports_count": 6939,
+      "last_activity_at": "2026-09-30T11:32:57Z",
+      "reports_count": 6949,
       "resolved_reports_count": 2957,
       "total_bounty_amount": null,
       "bounty_min": 150,
@@ -57901,8 +58172,8 @@
       "managed": null,
       "first_started_at": "2021-01-22T15:17:41Z",
       "last_updated_at": "2026-08-31T09:13:46Z",
-      "last_activity_at": "2026-09-29T14:55:16Z",
-      "reports_count": 1661,
+      "last_activity_at": "2026-09-30T10:19:47Z",
+      "reports_count": 1662,
       "resolved_reports_count": 183,
       "total_bounty_amount": {
         "value": 61505.0,
@@ -58568,7 +58839,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:32Z",
       "last_activity_at": null,
-      "reports_count": 941,
+      "reports_count": 943,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -58876,7 +59147,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:27Z",
       "last_activity_at": null,
-      "reports_count": 303,
+      "reports_count": 304,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -65290,7 +65561,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-27T16:19:36Z",
       "last_activity_at": null,
-      "reports_count": 1251,
+      "reports_count": 1252,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -75688,7 +75959,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-18T12:22:17Z",
       "last_activity_at": null,
-      "reports_count": 663,
+      "reports_count": 664,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -78436,8 +78707,8 @@
       "managed": null,
       "first_started_at": "2023-11-23T13:45:00Z",
       "last_updated_at": "2026-08-14T17:20:01Z",
-      "last_activity_at": "2026-09-29T18:06:23Z",
-      "reports_count": 3065,
+      "last_activity_at": "2026-09-30T11:54:20Z",
+      "reports_count": 3069,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -79117,8 +79388,8 @@
       "managed": null,
       "first_started_at": "2022-07-04T14:13:00Z",
       "last_updated_at": "2026-08-13T16:09:04Z",
-      "last_activity_at": "2026-09-29T21:04:03Z",
-      "reports_count": 1184,
+      "last_activity_at": "2026-09-30T09:04:31Z",
+      "reports_count": 1185,
       "resolved_reports_count": 99,
       "total_bounty_amount": {
         "value": 61606.0,
@@ -80706,7 +80977,7 @@
       "managed": null,
       "first_started_at": "2026-05-28T18:58:35Z",
       "last_updated_at": "2026-08-10T22:28:05Z",
-      "last_activity_at": "2026-09-29T23:41:25Z",
+      "last_activity_at": "2026-09-30T11:48:10Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -82297,8 +82568,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T16:49:15Z",
       "last_updated_at": "2026-08-06T10:36:49Z",
-      "last_activity_at": "2026-09-28T17:45:25Z",
-      "reports_count": 632,
+      "last_activity_at": "2026-09-30T08:34:37Z",
+      "reports_count": 633,
       "resolved_reports_count": 43,
       "total_bounty_amount": {
         "value": 31723.0,
@@ -83442,7 +83713,7 @@
       "managed": null,
       "first_started_at": "2025-11-03T11:42:42Z",
       "last_updated_at": "2026-08-05T10:39:49Z",
-      "last_activity_at": "2026-09-30T02:54:06Z",
+      "last_activity_at": "2026-09-30T11:14:47Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -83498,9 +83769,9 @@
       "managed": false,
       "first_started_at": "2022-09-19T18:35:57Z",
       "last_updated_at": "2026-08-05T06:56:19Z",
-      "last_activity_at": "2026-09-23T08:04:24Z",
+      "last_activity_at": "2026-09-30T08:00:52Z",
       "reports_count": null,
-      "resolved_reports_count": 444,
+      "resolved_reports_count": 450,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -85325,7 +85596,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-03T07:22:01Z",
       "last_activity_at": null,
-      "reports_count": 837,
+      "reports_count": 838,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -89994,9 +90265,9 @@
       "managed": true,
       "first_started_at": "2017-10-03T00:30:30Z",
       "last_updated_at": "2026-07-27T15:22:21Z",
-      "last_activity_at": "2026-09-29T12:49:59Z",
+      "last_activity_at": "2026-09-30T11:33:54Z",
       "reports_count": null,
-      "resolved_reports_count": 2568,
+      "resolved_reports_count": 2569,
       "total_bounty_amount": 0.0,
       "bounty_min": 200,
       "bounty_max": null,
@@ -94586,7 +94857,7 @@
       "managed": null,
       "first_started_at": "2018-01-16T20:14:56Z",
       "last_updated_at": "2026-07-21T09:35:49Z",
-      "last_activity_at": "2026-09-25T16:48:49Z",
+      "last_activity_at": "2026-09-30T10:33:15Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -95580,7 +95851,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-07-17T08:14:17Z",
       "last_activity_at": null,
-      "reports_count": 1784,
+      "reports_count": 1786,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -96024,8 +96295,8 @@
       "managed": null,
       "first_started_at": "2023-08-03T11:27:08Z",
       "last_updated_at": "2026-07-16T07:37:36Z",
-      "last_activity_at": "2026-09-29T17:49:49Z",
-      "reports_count": 1325,
+      "last_activity_at": "2026-09-30T11:24:30Z",
+      "reports_count": 1326,
       "resolved_reports_count": 610,
       "total_bounty_amount": {
         "value": 156370.0,
@@ -98897,8 +99168,8 @@
       "managed": null,
       "first_started_at": "2021-10-20T13:45:23Z",
       "last_updated_at": "2026-07-10T08:50:53Z",
-      "last_activity_at": "2026-09-28T21:18:38Z",
-      "reports_count": 581,
+      "last_activity_at": "2026-09-30T06:08:37Z",
+      "reports_count": 582,
       "resolved_reports_count": 43,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -101698,7 +101969,7 @@
       "managed": null,
       "first_started_at": "2026-05-20T13:25:36Z",
       "last_updated_at": "2026-07-03T17:02:29Z",
-      "last_activity_at": "2026-09-29T18:50:31Z",
+      "last_activity_at": "2026-09-30T09:58:12Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -103702,7 +103973,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-06-30T08:31:07Z",
       "last_activity_at": null,
-      "reports_count": 190,
+      "reports_count": 192,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -103884,7 +104155,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-06-30T04:01:03Z",
       "last_activity_at": null,
-      "reports_count": 677,
+      "reports_count": 679,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -105590,8 +105861,8 @@
       "managed": null,
       "first_started_at": "2024-03-29T17:27:43Z",
       "last_updated_at": "2026-06-24T17:17:58Z",
-      "last_activity_at": "2026-09-29T22:24:55Z",
-      "reports_count": 799,
+      "last_activity_at": "2026-09-30T09:01:28Z",
+      "reports_count": 800,
       "resolved_reports_count": 83,
       "total_bounty_amount": {
         "value": 46572.0,
@@ -105661,182 +105932,6 @@
           "bounty": true,
           "updated_at": null,
           "severity": "Tier 3",
-          "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "intigriti",
-      "id": "afaeab02-261f-486e-8a43-4dee76fccabb",
-      "handle": "rivianbugbounty",
-      "name": "Rivian Bug Bounty",
-      "url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2023-07-10T15:28:28Z",
-      "last_updated_at": "2026-06-24T16:58:29Z",
-      "last_activity_at": "2026-09-28T11:25:54Z",
-      "reports_count": 550,
-      "resolved_reports_count": 92,
-      "total_bounty_amount": {
-        "value": 62225.0,
-        "currency": "USD"
-      },
-      "bounty_min": 100,
-      "bounty_max": 5000,
-      "targets": [
-        {
-          "type": "url",
-          "target": "https://business.rivian.com/api",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://rivian.com/api/gql/content/graphql",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://rivian.com/api/gql/gateway/graphql",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://rivian.com/api/gql/orders/graphql",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.rivian.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "1570215232",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "basecamp.rivian.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "android",
-          "target": "com.rivian.android.consumer",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "rivian.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "assets.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "careers.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "demovehicles.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "feedback.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "internalshop.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "media.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "stories.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "view.e.rivian.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
           "instruction": null
         }
       ]
@@ -108126,7 +108221,7 @@
       "managed": null,
       "first_started_at": "2020-05-26T11:26:26Z",
       "last_updated_at": "2026-06-23T15:00:01Z",
-      "last_activity_at": "2026-09-29T18:59:21Z",
+      "last_activity_at": "2026-09-30T11:21:31Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -108607,9 +108702,9 @@
       "managed": true,
       "first_started_at": "2017-09-22T04:17:31Z",
       "last_updated_at": "2026-06-23T07:09:22Z",
-      "last_activity_at": "2026-09-25T14:27:11Z",
+      "last_activity_at": "2026-09-30T12:04:06Z",
       "reports_count": null,
-      "resolved_reports_count": 371,
+      "resolved_reports_count": 375,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -109235,7 +109330,7 @@
       "first_started_at": "2022-01-11T08:32:40Z",
       "last_updated_at": "2026-06-22T14:54:06Z",
       "last_activity_at": "2026-09-28T06:48:10Z",
-      "reports_count": 2343,
+      "reports_count": 2344,
       "resolved_reports_count": 1082,
       "total_bounty_amount": {
         "value": 32850.0,
@@ -109982,8 +110077,8 @@
       "managed": null,
       "first_started_at": "2020-09-03T11:28:44Z",
       "last_updated_at": "2026-06-17T10:56:18Z",
-      "last_activity_at": "2026-09-30T03:14:33Z",
-      "reports_count": 12117,
+      "last_activity_at": "2026-09-30T11:39:07Z",
+      "reports_count": 12119,
       "resolved_reports_count": 2696,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -111847,7 +111942,7 @@
       "managed": null,
       "first_started_at": "2025-06-13T14:41:12Z",
       "last_updated_at": "2026-06-11T16:22:49Z",
-      "last_activity_at": "2026-09-29T21:57:51Z",
+      "last_activity_at": "2026-09-30T09:53:38Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -113089,7 +113184,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-06-08T05:53:43Z",
       "last_activity_at": null,
-      "reports_count": 708,
+      "reports_count": 710,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -120063,7 +120158,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-04-29T09:12:03Z",
       "last_activity_at": null,
-      "reports_count": 2400,
+      "reports_count": 2401,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -122113,9 +122208,9 @@
       "managed": true,
       "first_started_at": "2025-07-15T12:51:45Z",
       "last_updated_at": "2026-04-27T12:35:10Z",
-      "last_activity_at": "2026-03-22T15:31:34Z",
+      "last_activity_at": "2026-09-30T11:49:25Z",
       "reports_count": null,
-      "resolved_reports_count": 1,
+      "resolved_reports_count": 4,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -122645,9 +122740,9 @@
       "managed": true,
       "first_started_at": "2018-10-01T08:51:24Z",
       "last_updated_at": "2026-04-24T07:41:28Z",
-      "last_activity_at": "2026-06-24T06:16:19Z",
+      "last_activity_at": "2026-09-30T08:31:36Z",
       "reports_count": null,
-      "resolved_reports_count": 88,
+      "resolved_reports_count": 135,
       "total_bounty_amount": 0.0,
       "bounty_min": 150,
       "bounty_max": null,
@@ -124382,8 +124477,8 @@
       "managed": null,
       "first_started_at": "2021-09-29T10:17:03Z",
       "last_updated_at": "2026-04-14T06:44:14Z",
-      "last_activity_at": "2026-09-30T03:55:06Z",
-      "reports_count": 1487,
+      "last_activity_at": "2026-09-30T07:58:30Z",
+      "reports_count": 1490,
       "resolved_reports_count": 351,
       "total_bounty_amount": {
         "value": 142788.0,
@@ -133213,9 +133308,9 @@
       "managed": false,
       "first_started_at": "2016-06-15T19:09:14Z",
       "last_updated_at": "2026-03-17T07:45:56Z",
-      "last_activity_at": "2026-09-28T16:43:46Z",
+      "last_activity_at": "2026-09-30T10:03:36Z",
       "reports_count": null,
-      "resolved_reports_count": 1122,
+      "resolved_reports_count": 1123,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -146739,7 +146834,7 @@
       "last_updated_at": "2026-01-09T14:39:37Z",
       "last_activity_at": "2026-09-28T09:32:34Z",
       "reports_count": 1850,
-      "resolved_reports_count": 900,
+      "resolved_reports_count": 901,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -147116,9 +147211,9 @@
       "managed": true,
       "first_started_at": "2017-06-07T22:56:42Z",
       "last_updated_at": "2026-01-06T16:35:20Z",
-      "last_activity_at": "2026-09-29T13:02:26Z",
+      "last_activity_at": "2026-09-30T08:31:32Z",
       "reports_count": null,
-      "resolved_reports_count": 368,
+      "resolved_reports_count": 369,
       "total_bounty_amount": 0.0,
       "bounty_min": 130,
       "bounty_max": null,
@@ -149821,7 +149916,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-12-05T05:05:38Z",
       "last_activity_at": null,
-      "reports_count": 860,
+      "reports_count": 861,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -152214,7 +152309,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-11-06T16:12:35Z",
       "last_activity_at": null,
-      "reports_count": 1027,
+      "reports_count": 1028,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -154486,9 +154581,9 @@
       "managed": true,
       "first_started_at": "2026-01-07T15:07:19Z",
       "last_updated_at": "2025-10-28T12:44:44Z",
-      "last_activity_at": "2026-09-29T19:55:11Z",
+      "last_activity_at": "2026-09-30T08:37:30Z",
       "reports_count": null,
-      "resolved_reports_count": 3069,
+      "resolved_reports_count": 3070,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -248829,7 +248924,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-03-04T08:18:50Z",
       "last_activity_at": null,
-      "reports_count": 783,
+      "reports_count": 784,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -258920,9 +259015,9 @@
       "managed": true,
       "first_started_at": "2023-06-01T14:24:25Z",
       "last_updated_at": "2024-06-20T07:15:39Z",
-      "last_activity_at": "2026-09-24T06:58:03Z",
+      "last_activity_at": "2026-09-30T10:36:40Z",
       "reports_count": null,
-      "resolved_reports_count": 156,
+      "resolved_reports_count": 157,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -265619,9 +265714,9 @@
       "managed": true,
       "first_started_at": "2022-01-10T14:37:28Z",
       "last_updated_at": "2024-01-17T14:35:18Z",
-      "last_activity_at": "2026-09-28T13:15:21Z",
+      "last_activity_at": "2026-09-30T08:53:13Z",
       "reports_count": null,
-      "resolved_reports_count": 889,
+      "resolved_reports_count": 891,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -343360,6 +343455,15 @@
         },
         {
           "type": "URL",
+          "target": "99restaurants.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:39:00Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "99restaurants.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -343481,6 +343585,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-04-23T20:58:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "academy.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:38:40Z",
           "severity": "critical",
           "instruction": null
         },
@@ -343823,6 +343936,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-15T14:55:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "advanceautoparts.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:38:14Z",
           "severity": "critical",
           "instruction": null
         },
@@ -344863,6 +344985,15 @@
         },
         {
           "type": "URL",
+          "target": "api-yacare-sae1.ns1.fiservapis.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:39:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "api-yacare-saw1.ns1.fiservapis.com",
           "in_scope": true,
           "bounty": false,
@@ -345272,6 +345403,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2023-12-05T22:39:33Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "arbys.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:37:59Z",
           "severity": "critical",
           "instruction": null
         },
@@ -346055,6 +346195,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-04-25T20:57:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bahamabucks.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:37:44Z",
           "severity": "critical",
           "instruction": null
         },
@@ -347023,6 +347172,15 @@
         },
         {
           "type": "URL",
+          "target": "baskinrobbins.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:37:20Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "baskinrobbins.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -347374,6 +347532,15 @@
         },
         {
           "type": "URL",
+          "target": "bergdorfgoodman.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:37:05Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "bergdorfgoodman.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -347396,6 +347563,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-09T14:57:13Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bestbuy.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:36:34Z",
           "severity": "critical",
           "instruction": null
         },
@@ -347563,6 +347739,15 @@
         },
         {
           "type": "URL",
+          "target": "binnys.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:36:20Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "binnys.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -347617,10 +347802,28 @@
         },
         {
           "type": "URL",
+          "target": "blackriflecoffee.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:36:07Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "blackriflecoffee.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-04-29T18:11:31Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "blimpie.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:35:53Z",
           "severity": "critical",
           "instruction": null
         },
@@ -347792,6 +347995,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-04-29T18:15:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bncollege.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:35:38Z",
           "severity": "critical",
           "instruction": null
         },
@@ -348445,6 +348657,15 @@
         },
         {
           "type": "URL",
+          "target": "burgerking.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:35:25Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "burgerking.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -348638,6 +348859,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-09T15:01:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "calvinklein.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:35:11Z",
           "severity": "critical",
           "instruction": null
         },
@@ -348872,6 +349102,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T18:13:32Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "captainds.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:34:55Z",
           "severity": "critical",
           "instruction": null
         },
@@ -349484,6 +349723,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T11:32:20Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cat-pbc-self-service.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:34:42Z",
           "severity": "critical",
           "instruction": null
         },
@@ -351073,10 +351321,37 @@
         },
         {
           "type": "URL",
+          "target": "chevron.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:34:29Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "chicagoffcu-dc.cert.fec-dc.fiservapps.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T12:12:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "chickfila.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:34:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "chilis.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:34:02Z",
           "severity": "critical",
           "instruction": null
         },
@@ -351392,6 +351667,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T12:21:23Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "citybbq.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:33:49Z",
           "severity": "critical",
           "instruction": null
         },
@@ -353080,6 +353364,15 @@
         },
         {
           "type": "URL",
+          "target": "costcoshopcard.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:39:15Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "cottonbeltfcu-dn.financial-net.com",
           "in_scope": true,
           "bounty": false,
@@ -353255,6 +353548,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T13:06:07Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "crestfoods.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:33:34Z",
           "severity": "critical",
           "instruction": null
         },
@@ -353485,6 +353787,15 @@
         },
         {
           "type": "URL",
+          "target": "cub.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:33:22Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "cub.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -353516,6 +353827,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-26T16:18:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "culvers.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:33:07Z",
           "severity": "critical",
           "instruction": null
         },
@@ -354007,6 +354327,15 @@
         },
         {
           "type": "URL",
+          "target": "deltaco.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:32:10Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "deltaco.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -354020,6 +354349,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T13:20:57Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "deltasoniccarwash.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:30:40Z",
           "severity": "critical",
           "instruction": null
         },
@@ -354691,6 +355029,15 @@
         },
         {
           "type": "URL",
+          "target": "dit-elavon-boarding-pl.technologi.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:03:25Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "dit-elavon-boarding.technologi.co.uk",
           "in_scope": true,
           "bounty": false,
@@ -355339,6 +355686,15 @@
         },
         {
           "type": "URL",
+          "target": "dunkin.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:16:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "dunkin.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -355492,6 +355848,15 @@
         },
         {
           "type": "URL",
+          "target": "eatnpark.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:15:55Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "eatnparkstore.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -355622,6 +355987,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-26T16:18:35Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "eddiemerlots.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:14:54Z",
           "severity": "critical",
           "instruction": null
         },
@@ -356482,6 +356856,24 @@
         },
         {
           "type": "URL",
+          "target": "expresspos-cat.firstdata.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:41:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "expresspos.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:41:32Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "extranet-dna-cert.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -356653,6 +357045,15 @@
         },
         {
           "type": "URL",
+          "target": "fandango.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:13:55Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "fandango.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -356720,6 +357121,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T13:19:14Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "farmfresh.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:03:38Z",
           "severity": "critical",
           "instruction": null
         },
@@ -357508,6 +357918,15 @@
         },
         {
           "type": "URL",
+          "target": "files.cfc-test.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:54:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "files.clover.com",
           "in_scope": true,
           "bounty": false,
@@ -357629,6 +358048,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T14:33:31Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "finishline.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:02:37Z",
           "severity": "critical",
           "instruction": null
         },
@@ -358228,6 +358656,15 @@
         },
         {
           "type": "URL",
+          "target": "firstwatch.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:01:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "firstwatch.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -358781,6 +359218,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T14:55:22Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fogodechao.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:00:33Z",
           "severity": "critical",
           "instruction": null
         },
@@ -360235,6 +360681,15 @@
         },
         {
           "type": "URL",
+          "target": "granitecity.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:58:45Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "granitecity.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -360514,6 +360969,15 @@
         },
         {
           "type": "URL",
+          "target": "gulfoil.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:50:39Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "gwbtest.olbanking.com",
           "in_scope": true,
           "bounty": false,
@@ -360599,6 +361063,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T14:33:34Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hardrockatlanticcity.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:41:50Z",
           "severity": "critical",
           "instruction": null
         },
@@ -360869,6 +361342,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T16:50:29Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "heartlandsteakco.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:37:40Z",
           "severity": "critical",
           "instruction": null
         },
@@ -363133,6 +363615,15 @@
         },
         {
           "type": "URL",
+          "target": "http://api.boarding.elavon.de",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:05:10Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "http://api.businesstrack.com",
           "in_scope": true,
           "bounty": false,
@@ -363178,6 +363669,15 @@
         },
         {
           "type": "URL",
+          "target": "http://api.cpi.elavon.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:04:55Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "http://api.creditagricole.elavon.pl",
           "in_scope": true,
           "bounty": false,
@@ -363191,6 +363691,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-03-29T15:30:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "http://api.moreflo.elavon.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:04:38Z",
           "severity": "critical",
           "instruction": null
         },
@@ -363587,6 +364096,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-03-08T14:07:14Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "http://assisted.boarding.elavon.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:04:23Z",
           "severity": "critical",
           "instruction": null
         },
@@ -366017,6 +366535,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-02-23T17:21:39Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "http://boarding.bnpparibas.elavon.pl",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:04:03Z",
           "severity": "critical",
           "instruction": null
         },
@@ -371728,6 +372255,15 @@
         },
         {
           "type": "URL",
+          "target": "http://config.bnpparibas.elavon.pl",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:03:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "http://config.boarding.elavon.co.uk",
           "in_scope": true,
           "bounty": false,
@@ -375260,6 +375796,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-06-10T18:53:48Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "http://ent-elavon-extapi.technologi.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:03:07Z",
           "severity": "critical",
           "instruction": null
         },
@@ -384395,6 +384940,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-02-23T16:36:10Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "http://merchant.boarding.elavon.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:02:37Z",
           "severity": "critical",
           "instruction": null
         },
@@ -401329,6 +401883,15 @@
         },
         {
           "type": "URL",
+          "target": "http://uatelavonmerchant-at.technologi.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:55:35Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "http://uatelavonmerchant-be.technologi.co.uk",
           "in_scope": true,
           "bounty": false,
@@ -401365,6 +401928,15 @@
         },
         {
           "type": "URL",
+          "target": "http://uatelavonmerchant-nl.technologi.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:55:10Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "http://uatelavonmerchant-pl.technologi.co.uk",
           "in_scope": true,
           "bounty": false,
@@ -401383,6 +401955,15 @@
         },
         {
           "type": "URL",
+          "target": "http://uatelavonmerchant2-at.technologi.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:02:11Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "http://uatelavonmerchant2-be.technologi.co.uk",
           "in_scope": true,
           "bounty": false,
@@ -401396,6 +401977,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-02-23T16:25:51Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "http://uatelavonmerchant2-de.technologi.co.uk",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:01:49Z",
           "severity": "critical",
           "instruction": null
         },
@@ -406828,6 +407418,15 @@
         },
         {
           "type": "URL",
+          "target": "hub.skytef.com.br",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:42:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "hudfcu-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -406841,6 +407440,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-10T16:14:59Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hudsonsbay.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:36:29Z",
           "severity": "critical",
           "instruction": null
         },
@@ -407125,6 +407733,15 @@
         },
         {
           "type": "URL",
+          "target": "iherb.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:35:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "iherb.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -407183,6 +407800,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-12-24T21:15:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "in-n-outburger.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:34:28Z",
           "severity": "critical",
           "instruction": null
         },
@@ -407345,6 +407971,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-09T17:15:54Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "insights-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:54:31Z",
           "severity": "critical",
           "instruction": null
         },
@@ -407836,10 +408471,28 @@
         },
         {
           "type": "URL",
+          "target": "jcp.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:33:00Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "jdbank-p2.onlinebank.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:38:09Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "jdsports.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:32:18Z",
           "severity": "critical",
           "instruction": null
         },
@@ -407912,6 +408565,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:39:40Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "jerseymikes.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:30:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -408011,6 +408673,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-22T14:03:12Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "kasasa-test.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:45:20Z",
           "severity": "critical",
           "instruction": null
         },
@@ -408164,6 +408835,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T14:40:19Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "kfc.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:28:32Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409042,6 +409722,15 @@
         },
         {
           "type": "URL",
+          "target": "lol-uat.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:42:49Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "lol.fiservapp.com",
           "in_scope": true,
           "bounty": false,
@@ -409118,6 +409807,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:54:14Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "lowesfoods.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:27:42Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409285,10 +409983,28 @@
         },
         {
           "type": "URL",
+          "target": "macaronigrill.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:26:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "machiassavingsbankuat.caaweb.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:55:28Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "madgreens.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:25:42Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409807,6 +410523,15 @@
         },
         {
           "type": "URL",
+          "target": "mcx.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:24:20Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "mcx.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -409973,6 +410698,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:05:52Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mellowmushroom.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:23:24Z",
           "severity": "critical",
           "instruction": null
         },
@@ -410585,6 +411319,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-24T19:14:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mimiscafe.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:21:01Z",
           "severity": "critical",
           "instruction": null
         },
@@ -411436,6 +412179,15 @@
         },
         {
           "type": "URL",
+          "target": "myamex-in.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:45:00Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "myamex-test-in.fiserv.io",
           "in_scope": true,
           "bounty": false,
@@ -411449,6 +412201,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-14T14:26:43Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myamex-uat-e2-in.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:44:45Z",
           "severity": "critical",
           "instruction": null
         },
@@ -412066,6 +412827,15 @@
         },
         {
           "type": "URL",
+          "target": "nbtb-pdx.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:44:29Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "nbtbank.architect-cert.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -412484,6 +413254,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:45:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nordstrom.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:19:07Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413155,6 +413934,15 @@
         },
         {
           "type": "URL",
+          "target": "olivegarden.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:17:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "olivegarden.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -413258,6 +414046,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-09-25T19:51:19Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "omnihub-gateway-cat.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:41:03Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "omnihub-gateway-prod.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:40:49Z",
           "severity": "critical",
           "instruction": null
         },
@@ -414460,6 +415266,15 @@
         },
         {
           "type": "URL",
+          "target": "pbc-self-service.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:16:56Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "pbefcu-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -414545,6 +415360,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T12:18:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "peiwei.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:16:01Z",
           "severity": "critical",
           "instruction": null
         },
@@ -414820,6 +415644,24 @@
         },
         {
           "type": "URL",
+          "target": "personetics-test.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:44:13Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "petsmart.gift.solutions",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T10:11:25Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "petsmart.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -415022,6 +415864,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T15:53:26Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pix-cat-v2.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:40:34Z",
           "severity": "critical",
           "instruction": null
         },
@@ -415535,6 +416386,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-10T18:53:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "porticoculowers-dev.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:43:54Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "porticoculowers-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:43:33Z",
           "severity": "critical",
           "instruction": null
         },
@@ -416935,6 +417804,24 @@
         },
         {
           "type": "URL",
+          "target": "qeuatul-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:43:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "qr-cat-v2.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:40:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "qr-cat.fiservapp.com",
           "in_scope": true,
           "bounty": false,
@@ -417146,6 +418033,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T13:06:46Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "rc-xdappmarket.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:43:02Z",
           "severity": "critical",
           "instruction": null
         },
@@ -418141,6 +419037,42 @@
         },
         {
           "type": "URL",
+          "target": "rtibmdsig-admin-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:31:59Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "rtibmdsig-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:30:52Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "rticlt-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:29:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "rtidna-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:28:37Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "rtidsig-qa.fiserv.io",
           "in_scope": true,
           "bounty": false,
@@ -418150,10 +419082,28 @@
         },
         {
           "type": "URL",
+          "target": "rtiprm-qa-admin.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:28:19Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "rtiprm-qa.fiserv.io",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T11:24:51Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "rtiprn-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:28:03Z",
           "severity": "critical",
           "instruction": null
         },
@@ -419279,6 +420229,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-14T14:33:36Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "sgi.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:42:04Z",
           "severity": "critical",
           "instruction": null
         },
@@ -424441,6 +425400,15 @@
         },
         {
           "type": "URL",
+          "target": "ucbuat.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:27:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "uchoose.gift.solutions",
           "in_scope": true,
           "bounty": false,
@@ -425494,6 +426462,24 @@
         },
         {
           "type": "URL",
+          "target": "ul-admin-qa-test.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:27:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ul-admin-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:27:22Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "ul-dev-test.fiserv.io",
           "in_scope": true,
           "bounty": false,
@@ -425503,10 +426489,46 @@
         },
         {
           "type": "URL",
+          "target": "ul-partner-qa-test.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:26:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ul-partner-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:26:46Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "ul-prod.fiserv.io",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T11:25:47Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ul-qa-test.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:25:40Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ul-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:25:57Z",
           "severity": "critical",
           "instruction": null
         },
@@ -425530,10 +426552,37 @@
         },
         {
           "type": "URL",
+          "target": "ulreldna-qa-admin.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:25:26Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "ulreldna-qa.fiserv.io",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T11:26:14Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ulreldsig-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:25:10Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ulrelprm-qa-admin.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:24:55Z",
           "severity": "critical",
           "instruction": null
         },
@@ -428446,6 +429495,15 @@
         },
         {
           "type": "URL",
+          "target": "xdappmarket.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:24:04Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "xdimp10.architect-cert.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -428495,6 +429553,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T16:31:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "xdrel1001-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:23:43Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "xdrel1002-qa.fiserv.io",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T12:05:58Z",
           "severity": "critical",
           "instruction": null
         },
@@ -428558,6 +429634,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T16:33:03Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "yacare-api-cat-v2.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:40:04Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "yacare-api-cni.fiservapp.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T11:39:51Z",
           "severity": "critical",
           "instruction": null
         },
@@ -430091,9 +431185,9 @@
       "managed": true,
       "first_started_at": "2019-04-25T18:12:46Z",
       "last_updated_at": "2022-07-21T14:20:07Z",
-      "last_activity_at": "2026-09-29T05:33:47Z",
+      "last_activity_at": "2026-09-30T05:51:35Z",
       "reports_count": null,
-      "resolved_reports_count": 384,
+      "resolved_reports_count": 385,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -443788,9 +444882,9 @@
       "managed": true,
       "first_started_at": "2021-11-25T12:30:00Z",
       "last_updated_at": "2021-11-15T13:14:30Z",
-      "last_activity_at": "2026-09-15T06:46:15Z",
+      "last_activity_at": "2026-09-30T09:18:16Z",
       "reports_count": null,
-      "resolved_reports_count": 131,
+      "resolved_reports_count": 132,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -444553,9 +445647,9 @@
       "managed": true,
       "first_started_at": "2021-05-05T18:57:25Z",
       "last_updated_at": "2021-05-20T17:33:40Z",
-      "last_activity_at": "2026-09-29T00:29:33Z",
+      "last_activity_at": "2026-09-30T10:40:36Z",
       "reports_count": null,
-      "resolved_reports_count": 374,
+      "resolved_reports_count": 377,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -451155,9 +452249,9 @@
       "managed": false,
       "first_started_at": "2017-04-09T23:27:35Z",
       "last_updated_at": "2019-09-04T08:34:02Z",
-      "last_activity_at": "2026-09-29T15:24:08Z",
+      "last_activity_at": "2026-09-30T09:44:04Z",
       "reports_count": null,
-      "resolved_reports_count": 227,
+      "resolved_reports_count": 229,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -452168,9 +453262,9 @@
       "managed": true,
       "first_started_at": "2017-08-15T21:28:18Z",
       "last_updated_at": null,
-      "last_activity_at": "2026-09-29T10:41:15Z",
+      "last_activity_at": "2026-09-30T12:09:12Z",
       "reports_count": null,
-      "resolved_reports_count": 1233,
+      "resolved_reports_count": 1234,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -452278,9 +453372,9 @@
       "managed": true,
       "first_started_at": "2018-05-21T20:10:11Z",
       "last_updated_at": null,
-      "last_activity_at": "2026-05-12T03:56:27Z",
+      "last_activity_at": "2026-09-30T11:53:55Z",
       "reports_count": null,
-      "resolved_reports_count": 132,
+      "resolved_reports_count": 133,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,

@@ -31,7 +31,7 @@ Timestamps are UTC ISO 8601 strings. Flags are `true` / `false` / `null`, where 
 
 ### Status
 
-The last change was detected on `Wednesday 09/30/2026 05:42 (UTC)`. New changes (if any) are picked up every 6 hours.
+The last change was detected on `Wednesday 09/30/2026 12:47 (UTC)`. New changes (if any) are picked up every 6 hours.
 
 ### Code
 
