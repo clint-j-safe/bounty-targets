@@ -1,0 +1,76 @@
+{
+ "domain": "wecash.it",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "wecash.it",
+  "www.wecash.it"
+ ],
+ "http": [
+  {
+   "url": "https://wecash.it:443",
+   "host": "wecash.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "F5 Distributed Cloud Services"
+   ],
+   "cdn": false,
+   "ip": "159.60.155.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://wecash.it:8443",
+   "host": "wecash.it",
+   "port": "8443",
+   "status_code": 421,
+   "title": "421 Misdirected Request",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud"
+   ],
+   "cdn": false,
+   "ip": "159.60.155.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.wecash.it:443",
+   "host": "www.wecash.it",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud",
+    "F5 Distributed Cloud Services"
+   ],
+   "cdn": false,
+   "ip": "159.60.155.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.wecash.it:8443",
+   "host": "www.wecash.it",
+   "port": "8443",
+   "status_code": 421,
+   "title": "421 Misdirected Request",
+   "webserver": "volt-adc",
+   "technologies": [
+    "Akamai",
+    "Akamai Connected Cloud"
+   ],
+   "cdn": false,
+   "ip": "159.60.155.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

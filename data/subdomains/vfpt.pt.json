@@ -1,0 +1,738 @@
+{
+ "domain": "vfpt.pt",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 37,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "adultos.test.securenet.vfpt.pt",
+  "apostas.test.securenet.vfpt.pt",
+  "app.vfpt.pt",
+  "chat.test.securenet.vfpt.pt",
+  "compras.test.securenet.vfpt.pt",
+  "downloads.test.securenet.vfpt.pt",
+  "drogas.test.securenet.vfpt.pt",
+  "educacaosexual.test.securenet.vfpt.pt",
+  "encontros.test.securenet.vfpt.pt",
+  "entretenimento.test.securenet.vfpt.pt",
+  "estudo.test.securenet.vfpt.pt",
+  "jogos.test.securenet.vfpt.pt",
+  "loopholes.test.securenet.vfpt.pt",
+  "securenet.vfpt.pt",
+  "social.test.securenet.vfpt.pt",
+  "status.securenet.vfpt.pt",
+  "test.securenet.vfpt.pt",
+  "vfpt.pt",
+  "violencia.test.securenet.vfpt.pt",
+  "www.adultos.test.securenet.vfpt.pt",
+  "www.apostas.test.securenet.vfpt.pt",
+  "www.app.vfpt.pt",
+  "www.chat.test.securenet.vfpt.pt",
+  "www.compras.test.securenet.vfpt.pt",
+  "www.downloads.test.securenet.vfpt.pt",
+  "www.drogas.test.securenet.vfpt.pt",
+  "www.educacaosexual.test.securenet.vfpt.pt",
+  "www.encontros.test.securenet.vfpt.pt",
+  "www.entretenimento.test.securenet.vfpt.pt",
+  "www.estudo.test.securenet.vfpt.pt",
+  "www.jogos.test.securenet.vfpt.pt",
+  "www.loopholes.test.securenet.vfpt.pt",
+  "www.social.test.securenet.vfpt.pt",
+  "www.status.securenet.vfpt.pt",
+  "www.test.securenet.vfpt.pt",
+  "www.vfpt.pt",
+  "www.violencia.test.securenet.vfpt.pt"
+ ],
+ "http": [
+  {
+   "url": "http://adultos.test.securenet.vfpt.pt:80",
+   "host": "adultos.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://apostas.test.securenet.vfpt.pt:80",
+   "host": "apostas.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:2082",
+   "host": "app.vfpt.pt",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:2095",
+   "host": "app.vfpt.pt",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:3000",
+   "host": "app.vfpt.pt",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:80",
+   "host": "app.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8000",
+   "host": "app.vfpt.pt",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8001",
+   "host": "app.vfpt.pt",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8008",
+   "host": "app.vfpt.pt",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8080",
+   "host": "app.vfpt.pt",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8081",
+   "host": "app.vfpt.pt",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8090",
+   "host": "app.vfpt.pt",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:81",
+   "host": "app.vfpt.pt",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8443",
+   "host": "app.vfpt.pt",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:8888",
+   "host": "app.vfpt.pt",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:9000",
+   "host": "app.vfpt.pt",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:9090",
+   "host": "app.vfpt.pt",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://app.vfpt.pt:9443",
+   "host": "app.vfpt.pt",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://chat.test.securenet.vfpt.pt:80",
+   "host": "chat.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://compras.test.securenet.vfpt.pt:80",
+   "host": "compras.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://downloads.test.securenet.vfpt.pt:80",
+   "host": "downloads.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://drogas.test.securenet.vfpt.pt:80",
+   "host": "drogas.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://educacaosexual.test.securenet.vfpt.pt:80",
+   "host": "educacaosexual.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://encontros.test.securenet.vfpt.pt:80",
+   "host": "encontros.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://entretenimento.test.securenet.vfpt.pt:80",
+   "host": "entretenimento.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://estudo.test.securenet.vfpt.pt:80",
+   "host": "estudo.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jogos.test.securenet.vfpt.pt:80",
+   "host": "jogos.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://loopholes.test.securenet.vfpt.pt:80",
+   "host": "loopholes.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://social.test.securenet.vfpt.pt:80",
+   "host": "social.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://status.securenet.vfpt.pt:80",
+   "host": "status.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://test.securenet.vfpt.pt:80",
+   "host": "test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vfpt.pt:80",
+   "host": "vfpt.pt",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.61.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://violencia.test.securenet.vfpt.pt:80",
+   "host": "violencia.test.securenet.vfpt.pt",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://adultos.test.securenet.vfpt.pt:443",
+   "host": "adultos.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://apostas.test.securenet.vfpt.pt:443",
+   "host": "apostas.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://app.vfpt.pt:443",
+   "host": "app.vfpt.pt",
+   "port": "443",
+   "status_code": 404,
+   "title": "Error 404",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "Imperva",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "45.60.74.50",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://chat.test.securenet.vfpt.pt:443",
+   "host": "chat.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://compras.test.securenet.vfpt.pt:443",
+   "host": "compras.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://downloads.test.securenet.vfpt.pt:443",
+   "host": "downloads.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://drogas.test.securenet.vfpt.pt:443",
+   "host": "drogas.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://educacaosexual.test.securenet.vfpt.pt:443",
+   "host": "educacaosexual.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://encontros.test.securenet.vfpt.pt:443",
+   "host": "encontros.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://entretenimento.test.securenet.vfpt.pt:443",
+   "host": "entretenimento.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://estudo.test.securenet.vfpt.pt:443",
+   "host": "estudo.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://jogos.test.securenet.vfpt.pt:443",
+   "host": "jogos.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://loopholes.test.securenet.vfpt.pt:443",
+   "host": "loopholes.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://social.test.securenet.vfpt.pt:443",
+   "host": "social.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://status.securenet.vfpt.pt:443",
+   "host": "status.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://test.securenet.vfpt.pt:443",
+   "host": "test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vfpt.pt:443",
+   "host": "vfpt.pt",
+   "port": "443",
+   "status_code": 404,
+   "title": "Error 404",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "Imperva",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "45.223.61.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://violencia.test.securenet.vfpt.pt:443",
+   "host": "violencia.test.securenet.vfpt.pt",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "213.30.114.136",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

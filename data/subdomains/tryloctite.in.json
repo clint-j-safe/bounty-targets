@@ -1,0 +1,116 @@
+{
+ "domain": "tryloctite.in",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 42,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "admin.beta.tryloctite.in",
+  "admin.tryloctite.in",
+  "admini.tryloctite.in",
+  "beta.tryloctite.in",
+  "cms-api.beta.tryloctite.in",
+  "cms-api.tryloctite.in",
+  "cms-apic.tryloctite.in",
+  "cms-apie.beta.tryloctite.in",
+  "cms.beta.tryloctite.in",
+  "cms.tryloctite.in",
+  "cmsm.beta.tryloctite.in",
+  "loyalty.beta.tryloctite.in",
+  "loyalty.tryloctite.in",
+  "oms.beta.tryloctite.in",
+  "oms.tryloctite.in",
+  "recommendation.beta.tryloctite.in",
+  "recommendation.tryloctite.in",
+  "search.beta.tryloctite.in",
+  "search.tryloctite.in",
+  "seller.beta.tryloctite.in",
+  "seller.tryloctite.in",
+  "tryloctite.in",
+  "uat.tryloctite.in",
+  "www.admin.beta.tryloctite.in",
+  "www.admin.tryloctite.in",
+  "www.beta.tryloctite.in",
+  "www.cms-api.beta.tryloctite.in",
+  "www.cms-api.tryloctite.in",
+  "www.cms.beta.tryloctite.in",
+  "www.cms.tryloctite.in",
+  "www.loyalty.beta.tryloctite.in",
+  "www.loyalty.tryloctite.in",
+  "www.oms.beta.tryloctite.in",
+  "www.oms.tryloctite.in",
+  "www.recommendation.beta.tryloctite.in",
+  "www.recommendation.tryloctite.in",
+  "www.search.beta.tryloctite.in",
+  "www.search.tryloctite.in",
+  "www.seller.beta.tryloctite.in",
+  "www.seller.tryloctite.in",
+  "www.tryloctite.in",
+  "www.uat.tryloctite.in"
+ ],
+ "http": [
+  {
+   "url": "http://tryloctite.in:80",
+   "host": "tryloctite.in",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.tryloctite.in:80",
+   "host": "www.tryloctite.in",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.7",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tryloctite.in:443",
+   "host": "tryloctite.in",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.tryloctite.in:443",
+   "host": "www.tryloctite.in",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.32.205.7",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

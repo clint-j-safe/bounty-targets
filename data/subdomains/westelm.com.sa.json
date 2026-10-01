@@ -1,0 +1,114 @@
+{
+ "domain": "westelm.com.sa",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.westelm.com.sa",
+  "data9.westelm.com.sa",
+  "links.mail.westelm.com.sa",
+  "mail.westelm.com.sa",
+  "westelm.com.sa",
+  "www.data.westelm.com.sa",
+  "www.links.mail.westelm.com.sa",
+  "www.westelm.com.sa"
+ ],
+ "http": [
+  {
+   "url": "http://data.westelm.com.sa:80",
+   "host": "data.westelm.com.sa",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links.mail.westelm.com.sa:80",
+   "host": "links.mail.westelm.com.sa",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.199.51.211",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://westelm.com.sa:80",
+   "host": "westelm.com.sa",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.westelm.com.sa:80",
+   "host": "www.westelm.com.sa",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "140.248.145.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://data.westelm.com.sa:443",
+   "host": "data.westelm.com.sa",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.36.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://westelm.com.sa:443",
+   "host": "westelm.com.sa",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.westelm.com.sa:443",
+   "host": "www.westelm.com.sa",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "140.248.145.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

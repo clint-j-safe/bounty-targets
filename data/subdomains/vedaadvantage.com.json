@@ -1,0 +1,330 @@
+{
+ "domain": "vedaadvantage.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 66,
+ "programs": [
+  "hackerone|equifax"
+ ],
+ "subdomains": [
+  "am.vedaadvantage.com",
+  "ame.vedaadvantage.com",
+  "au.vedaadvantage.com",
+  "cta.vedalink.vedaadvantage.com",
+  "ctae.vedalink.vedaadvantage.com",
+  "dataexpress.vedaadvantage.com",
+  "dataexpressq.vedaadvantage.com",
+  "ftpau.vedaadvantage.com",
+  "mail1.vedaadvantage.com",
+  "mail2.vedaadvantage.com",
+  "mailau.vedaadvantage.com",
+  "mysecuresentinel.vedaadvantage.com",
+  "mysecuresentinelc.vedaadvantage.com",
+  "news.vedaadvantage.com",
+  "newsk.vedaadvantage.com",
+  "ns1.vedaadvantage.com",
+  "ns2.vedaadvantage.com",
+  "nz.vedaadvantage.com",
+  "nzmdr.vedaadvantage.com",
+  "pnd.vedaadvantage.com",
+  "pnda.vedaadvantage.com",
+  "proxy.vedaadvantage.com",
+  "securesentinel.vedaadvantage.com",
+  "securesentinely.vedaadvantage.com",
+  "services.au.vedaadvantage.com",
+  "services.nz.vedaadvantage.com",
+  "services.test.au.vedaadvantage.com",
+  "servicese.au.vedaadvantage.com",
+  "servicesk.test.au.vedaadvantage.com",
+  "servicestest.nz.vedaadvantage.com",
+  "servicesw.nz.vedaadvantage.com",
+  "test.au.vedaadvantage.com",
+  "testkk.vedaadvantage.com",
+  "testxfer.vedaadvantage.com",
+  "testxferc.vedaadvantage.com",
+  "vedaadvantage.com",
+  "vedalink.vedaadvantage.com",
+  "vedalinks.vedaadvantage.com",
+  "vericheck.vedaadvantage.com",
+  "verichecky.vedaadvantage.com",
+  "www.am.vedaadvantage.com",
+  "www.cta.vedalink.vedaadvantage.com",
+  "www.dataexpress.vedaadvantage.com",
+  "www.ftpau.vedaadvantage.com",
+  "www.mail1.vedaadvantage.com",
+  "www.mail2.vedaadvantage.com",
+  "www.mysecuresentinel.vedaadvantage.com",
+  "www.news.vedaadvantage.com",
+  "www.ns1.vedaadvantage.com",
+  "www.ns2.vedaadvantage.com",
+  "www.nz.vedaadvantage.com",
+  "www.pnd.vedaadvantage.com",
+  "www.proxy.vedaadvantage.com",
+  "www.securesentinel.vedaadvantage.com",
+  "www.services.au.vedaadvantage.com",
+  "www.services.nz.vedaadvantage.com",
+  "www.services.test.au.vedaadvantage.com",
+  "www.servicestest.nz.vedaadvantage.com",
+  "www.testxfer.vedaadvantage.com",
+  "www.vedaadvantage.com",
+  "www.vedalink.vedaadvantage.com",
+  "www.vericheck.vedaadvantage.com",
+  "www.xfer.vedaadvantage.com",
+  "wwwe.dataexpress.vedaadvantage.com",
+  "wwwm.vedaadvantage.com",
+  "xfer.vedaadvantage.com"
+ ],
+ "http": [
+  {
+   "url": "http://pnd.vedaadvantage.com:80",
+   "host": "pnd.vedaadvantage.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "103.23.218.199",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.au.vedaadvantage.com:80",
+   "host": "services.au.vedaadvantage.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.130",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.nz.vedaadvantage.com:2082",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.nz.vedaadvantage.com:2095",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.nz.vedaadvantage.com:80",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.nz.vedaadvantage.com:8080",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://servicestest.nz.vedaadvantage.com:80",
+   "host": "servicestest.nz.vedaadvantage.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "147.146.253.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vedaadvantage.com:80",
+   "host": "vedaadvantage.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.130",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vedaadvantage.com:80",
+   "host": "www.vedaadvantage.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.130",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://pnd.vedaadvantage.com:443",
+   "host": "pnd.vedaadvantage.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "103.23.218.199",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://services.nz.vedaadvantage.com:2083",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://services.nz.vedaadvantage.com:2087",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://services.nz.vedaadvantage.com:2096",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://services.nz.vedaadvantage.com:443",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://services.nz.vedaadvantage.com:8443",
+   "host": "services.nz.vedaadvantage.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Just a moment...",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.66.131.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://servicestest.nz.vedaadvantage.com:443",
+   "host": "servicestest.nz.vedaadvantage.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN",
+    "HTTP/3"
+   ],
+   "cdn": false,
+   "ip": "147.146.253.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://testxfer.vedaadvantage.com:443",
+   "host": "testxfer.vedaadvantage.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.121",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://xfer.vedaadvantage.com:443",
+   "host": "xfer.vedaadvantage.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Redirect",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.115",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

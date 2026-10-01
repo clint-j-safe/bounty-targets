@@ -1,0 +1,116 @@
+{
+ "domain": "wifinmbssncb.be",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 30,
+ "programs": [
+  "intigriti|responsiblevulnerabilitydisclosureprogram"
+ ],
+ "subdomains": [
+  "227.wifinmbssncb.be",
+  "2273.wifinmbssncb.be",
+  "go.wifinmbssncb.be",
+  "goe.wifinmbssncb.be",
+  "logout.wifinmbssncb.be",
+  "logoute.wifinmbssncb.be",
+  "ns1.wifinmbssncb.be",
+  "ns17.wifinmbssncb.be",
+  "ns2.wifinmbssncb.be",
+  "portal.wifinmbssncb.be",
+  "staging.wifinmbssncb.be",
+  "stagingstop.wifinmbssncb.be",
+  "stg.wifinmbssncb.be",
+  "stop-stg.wifinmbssncb.be",
+  "stop.wifinmbssncb.be",
+  "stopc.wifinmbssncb.be",
+  "tst.wifinmbssncb.be",
+  "wifinmbssncb.be",
+  "www.go.wifinmbssncb.be",
+  "www.logout.wifinmbssncb.be",
+  "www.ns1.wifinmbssncb.be",
+  "www.ns2.wifinmbssncb.be",
+  "www.portal.wifinmbssncb.be",
+  "www.staging.wifinmbssncb.be",
+  "www.stagingstop.wifinmbssncb.be",
+  "www.stg.wifinmbssncb.be",
+  "www.stop-stg.wifinmbssncb.be",
+  "www.stop.wifinmbssncb.be",
+  "www.tst.wifinmbssncb.be",
+  "www.wifinmbssncb.be"
+ ],
+ "http": [
+  {
+   "url": "http://go.wifinmbssncb.be:80",
+   "host": "go.wifinmbssncb.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "31.31.132.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://logout.wifinmbssncb.be:80",
+   "host": "logout.wifinmbssncb.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "31.31.132.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://stop.wifinmbssncb.be:80",
+   "host": "stop.wifinmbssncb.be",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "31.31.132.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://go.wifinmbssncb.be:443",
+   "host": "go.wifinmbssncb.be",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx/1.26.3",
+   "technologies": [
+    "Nginx:1.26.3"
+   ],
+   "cdn": false,
+   "ip": "31.31.132.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://logout.wifinmbssncb.be:443",
+   "host": "logout.wifinmbssncb.be",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "31.31.132.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://stop.wifinmbssncb.be:443",
+   "host": "stop.wifinmbssncb.be",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "31.31.132.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

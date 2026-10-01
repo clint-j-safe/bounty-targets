@@ -1,0 +1,73 @@
+{
+ "domain": "verdia.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "en.verdia.com",
+  "verdia.com",
+  "www.en.verdia.com",
+  "www.verdia.com"
+ ],
+ "http": [
+  {
+   "url": "http://verdia.com:80",
+   "host": "verdia.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.230.63.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.verdia.com:80",
+   "host": "www.verdia.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.230.63.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://verdia.com:443",
+   "host": "verdia.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Pepyaka",
+   "technologies": [
+    "HSTS",
+    "React",
+    "Wix"
+   ],
+   "cdn": false,
+   "ip": "185.230.63.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.verdia.com:443",
+   "host": "www.verdia.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Concrete Epoxy Coating | Verdia Flooring | United States",
+   "webserver": "Pepyaka",
+   "technologies": [
+    "HSTS",
+    "Lodash",
+    "React",
+    "Wix"
+   ],
+   "cdn": false,
+   "ip": "185.230.63.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

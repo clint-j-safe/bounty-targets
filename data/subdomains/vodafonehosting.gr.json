@@ -1,0 +1,488 @@
+{
+ "domain": "vodafonehosting.gr",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 64,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "82342j4p.vodafonehosting.gr",
+  "82342j4p7.vodafonehosting.gr",
+  "82342j4pq.vodafonehosting.gr",
+  "admin.vodafonehosting.gr",
+  "adminui.qatestuser119.vodafonehosting.gr",
+  "alywnob2.vodafonehosting.gr",
+  "autodiscover.qatest773.vodafonehosting.gr",
+  "avas.bwi703qk.vodafonehosting.gr",
+  "avas.qatestuser118.vodafonehosting.gr",
+  "avas.qatestuser126.vodafonehosting.gr",
+  "avas.ry5lkd30.vodafonehosting.gr",
+  "bwi703qk.vodafonehosting.gr",
+  "cpanel.bwi703qk.vodafonehosting.gr",
+  "ftp.chalk.vodafonehosting.gr",
+  "ftp.frank1.vodafonehosting.gr",
+  "ftp.plantas.vodafonehosting.gr",
+  "ftp.qatestuser116.vodafonehosting.gr",
+  "ftp.tek.vodafonehosting.gr",
+  "ftp.testaccount.vodafonehosting.gr",
+  "imap.dental1.vodafonehosting.gr",
+  "imap.izalco.vodafonehosting.gr",
+  "imap.testaccount.vodafonehosting.gr",
+  "mail.bwi703qk.vodafonehosting.gr",
+  "mail.qatestuser127.vodafonehosting.gr",
+  "mail.vodafonehosting.gr",
+  "pontos.vodafonehosting.gr",
+  "prov.reliant.vodafonehosting.gr",
+  "qatest3.vodafonehosting.gr",
+  "qatest4.vodafonehosting.gr",
+  "qatest772.vodafonehosting.gr",
+  "qatest773.vodafonehosting.gr",
+  "qatestuser116.vodafonehosting.gr",
+  "qatestuser118.vodafonehosting.gr",
+  "qatestuser119.vodafonehosting.gr",
+  "qatestuser126.vodafonehosting.gr",
+  "qatestuser130.vodafonehosting.gr",
+  "qatestuser133.vodafonehosting.gr",
+  "ry5lkd30.vodafonehosting.gr",
+  "smtp.dental1.vodafonehosting.gr",
+  "smtp.qatest772.vodafonehosting.gr",
+  "statheri.vodafonehosting.gr",
+  "vodafonehosting.gr",
+  "webdisk.bwi703qk.vodafonehosting.gr",
+  "webmail.alywnob2.vodafonehosting.gr",
+  "webmail.bwi703qk.vodafonehosting.gr",
+  "webmail.qatest5.vodafonehosting.gr",
+  "webmail.qatestuser116.vodafonehosting.gr",
+  "webmail.qatestuser119.vodafonehosting.gr",
+  "webmail.qatestuser127.vodafonehosting.gr",
+  "webmail.qatestuser130.vodafonehosting.gr",
+  "webmail.vodafonehosting.gr",
+  "www.82342j4p.vodafonehosting.gr",
+  "www.admin.vodafonehosting.gr",
+  "www.bwi703qk.vodafonehosting.gr",
+  "www.dental1.vodafonehosting.gr",
+  "www.mail.bwi703qk.vodafonehosting.gr",
+  "www.mail.vodafonehosting.gr",
+  "www.testaccount.vodafonehosting.gr",
+  "www.vodafonehosting.gr",
+  "www.webmail.bwi703qk.vodafonehosting.gr",
+  "www.webmail.vodafonehosting.gr",
+  "www.woo7llw9.vodafonehosting.gr",
+  "wwwk.vodafonehosting.gr",
+  "wwwm.bwi703qk.vodafonehosting.gr"
+ ],
+ "http": [
+  {
+   "url": "http://82342j4p.vodafonehosting.gr:80",
+   "host": "82342j4p.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://admin.vodafonehosting.gr:80",
+   "host": "admin.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://alywnob2.vodafonehosting.gr:80",
+   "host": "alywnob2.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ftp.chalk.vodafonehosting.gr:80",
+   "host": "ftp.chalk.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ftp.frank1.vodafonehosting.gr:80",
+   "host": "ftp.frank1.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ftp.plantas.vodafonehosting.gr:80",
+   "host": "ftp.plantas.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ftp.qatestuser116.vodafonehosting.gr:80",
+   "host": "ftp.qatestuser116.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ftp.tek.vodafonehosting.gr:80",
+   "host": "ftp.tek.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ftp.testaccount.vodafonehosting.gr:80",
+   "host": "ftp.testaccount.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://pontos.vodafonehosting.gr:80",
+   "host": "pontos.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatest3.vodafonehosting.gr:80",
+   "host": "qatest3.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": ":: This Site is Under Construction ::",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatest4.vodafonehosting.gr:80",
+   "host": "qatest4.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": ":: This Site is Under Construction ::",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatest772.vodafonehosting.gr:80",
+   "host": "qatest772.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": ":: This Site is Under Construction ::",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatest773.vodafonehosting.gr:80",
+   "host": "qatest773.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": ":: This Site is Under Construction ::",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatestuser116.vodafonehosting.gr:80",
+   "host": "qatestuser116.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": "Home - omadaInternet",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "React",
+    "Unpkg"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatestuser118.vodafonehosting.gr:80",
+   "host": "qatestuser118.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatestuser119.vodafonehosting.gr:80",
+   "host": "qatestuser119.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatestuser126.vodafonehosting.gr:80",
+   "host": "qatestuser126.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatestuser130.vodafonehosting.gr:80",
+   "host": "qatestuser130.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": "Main Page - Happy Pets",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "React",
+    "Unpkg"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://qatestuser133.vodafonehosting.gr:80",
+   "host": "qatestuser133.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ry5lkd30.vodafonehosting.gr:80",
+   "host": "ry5lkd30.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": "\u039a\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 Vodafone \u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap",
+    "MySQL",
+    "PHP",
+    "Photo Gallery:1.5.49",
+    "WordPress:5.3.25",
+    "jQuery",
+    "jQuery Migrate",
+    "jQuery Mobile:1.3.2"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://statheri.vodafonehosting.gr:80",
+   "host": "statheri.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonehosting.gr:80",
+   "host": "vodafonehosting.gr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.82342j4p.vodafonehosting.gr:80",
+   "host": "www.82342j4p.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.dental1.vodafonehosting.gr:80",
+   "host": "www.dental1.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": "\u039f\u03b4\u03bf\u03bd\u03c4\u03bf\u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03cc \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf - Dental laboratory - \u0395\u03c0\u03b1\u03bc\u03b5\u03b9\u03bd\u03ce\u03bd\u03b4\u03b1\u03c2 \u0392\u03bb\u03b1\u03c7\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 - Nondas Vlachopoulos - AestheticLab",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.testaccount.vodafonehosting.gr:80",
+   "host": "www.testaccount.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 200,
+   "title": ":: This Site is Under Construction ::",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonehosting.gr:80",
+   "host": "www.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.woo7llw9.vodafonehosting.gr:80",
+   "host": "www.woo7llw9.vodafonehosting.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://admin.vodafonehosting.gr:443",
+   "host": "admin.vodafonehosting.gr",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vodafonehosting.gr:443",
+   "host": "vodafonehosting.gr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.vodafonehosting.gr:443",
+   "host": "www.vodafonehosting.gr",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.58.228",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

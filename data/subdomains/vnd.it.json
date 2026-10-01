@@ -1,0 +1,153 @@
+{
+ "domain": "vnd.it",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 19,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "imap.vnd.it",
+  "mail.vnd.it",
+  "mail2.vnd.it",
+  "mdmtest.vnd.it",
+  "mga.vnd.it",
+  "mondo.vnd.it",
+  "myvnd.vnd.it",
+  "test.vnd.it",
+  "u003emondo.vnd.it",
+  "vnd.it",
+  "vpn.vnd.it",
+  "www.mdmtest.vnd.it",
+  "www.mga.vnd.it",
+  "www.mondo.vnd.it",
+  "www.myvnd.vnd.it",
+  "www.test.vnd.it",
+  "www.u003emondo.vnd.it",
+  "www.vnd.it",
+  "www.vpn.vnd.it"
+ ],
+ "http": [
+  {
+   "url": "http://myvnd.vnd.it:80",
+   "host": "myvnd.vnd.it",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.187.233.119",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vnd.it:2083",
+   "host": "www.vnd.it",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "81.88.53.13",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vnd.it:2087",
+   "host": "www.vnd.it",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "wepanel",
+   "technologies": [],
+   "cdn": false,
+   "ip": "81.88.53.13",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vnd.it:80",
+   "host": "www.vnd.it",
+   "port": "80",
+   "status_code": 200,
+   "title": "VND",
+   "webserver": "nginx",
+   "technologies": [
+    "Bootstrap",
+    "Elementor:3.34.1",
+    "Google Maps",
+    "LottieFiles",
+    "MySQL",
+    "Nginx",
+    "PHP:8.1.34",
+    "Slider Revolution:6.6.16",
+    "Unpkg",
+    "Varnish:6.0",
+    "W3 Total Cache",
+    "WordPress Block Editor",
+    "WordPress:6.9.9",
+    "imagesLoaded:5.0.0",
+    "iubenda",
+    "jQuery",
+    "jQuery Migrate:3.4.1",
+    "jQuery UI",
+    "parallax.js:1.0",
+    "particles.js"
+   ],
+   "cdn": false,
+   "ip": "81.88.53.13",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://myvnd.vnd.it:443",
+   "host": "myvnd.vnd.it",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "63.187.233.119",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.vnd.it:443",
+   "host": "www.vnd.it",
+   "port": "443",
+   "status_code": 200,
+   "title": "VND",
+   "webserver": "nginx",
+   "technologies": [
+    "Bootstrap",
+    "Elementor:3.34.1",
+    "Google Maps",
+    "LottieFiles",
+    "MySQL",
+    "Nginx",
+    "PHP:8.1.34",
+    "Slider Revolution:6.6.16",
+    "Unpkg",
+    "Varnish:6.0",
+    "W3 Total Cache",
+    "WordPress Block Editor",
+    "WordPress:6.9.9",
+    "imagesLoaded:5.0.0",
+    "iubenda",
+    "jQuery",
+    "jQuery Migrate:3.4.1",
+    "jQuery UI",
+    "parallax.js:1.0",
+    "particles.js"
+   ],
+   "cdn": false,
+   "ip": "81.88.53.13",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

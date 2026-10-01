@@ -1,0 +1,3837 @@
+{
+ "domain": "vodacom.co.ls",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 194,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "3pcapi.vodacom.co.ls",
+  "ag.m-pesa.vodacom.co.ls",
+  "ag.oat.m-pesa.vodacom.co.ls",
+  "ag.tr.m-pesa.vodacom.co.ls",
+  "ag.uat.m-pesa.vodacom.co.ls",
+  "agentportal.vodacom.co.ls",
+  "agw.uat.m-pesa.vodacom.co.ls",
+  "ans1.vodacom.co.ls",
+  "ans2.vodacom.co.ls",
+  "api.nonprod-ubuntu.vodacom.co.ls",
+  "api.ubuntu.vodacom.co.ls",
+  "api.vodacom.co.ls",
+  "apidev.vodacom.co.ls",
+  "apidevqy.vodacom.co.ls",
+  "apim.nonprod-ubuntu.vodacom.co.ls",
+  "apiqa.vodacom.co.ls",
+  "apiqaqy.vodacom.co.ls",
+  "apistg.vodacom.co.ls",
+  "apistgx.vodacom.co.ls",
+  "app.ubuntu.vodacom.co.ls",
+  "autodiscover.vodacom.co.ls",
+  "autodiscoverk.vodacom.co.ls",
+  "autohost1.vodacom.co.ls",
+  "azure-mfa.vodacom.co.ls",
+  "cashless-payments-api.vodacom.co.ls",
+  "cashless-payments.vodacom.co.ls",
+  "citrixls.vodacom.co.ls",
+  "citrixlsy.vodacom.co.ls",
+  "customerportal.vodacom.co.ls",
+  "dynamic-be-api.vodacom.co.ls",
+  "dynamic.vodacom.co.ls",
+  "dynamic1.vodacom.co.ls",
+  "events.vodacom.co.ls",
+  "ft2.ag-out.m-pesa.vodacom.co.ls",
+  "ft2.oat.ag-out.m-pesa.vodacom.co.ls",
+  "ft2.oat.ag.m-pesa.vodacom.co.ls",
+  "ft2.oat.owa.m-pesa.vodacom.co.ls",
+  "ft2.owa.m-pesa.vodacom.co.ls",
+  "ft2.sftp.m-pesa.vodacom.co.ls",
+  "host1.vodacom.co.ls",
+  "instantschools.vodacom.co.ls",
+  "intranet.vodacom.co.ls",
+  "ispnms.vodacom.co.ls",
+  "ispnms0g.vodacom.co.ls",
+  "landscape.vodacom.co.ls",
+  "learning.vodacom.co.ls",
+  "librenms.vodacom.co.ls",
+  "live.vodacom.co.ls",
+  "liveo.vodacom.co.ls",
+  "lookup-ip.vodacom.co.ls",
+  "lscape.vodacom.co.ls",
+  "lsmfa.vodacom.co.ls",
+  "lsvpn.vodacom.co.ls",
+  "lyncdiscover.vodacom.co.ls",
+  "lyncdiscoverinternal.vodacom.co.ls",
+  "lyncdiscoverinternale.vodacom.co.ls",
+  "m-pesa.vodacom.co.ls",
+  "mpesa-events.vodacom.co.ls",
+  "mpesapay.vodacom.co.ls",
+  "my.vodacom.co.ls",
+  "myvodacom.vodacom.co.ls",
+  "myvodacomapp.vodacom.co.ls",
+  "myvodacomappdev.vodacom.co.ls",
+  "myvodacomappuat.vodacom.co.ls",
+  "myvodacomappuatc.vodacom.co.ls",
+  "nonprod-ubuntu.vodacom.co.ls",
+  "oat.m-pesa.vodacom.co.ls",
+  "one-vodapbx.vodacom.co.ls",
+  "onecontact.vodacom.co.ls",
+  "owa.m-pesa.vodacom.co.ls",
+  "owa.oat.m-pesa.vodacom.co.ls",
+  "owa.uat.m-pesa.vodacom.co.ls",
+  "owaq.oat.m-pesa.vodacom.co.ls",
+  "permissions-api.vodacom.co.ls",
+  "portal-vodapbx.vodacom.co.ls",
+  "ra.m-pesa.vodacom.co.ls",
+  "ra.oat.m-pesa.vodacom.co.ls",
+  "ra.uat.m-pesa.vodacom.co.ls",
+  "raw.oat.m-pesa.vodacom.co.ls",
+  "safetyhub.vodacom.co.ls",
+  "sip.vodacom.co.ls",
+  "smtp.vodacom.co.ls",
+  "speedtest.vodacom.co.ls",
+  "sso.m-pesa.vodacom.co.ls",
+  "sso.oat.m-pesa.vodacom.co.ls",
+  "sso.tr.m-pesa.vodacom.co.ls",
+  "sso.uat.m-pesa.vodacom.co.ls",
+  "sso3.uat.m-pesa.vodacom.co.ls",
+  "ssoi.oat.m-pesa.vodacom.co.ls",
+  "staging-live.vodacom.co.ls",
+  "staging-live1.vodacom.co.ls",
+  "subreg.vodacom.co.ls",
+  "swa.m-pesa.vodacom.co.ls",
+  "swa.oat.m-pesa.vodacom.co.ls",
+  "swa.tr.m-pesa.vodacom.co.ls",
+  "swa.uat.m-pesa.vodacom.co.ls",
+  "teams.vodacom.co.ls",
+  "tr.m-pesa.vodacom.co.ls",
+  "uat.m-pesa.vodacom.co.ls",
+  "ubuntu.vodacom.co.ls",
+  "uc.vodacom.co.ls",
+  "vclesim.vodacom.co.ls",
+  "vclesimuat.vodacom.co.ls",
+  "vodacom.co.ls",
+  "w.vodacom.co.ls",
+  "wachatbotbe.vodacom.co.ls",
+  "wamiddleware.vodacom.co.ls",
+  "webadm.vodacom.co.ls",
+  "webadmqa.vodacom.co.ls",
+  "webadmstg.vodacom.co.ls",
+  "wildcard.teams.vodacom.co.ls",
+  "www.3pcapi.vodacom.co.ls",
+  "www.ag.m-pesa.vodacom.co.ls",
+  "www.ag.oat.m-pesa.vodacom.co.ls",
+  "www.ag.tr.m-pesa.vodacom.co.ls",
+  "www.ag.uat.m-pesa.vodacom.co.ls",
+  "www.agentportal.vodacom.co.ls",
+  "www.ans1.vodacom.co.ls",
+  "www.ans2.vodacom.co.ls",
+  "www.api.nonprod-ubuntu.vodacom.co.ls",
+  "www.api.ubuntu.vodacom.co.ls",
+  "www.api.vodacom.co.ls",
+  "www.apidev.vodacom.co.ls",
+  "www.apiqa.vodacom.co.ls",
+  "www.apistg.vodacom.co.ls",
+  "www.autodiscover.vodacom.co.ls",
+  "www.azure-mfa.vodacom.co.ls",
+  "www.cashless-payments-api.vodacom.co.ls",
+  "www.cashless-payments.vodacom.co.ls",
+  "www.citrixls.vodacom.co.ls",
+  "www.customerportal.vodacom.co.ls",
+  "www.dynamic.vodacom.co.ls",
+  "www.events.vodacom.co.ls",
+  "www.host1.vodacom.co.ls",
+  "www.ispnms.vodacom.co.ls",
+  "www.librenms.vodacom.co.ls",
+  "www.live.vodacom.co.ls",
+  "www.lscape.vodacom.co.ls",
+  "www.lsvpn.vodacom.co.ls",
+  "www.lyncdiscover.vodacom.co.ls",
+  "www.mpesapay.vodacom.co.ls",
+  "www.my.vodacom.co.ls",
+  "www.myvodacom.vodacom.co.ls",
+  "www.myvodacomapp.vodacom.co.ls",
+  "www.myvodacomappuat.vodacom.co.ls",
+  "www.nonprod-ubuntu.vodacom.co.ls",
+  "www.one-vodapbx.vodacom.co.ls",
+  "www.onecontact.vodacom.co.ls",
+  "www.owa.m-pesa.vodacom.co.ls",
+  "www.owa.oat.m-pesa.vodacom.co.ls",
+  "www.owa.uat.m-pesa.vodacom.co.ls",
+  "www.permissions-api.vodacom.co.ls",
+  "www.portal-vodapbx.vodacom.co.ls",
+  "www.ra.m-pesa.vodacom.co.ls",
+  "www.ra.oat.m-pesa.vodacom.co.ls",
+  "www.ra.uat.m-pesa.vodacom.co.ls",
+  "www.sip.vodacom.co.ls",
+  "www.smtp.vodacom.co.ls",
+  "www.speedtest.vodacom.co.ls",
+  "www.sso.m-pesa.vodacom.co.ls",
+  "www.sso.oat.m-pesa.vodacom.co.ls",
+  "www.sso.tr.m-pesa.vodacom.co.ls",
+  "www.sso.uat.m-pesa.vodacom.co.ls",
+  "www.staging-live.vodacom.co.ls",
+  "www.swa.m-pesa.vodacom.co.ls",
+  "www.swa.oat.m-pesa.vodacom.co.ls",
+  "www.swa.tr.m-pesa.vodacom.co.ls",
+  "www.swa.uat.m-pesa.vodacom.co.ls",
+  "www.teams.vodacom.co.ls",
+  "www.ubuntu.vodacom.co.ls",
+  "www.vodacom.co.ls",
+  "www.webadm.vodacom.co.ls",
+  "www.webadmqa.vodacom.co.ls",
+  "www.webadmstg.vodacom.co.ls",
+  "www.wwwqa.vodacom.co.ls",
+  "www.wwwstg.vodacom.co.ls",
+  "www9.api.vodacom.co.ls",
+  "wwwc.mpesapay.vodacom.co.ls",
+  "wwwe.ag.m-pesa.vodacom.co.ls",
+  "wwwe.myvodacom.vodacom.co.ls",
+  "wwwe.ra.m-pesa.vodacom.co.ls",
+  "wwwg.owa.m-pesa.vodacom.co.ls",
+  "wwwm.ag.oat.m-pesa.vodacom.co.ls",
+  "wwwm.ag.uat.m-pesa.vodacom.co.ls",
+  "wwwm.ra.oat.m-pesa.vodacom.co.ls",
+  "wwwm.ra.uat.m-pesa.vodacom.co.ls",
+  "wwwo.owa.oat.m-pesa.vodacom.co.ls",
+  "wwwo.sso.oat.m-pesa.vodacom.co.ls",
+  "wwwo.sso.uat.m-pesa.vodacom.co.ls",
+  "wwwo.swa.oat.m-pesa.vodacom.co.ls",
+  "wwwo.swa.uat.m-pesa.vodacom.co.ls",
+  "wwwqa.vodacom.co.ls",
+  "wwwqae.vodacom.co.ls",
+  "wwwstg.vodacom.co.ls"
+ ],
+ "http": [
+  {
+   "url": "http://3pcapi.vodacom.co.ls:2082",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:2095",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:3000",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:80",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8000",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8001",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8008",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8080",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8081",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8090",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8443",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:8888",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:9000",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:9090",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://3pcapi.vodacom.co.ls:9443",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:2082",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:2095",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:3000",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:80",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8000",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8001",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8008",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8080",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8081",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8090",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8443",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:8888",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:9000",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:9090",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://agentportal.vodacom.co.ls:9443",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:2082",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:2095",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:3000",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:80",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8000",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8001",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8008",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8080",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8081",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8090",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:81",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8443",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:8888",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:9000",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:9090",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.nonprod-ubuntu.vodacom.co.ls:9443",
+   "host": "api.nonprod-ubuntu.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.223.136.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:2095",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:80",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:8000",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:8001",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:8008",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:8081",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:8443",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:8888",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.vodacom.co.ls:9090",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:2082",
+   "host": "my.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:2095",
+   "host": "my.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:3000",
+   "host": "my.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:80",
+   "host": "my.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8000",
+   "host": "my.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8001",
+   "host": "my.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8008",
+   "host": "my.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8080",
+   "host": "my.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8081",
+   "host": "my.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8090",
+   "host": "my.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:81",
+   "host": "my.vodacom.co.ls",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8443",
+   "host": "my.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:8888",
+   "host": "my.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:9000",
+   "host": "my.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:9090",
+   "host": "my.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.vodacom.co.ls:9443",
+   "host": "my.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:2082",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:2095",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:3000",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:80",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8000",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8001",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8008",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8080",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8081",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8090",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8443",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:8888",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:9000",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:9090",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomapp.vodacom.co.ls:9443",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:2082",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:2095",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:3000",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:80",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8000",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8001",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8008",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8080",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8081",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8090",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:81",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8443",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:8888",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:9000",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:9090",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://myvodacomappuat.vodacom.co.ls:9443",
+   "host": "myvodacomappuat.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:2082",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:2095",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:3000",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:80",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8000",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8001",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8008",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8080",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8081",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8090",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:81",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8443",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:8888",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:9000",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:9090",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://one-vodapbx.vodacom.co.ls:9443",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:2082",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:2095",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:3000",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:80",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8000",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8001",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8008",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8080",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8081",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8090",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:81",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8443",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:8888",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:9000",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:9090",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://owa.m-pesa.vodacom.co.ls:9443",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:2082",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:2095",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:3000",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:80",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8000",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8001",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8008",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8080",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8081",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8090",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8443",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:8888",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:9000",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:9090",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://permissions-api.vodacom.co.ls:9443",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:2082",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:2095",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:3000",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:80",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8000",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8001",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8008",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8080",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8081",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8090",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:81",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8443",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:8888",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:9000",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:9090",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://portal-vodapbx.vodacom.co.ls:9443",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:2082",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:2095",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:3000",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:80",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8000",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8001",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8008",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8080",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8081",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8090",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8443",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:8888",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:9000",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:9090",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://safetyhub.vodacom.co.ls:9443",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://speedtest.vodacom.co.ls:80",
+   "host": "speedtest.vodacom.co.ls",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache/2.4.68 (Ubuntu)",
+   "technologies": [
+    "Apache HTTP Server:2.4.68",
+    "Ubuntu"
+   ],
+   "cdn": false,
+   "ip": "156.0.1.108",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://speedtest.vodacom.co.ls:8080",
+   "host": "speedtest.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 200,
+   "title": "OoklaServer",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "156.0.1.108",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:2095",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:3000",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:80",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:8001",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:8080",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:8081",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:81",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:8443",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://staging-live.vodacom.co.ls:9090",
+   "host": "staging-live.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.79.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:2082",
+   "host": "subreg.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:2095",
+   "host": "subreg.vodacom.co.ls",
+   "port": "2095",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:3000",
+   "host": "subreg.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:80",
+   "host": "subreg.vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "Redirecting to https://subreg.vodacom.co.ls/login",
+   "webserver": "nginx",
+   "technologies": [
+    "Imperva",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8000",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8001",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8001",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8008",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8008",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8080",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 200,
+   "title": "Apache Tomcat/10.1.26",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8081",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8081",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8090",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8443",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:8888",
+   "host": "subreg.vodacom.co.ls",
+   "port": "8888",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:9000",
+   "host": "subreg.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:9090",
+   "host": "subreg.vodacom.co.ls",
+   "port": "9090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://subreg.vodacom.co.ls:9443",
+   "host": "subreg.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:2082",
+   "host": "vodacom.co.ls",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:2095",
+   "host": "vodacom.co.ls",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:3000",
+   "host": "vodacom.co.ls",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:80",
+   "host": "vodacom.co.ls",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8000",
+   "host": "vodacom.co.ls",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8001",
+   "host": "vodacom.co.ls",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8008",
+   "host": "vodacom.co.ls",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8080",
+   "host": "vodacom.co.ls",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8081",
+   "host": "vodacom.co.ls",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8090",
+   "host": "vodacom.co.ls",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:81",
+   "host": "vodacom.co.ls",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8443",
+   "host": "vodacom.co.ls",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:8888",
+   "host": "vodacom.co.ls",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:9000",
+   "host": "vodacom.co.ls",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:9090",
+   "host": "vodacom.co.ls",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodacom.co.ls:9443",
+   "host": "vodacom.co.ls",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://wachatbotbe.vodacom.co.ls:2082",
+   "host": "wachatbotbe.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://3pcapi.vodacom.co.ls:2083",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://3pcapi.vodacom.co.ls:2087",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "2087",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://3pcapi.vodacom.co.ls:2096",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://3pcapi.vodacom.co.ls:443",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "443",
+   "status_code": 404,
+   "title": "Payara Server  5.184 #badassfish - Error report",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://3pcapi.vodacom.co.ls:81",
+   "host": "3pcapi.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://agentportal.vodacom.co.ls:2083",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://agentportal.vodacom.co.ls:2087",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "2087",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://agentportal.vodacom.co.ls:2096",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://agentportal.vodacom.co.ls:443",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "Mpesa Business Partnership Portal",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva",
+    "Microsoft ASP.NET",
+    "OneTrust"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://agentportal.vodacom.co.ls:81",
+   "host": "agentportal.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://citrixls.vodacom.co.ls:443",
+   "host": "citrixls.vodacom.co.ls",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Microsoft ASP.NET"
+   ],
+   "cdn": false,
+   "ip": "41.191.207.243",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:2082",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "2082",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:3000",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "3000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:443",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:8080",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8080",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:8090",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "8090",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:81",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:9000",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "9000",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.vodacom.co.ls:9443",
+   "host": "customerportal.vodacom.co.ls",
+   "port": "9443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dynamic-be-api.vodacom.co.ls:443",
+   "host": "dynamic-be-api.vodacom.co.ls",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dynamic.vodacom.co.ls:443",
+   "host": "dynamic.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "Dynamic Airtime",
+   "webserver": "Apache/2.4.37 (Oracle Linux Server) OpenSSL/1.1.1k mod_fcgid/2.3.9",
+   "technologies": [
+    "Apache HTTP Server:2.4.37",
+    "HSTS",
+    "Imperva",
+    "OpenSSL:1.1.1k"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ft2.oat.owa.m-pesa.vodacom.co.ls:443",
+   "host": "ft2.oat.owa.m-pesa.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "orgportal-front",
+   "webserver": "nslb",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "41.191.207.76",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://lsmfa.vodacom.co.ls:443",
+   "host": "lsmfa.vodacom.co.ls",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "41.191.207.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://lsvpn.vodacom.co.ls:443",
+   "host": "lsvpn.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "41.191.207.35",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://my.vodacom.co.ls:443",
+   "host": "my.vodacom.co.ls",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://myvodacomapp.vodacom.co.ls:2083",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://myvodacomapp.vodacom.co.ls:2087",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "2087",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://myvodacomapp.vodacom.co.ls:2096",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://myvodacomapp.vodacom.co.ls:443",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Imperva",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://myvodacomapp.vodacom.co.ls:81",
+   "host": "myvodacomapp.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://one-vodapbx.vodacom.co.ls:443",
+   "host": "one-vodapbx.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vodacom Business",
+   "webserver": "Apache/2.4",
+   "technologies": [
+    "Apache HTTP Server:2.4",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://owa.m-pesa.vodacom.co.ls:443",
+   "host": "owa.m-pesa.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "orgportal-front",
+   "webserver": "nslb",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://permissions-api.vodacom.co.ls:2083",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://permissions-api.vodacom.co.ls:2087",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "2087",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://permissions-api.vodacom.co.ls:2096",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://permissions-api.vodacom.co.ls:443",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "443",
+   "status_code": 403,
+   "title": "Apache HTTP Server Test Page powered by Linux",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://permissions-api.vodacom.co.ls:81",
+   "host": "permissions-api.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://portal-vodapbx.vodacom.co.ls:443",
+   "host": "portal-vodapbx.vodacom.co.ls",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "AngularJS",
+    "Apache HTTP Server",
+    "Google Sign-in",
+    "HSTS",
+    "Imperva",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://safetyhub.vodacom.co.ls:2083",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://safetyhub.vodacom.co.ls:2087",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "2087",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://safetyhub.vodacom.co.ls:2096",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://safetyhub.vodacom.co.ls:81",
+   "host": "safetyhub.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://subreg.vodacom.co.ls:2083",
+   "host": "subreg.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://subreg.vodacom.co.ls:2087",
+   "host": "subreg.vodacom.co.ls",
+   "port": "2087",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://subreg.vodacom.co.ls:2096",
+   "host": "subreg.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://subreg.vodacom.co.ls:443",
+   "host": "subreg.vodacom.co.ls",
+   "port": "443",
+   "status_code": 301,
+   "title": "Redirecting to https://subreg.vodacom.co.ls/login",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Imperva",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://subreg.vodacom.co.ls:81",
+   "host": "subreg.vodacom.co.ls",
+   "port": "81",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://wachatbotbe.vodacom.co.ls:2083",
+   "host": "wachatbotbe.vodacom.co.ls",
+   "port": "2083",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://wachatbotbe.vodacom.co.ls:2096",
+   "host": "wachatbotbe.vodacom.co.ls",
+   "port": "2096",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://wachatbotbe.vodacom.co.ls:443",
+   "host": "wachatbotbe.vodacom.co.ls",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

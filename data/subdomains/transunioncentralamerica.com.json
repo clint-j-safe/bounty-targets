@@ -1,0 +1,328 @@
+{
+ "domain": "transunioncentralamerica.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 13,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "cmsdev.transunioncentralamerica.com",
+  "cmsdeva.transunioncentralamerica.com",
+  "cmspvw.transunioncentralamerica.com",
+  "cmsstage.transunioncentralamerica.com",
+  "newsroom.transunioncentralamerica.com",
+  "newsroomw.transunioncentralamerica.com",
+  "ppp.transunioncentralamerica.com",
+  "transunioncentralamerica.com",
+  "www.cmsdev.transunioncentralamerica.com",
+  "www.cmspvw.transunioncentralamerica.com",
+  "www.cmsstage.transunioncentralamerica.com",
+  "www.newsroom.transunioncentralamerica.com",
+  "www.transunioncentralamerica.com"
+ ],
+ "http": [
+  {
+   "url": "http://newsroom.transunioncentralamerica.com:80",
+   "host": "newsroom.transunioncentralamerica.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "52.58.86.198",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunioncentralamerica.com:2082",
+   "host": "transunioncentralamerica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunioncentralamerica.com:2095",
+   "host": "transunioncentralamerica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunioncentralamerica.com:80",
+   "host": "transunioncentralamerica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunioncentralamerica.com:8080",
+   "host": "transunioncentralamerica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunioncentralamerica.com:2082",
+   "host": "www.transunioncentralamerica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunioncentralamerica.com:2095",
+   "host": "www.transunioncentralamerica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunioncentralamerica.com:80",
+   "host": "www.transunioncentralamerica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunioncentralamerica.com:8080",
+   "host": "www.transunioncentralamerica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://newsroom.transunioncentralamerica.com:443",
+   "host": "newsroom.transunioncentralamerica.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Newsroom TransUnion Central America",
+   "webserver": "",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Bootstrap",
+    "HSTS",
+    "Java",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "52.58.86.198",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunioncentralamerica.com:2083",
+   "host": "transunioncentralamerica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunioncentralamerica.com:2087",
+   "host": "transunioncentralamerica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunioncentralamerica.com:2096",
+   "host": "transunioncentralamerica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunioncentralamerica.com:443",
+   "host": "transunioncentralamerica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunioncentralamerica.com:8443",
+   "host": "transunioncentralamerica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.30.125",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunioncentralamerica.com:2083",
+   "host": "www.transunioncentralamerica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunioncentralamerica.com:2087",
+   "host": "www.transunioncentralamerica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunioncentralamerica.com:2096",
+   "host": "www.transunioncentralamerica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunioncentralamerica.com:443",
+   "host": "www.transunioncentralamerica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunioncentralamerica.com:8443",
+   "host": "www.transunioncentralamerica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.123",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

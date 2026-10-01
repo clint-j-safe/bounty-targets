@@ -1,0 +1,605 @@
+{
+ "domain": "yonomi.co",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 103,
+ "programs": [
+  "hackerone|allegion"
+ ],
+ "subdomains": [
+  "api-dev.yonomi.co",
+  "api.dev.yonomi.co",
+  "api.staging.yonomi.co",
+  "api.yonomi.co",
+  "apia.staging.yonomi.co",
+  "apps.staging.yonomi.co",
+  "apps.yonomi.co",
+  "appsc.staging.yonomi.co",
+  "auth-dev.yonomi.co",
+  "auth-devo.yonomi.co",
+  "auth.dev.yonomi.co",
+  "auth.staging.yonomi.co",
+  "auth.yonomi.co",
+  "cdn.staging.yonomi.co",
+  "cdn.yonomi.co",
+  "cdn3.staging.yonomi.co",
+  "connectors-core.dev.yonomi.co",
+  "connectors-core.staging.yonomi.co",
+  "connectors-core.yonomi.co",
+  "connectors-core7.staging.yonomi.co",
+  "connectors-corex.yonomi.co",
+  "connectors-dev.yonomi.co",
+  "connectors.dev.yonomi.co",
+  "connectors.staging.yonomi.co",
+  "connectors.yonomi.co",
+  "connectorsa.staging.yonomi.co",
+  "connectorso.yonomi.co",
+  "dashboard-dev.yonomi.co",
+  "dashboard.dev.yonomi.co",
+  "dashboard.staging.yonomi.co",
+  "dashboard.yonomi.co",
+  "dashboardc.yonomi.co",
+  "dashboardw.staging.yonomi.co",
+  "data.dev.yonomi.co",
+  "data.staging.yonomi.co",
+  "data.yonomi.co",
+  "datao.staging.yonomi.co",
+  "datau.dev.yonomi.co",
+  "dev.yonomi.co",
+  "developer-new.yonomi.co",
+  "developer.staging.yonomi.co",
+  "developer.yonomi.co",
+  "developerc.staging.yonomi.co",
+  "email.yonomi.co",
+  "inventor.dev.yonomi.co",
+  "iotplatform.yonomi.co",
+  "iotplatformq.yonomi.co",
+  "mail.yonomi.co",
+  "o1.email.yonomi.co",
+  "o19.email.yonomi.co",
+  "o2.email.yonomi.co",
+  "o2a.email.yonomi.co",
+  "platform.yonomi.co",
+  "platforme.yonomi.co",
+  "staging.yonomi.co",
+  "status.yonomi.co",
+  "status9.yonomi.co",
+  "support.yonomi.co",
+  "tts.dev.yonomi.co",
+  "tts.staging.yonomi.co",
+  "tts.yonomi.co",
+  "tts5l.yonomi.co",
+  "ttsi.staging.yonomi.co",
+  "url8962.yonomi.co",
+  "www.api.dev.yonomi.co",
+  "www.api.staging.yonomi.co",
+  "www.api.yonomi.co",
+  "www.apps.staging.yonomi.co",
+  "www.apps.yonomi.co",
+  "www.auth-dev.yonomi.co",
+  "www.auth.dev.yonomi.co",
+  "www.auth.staging.yonomi.co",
+  "www.auth.yonomi.co",
+  "www.cdn.staging.yonomi.co",
+  "www.cdn.yonomi.co",
+  "www.connectors-core.dev.yonomi.co",
+  "www.connectors-core.staging.yonomi.co",
+  "www.connectors-core.yonomi.co",
+  "www.connectors-dev.yonomi.co",
+  "www.connectors.dev.yonomi.co",
+  "www.connectors.staging.yonomi.co",
+  "www.connectors.yonomi.co",
+  "www.dashboard.dev.yonomi.co",
+  "www.dashboard.staging.yonomi.co",
+  "www.dashboard.yonomi.co",
+  "www.data.dev.yonomi.co",
+  "www.data.staging.yonomi.co",
+  "www.data.yonomi.co",
+  "www.dev.yonomi.co",
+  "www.developer.yonomi.co",
+  "www.iotplatform.yonomi.co",
+  "www.o1.email.yonomi.co",
+  "www.o2.email.yonomi.co",
+  "www.platform.yonomi.co",
+  "www.staging.yonomi.co",
+  "www.status.yonomi.co",
+  "www.support.yonomi.co",
+  "www.tts.dev.yonomi.co",
+  "www.tts.staging.yonomi.co",
+  "www.tts.yonomi.co",
+  "www.yonomi.co",
+  "wwwg.platform.yonomi.co",
+  "yonomi.co"
+ ],
+ "http": [
+  {
+   "url": "http://cdn.staging.yonomi.co:80",
+   "host": "cdn.staging.yonomi.co",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.47",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.yonomi.co:80",
+   "host": "cdn.yonomi.co",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.67",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:2082",
+   "host": "developer.yonomi.co",
+   "port": "2082",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:2083",
+   "host": "developer.yonomi.co",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:2087",
+   "host": "developer.yonomi.co",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:2095",
+   "host": "developer.yonomi.co",
+   "port": "2095",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:2096",
+   "host": "developer.yonomi.co",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:80",
+   "host": "developer.yonomi.co",
+   "port": "80",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:8080",
+   "host": "developer.yonomi.co",
+   "port": "8080",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://developer.yonomi.co:8443",
+   "host": "developer.yonomi.co",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.241.118",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://status.yonomi.co:80",
+   "host": "status.yonomi.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.43",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://support.yonomi.co:80",
+   "host": "support.yonomi.co",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "100.24.225.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://url8962.yonomi.co:80",
+   "host": "url8962.yonomi.co",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.218.83.191",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:2082",
+   "host": "www.yonomi.co",
+   "port": "2082",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:2083",
+   "host": "www.yonomi.co",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:2087",
+   "host": "www.yonomi.co",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:2095",
+   "host": "www.yonomi.co",
+   "port": "2095",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:2096",
+   "host": "www.yonomi.co",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:80",
+   "host": "www.yonomi.co",
+   "port": "80",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:8080",
+   "host": "www.yonomi.co",
+   "port": "8080",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.yonomi.co:8443",
+   "host": "www.yonomi.co",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:2082",
+   "host": "yonomi.co",
+   "port": "2082",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:2083",
+   "host": "yonomi.co",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:2087",
+   "host": "yonomi.co",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:2095",
+   "host": "yonomi.co",
+   "port": "2095",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:2096",
+   "host": "yonomi.co",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:80",
+   "host": "yonomi.co",
+   "port": "80",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:8080",
+   "host": "yonomi.co",
+   "port": "8080",
+   "status_code": 409,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://yonomi.co:8443",
+   "host": "yonomi.co",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.61",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cdn.staging.yonomi.co:443",
+   "host": "cdn.staging.yonomi.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "108.138.246.47",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cdn.yonomi.co:443",
+   "host": "cdn.yonomi.co",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.67",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://status.yonomi.co:443",
+   "host": "status.yonomi.co",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "AtlassianEdge",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Atlassian Statuspage",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "65.8.54.43",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://support.yonomi.co:443",
+   "host": "support.yonomi.co",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "100.24.225.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://url8962.yonomi.co:443",
+   "host": "url8962.yonomi.co",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "34.218.83.191",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

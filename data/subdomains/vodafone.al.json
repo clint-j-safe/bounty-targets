@@ -1,0 +1,2146 @@
+{
+ "domain": "vodafone.al",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 306,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "albania.securenet.vodafone.al",
+  "albaniac.securenet.vodafone.al",
+  "api-dev-vfal.vodafone.al",
+  "auth1reporting2.da-504e40fb.id.vtv-preprod.vodafone.al",
+  "bicp.vmt.vodafone.al",
+  "bicp5.vmt.vodafone.al",
+  "cc.vbc-pp.vodafone.al",
+  "cc.vbc.vodafone.al",
+  "client-preprodpreproddeeplink.da-504e40fb.id.vtv-preprod.vodafone.al",
+  "cloud-pp.vodafone.al",
+  "cloud-pp7.vodafone.al",
+  "cloud.vodafone.al",
+  "club.vodafone.al",
+  "clube.vodafone.al",
+  "co.vodafone.al",
+  "com.vodafone.al",
+  "com1z.vodafone.al",
+  "combbkz.vodafone.al",
+  "comc.vodafone.al",
+  "comf.vodafone.al",
+  "comg.vodafone.al",
+  "comj.vodafone.al",
+  "comlk.vodafone.al",
+  "comx.vodafone.al",
+  "console-s1.vtv-preprod.vodafone.al",
+  "console-s1.vtv-prod.vodafone.al",
+  "console-trn1s1.vtv-preprod.vodafone.al",
+  "console-trn1s1.vtv-prod.vodafone.al",
+  "console-vtv-preprods1.vtv-preprod.vodafone.al",
+  "console-vtv-prods1.vtv-prod.vodafone.al",
+  "console.vtv-preprod.vodafone.al",
+  "console.vtv-prod.vodafone.al",
+  "console2-s1.vtv-preprod.vodafone.al",
+  "console2-s1.vtv-prod.vodafone.al",
+  "console2-trn1s1.vtv-preprod.vodafone.al",
+  "console2-trn1s1.vtv-prod.vodafone.al",
+  "console2-vtv-preprods1.vtv-preprod.vodafone.al",
+  "console2-vtv-prods1.vtv-prod.vodafone.al",
+  "console2.vtv-preprod.vodafone.al",
+  "console2.vtv-prod.vodafone.al",
+  "contacts.vodafone.al",
+  "contacts5.vodafone.al",
+  "customreports-s1.vtv-preprod.vodafone.al",
+  "customreports-s1.vtv-prod.vodafone.al",
+  "customreports-trn1s1.vtv-preprod.vodafone.al",
+  "customreports-trn1s1.vtv-prod.vodafone.al",
+  "customreports-vtv-preprods1.vtv-preprod.vodafone.al",
+  "customreports-vtv-prods1.vtv-prod.vodafone.al",
+  "customreports.vtv-preprod.vodafone.al",
+  "customreports.vtv-prod.vodafone.al",
+  "cyberhub.vodafone.al",
+  "cyberhublib-preproddata.da-504e40fb.id.vtv-preprod.vodafone.al",
+  "da-504e40ec.id.vtv-prod.vodafone.al",
+  "da-504e40ed.id.vtv-prod.vodafone.al",
+  "da-504e40ee.id.vtv-prod.vodafone.al",
+  "da-504e40fa.id.vtv-preprod.vodafone.al",
+  "da-504e40fb.id.vtv-preprod.vodafone.al",
+  "deeplink.vodafone.al",
+  "deeplinkc.vodafone.al",
+  "dev.cyberhub.vodafone.al",
+  "digital.vodafone.al",
+  "digitalm.vodafone.al",
+  "digitalprofile.vodafone.al",
+  "digitalprofilea.vodafone.al",
+  "dns-auth1.vodafone.al",
+  "dns-auth2.vodafone.al",
+  "dns1-gprs.vodafone.al",
+  "dns2-gprs.vodafone.al",
+  "e-topup.vodafone.al",
+  "e-topup9.vodafone.al",
+  "ebill.vodafone.al",
+  "ebiznes.vodafone.al",
+  "ecare-lp.vodafone.al",
+  "eshop.non-prod.vodafone.al",
+  "eshop.vodafone.al",
+  "forum-stage.vodafone.al",
+  "forum.vodafone.al",
+  "funclub.vodafone.al",
+  "funclubq.vodafone.al",
+  "globalfact.vodafone.al",
+  "globalfacto.vodafone.al",
+  "grm8.vodafone.al",
+  "guest-wifi.vodafone.al",
+  "guestwifi.vodafone.al",
+  "helpdesk.vodafone.al",
+  "hl.mobile.securenet.vodafone.al",
+  "hl.securenet.vodafone.al",
+  "hla.mobile.securenet.vodafone.al",
+  "home.vodafone.al",
+  "hosting.vodafone.al",
+  "hostinge.vodafone.al",
+  "id.vtv-preprod.vodafone.al",
+  "id.vtv-prod.vodafone.al",
+  "iot-core-solutions-sandbox.vodafone.al",
+  "iot-core-solutions.vodafone.al",
+  "iot-solutions-sandbox.vodafone.al",
+  "iot-solutions.vodafone.al",
+  "iot-ticketing-sandbox.vodafone.al",
+  "iot-ticketing.vodafone.al",
+  "iot-transporter-solutions-sandbox.vodafone.al",
+  "iot-transporter-solutions.vodafone.al",
+  "iot.vodafone.al",
+  "ispmta.vodafone.al",
+  "lead.vodafone.al",
+  "lib.servicehub.dev.cyberhub.vodafone.al",
+  "lib.servicehub.sit.cyberhub.vodafone.al",
+  "live.vtv-preprod.vodafone.al",
+  "live.vtv-prod.vodafone.al",
+  "marketplace.vodafone.al",
+  "mcare.vodafone.al",
+  "mms.vodafone.al",
+  "mobile.securenet.vodafone.al",
+  "more.vodafone.al",
+  "morek.vodafone.al",
+  "mx1-al.vodafone.al",
+  "mx21-al.vodafone.al",
+  "my.vodafone.al",
+  "mybsms-test.vodafone.al",
+  "mybsms.vodafone.al",
+  "mybsmse.vodafone.al",
+  "nedquality.vodafone.al",
+  "nedquality1.vodafone.al",
+  "nedqualityi.vodafone.al",
+  "next.sit.cyberhub.vodafone.al",
+  "non-prod.home.vodafone.al",
+  "npvr.vtv-preprod.vodafone.al",
+  "npvr.vtv-prod.vodafone.al",
+  "ns1-isp.vodafone.al",
+  "ns1.vodafone.al",
+  "ns1.vtv-preprod.vodafone.al",
+  "ns2-isp.vodafone.al",
+  "ns2-ispg.vodafone.al",
+  "ns2.vodafone.al",
+  "org.vmt.vodafone.al",
+  "orgy.vmt.vodafone.al",
+  "osb-preprod.vodafone.al",
+  "osb-prod.vodafone.al",
+  "osb-proda.vodafone.al",
+  "osbprodc.vodafone.al",
+  "pos-bat.vodafone.al",
+  "pos-uat.vodafone.al",
+  "pos-uat1.vodafone.al",
+  "pos-uato.vodafone.al",
+  "pos.vodafone.al",
+  "preprod.contacts.vodafone.al",
+  "preprod.cyberhub.vodafone.al",
+  "preprod.mobile.securenet.vodafone.al",
+  "preprod.protect.vodafone.al",
+  "preprod.securefamily.vodafone.al",
+  "preprod.securenet-enterprise.vodafone.al",
+  "preprod.securenet.vodafone.al",
+  "preprod.securepages.securenet.vodafone.al",
+  "preprod.vfglogin.vodafone.al",
+  "preprod.vmt.vodafone.al",
+  "preproda.securefamily.vodafone.al",
+  "preprodc.securenet.vodafone.al",
+  "protect.vodafone.al",
+  "pub.vodafone.al",
+  "pushemail.vodafone.al",
+  "pushemaila.vodafone.al",
+  "redspektiva.vodafone.al",
+  "remoteshop.vodafone.al",
+  "securefamily.vodafone.al",
+  "securenet-enterprise.vodafone.al",
+  "securenet-enterprise3.vodafone.al",
+  "securenet.vodafone.al",
+  "securenet9.vodafone.al",
+  "securepages.securenet.vodafone.al",
+  "servicedesk.vodafone.al",
+  "servicehub.dev.cyberhub.vodafone.al",
+  "servicehub.preprod.cyberhub.vodafone.al",
+  "servicehub.sit.cyberhub.vodafone.al",
+  "services.cyberhub.vodafone.al",
+  "services.dev.cyberhub.vodafone.al",
+  "services.preprod.cyberhub.vodafone.al",
+  "services.servicehub.dev.cyberhub.vodafone.al",
+  "services.servicehub.preprod.cyberhub.vodafone.al",
+  "services.servicehub.sit.cyberhub.vodafone.al",
+  "services.sit.cyberhub.vodafone.al",
+  "sit.cyberhub.vodafone.al",
+  "siteinfo.vodafone.al",
+  "siteinfoe.vodafone.al",
+  "smetrics.vodafone.al",
+  "smetricsk.vodafone.al",
+  "social.vodafone.al",
+  "social5.vodafone.al",
+  "speedtest.vodafone.al",
+  "speedtest2.vodafone.al",
+  "speedtest25.vodafone.al",
+  "speedtest5.vodafone.al",
+  "staging.contacts.vodafone.al",
+  "staging5.contacts.vodafone.al",
+  "test.vfglogin.vodafone.al",
+  "trbicp.vmt.vodafone.al",
+  "tv.vodafone.al",
+  "uatsp.vmt.vodafone.al",
+  "ukq.co.vodafone.al",
+  "ukz.co.vodafone.al",
+  "unapi-s1.vtv-preprod.vodafone.al",
+  "unapi-s1.vtv-prod.vodafone.al",
+  "unapi-trn1s1.vtv-preprod.vodafone.al",
+  "unapi-trn1s1.vtv-prod.vodafone.al",
+  "unapi-vtv-preprods1.vtv-preprod.vodafone.al",
+  "unapi-vtv-prods1.vtv-prod.vodafone.al",
+  "unapi.vtv-preprod.vodafone.al",
+  "unapi.vtv-prod.vodafone.al",
+  "unapi.vxservice.vtv-preprod.vodafone.al",
+  "v-hub.vodafone.al",
+  "v1.vodafone.al",
+  "vbc-pp.vodafone.al",
+  "vbc.vodafone.al",
+  "vfglogin.vodafone.al",
+  "vfgloginq.vodafone.al",
+  "vmt.vodafone.al",
+  "vod.vtv-preprod.vodafone.al",
+  "vod.vtv-prod.vodafone.al",
+  "vodafone.al",
+  "vpn.remoteshop.vodafone.al",
+  "vpni.remoteshop.vodafone.al",
+  "vtv-preprod.vodafone.al",
+  "vtv-prod.vodafone.al",
+  "vxservice.vtv-preprod.vodafone.al",
+  "webapp.vodafone.al",
+  "webapptest.vodafone.al",
+  "webapptestc.vodafone.al",
+  "webchat.vodafone.al",
+  "webchatg.vodafone.al",
+  "webdesign.vodafone.al",
+  "webdesignm.vodafone.al",
+  "webmail.vodafone.al",
+  "webmail9.vodafone.al",
+  "www.albania.securenet.vodafone.al",
+  "www.club.vodafone.al",
+  "www.contacts.vodafone.al",
+  "www.deeplink.vodafone.al",
+  "www.digitalprofile.vodafone.al",
+  "www.dns-auth1.vodafone.al",
+  "www.dns-auth2.vodafone.al",
+  "www.e-topup.vodafone.al",
+  "www.ebill.vodafone.al",
+  "www.ebiznes.vodafone.al",
+  "www.forum.vodafone.al",
+  "www.globalfact.vodafone.al",
+  "www.guest-wifi.vodafone.al",
+  "www.guestwifi.vodafone.al",
+  "www.helpdesk.vodafone.al",
+  "www.hl.mobile.securenet.vodafone.al",
+  "www.hl.securenet.vodafone.al",
+  "www.home.vodafone.al",
+  "www.hosting.vodafone.al",
+  "www.id.vtv-preprod.vodafone.al",
+  "www.id.vtv-prod.vodafone.al",
+  "www.iot.vodafone.al",
+  "www.lead.vodafone.al",
+  "www.marketplace.vodafone.al",
+  "www.mcare.vodafone.al",
+  "www.mobile.securenet.vodafone.al",
+  "www.more.vodafone.al",
+  "www.mx21-al.vodafone.al",
+  "www.my.vodafone.al",
+  "www.mybsms-test.vodafone.al",
+  "www.mybsms.vodafone.al",
+  "www.non-prod.home.vodafone.al",
+  "www.ns1-isp.vodafone.al",
+  "www.ns1.vodafone.al",
+  "www.ns1.vtv-preprod.vodafone.al",
+  "www.ns2-isp.vodafone.al",
+  "www.ns2.vodafone.al",
+  "www.osb-preprod.vodafone.al",
+  "www.osb-prod.vodafone.al",
+  "www.pos-uat.vodafone.al",
+  "www.pos.vodafone.al",
+  "www.preprod.contacts.vodafone.al",
+  "www.preprod.mobile.securenet.vodafone.al",
+  "www.preprod.securenet.vodafone.al",
+  "www.preprod.securepages.securenet.vodafone.al",
+  "www.preprod.vfglogin.vodafone.al",
+  "www.pushemail.vodafone.al",
+  "www.redspektiva.vodafone.al",
+  "www.securenet.vodafone.al",
+  "www.servicedesk.vodafone.al",
+  "www.smetrics.vodafone.al",
+  "www.social.vodafone.al",
+  "www.speedtest.vodafone.al",
+  "www.speedtest2.vodafone.al",
+  "www.staging.contacts.vodafone.al",
+  "www.test.vfglogin.vodafone.al",
+  "www.v-hub.vodafone.al",
+  "www.v1.vodafone.al",
+  "www.vfglogin.vodafone.al",
+  "www.vodafone.al",
+  "www.vpn.remoteshop.vodafone.al",
+  "www.webdesign.vodafone.al",
+  "www.webmail.vodafone.al",
+  "www5.ebill.vodafone.al",
+  "www9.nedquality1.vodafone.al",
+  "wwwa.albania.securenet.vodafone.al",
+  "wwwe.lead.vodafone.al",
+  "wwwe.my.vodafone.al",
+  "wwwe.mybsms-test.vodafone.al",
+  "wwwe.v1.vodafone.al",
+  "wwwg.mybsms.vodafone.al",
+  "wwwm.redspektiva.vodafone.al",
+  "wwwo.iot.vodafone.al",
+  "wwwq.albania.securenet.vodafone.al",
+  "wwwq.nedquality.vodafone.al"
+ ],
+ "http": [
+  {
+   "url": "http://auth1reporting2.da-504e40fb.id.vtv-preprod.vodafone.al:80",
+   "host": "auth1reporting2.da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://client-preprodpreproddeeplink.da-504e40fb.id.vtv-preprod.vodafone.al:80",
+   "host": "client-preprodpreproddeeplink.da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customreports.vtv-preprod.vodafone.al:80",
+   "host": "customreports.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcdtracker/55.0.622090-0fff013",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.247",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customreports.vtv-preprod.vodafone.al:8080",
+   "host": "customreports.vtv-preprod.vodafone.al",
+   "port": "8080",
+   "status_code": 200,
+   "title": "DEMO Test Site",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "80.78.64.247",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customreports.vtv-prod.vodafone.al:80",
+   "host": "customreports.vtv-prod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcdtracker/55.0.622090-0fff013",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.66.248",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customreports.vtv-prod.vodafone.al:8080",
+   "host": "customreports.vtv-prod.vodafone.al",
+   "port": "8080",
+   "status_code": 200,
+   "title": "DEMO Test Site",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "80.78.66.248",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cyberhub.vodafone.al:80",
+   "host": "cyberhub.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cyberhublib-preproddata.da-504e40fb.id.vtv-preprod.vodafone.al:80",
+   "host": "cyberhublib-preproddata.da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://da-504e40ec.id.vtv-prod.vodafone.al:80",
+   "host": "da-504e40ec.id.vtv-prod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.236",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://da-504e40ed.id.vtv-prod.vodafone.al:80",
+   "host": "da-504e40ed.id.vtv-prod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://da-504e40ee.id.vtv-prod.vodafone.al:80",
+   "host": "da-504e40ee.id.vtv-prod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.238",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://da-504e40fa.id.vtv-preprod.vodafone.al:80",
+   "host": "da-504e40fa.id.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.250",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://da-504e40fb.id.vtv-preprod.vodafone.al:80",
+   "host": "da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deeplink.vodafone.al:80",
+   "host": "deeplink.vodafone.al",
+   "port": "80",
+   "status_code": 200,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.55",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dev.cyberhub.vodafone.al:80",
+   "host": "dev.cyberhub.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:2082",
+   "host": "e-topup.vodafone.al",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:2095",
+   "host": "e-topup.vodafone.al",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:3000",
+   "host": "e-topup.vodafone.al",
+   "port": "3000",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:80",
+   "host": "e-topup.vodafone.al",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8000",
+   "host": "e-topup.vodafone.al",
+   "port": "8000",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8001",
+   "host": "e-topup.vodafone.al",
+   "port": "8001",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8008",
+   "host": "e-topup.vodafone.al",
+   "port": "8008",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8080",
+   "host": "e-topup.vodafone.al",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8081",
+   "host": "e-topup.vodafone.al",
+   "port": "8081",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8090",
+   "host": "e-topup.vodafone.al",
+   "port": "8090",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8443",
+   "host": "e-topup.vodafone.al",
+   "port": "8443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:8888",
+   "host": "e-topup.vodafone.al",
+   "port": "8888",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:9000",
+   "host": "e-topup.vodafone.al",
+   "port": "9000",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:9090",
+   "host": "e-topup.vodafone.al",
+   "port": "9090",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://e-topup.vodafone.al:9443",
+   "host": "e-topup.vodafone.al",
+   "port": "9443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:2082",
+   "host": "ebill.vodafone.al",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:2095",
+   "host": "ebill.vodafone.al",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:3000",
+   "host": "ebill.vodafone.al",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:80",
+   "host": "ebill.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8000",
+   "host": "ebill.vodafone.al",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8001",
+   "host": "ebill.vodafone.al",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8008",
+   "host": "ebill.vodafone.al",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8080",
+   "host": "ebill.vodafone.al",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8081",
+   "host": "ebill.vodafone.al",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8090",
+   "host": "ebill.vodafone.al",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8443",
+   "host": "ebill.vodafone.al",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:8888",
+   "host": "ebill.vodafone.al",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:9000",
+   "host": "ebill.vodafone.al",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:9090",
+   "host": "ebill.vodafone.al",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebill.vodafone.al:9443",
+   "host": "ebill.vodafone.al",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ebiznes.vodafone.al:80",
+   "host": "ebiznes.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:2082",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:2083",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:2087",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:2095",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:2096",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:80",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:8080",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.non-prod.vodafone.al:8443",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:2082",
+   "host": "eshop.vodafone.al",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:2083",
+   "host": "eshop.vodafone.al",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:2087",
+   "host": "eshop.vodafone.al",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:2095",
+   "host": "eshop.vodafone.al",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:2096",
+   "host": "eshop.vodafone.al",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:80",
+   "host": "eshop.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:8080",
+   "host": "eshop.vodafone.al",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eshop.vodafone.al:8443",
+   "host": "eshop.vodafone.al",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:2082",
+   "host": "home.vodafone.al",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:2083",
+   "host": "home.vodafone.al",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:2087",
+   "host": "home.vodafone.al",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:2095",
+   "host": "home.vodafone.al",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:2096",
+   "host": "home.vodafone.al",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:80",
+   "host": "home.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HTTP/2"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:8080",
+   "host": "home.vodafone.al",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://home.vodafone.al:8443",
+   "host": "home.vodafone.al",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://hosting.vodafone.al:80",
+   "host": "hosting.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.136.8.129",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot-solutions.vodafone.al:80",
+   "host": "iot-solutions.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot-ticketing-sandbox.vodafone.al:80",
+   "host": "iot-ticketing-sandbox.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot-ticketing.vodafone.al:80",
+   "host": "iot-ticketing.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:2082",
+   "host": "iot.vodafone.al",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:2095",
+   "host": "iot.vodafone.al",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:3000",
+   "host": "iot.vodafone.al",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:80",
+   "host": "iot.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8000",
+   "host": "iot.vodafone.al",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8001",
+   "host": "iot.vodafone.al",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8008",
+   "host": "iot.vodafone.al",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8080",
+   "host": "iot.vodafone.al",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8081",
+   "host": "iot.vodafone.al",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8090",
+   "host": "iot.vodafone.al",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:81",
+   "host": "iot.vodafone.al",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8443",
+   "host": "iot.vodafone.al",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:8888",
+   "host": "iot.vodafone.al",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:9000",
+   "host": "iot.vodafone.al",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:9090",
+   "host": "iot.vodafone.al",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://iot.vodafone.al:9443",
+   "host": "iot.vodafone.al",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://lib.servicehub.dev.cyberhub.vodafone.al:80",
+   "host": "lib.servicehub.dev.cyberhub.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://lib.servicehub.sit.cyberhub.vodafone.al:80",
+   "host": "lib.servicehub.sit.cyberhub.vodafone.al",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://live.vtv-preprod.vodafone.al:80",
+   "host": "live.vtv-preprod.vodafone.al",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 - Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://auth1reporting2.da-504e40fb.id.vtv-preprod.vodafone.al:443",
+   "host": "auth1reporting2.da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://client-preprodpreproddeeplink.da-504e40fb.id.vtv-preprod.vodafone.al:443",
+   "host": "client-preprodpreproddeeplink.da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customreports.vtv-preprod.vodafone.al:8443",
+   "host": "customreports.vtv-preprod.vodafone.al",
+   "port": "8443",
+   "status_code": 200,
+   "title": "DEMO Test Site",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "80.78.64.247",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customreports.vtv-prod.vodafone.al:8443",
+   "host": "customreports.vtv-prod.vodafone.al",
+   "port": "8443",
+   "status_code": 200,
+   "title": "DEMO Test Site",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "80.78.66.248",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cyberhub.vodafone.al:443",
+   "host": "cyberhub.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "CyberHub",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva",
+    "Tealium"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cyberhublib-preproddata.da-504e40fb.id.vtv-preprod.vodafone.al:443",
+   "host": "cyberhublib-preproddata.da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://da-504e40ec.id.vtv-prod.vodafone.al:443",
+   "host": "da-504e40ec.id.vtv-prod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.236",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://da-504e40ed.id.vtv-prod.vodafone.al:443",
+   "host": "da-504e40ed.id.vtv-prod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://da-504e40ee.id.vtv-prod.vodafone.al:443",
+   "host": "da-504e40ee.id.vtv-prod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.238",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://da-504e40fa.id.vtv-preprod.vodafone.al:443",
+   "host": "da-504e40fa.id.vtv-preprod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.250",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://da-504e40fb.id.vtv-preprod.vodafone.al:443",
+   "host": "da-504e40fb.id.vtv-preprod.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Not Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deeplink.vodafone.al:443",
+   "host": "deeplink.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.160.46.55",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dev.cyberhub.vodafone.al:443",
+   "host": "dev.cyberhub.vodafone.al",
+   "port": "443",
+   "status_code": 401,
+   "title": "",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Basic",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://e-topup.vodafone.al:2083",
+   "host": "e-topup.vodafone.al",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://e-topup.vodafone.al:2087",
+   "host": "e-topup.vodafone.al",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://e-topup.vodafone.al:2096",
+   "host": "e-topup.vodafone.al",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://e-topup.vodafone.al:443",
+   "host": "e-topup.vodafone.al",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://e-topup.vodafone.al:81",
+   "host": "e-topup.vodafone.al",
+   "port": "81",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ebill.vodafone.al:2083",
+   "host": "ebill.vodafone.al",
+   "port": "2083",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ebill.vodafone.al:2087",
+   "host": "ebill.vodafone.al",
+   "port": "2087",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ebill.vodafone.al:2096",
+   "host": "ebill.vodafone.al",
+   "port": "2096",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ebill.vodafone.al:443",
+   "host": "ebill.vodafone.al",
+   "port": "443",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ebill.vodafone.al:81",
+   "host": "ebill.vodafone.al",
+   "port": "81",
+   "status_code": 307,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ebiznes.vodafone.al:443",
+   "host": "ebiznes.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "eBiznes",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.151.143",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eshop.non-prod.vodafone.al:443",
+   "host": "eshop.non-prod.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vodafone eShop | Vodafone Albania",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "HTTP/3",
+    "Next.js",
+    "Node.js",
+    "React",
+    "Webpack"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eshop.vodafone.al:443",
+   "host": "eshop.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vodafone eShop | Vodafone Albania",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "Next.js",
+    "Node.js",
+    "React",
+    "Webpack"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://home.vodafone.al:443",
+   "host": "home.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "Kryefaqja | Vodafone",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Google Analytics",
+    "HSTS",
+    "Next.js",
+    "Node.js",
+    "React",
+    "Webpack"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.146",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://hosting.vodafone.al:443",
+   "host": "hosting.vodafone.al",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "91.136.8.129",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-core-solutions-sandbox.vodafone.al:443",
+   "host": "iot-core-solutions-sandbox.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "18.153.244.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-core-solutions.vodafone.al:443",
+   "host": "iot-core-solutions.vodafone.al",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.76.172.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-solutions.vodafone.al:443",
+   "host": "iot-solutions.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-ticketing-sandbox.vodafone.al:443",
+   "host": "iot-ticketing-sandbox.vodafone.al",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-ticketing.vodafone.al:443",
+   "host": "iot-ticketing.vodafone.al",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-transporter-solutions-sandbox.vodafone.al:443",
+   "host": "iot-transporter-solutions-sandbox.vodafone.al",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot-transporter-solutions.vodafone.al:443",
+   "host": "iot-transporter-solutions.vodafone.al",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon ELB",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://iot.vodafone.al:443",
+   "host": "iot.vodafone.al",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "C3.js",
+    "HSTS",
+    "Imperva",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "45.60.150.212",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://lib.servicehub.dev.cyberhub.vodafone.al:443",
+   "host": "lib.servicehub.dev.cyberhub.vodafone.al",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://lib.servicehub.sit.cyberhub.vodafone.al:443",
+   "host": "lib.servicehub.sit.cyberhub.vodafone.al",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services",
+    "HSTS",
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.76.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://live.vtv-preprod.vodafone.al:443",
+   "host": "live.vtv-preprod.vodafone.al",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 - Found",
+   "webserver": "pcd/55.0.625884-4a157a43 (2026-07-28 12:20:31 UTC)",
+   "technologies": [],
+   "cdn": false,
+   "ip": "80.78.64.251",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

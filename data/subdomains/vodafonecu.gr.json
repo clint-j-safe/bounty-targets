@@ -1,0 +1,1066 @@
+{
+ "domain": "vodafonecu.gr",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 35,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "app.vodafonecu.gr",
+  "ardev1.vodafonecu.gr",
+  "ardev2.vodafonecu.gr",
+  "ardev27.vodafonecu.gr",
+  "ardev3.vodafonecu.gr",
+  "arstage.vodafonecu.gr",
+  "arstage3.vodafonecu.gr",
+  "cdn.vodafonecu.gr",
+  "dev1.vodafonecu.gr",
+  "dev2.vodafonecu.gr",
+  "dev29.vodafonecu.gr",
+  "dev3.vodafonecu.gr",
+  "game.vodafonecu.gr",
+  "gamecms.vodafonecu.gr",
+  "gamecmsv.vodafonecu.gr",
+  "kaneistokolposou.vodafonecu.gr",
+  "origin.vodafonecu.gr",
+  "smetrics.vodafonecu.gr",
+  "stage.vodafonecu.gr",
+  "vodafonecu.gr",
+  "w.vodafonecu.gr",
+  "www.app.vodafonecu.gr",
+  "www.ardev1.vodafonecu.gr",
+  "www.ardev2.vodafonecu.gr",
+  "www.ardev3.vodafonecu.gr",
+  "www.arstage.vodafonecu.gr",
+  "www.cdn.vodafonecu.gr",
+  "www.dev1.vodafonecu.gr",
+  "www.dev2.vodafonecu.gr",
+  "www.game.vodafonecu.gr",
+  "www.gamecms.vodafonecu.gr",
+  "www.origin.vodafonecu.gr",
+  "www.smetrics.vodafonecu.gr",
+  "www.stage.vodafonecu.gr",
+  "www.vodafonecu.gr"
+ ],
+ "http": [
+  {
+   "url": "http://ardev1.vodafonecu.gr:80",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev1.vodafonecu.gr:81",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:2082",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:2095",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:3000",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:80",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8000",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8001",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8008",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8080",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8081",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8090",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8443",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:8888",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:9000",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:9090",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ardev3.vodafonecu.gr:9443",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://smetrics.vodafonecu.gr:80",
+   "host": "smetrics.vodafonecu.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "jag",
+   "technologies": [],
+   "cdn": false,
+   "ip": "63.140.39.145",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:2082",
+   "host": "vodafonecu.gr",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:2095",
+   "host": "vodafonecu.gr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:3000",
+   "host": "vodafonecu.gr",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:80",
+   "host": "vodafonecu.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8000",
+   "host": "vodafonecu.gr",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8001",
+   "host": "vodafonecu.gr",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8008",
+   "host": "vodafonecu.gr",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8080",
+   "host": "vodafonecu.gr",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8081",
+   "host": "vodafonecu.gr",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8090",
+   "host": "vodafonecu.gr",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8443",
+   "host": "vodafonecu.gr",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:8888",
+   "host": "vodafonecu.gr",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:9000",
+   "host": "vodafonecu.gr",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:9090",
+   "host": "vodafonecu.gr",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vodafonecu.gr:9443",
+   "host": "vodafonecu.gr",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:2082",
+   "host": "www.vodafonecu.gr",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:2095",
+   "host": "www.vodafonecu.gr",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:3000",
+   "host": "www.vodafonecu.gr",
+   "port": "3000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:80",
+   "host": "www.vodafonecu.gr",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8000",
+   "host": "www.vodafonecu.gr",
+   "port": "8000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8001",
+   "host": "www.vodafonecu.gr",
+   "port": "8001",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8008",
+   "host": "www.vodafonecu.gr",
+   "port": "8008",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8080",
+   "host": "www.vodafonecu.gr",
+   "port": "8080",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8081",
+   "host": "www.vodafonecu.gr",
+   "port": "8081",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8090",
+   "host": "www.vodafonecu.gr",
+   "port": "8090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:81",
+   "host": "www.vodafonecu.gr",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8443",
+   "host": "www.vodafonecu.gr",
+   "port": "8443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:8888",
+   "host": "www.vodafonecu.gr",
+   "port": "8888",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:9000",
+   "host": "www.vodafonecu.gr",
+   "port": "9000",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:9090",
+   "host": "www.vodafonecu.gr",
+   "port": "9090",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vodafonecu.gr:9443",
+   "host": "www.vodafonecu.gr",
+   "port": "9443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:2082",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:2083",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:2087",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:2095",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:2096",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:3000",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "3000",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:443",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8000",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8000",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8001",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8001",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8008",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8008",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8080",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8081",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8081",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8090",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8090",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8443",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:8888",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "8888",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:9000",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "9000",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:9090",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "9090",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev1.vodafonecu.gr:9443",
+   "host": "ardev1.vodafonecu.gr",
+   "port": "9443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev3.vodafonecu.gr:2083",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev3.vodafonecu.gr:2087",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev3.vodafonecu.gr:2096",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev3.vodafonecu.gr:443",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ardev3.vodafonecu.gr:81",
+   "host": "ardev3.vodafonecu.gr",
+   "port": "81",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Imperva"
+   ],
+   "cdn": true,
+   "ip": "45.60.73.192",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://game.vodafonecu.gr:443",
+   "host": "game.vodafonecu.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "Kestrel",
+   "technologies": [
+    "Imperva",
+    "Kestrel",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "45.60.86.84",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://smetrics.vodafonecu.gr:443",
+   "host": "smetrics.vodafonecu.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "jag",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "63.140.39.145",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vodafonecu.gr:2083",
+   "host": "vodafonecu.gr",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vodafonecu.gr:2087",
+   "host": "vodafonecu.gr",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vodafonecu.gr:2096",
+   "host": "vodafonecu.gr",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vodafonecu.gr:443",
+   "host": "vodafonecu.gr",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vodafonecu.gr:81",
+   "host": "vodafonecu.gr",
+   "port": "81",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "45.60.166.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.vodafonecu.gr:443",
+   "host": "www.vodafonecu.gr",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u039a\u03b1\u03c1\u03c4\u03bf\u03ba\u03b9\u03bd\u03b7\u03c4\u03ae \u03a4\u03b7\u03bb\u03b5\u03c6\u03c9\u03bd\u03af\u03b1 | Vodafone CU",
+   "webserver": "nginx",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Imperva",
+    "Microsoft ASP.NET:4.0.30319",
+    "Nginx",
+    "Tealium"
+   ],
+   "cdn": true,
+   "ip": "45.60.150.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

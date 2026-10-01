@@ -1,0 +1,119 @@
+{
+ "domain": "xc.abb.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 37,
+ "programs": [
+  "hackerone|abb"
+ ],
+ "subdomains": [
+  "vdesk.xc.abb.com",
+  "vdesku.xc.abb.com",
+  "vpn.xc.abb.com",
+  "vpn2.xc.abb.com",
+  "xc-s-aiw0019.xc.abb.com",
+  "xc-s-aiw0027.xc.abb.com",
+  "xc-s-aiw0060.xc.abb.com",
+  "xc-s-aiw0066.xc.abb.com",
+  "xc-s-aiw0115.xc.abb.com",
+  "xc-s-aiw0131.xc.abb.com",
+  "xc-s-aiw0132.xc.abb.com",
+  "xc-s-aiw0145.xc.abb.com",
+  "xc-s-aiw0156.xc.abb.com",
+  "xc-s-aiw0239.xc.abb.com",
+  "xc-s-aiw0367.xc.abb.com",
+  "xc-s-aiw0374.xc.abb.com",
+  "xc-s-avw0002.xc.abb.com",
+  "xc-s-zw00206.xc.abb.com",
+  "xc-s-zw00265.xc.abb.com",
+  "xc-s-zw00278.xc.abb.com",
+  "xc-s-zw00288.xc.abb.com",
+  "xc-s-zw00505.xc.abb.com",
+  "xc-s-zw01081.xc.abb.com",
+  "xc-s-zw01167.xc.abb.com",
+  "xc-s-zw01818.xc.abb.com",
+  "xc-s-zw06026.xc.abb.com",
+  "xc-s-zw06052.xc.abb.com",
+  "xc-s-zw08109.xc.abb.com",
+  "xc-s-zw08139.xc.abb.com",
+  "xc-s-zw08148.xc.abb.com",
+  "xc-s-zw08274.xc.abb.com",
+  "xc-s-zw08406.xc.abb.com",
+  "xc-s-zw08457.xc.abb.com",
+  "xc-s-zw08506.xc.abb.com",
+  "xc-s-zw09142.xc.abb.com",
+  "xc-s-zw09592.xc.abb.com",
+  "xc.abb.com"
+ ],
+ "http": [
+  {
+   "url": "http://vdesk.xc.abb.com:80",
+   "host": "vdesk.xc.abb.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.31.13.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://xc-s-zw06026.xc.abb.com:80",
+   "host": "xc-s-zw06026.xc.abb.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.169.92.165",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vdesk.xc.abb.com:443",
+   "host": "vdesk.xc.abb.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "20.31.13.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://xc-s-zw06026.xc.abb.com:443",
+   "host": "xc-s-zw06026.xc.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.169.92.165",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://xc-s-zw08457.xc.abb.com:443",
+   "host": "xc-s-zw08457.xc.abb.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Not Found",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.187.58.252",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

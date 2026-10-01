@@ -1,0 +1,100 @@
+{
+ "domain": "unquotedata.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "email.unquotedata.com",
+  "email1.unquotedata.com",
+  "research.unquotedata.com",
+  "unquotedata.com",
+  "www.email.unquotedata.com",
+  "www.research.unquotedata.com",
+  "www.unquotedata.com",
+  "wwwg.unquotedata.com"
+ ],
+ "http": [
+  {
+   "url": "http://email.unquotedata.com:80",
+   "host": "email.unquotedata.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.113",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://research.unquotedata.com:80",
+   "host": "research.unquotedata.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "139.59.200.93",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.unquotedata.com:80",
+   "host": "www.unquotedata.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "139.59.200.93",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://research.unquotedata.com:443",
+   "host": "research.unquotedata.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "unquote",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "Ruby",
+    "Ruby on Rails",
+    "jQuery UI",
+    "jQuery:1.9.1"
+   ],
+   "cdn": false,
+   "ip": "139.59.200.93",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.unquotedata.com:443",
+   "host": "www.unquotedata.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "unquote\" data | Private equity database \u2013 35,000+ private equity deals",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "Ruby",
+    "Ruby on Rails",
+    "jQuery:1.9.1"
+   ],
+   "cdn": false,
+   "ip": "139.59.200.93",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

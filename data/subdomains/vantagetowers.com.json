@@ -1,0 +1,659 @@
+{
+ "domain": "vantagetowers.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 85,
+ "programs": [
+  "hackerone|vodafone"
+ ],
+ "subdomains": [
+  "admin.vantagetowers.com",
+  "admin8.vantagetowers.com",
+  "api.vantagetowers.com",
+  "api9.vantagetowers.com",
+  "auth.l2c.api.vantagetowers.com",
+  "build.api.vantagetowers.com",
+  "buildm.api.vantagetowers.com",
+  "canvas.vantagetowers.com",
+  "careers.vantagetowers.com",
+  "careersxr.vantagetowers.com",
+  "dialin.vantagetowers.com",
+  "einvoicing.build.api.vantagetowers.com",
+  "einvoicing.sit.api.vantagetowers.com",
+  "itsupport.vantagetowers.com",
+  "karriere.vantagetowers.com",
+  "karriere0n.vantagetowers.com",
+  "l2c.api.vantagetowers.com",
+  "l2c.build.api.vantagetowers.com",
+  "l2c.sit.api.vantagetowers.com",
+  "landingpage-itc.vantagetowers.com",
+  "landingpage-prod.vantagetowers.com",
+  "landingpage-prodz4.vantagetowers.com",
+  "landingpage-uat.vantagetowers.com",
+  "landingpage-uat2.vantagetowers.com",
+  "landingpage-uatk.vantagetowers.com",
+  "landingpage.vantagetowers.com",
+  "lyncdiscover.vantagetowers.com",
+  "lyncdiscovera.vantagetowers.com",
+  "lyncdiscoverc.vantagetowers.com",
+  "lyncdiscoverg.vantagetowers.com",
+  "lyncdiscoverinternal.vantagetowers.com",
+  "lyncdiscoverinternala.vantagetowers.com",
+  "lyncdiscoverinternalg.vantagetowers.com",
+  "lyncdiscoverinternaly.vantagetowers.com",
+  "meet.vantagetowers.com",
+  "meete.vantagetowers.com",
+  "meets.vantagetowers.com",
+  "mtls.api.vantagetowers.com",
+  "mtls.build.api.vantagetowers.com",
+  "mtls.sit.api.vantagetowers.com",
+  "relationswww.vantagetowers.com",
+  "scanhrms.vantagetowers.com",
+  "sip.canvas.vantagetowers.com",
+  "sip.vantagetowers.com",
+  "sip.vc.vantagetowers.com",
+  "sip.vmeet.vantagetowers.com",
+  "sip.vroom.vantagetowers.com",
+  "sipc.vantagetowers.com",
+  "sipc.vmeet.vantagetowers.com",
+  "sipe.canvas.vantagetowers.com",
+  "sipe.vantagetowers.com",
+  "sipe.vroom.vantagetowers.com",
+  "sit.api.vantagetowers.com",
+  "test.mtls.api.vantagetowers.com",
+  "test.mtls.build.api.vantagetowers.com",
+  "vantagetowers.com",
+  "vc.vantagetowers.com",
+  "vmeet.vantagetowers.com",
+  "vroom.vantagetowers.com",
+  "www.api.vantagetowers.com",
+  "www.build.api.vantagetowers.com",
+  "www.careers.vantagetowers.com",
+  "www.dialin.vantagetowers.com",
+  "www.itsupport.vantagetowers.com",
+  "www.karriere.vantagetowers.com",
+  "www.l2c.api.vantagetowers.com",
+  "www.l2c.build.api.vantagetowers.com",
+  "www.l2c.sit.api.vantagetowers.com",
+  "www.landingpage-itc.vantagetowers.com",
+  "www.landingpage-prod.vantagetowers.com",
+  "www.landingpage-uat.vantagetowers.com",
+  "www.landingpage-uat2.vantagetowers.com",
+  "www.landingpage.vantagetowers.com",
+  "www.lyncdiscover.vantagetowers.com",
+  "www.meet.vantagetowers.com",
+  "www.mtls.api.vantagetowers.com",
+  "www.mtls.build.api.vantagetowers.com",
+  "www.mtls.sit.api.vantagetowers.com",
+  "www.scanhrms.vantagetowers.com",
+  "www.sip.vantagetowers.com",
+  "www.sit.api.vantagetowers.com",
+  "www.test.mtls.api.vantagetowers.com",
+  "www.vantagetowers.com",
+  "wwwe.vantagetowers.com",
+  "wwwq.landingpage.vantagetowers.com"
+ ],
+ "http": [
+  {
+   "url": "http://api.vantagetowers.com:80",
+   "host": "api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.23",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://auth.l2c.api.vantagetowers.com:80",
+   "host": "auth.l2c.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.95",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://build.api.vantagetowers.com:80",
+   "host": "build.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://careers.vantagetowers.com:80",
+   "host": "careers.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "3.76.241.179",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://einvoicing.build.api.vantagetowers.com:80",
+   "host": "einvoicing.build.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.56",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://einvoicing.sit.api.vantagetowers.com:80",
+   "host": "einvoicing.sit.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.88.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://itsupport.vantagetowers.com:80",
+   "host": "itsupport.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "snow_adc",
+   "technologies": [],
+   "cdn": false,
+   "ip": "149.96.177.148",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://karriere.vantagetowers.com:80",
+   "host": "karriere.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "93.94.133.239",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://l2c.api.vantagetowers.com:80",
+   "host": "l2c.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.112.18",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://l2c.build.api.vantagetowers.com:80",
+   "host": "l2c.build.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.10",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://l2c.sit.api.vantagetowers.com:80",
+   "host": "l2c.sit.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.167.88.89",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sit.api.vantagetowers.com:80",
+   "host": "sit.api.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.239.6.40",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://vantagetowers.com:80",
+   "host": "vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "52.17.142.199",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:2082",
+   "host": "www.vantagetowers.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:2083",
+   "host": "www.vantagetowers.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:2087",
+   "host": "www.vantagetowers.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:2095",
+   "host": "www.vantagetowers.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:2096",
+   "host": "www.vantagetowers.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:80",
+   "host": "www.vantagetowers.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:8080",
+   "host": "www.vantagetowers.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vantagetowers.com:8443",
+   "host": "www.vantagetowers.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://api.vantagetowers.com:443",
+   "host": "api.vantagetowers.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.238.23",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://auth.l2c.api.vantagetowers.com:443",
+   "host": "auth.l2c.api.vantagetowers.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "awselb/2.0",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon ELB",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.19.95",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://build.api.vantagetowers.com:443",
+   "host": "build.api.vantagetowers.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.35.78.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://careers.vantagetowers.com:443",
+   "host": "careers.vantagetowers.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Discover Your Future at Vantage Towers Careers",
+   "webserver": "openresty",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "Node.js",
+    "Nuxt.js",
+    "OpenResty",
+    "PHP",
+    "Vue.js"
+   ],
+   "cdn": true,
+   "ip": "3.76.241.179",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://einvoicing.build.api.vantagetowers.com:443",
+   "host": "einvoicing.build.api.vantagetowers.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.226.209.56",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://itsupport.vantagetowers.com:443",
+   "host": "itsupport.vantagetowers.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "snow_adc",
+   "technologies": [
+    "HSTS",
+    "Java"
+   ],
+   "cdn": false,
+   "ip": "149.96.177.148",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://karriere.vantagetowers.com:443",
+   "host": "karriere.vantagetowers.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Starte Deine Karriere bei Vantage Towers.",
+   "webserver": "nginx",
+   "technologies": [
+    "HSTS",
+    "Nginx",
+    "Node.js",
+    "Nuxt.js",
+    "PHP",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "93.94.133.239",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://l2c.api.vantagetowers.com:443",
+   "host": "l2c.api.vantagetowers.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.112.18",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://l2c.build.api.vantagetowers.com:443",
+   "host": "l2c.build.api.vantagetowers.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.193.10",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://landingpage-itc.vantagetowers.com:443",
+   "host": "landingpage-itc.vantagetowers.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "108.142.187.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://landingpage-uat.vantagetowers.com:443",
+   "host": "landingpage-uat.vantagetowers.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "40.68.88.29",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://landingpage.vantagetowers.com:443",
+   "host": "landingpage.vantagetowers.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Document Moved",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "20.234.166.77",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://sit.api.vantagetowers.com:443",
+   "host": "sit.api.vantagetowers.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "18.239.6.40",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vantagetowers.com:443",
+   "host": "vantagetowers.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": true,
+   "ip": "52.17.142.199",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.vantagetowers.com:443",
+   "host": "www.vantagetowers.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Home | Vantage Towers",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Cloudflare Browser Insights",
+    "Drupal",
+    "Google Tag Manager",
+    "HSTS",
+    "Handlebars",
+    "Leadfeeder",
+    "Linkedin Ads",
+    "PHP",
+    "Select2",
+    "Slick:1.9.0",
+    "cdnjs",
+    "jQuery CDN",
+    "jQuery UI:1.13.2",
+    "jQuery:2.3.0",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "104.18.6.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

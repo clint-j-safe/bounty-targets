@@ -1,0 +1,2744 @@
+{
+ "domain": "transunion.co.za",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 224,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "africamail.transunion.co.za",
+  "africamaili.transunion.co.za",
+  "api.transunion.co.za",
+  "apii.transunion.co.za",
+  "at.transunion.co.za",
+  "atlas-callback.transunion.co.za",
+  "atlasls-sa.transunion.co.za",
+  "atlasws-sa.transunion.co.za",
+  "atlasws-sai.transunion.co.za",
+  "atw.transunion.co.za",
+  "autodiscover.transunion.co.za",
+  "autodiscoveri.transunion.co.za",
+  "autoinsight.transunion.co.za",
+  "autoportal.transunion.co.za",
+  "autotest.transunion.co.za",
+  "bankcodes.transunion.co.za",
+  "broadcast.transunion.co.za",
+  "businessupdate.transunion.co.za",
+  "businessupdatek.transunion.co.za",
+  "callback.transunion.co.za",
+  "calltrackeruat.transunion.co.za",
+  "calltrackeruatm.transunion.co.za",
+  "cmsdev.transunion.co.za",
+  "cmspvw.transunion.co.za",
+  "cmsstage.transunion.co.za",
+  "creditview.transunion.co.za",
+  "creditviewe.transunion.co.za",
+  "ct.transunion.co.za",
+  "ctu.transunion.co.za",
+  "customerportal.transunion.co.za",
+  "customerportalu.transunion.co.za",
+  "de-uat.transunion.co.za",
+  "de-ui.transunion.co.za",
+  "de-ui1.transunion.co.za",
+  "de.transunion.co.za",
+  "dek.transunion.co.za",
+  "demo.transunion.co.za",
+  "demoa.transunion.co.za",
+  "deservices-uat.transunion.co.za",
+  "deservices-uatg.transunion.co.za",
+  "deservices.transunion.co.za",
+  "deservicesm.transunion.co.za",
+  "dev.transunion.co.za",
+  "devtuaba.transunion.co.za",
+  "dms.transunion.co.za",
+  "dmse.transunion.co.za",
+  "dmsuat.transunion.co.za",
+  "eai-int-np.transunion.co.za",
+  "eai-int.transunion.co.za",
+  "eai-np.transunion.co.za",
+  "eai-npl.transunion.co.za",
+  "eai.transunion.co.za",
+  "eaic.transunion.co.za",
+  "filetransfer.transunion.co.za",
+  "filetransfere.transunion.co.za",
+  "gtfalert-prod.transunion.co.za",
+  "gtfalert-produ.transunion.co.za",
+  "gtfalert-sit.transunion.co.za",
+  "gtfalert-sita.transunion.co.za",
+  "gtfalert-uat.transunion.co.za",
+  "gtfalert-uate.transunion.co.za",
+  "gtfalert.transunion.co.za",
+  "gtfjwt-prod.transunion.co.za",
+  "gtfjwt-produ.transunion.co.za",
+  "gtfjwt-sit.transunion.co.za",
+  "gtfjwt-sitm.transunion.co.za",
+  "gtfjwt-uat.transunion.co.za",
+  "gtfjwt-uatq.transunion.co.za",
+  "gtfjwt.transunion.co.za",
+  "gtfsit.transunion.co.za",
+  "gw.transunion.co.za",
+  "ilmail.transunion.co.za",
+  "itcweb00c.transunion.co.za",
+  "itcweb00cq.transunion.co.za",
+  "kenya-is-outside-fw1.transunion.co.za",
+  "kenya-is-outside-fw1c.transunion.co.za",
+  "legacy.transunion.co.za",
+  "links.transunion.co.za",
+  "links1.transunion.co.za",
+  "my.transunion.co.za",
+  "mys.transunion.co.za",
+  "na.transunion.co.za",
+  "network.transunion.co.za",
+  "newsletter.transunion.co.za",
+  "newsletterq.transunion.co.za",
+  "newsroom.transunion.co.za",
+  "onlineapps.transunion.co.za",
+  "onlineappsm.transunion.co.za",
+  "onlineuatapps.transunion.co.za",
+  "onlineuatappsm.transunion.co.za",
+  "router.transunion.co.za",
+  "rsc.transunion.co.za",
+  "san1wpdeapp02.transunion.co.za",
+  "san1wpdeweb02.transunion.co.za",
+  "san2wpdeapp02.transunion.co.za",
+  "san2wpdebatch01.transunion.co.za",
+  "san2wpdeweb02.transunion.co.za",
+  "secure-deservices-uat.transunion.co.za",
+  "secure.transunion.co.za",
+  "securecte.transunion.co.za",
+  "securetest.transunion.co.za",
+  "services.transunion.co.za",
+  "sftp.transunion.co.za",
+  "sftpm.transunion.co.za",
+  "signatura.transunion.co.za",
+  "signaturaq.transunion.co.za",
+  "svhstd2c03.transunion.co.za",
+  "svhstd2c03k.transunion.co.za",
+  "svmidweb01.transunion.co.za",
+  "svmidweb01e.transunion.co.za",
+  "svmidweb02.transunion.co.za",
+  "svmidweb02m.transunion.co.za",
+  "svndc2044.transunion.co.za",
+  "svndc2044q.transunion.co.za",
+  "testapi.transunion.co.za",
+  "transunion.co.za",
+  "tuaba.transunion.co.za",
+  "tuabao.transunion.co.za",
+  "tuafricamail.transunion.co.za",
+  "tuafricamailc.transunion.co.za",
+  "tuairwatch.transunion.co.za",
+  "tuairwatchu.transunion.co.za",
+  "tuclientgateway.transunion.co.za",
+  "tuclientgatewaye.transunion.co.za",
+  "tuclientgatewayg.transunion.co.za",
+  "tudirecttest.transunion.co.za",
+  "tudirecttestg.transunion.co.za",
+  "tudrw.transunion.co.za",
+  "tudrwe.transunion.co.za",
+  "tuinf.transunion.co.za",
+  "tuisdvpn.transunion.co.za",
+  "tuuatweb.transunion.co.za",
+  "tuvpn-ndc1.transunion.co.za",
+  "tuvpn-ndc1i.transunion.co.za",
+  "tuvpn-ndc2.transunion.co.za",
+  "tuvpn-ndc2m.transunion.co.za",
+  "tuvpn.transunion.co.za",
+  "tuvpn2.transunion.co.za",
+  "tuvpnm.transunion.co.za",
+  "verifications.transunion.co.za",
+  "webmail.transunion.co.za",
+  "wisdomsa.transunion.co.za",
+  "wug.transunion.co.za",
+  "www.africamail.transunion.co.za",
+  "www.aisportal.transunion.co.za",
+  "www.api.transunion.co.za",
+  "www.at.transunion.co.za",
+  "www.atlasls-sa.transunion.co.za",
+  "www.atlasws-sa.transunion.co.za",
+  "www.autodiscover.transunion.co.za",
+  "www.autoinsight.transunion.co.za",
+  "www.autotest.transunion.co.za",
+  "www.businessupdate.transunion.co.za",
+  "www.calltrackeruat.transunion.co.za",
+  "www.cmsdev.transunion.co.za",
+  "www.cmspvw.transunion.co.za",
+  "www.cmsstage.transunion.co.za",
+  "www.creditview.transunion.co.za",
+  "www.customerportal.transunion.co.za",
+  "www.de-ui.transunion.co.za",
+  "www.de.transunion.co.za",
+  "www.deservices-uat.transunion.co.za",
+  "www.deservices.transunion.co.za",
+  "www.devtuaba.transunion.co.za",
+  "www.eai-np.transunion.co.za",
+  "www.eai.transunion.co.za",
+  "www.filetransfer.transunion.co.za",
+  "www.gtfalert-prod.transunion.co.za",
+  "www.gtfjwt-prod.transunion.co.za",
+  "www.gtfjwt-uat.transunion.co.za",
+  "www.itcweb00c.transunion.co.za",
+  "www.kenya-is-outside-fw1.transunion.co.za",
+  "www.legacy.transunion.co.za",
+  "www.links.transunion.co.za",
+  "www.my.transunion.co.za",
+  "www.newsletter.transunion.co.za",
+  "www.newsroom.transunion.co.za",
+  "www.onlineapps.transunion.co.za",
+  "www.onlineuatapps.transunion.co.za",
+  "www.secure-deservices-uat.transunion.co.za",
+  "www.secure.transunion.co.za",
+  "www.securetest.transunion.co.za",
+  "www.services.transunion.co.za",
+  "www.sftp.transunion.co.za",
+  "www.signatura.transunion.co.za",
+  "www.svhstd2c03.transunion.co.za",
+  "www.svmidweb01.transunion.co.za",
+  "www.svmidweb02.transunion.co.za",
+  "www.svndc2044.transunion.co.za",
+  "www.testapi.transunion.co.za",
+  "www.transunion.co.za",
+  "www.tuaba.transunion.co.za",
+  "www.tuafricamail.transunion.co.za",
+  "www.tuairwatch.transunion.co.za",
+  "www.tuclientgateway.transunion.co.za",
+  "www.tudirecttest.transunion.co.za",
+  "www.tudrw.transunion.co.za",
+  "www.tuinf.transunion.co.za",
+  "www.tuisdvpn.transunion.co.za",
+  "www.tuuatweb.transunion.co.za",
+  "www.tuvpn-ndc1.transunion.co.za",
+  "www.tuvpn-ndc2.transunion.co.za",
+  "www.tuvpn.transunion.co.za",
+  "www.tuvpn2.transunion.co.za",
+  "www.verifications.transunion.co.za",
+  "www.webmail.transunion.co.za",
+  "www.wisdomsa.transunion.co.za",
+  "www.wug.transunion.co.za",
+  "wwwe.autoinsight.transunion.co.za",
+  "wwwe.services.transunion.co.za",
+  "wwwe.transunion.co.za",
+  "wwwe.tuvpn.transunion.co.za",
+  "wwwk.webmail.transunion.co.za",
+  "wwwm.autotest.transunion.co.za",
+  "wwwm.creditview.transunion.co.za",
+  "wwwm.newsletter.transunion.co.za",
+  "wwwo.svmidweb02.transunion.co.za",
+  "wwwq.businessupdate.transunion.co.za",
+  "wwwq.tuaba.transunion.co.za",
+  "wwwu.africamail.transunion.co.za",
+  "wwwu.signatura.transunion.co.za",
+  "wwwu.tudirecttest.transunion.co.za",
+  "wwww.securetest.transunion.co.za",
+  "wwwy.secure.transunion.co.za"
+ ],
+ "http": [
+  {
+   "url": "http://atlasls-sa.transunion.co.za:2082",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://atlasls-sa.transunion.co.za:2095",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://atlasls-sa.transunion.co.za:80",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://atlasls-sa.transunion.co.za:8080",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://autotest.transunion.co.za:2082",
+   "host": "autotest.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://autotest.transunion.co.za:2095",
+   "host": "autotest.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://autotest.transunion.co.za:80",
+   "host": "autotest.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://autotest.transunion.co.za:8080",
+   "host": "autotest.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.co.za:2082",
+   "host": "cmspvw.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.co.za:2095",
+   "host": "cmspvw.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.co.za:80",
+   "host": "cmspvw.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.co.za:8080",
+   "host": "cmspvw.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditview.transunion.co.za:80",
+   "host": "creditview.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.transunion.co.za:2082",
+   "host": "customerportal.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.transunion.co.za:2095",
+   "host": "customerportal.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.transunion.co.za:80",
+   "host": "customerportal.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://customerportal.transunion.co.za:8080",
+   "host": "customerportal.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de-ui.transunion.co.za:2082",
+   "host": "de-ui.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de-ui.transunion.co.za:2095",
+   "host": "de-ui.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de-ui.transunion.co.za:80",
+   "host": "de-ui.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de-ui.transunion.co.za:8080",
+   "host": "de-ui.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de.transunion.co.za:2082",
+   "host": "de.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de.transunion.co.za:2095",
+   "host": "de.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de.transunion.co.za:80",
+   "host": "de.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://de.transunion.co.za:8080",
+   "host": "de.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:2082",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:2083",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:2087",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:2095",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:2096",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:80",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:8080",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices-uat.transunion.co.za:8443",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:2082",
+   "host": "deservices.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:2083",
+   "host": "deservices.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:2087",
+   "host": "deservices.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:2095",
+   "host": "deservices.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:2096",
+   "host": "deservices.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:80",
+   "host": "deservices.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:8080",
+   "host": "deservices.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deservices.transunion.co.za:8443",
+   "host": "deservices.transunion.co.za",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai-np.transunion.co.za:2082",
+   "host": "eai-np.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai-np.transunion.co.za:2095",
+   "host": "eai-np.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai-np.transunion.co.za:80",
+   "host": "eai-np.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai-np.transunion.co.za:8080",
+   "host": "eai-np.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai.transunion.co.za:2082",
+   "host": "eai.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai.transunion.co.za:2095",
+   "host": "eai.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai.transunion.co.za:80",
+   "host": "eai.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://eai.transunion.co.za:8080",
+   "host": "eai.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunion.co.za:2082",
+   "host": "filetransfer.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunion.co.za:2095",
+   "host": "filetransfer.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunion.co.za:80",
+   "host": "filetransfer.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunion.co.za:8080",
+   "host": "filetransfer.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links.transunion.co.za:2082",
+   "host": "links.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links.transunion.co.za:2095",
+   "host": "links.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links.transunion.co.za:80",
+   "host": "links.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links.transunion.co.za:8080",
+   "host": "links.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links1.transunion.co.za:2082",
+   "host": "links1.transunion.co.za",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links1.transunion.co.za:2095",
+   "host": "links1.transunion.co.za",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links1.transunion.co.za:80",
+   "host": "links1.transunion.co.za",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links1.transunion.co.za:8080",
+   "host": "links1.transunion.co.za",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:2082",
+   "host": "my.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:2083",
+   "host": "my.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:2087",
+   "host": "my.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:2095",
+   "host": "my.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:2096",
+   "host": "my.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:80",
+   "host": "my.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:8080",
+   "host": "my.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://my.transunion.co.za:8443",
+   "host": "my.transunion.co.za",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsletter.transunion.co.za:2083",
+   "host": "newsletter.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsletter.transunion.co.za:2087",
+   "host": "newsletter.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsletter.transunion.co.za:2096",
+   "host": "newsletter.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsletter.transunion.co.za:80",
+   "host": "newsletter.transunion.co.za",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS",
+    "HTTP/3"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsletter.transunion.co.za:8443",
+   "host": "newsletter.transunion.co.za",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsroom.transunion.co.za:80",
+   "host": "newsroom.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "52.58.159.35",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure-deservices-uat.transunion.co.za:2082",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure-deservices-uat.transunion.co.za:2095",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure-deservices-uat.transunion.co.za:80",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure-deservices-uat.transunion.co.za:8080",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:2082",
+   "host": "securetest.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:2083",
+   "host": "securetest.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:2087",
+   "host": "securetest.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:2095",
+   "host": "securetest.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:2096",
+   "host": "securetest.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:80",
+   "host": "securetest.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:8080",
+   "host": "securetest.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://securetest.transunion.co.za:8443",
+   "host": "securetest.transunion.co.za",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:2082",
+   "host": "services.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:2083",
+   "host": "services.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:2087",
+   "host": "services.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:2095",
+   "host": "services.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:2096",
+   "host": "services.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:80",
+   "host": "services.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:8080",
+   "host": "services.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://services.transunion.co.za:8443",
+   "host": "services.transunion.co.za",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:2082",
+   "host": "testapi.transunion.co.za",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:2083",
+   "host": "testapi.transunion.co.za",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:2087",
+   "host": "testapi.transunion.co.za",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:2095",
+   "host": "testapi.transunion.co.za",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:2096",
+   "host": "testapi.transunion.co.za",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:80",
+   "host": "testapi.transunion.co.za",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testapi.transunion.co.za:8080",
+   "host": "testapi.transunion.co.za",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://atlasls-sa.transunion.co.za:2083",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://atlasls-sa.transunion.co.za:2087",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://atlasls-sa.transunion.co.za:2096",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://atlasls-sa.transunion.co.za:443",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://atlasls-sa.transunion.co.za:8443",
+   "host": "atlasls-sa.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://autotest.transunion.co.za:2083",
+   "host": "autotest.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://autotest.transunion.co.za:2087",
+   "host": "autotest.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://autotest.transunion.co.za:2096",
+   "host": "autotest.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://autotest.transunion.co.za:443",
+   "host": "autotest.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://autotest.transunion.co.za:8443",
+   "host": "autotest.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.96",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.co.za:2083",
+   "host": "cmspvw.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.co.za:2087",
+   "host": "cmspvw.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.co.za:2096",
+   "host": "cmspvw.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.co.za:443",
+   "host": "cmspvw.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.co.za:8443",
+   "host": "cmspvw.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.128",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditview.transunion.co.za:443",
+   "host": "creditview.transunion.co.za",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.transunion.co.za:2083",
+   "host": "customerportal.transunion.co.za",
+   "port": "2083",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.transunion.co.za:2087",
+   "host": "customerportal.transunion.co.za",
+   "port": "2087",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.transunion.co.za:2096",
+   "host": "customerportal.transunion.co.za",
+   "port": "2096",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.transunion.co.za:443",
+   "host": "customerportal.transunion.co.za",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://customerportal.transunion.co.za:8443",
+   "host": "customerportal.transunion.co.za",
+   "port": "8443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.14.184",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de-ui.transunion.co.za:2083",
+   "host": "de-ui.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de-ui.transunion.co.za:2087",
+   "host": "de-ui.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de-ui.transunion.co.za:2096",
+   "host": "de-ui.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de-ui.transunion.co.za:443",
+   "host": "de-ui.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de-ui.transunion.co.za:8443",
+   "host": "de-ui.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.154.71",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de.transunion.co.za:2083",
+   "host": "de.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de.transunion.co.za:2087",
+   "host": "de.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de.transunion.co.za:2096",
+   "host": "de.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de.transunion.co.za:443",
+   "host": "de.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://de.transunion.co.za:8443",
+   "host": "de.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deservices-uat.transunion.co.za:443",
+   "host": "deservices-uat.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.149",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deservices.transunion.co.za:443",
+   "host": "deservices.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.44",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai-np.transunion.co.za:2083",
+   "host": "eai-np.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai-np.transunion.co.za:2087",
+   "host": "eai-np.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai-np.transunion.co.za:2096",
+   "host": "eai-np.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai-np.transunion.co.za:443",
+   "host": "eai-np.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai-np.transunion.co.za:8443",
+   "host": "eai-np.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.151.237",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai.transunion.co.za:2083",
+   "host": "eai.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai.transunion.co.za:2087",
+   "host": "eai.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai.transunion.co.za:2096",
+   "host": "eai.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai.transunion.co.za:443",
+   "host": "eai.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://eai.transunion.co.za:8443",
+   "host": "eai.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.103",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunion.co.za:2083",
+   "host": "filetransfer.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunion.co.za:2087",
+   "host": "filetransfer.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunion.co.za:2096",
+   "host": "filetransfer.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunion.co.za:443",
+   "host": "filetransfer.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunion.co.za:8443",
+   "host": "filetransfer.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.34.36",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links.transunion.co.za:2083",
+   "host": "links.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links.transunion.co.za:2087",
+   "host": "links.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links.transunion.co.za:2096",
+   "host": "links.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links.transunion.co.za:443",
+   "host": "links.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links.transunion.co.za:8443",
+   "host": "links.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.139",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links1.transunion.co.za:2083",
+   "host": "links1.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links1.transunion.co.za:2087",
+   "host": "links1.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links1.transunion.co.za:2096",
+   "host": "links1.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links1.transunion.co.za:443",
+   "host": "links1.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://links1.transunion.co.za:8443",
+   "host": "links1.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.182",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://my.transunion.co.za:443",
+   "host": "my.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "172.64.153.221",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://newsletter.transunion.co.za:443",
+   "host": "newsletter.transunion.co.za",
+   "port": "443",
+   "status_code": 200,
+   "title": "TransUnion : Login",
+   "webserver": "cloudflare",
+   "technologies": [
+    "AngularJS:1.8.2",
+    "Bootstrap:3.4.1",
+    "Cloudflare",
+    "Cloudflare Bot Management",
+    "Google Hosted Libraries",
+    "Google Tag Manager",
+    "HSTS",
+    "HTTP/3",
+    "cdnjs",
+    "jQuery:3.6.0",
+    "jsDelivr",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.164",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://newsroom.transunion.co.za:443",
+   "host": "newsroom.transunion.co.za",
+   "port": "443",
+   "status_code": 200,
+   "title": "Newsroom TransUnion South Africa",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap",
+    "HSTS",
+    "Modernizr:1104",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "52.58.159.35",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://secure-deservices-uat.transunion.co.za:2083",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://secure-deservices-uat.transunion.co.za:2087",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://secure-deservices-uat.transunion.co.za:2096",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://secure-deservices-uat.transunion.co.za:443",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://secure-deservices-uat.transunion.co.za:8443",
+   "host": "secure-deservices-uat.transunion.co.za",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Error \u30fb Cloudflare Access",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.150.175",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://securetest.transunion.co.za:443",
+   "host": "securetest.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.43.22",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://services.transunion.co.za:443",
+   "host": "services.transunion.co.za",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 - Forbidden: Access is denied.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.223",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://testapi.transunion.co.za:443",
+   "host": "testapi.transunion.co.za",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://testapi.transunion.co.za:8443",
+   "host": "testapi.transunion.co.za",
+   "port": "8443",
+   "status_code": 520,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.145.246",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "domain": "vedaadvantage.com.au",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|equifax"
+ ],
+ "subdomains": [
+  "vedaadvantage.com.au",
+  "www.vedaadvantage.com.au"
+ ],
+ "http": [
+  {
+   "url": "http://vedaadvantage.com.au:80",
+   "host": "vedaadvantage.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.130",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vedaadvantage.com.au:80",
+   "host": "www.vedaadvantage.com.au",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "203.36.221.130",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

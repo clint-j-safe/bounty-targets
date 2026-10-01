@@ -1,0 +1,1485 @@
+{
+ "domain": "truoptik.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 124,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "123-nonexistant-dnsjedi-456.truoptik.com",
+  "abrothers.api.truoptik.com",
+  "adwrapper.truoptik.com",
+  "amp.truoptik.com",
+  "andy.amp.truoptik.com",
+  "andy.dashboard.truoptik.com",
+  "andy.devel.truoptik.com",
+  "api.truoptik.com",
+  "api1-dsp-nyc1-do.truoptik.com",
+  "apia.truoptik.com",
+  "apip.truoptik.com",
+  "b1dev-dmp-ny2-eqx.truoptik.com",
+  "b2-dmp-ny2-eqx.truoptik.com",
+  "b2dev-dmp-ny2-eqx.truoptik.com",
+  "b3-dmp-ny2-eqx.truoptik.com",
+  "b3dev-dmp-ny2-eqx.truoptik.com",
+  "b4-dmp-ny2-eqx.truoptik.com",
+  "b5-dmp-ny2-eqx.truoptik.com",
+  "bid-nyc1.truoptik.com",
+  "bid-nyc1a.truoptik.com",
+  "bid-sfo1.truoptik.com",
+  "bid-sfo1i.truoptik.com",
+  "bid.truoptik.com",
+  "blackhole.truoptik.com",
+  "cache.data.truoptik.com",
+  "cav.truoptik.com",
+  "cdn.truoptik.com",
+  "cdnq.truoptik.com",
+  "cdny.truoptik.com",
+  "dashboard.truoptik.com",
+  "demo.amp.truoptik.com",
+  "demo.truoptik.com",
+  "dev-omc.truoptik.com",
+  "devel.truoptik.com",
+  "devel2.truoptik.com",
+  "devel3.truoptik.com",
+  "dmp.truoptik.com",
+  "dmp3.truoptik.com",
+  "dmpb.truoptik.com",
+  "dns1-ny1-21.truoptik.com",
+  "dns2-ny1-21.truoptik.com",
+  "info.truoptik.com",
+  "lb-hap-aws.truoptik.com",
+  "lb1-dmp-nyc1-do.truoptik.com",
+  "lb1-dsp-nyc1-do.truoptik.com",
+  "lb1-tms-nyc1-do.truoptik.com",
+  "lbhap.truoptik.com",
+  "lbhap_x18.truoptik.com",
+  "lbhapx18.truoptik.com",
+  "log1-ny2-eqx.truoptik.com",
+  "michelle.dashboard.truoptik.com",
+  "michelle2.devel.truoptik.com",
+  "ns1.truoptik.com",
+  "ns2.truoptik.com",
+  "omc.truoptik.com",
+  "onboarding1-dmp-ny2-eqx.truoptik.com",
+  "paul.amp.truoptik.com",
+  "paul.dashboard.truoptik.com",
+  "paul.devel.truoptik.com",
+  "paul2.devel.truoptik.com",
+  "preprod-cdn.truoptik.com",
+  "router1-www-ny1-21.truoptik.com",
+  "router2-www-ny1-21.truoptik.com",
+  "s1-dmp-ny2-eqx.truoptik.com",
+  "s11-dmp-ny2-eqx.truoptik.com",
+  "s12-dmp-ny2-eqx.truoptik.com",
+  "s2-dmp-ny2-eqx.truoptik.com",
+  "s2dev-dmp-ny2-eqx.truoptik.com",
+  "s3-dmp-ny2-eqx.truoptik.com",
+  "s4-dmp-ny2-eqx.truoptik.com",
+  "s5-dmp-ny2-eqx.truoptik.com",
+  "s6-dmp-ny2-eqx.truoptik.com",
+  "s7-dmp-ny2-eqx.truoptik.com",
+  "s8-dmp-ny2-eqx.truoptik.com",
+  "s9-dmp-ny2-eqx.truoptik.com",
+  "sample.api.truoptik.com",
+  "sonicwall5.truoptik.com",
+  "sonicwall8.truoptik.com",
+  "sync-edge-consolidation-qa.truoptik.com",
+  "sync-ny1-21.truoptik.com",
+  "sync4dev-dmp-ny2-eqx.truoptik.com",
+  "tms.truoptik.com",
+  "truoptik.com",
+  "uptime.truoptik.com",
+  "voci-swm-ny1-21.truoptik.com",
+  "webflow.truoptik.com",
+  "www.api.truoptik.com",
+  "www.api1-dsp-nyc1-do.truoptik.com",
+  "www.b1dev-dmp-ny2-eqx.truoptik.com",
+  "www.b2-dmp-ny2-eqx.truoptik.com",
+  "www.b2dev-dmp-ny2-eqx.truoptik.com",
+  "www.b3-dmp-ny2-eqx.truoptik.com",
+  "www.b3dev-dmp-ny2-eqx.truoptik.com",
+  "www.b4-dmp-ny2-eqx.truoptik.com",
+  "www.b5-dmp-ny2-eqx.truoptik.com",
+  "www.cdn.truoptik.com",
+  "www.dmp.truoptik.com",
+  "www.info.truoptik.com",
+  "www.lb-hap-aws.truoptik.com",
+  "www.lbhap.truoptik.com",
+  "www.lbhapx18.truoptik.com",
+  "www.ns1.truoptik.com",
+  "www.ns2.truoptik.com",
+  "www.omc.truoptik.com",
+  "www.onboarding1-dmp-ny2-eqx.truoptik.com",
+  "www.s1-dmp-ny2-eqx.truoptik.com",
+  "www.s11-dmp-ny2-eqx.truoptik.com",
+  "www.s12-dmp-ny2-eqx.truoptik.com",
+  "www.s2-dmp-ny2-eqx.truoptik.com",
+  "www.s2dev-dmp-ny2-eqx.truoptik.com",
+  "www.s3-dmp-ny2-eqx.truoptik.com",
+  "www.s4-dmp-ny2-eqx.truoptik.com",
+  "www.s5-dmp-ny2-eqx.truoptik.com",
+  "www.s6-dmp-ny2-eqx.truoptik.com",
+  "www.s7-dmp-ny2-eqx.truoptik.com",
+  "www.s8-dmp-ny2-eqx.truoptik.com",
+  "www.s9-dmp-ny2-eqx.truoptik.com",
+  "www.sync-ny1-21.truoptik.com",
+  "www.sync4dev-dmp-ny2-eqx.truoptik.com",
+  "www.truoptik.com",
+  "www.uptime.truoptik.com",
+  "www.webflow.truoptik.com",
+  "www1-nyc1-do.truoptik.com",
+  "www2.truoptik.com"
+ ],
+ "http": [
+  {
+   "url": "http://cav.truoptik.com:2083",
+   "host": "cav.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cav.truoptik.com:2087",
+   "host": "cav.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cav.truoptik.com:2096",
+   "host": "cav.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cav.truoptik.com:80",
+   "host": "cav.truoptik.com",
+   "port": "80",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cav.truoptik.com:8443",
+   "host": "cav.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.truoptik.com:2083",
+   "host": "cdn.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.truoptik.com:2087",
+   "host": "cdn.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.truoptik.com:2096",
+   "host": "cdn.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.truoptik.com:80",
+   "host": "cdn.truoptik.com",
+   "port": "80",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.truoptik.com:8443",
+   "host": "cdn.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dmp.truoptik.com:2083",
+   "host": "dmp.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dmp.truoptik.com:2087",
+   "host": "dmp.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dmp.truoptik.com:2096",
+   "host": "dmp.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dmp.truoptik.com:80",
+   "host": "dmp.truoptik.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dmp.truoptik.com:8443",
+   "host": "dmp.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://info.truoptik.com:2082",
+   "host": "info.truoptik.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://info.truoptik.com:2095",
+   "host": "info.truoptik.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://info.truoptik.com:80",
+   "host": "info.truoptik.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://info.truoptik.com:8080",
+   "host": "info.truoptik.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns1.truoptik.com:2082",
+   "host": "ns1.truoptik.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns1.truoptik.com:2095",
+   "host": "ns1.truoptik.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns1.truoptik.com:80",
+   "host": "ns1.truoptik.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns1.truoptik.com:8080",
+   "host": "ns1.truoptik.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns2.truoptik.com:2082",
+   "host": "ns2.truoptik.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns2.truoptik.com:2095",
+   "host": "ns2.truoptik.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns2.truoptik.com:80",
+   "host": "ns2.truoptik.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ns2.truoptik.com:8080",
+   "host": "ns2.truoptik.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://omc.truoptik.com:2083",
+   "host": "omc.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://omc.truoptik.com:2087",
+   "host": "omc.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://omc.truoptik.com:2096",
+   "host": "omc.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://omc.truoptik.com:80",
+   "host": "omc.truoptik.com",
+   "port": "80",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://omc.truoptik.com:8443",
+   "host": "omc.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://preprod-cdn.truoptik.com:2083",
+   "host": "preprod-cdn.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.80.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://preprod-cdn.truoptik.com:2087",
+   "host": "preprod-cdn.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.80.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://preprod-cdn.truoptik.com:2096",
+   "host": "preprod-cdn.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.80.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://preprod-cdn.truoptik.com:80",
+   "host": "preprod-cdn.truoptik.com",
+   "port": "80",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.80.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://preprod-cdn.truoptik.com:8443",
+   "host": "preprod-cdn.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.80.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sync-edge-consolidation-qa.truoptik.com:2083",
+   "host": "sync-edge-consolidation-qa.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sync-edge-consolidation-qa.truoptik.com:2087",
+   "host": "sync-edge-consolidation-qa.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sync-edge-consolidation-qa.truoptik.com:2096",
+   "host": "sync-edge-consolidation-qa.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sync-edge-consolidation-qa.truoptik.com:80",
+   "host": "sync-edge-consolidation-qa.truoptik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sync-edge-consolidation-qa.truoptik.com:8443",
+   "host": "sync-edge-consolidation-qa.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://truoptik.com:2087",
+   "host": "truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://truoptik.com:2095",
+   "host": "truoptik.com",
+   "port": "2095",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://truoptik.com:80",
+   "host": "truoptik.com",
+   "port": "80",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://truoptik.com:8080",
+   "host": "truoptik.com",
+   "port": "8080",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://truoptik.com:8443",
+   "host": "truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://uptime.truoptik.com:80",
+   "host": "uptime.truoptik.com",
+   "port": "80",
+   "status_code": 308,
+   "title": "",
+   "webserver": "Caddy",
+   "technologies": [
+    "Caddy"
+   ],
+   "cdn": false,
+   "ip": "142.132.149.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://webflow.truoptik.com:2083",
+   "host": "webflow.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://webflow.truoptik.com:2087",
+   "host": "webflow.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://webflow.truoptik.com:2096",
+   "host": "webflow.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://webflow.truoptik.com:80",
+   "host": "webflow.truoptik.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://webflow.truoptik.com:8443",
+   "host": "webflow.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:2082",
+   "host": "www.omc.truoptik.com",
+   "port": "2082",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:2083",
+   "host": "www.omc.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:2087",
+   "host": "www.omc.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:2095",
+   "host": "www.omc.truoptik.com",
+   "port": "2095",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:2096",
+   "host": "www.omc.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:80",
+   "host": "www.omc.truoptik.com",
+   "port": "80",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:8080",
+   "host": "www.omc.truoptik.com",
+   "port": "8080",
+   "status_code": 530,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.omc.truoptik.com:8443",
+   "host": "www.omc.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.truoptik.com:2083",
+   "host": "www.truoptik.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.truoptik.com:2087",
+   "host": "www.truoptik.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.truoptik.com:2096",
+   "host": "www.truoptik.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.truoptik.com:80",
+   "host": "www.truoptik.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.truoptik.com:8443",
+   "host": "www.truoptik.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://api.truoptik.com:443",
+   "host": "api.truoptik.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "23.21.59.227",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cav.truoptik.com:443",
+   "host": "cav.truoptik.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "503 Service Temporarily Unavailable",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cdn.truoptik.com:443",
+   "host": "cdn.truoptik.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "TruAudience Data Marketplace",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dmp.truoptik.com:443",
+   "host": "dmp.truoptik.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://info.truoptik.com:2083",
+   "host": "info.truoptik.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://info.truoptik.com:2087",
+   "host": "info.truoptik.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://info.truoptik.com:2096",
+   "host": "info.truoptik.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://info.truoptik.com:443",
+   "host": "info.truoptik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://info.truoptik.com:8443",
+   "host": "info.truoptik.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "199.60.103.30",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://lb-hap-aws.truoptik.com:443",
+   "host": "lb-hap-aws.truoptik.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "23.21.59.227",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://lbhap.truoptik.com:443",
+   "host": "lbhap.truoptik.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "3.223.27.202",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns1.truoptik.com:2083",
+   "host": "ns1.truoptik.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns1.truoptik.com:2087",
+   "host": "ns1.truoptik.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns1.truoptik.com:2096",
+   "host": "ns1.truoptik.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns1.truoptik.com:443",
+   "host": "ns1.truoptik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns1.truoptik.com:8443",
+   "host": "ns1.truoptik.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.0.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns2.truoptik.com:2083",
+   "host": "ns2.truoptik.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns2.truoptik.com:2087",
+   "host": "ns2.truoptik.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns2.truoptik.com:2096",
+   "host": "ns2.truoptik.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns2.truoptik.com:443",
+   "host": "ns2.truoptik.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ns2.truoptik.com:8443",
+   "host": "ns2.truoptik.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "162.159.1.53",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://omc.truoptik.com:443",
+   "host": "omc.truoptik.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "TruAudience Data Marketplace",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.208.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://preprod-cdn.truoptik.com:443",
+   "host": "preprod-cdn.truoptik.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "TruAudience Data Marketplace",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.80.52",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://sync-edge-consolidation-qa.truoptik.com:443",
+   "host": "sync-edge-consolidation-qa.truoptik.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://truoptik.com:2083",
+   "host": "truoptik.com",
+   "port": "2083",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://truoptik.com:2096",
+   "host": "truoptik.com",
+   "port": "2096",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://truoptik.com:443",
+   "host": "truoptik.com",
+   "port": "443",
+   "status_code": 521,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://webflow.truoptik.com:443",
+   "host": "webflow.truoptik.com",
+   "port": "443",
+   "status_code": 525,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.16.192.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.truoptik.com:443",
+   "host": "www.truoptik.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 - Page not found",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.17.127.254",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

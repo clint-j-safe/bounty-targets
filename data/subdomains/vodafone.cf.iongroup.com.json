@@ -1,0 +1,30 @@
+{
+ "domain": "vodafone.cf.iongroup.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 2,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "vodafone.cf.iongroup.com",
+  "www.vodafone.cf.iongroup.com"
+ ],
+ "http": [
+  {
+   "url": "https://vodafone.cf.iongroup.com:443",
+   "host": "vodafone.cf.iongroup.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "Object moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Microsoft ASP.NET:4.0.30319",
+    "Windows Server"
+   ],
+   "cdn": true,
+   "ip": "54.246.243.131",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

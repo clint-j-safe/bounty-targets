@@ -1,0 +1,349 @@
+{
+ "domain": "wippexpress.es",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 25,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "accionenfrio.wippexpress.es",
+  "accionenfriou.wippexpress.es",
+  "babycomplot.wippexpress.es",
+  "babycomplot1.wippexpress.es",
+  "babycomplotoj.wippexpress.es",
+  "limpiezatotal.wippexpress.es",
+  "limpiezatotalw.wippexpress.es",
+  "mail.babycomplot.wippexpress.es",
+  "mail.wippexpress.es",
+  "mailo.wippexpress.es",
+  "manchasaguafria.wippexpress.es",
+  "manchasaguafriag.wippexpress.es",
+  "powermix.wippexpress.es",
+  "wippexpress.es",
+  "www.accionenfrio.wippexpress.es",
+  "www.babycomplot.wippexpress.es",
+  "www.limpiezatotal.wippexpress.es",
+  "www.mail.babycomplot.wippexpress.es",
+  "www.mail.wippexpress.es",
+  "www.manchasaguafria.wippexpress.es",
+  "www.powermix.wippexpress.es",
+  "www.wippexpress.es",
+  "www7.accionenfrio.wippexpress.es",
+  "wwwa.wippexpress.es",
+  "wwww.powermix.wippexpress.es"
+ ],
+ "http": [
+  {
+   "url": "http://accionenfrio.wippexpress.es:80",
+   "host": "accionenfrio.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.63",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://limpiezatotal.wippexpress.es:80",
+   "host": "limpiezatotal.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.85",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://manchasaguafria.wippexpress.es:80",
+   "host": "manchasaguafria.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.64",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://powermix.wippexpress.es:80",
+   "host": "powermix.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.59",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://wippexpress.es:80",
+   "host": "wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.68",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.accionenfrio.wippexpress.es:80",
+   "host": "www.accionenfrio.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.85",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.limpiezatotal.wippexpress.es:80",
+   "host": "www.limpiezatotal.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.64",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.manchasaguafria.wippexpress.es:80",
+   "host": "www.manchasaguafria.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.64",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.powermix.wippexpress.es:80",
+   "host": "www.powermix.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.85",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.wippexpress.es:80",
+   "host": "www.wippexpress.es",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.70",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://accionenfrio.wippexpress.es:443",
+   "host": "accionenfrio.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.63",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://limpiezatotal.wippexpress.es:443",
+   "host": "limpiezatotal.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.85",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://manchasaguafria.wippexpress.es:443",
+   "host": "manchasaguafria.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.64",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://powermix.wippexpress.es:443",
+   "host": "powermix.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.127.59",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://wippexpress.es:443",
+   "host": "wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "13.227.65.68",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.accionenfrio.wippexpress.es:443",
+   "host": "www.accionenfrio.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.85",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.limpiezatotal.wippexpress.es:443",
+   "host": "www.limpiezatotal.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.64",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.manchasaguafria.wippexpress.es:443",
+   "host": "www.manchasaguafria.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.64",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.powermix.wippexpress.es:443",
+   "host": "www.powermix.wippexpress.es",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.85",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.wippexpress.es:443",
+   "host": "www.wippexpress.es",
+   "port": "443",
+   "status_code": 200,
+   "title": "Inicio",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java"
+   ],
+   "cdn": true,
+   "ip": "3.170.152.70",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

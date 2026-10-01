@@ -1,0 +1,1298 @@
+{
+ "domain": "transunion.com.br",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 41,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "api-stg.transunion.com.br",
+  "api.transunion.com.br",
+  "apik.transunion.com.br",
+  "backoffice-crivo-api.transunion.com.br",
+  "backoffice-crivo-apia.transunion.com.br",
+  "cadastropositivo-uat.transunion.com.br",
+  "cadastropositivo-uatw.transunion.com.br",
+  "cadastropositivo.transunion.com.br",
+  "cadastropositivoe.transunion.com.br",
+  "cdn-br.ccid.transunion.com.br",
+  "cmsdev.transunion.com.br",
+  "cmspvw.transunion.com.br",
+  "cmsstage.transunion.com.br",
+  "cmsstagek.transunion.com.br",
+  "crivotarifacao.transunion.com.br",
+  "crivotarifacaoi.transunion.com.br",
+  "crivoziponlinefreemium.transunion.com.br",
+  "newsroom.transunion.com.br",
+  "transunion.com.br",
+  "www.api-stg.transunion.com.br",
+  "www.api.transunion.com.br",
+  "www.backoffice-crivo-api.transunion.com.br",
+  "www.cadastropositivo-uat.transunion.com.br",
+  "www.cadastropositivo.transunion.com.br",
+  "www.cmsdev.transunion.com.br",
+  "www.cmspvw.transunion.com.br",
+  "www.cmsstage.transunion.com.br",
+  "www.crivotarifacao.transunion.com.br",
+  "www.crivoziponlinefreemium.transunion.com.br",
+  "www.newsroom.transunion.com.br",
+  "www.transunion.com.br",
+  "www.ziponlinefreemium-uat.transunion.com.br",
+  "www.ziponlinefreemium.transunion.com.br",
+  "www.ziponlinestore-homolog-brz.transunion.com.br",
+  "www.ziponlinestore.transunion.com.br",
+  "wwwg.transunion.com.br",
+  "ziponlinefreemium-uat.transunion.com.br",
+  "ziponlinefreemium.transunion.com.br",
+  "ziponlinefreemiumc.transunion.com.br",
+  "ziponlinestore-homolog-brz.transunion.com.br",
+  "ziponlinestore.transunion.com.br"
+ ],
+ "http": [
+  {
+   "url": "http://api-stg.transunion.com.br:2082",
+   "host": "api-stg.transunion.com.br",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:2083",
+   "host": "api-stg.transunion.com.br",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:2087",
+   "host": "api-stg.transunion.com.br",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:2095",
+   "host": "api-stg.transunion.com.br",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:2096",
+   "host": "api-stg.transunion.com.br",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:80",
+   "host": "api-stg.transunion.com.br",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:8080",
+   "host": "api-stg.transunion.com.br",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api-stg.transunion.com.br:8443",
+   "host": "api-stg.transunion.com.br",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:2082",
+   "host": "api.transunion.com.br",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:2083",
+   "host": "api.transunion.com.br",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:2087",
+   "host": "api.transunion.com.br",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:2095",
+   "host": "api.transunion.com.br",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:2096",
+   "host": "api.transunion.com.br",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:80",
+   "host": "api.transunion.com.br",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:8080",
+   "host": "api.transunion.com.br",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://api.transunion.com.br:8443",
+   "host": "api.transunion.com.br",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:2082",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:2083",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:2087",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:2095",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:2096",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:80",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:8080",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://backoffice-crivo-api.transunion.com.br:8443",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cadastropositivo.transunion.com.br:2082",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cadastropositivo.transunion.com.br:2095",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cadastropositivo.transunion.com.br:80",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cadastropositivo.transunion.com.br:8080",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.com.br:2082",
+   "host": "cmspvw.transunion.com.br",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.com.br:2095",
+   "host": "cmspvw.transunion.com.br",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.com.br:80",
+   "host": "cmspvw.transunion.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.com.br:8080",
+   "host": "cmspvw.transunion.com.br",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.com.br:2082",
+   "host": "cmsstage.transunion.com.br",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.com.br:2095",
+   "host": "cmsstage.transunion.com.br",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.com.br:80",
+   "host": "cmsstage.transunion.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.com.br:8080",
+   "host": "cmsstage.transunion.com.br",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsroom.transunion.com.br:80",
+   "host": "newsroom.transunion.com.br",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "52.58.86.198",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunion.com.br:2082",
+   "host": "transunion.com.br",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunion.com.br:2095",
+   "host": "transunion.com.br",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunion.com.br:80",
+   "host": "transunion.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunion.com.br:8080",
+   "host": "transunion.com.br",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunion.com.br:2082",
+   "host": "www.transunion.com.br",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunion.com.br:2095",
+   "host": "www.transunion.com.br",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunion.com.br:80",
+   "host": "www.transunion.com.br",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunion.com.br:8080",
+   "host": "www.transunion.com.br",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium-uat.transunion.com.br:80",
+   "host": "ziponlinefreemium-uat.transunion.com.br",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:2082",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:2083",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:2087",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:2095",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:2096",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:80",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:8080",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://ziponlinefreemium.transunion.com.br:8443",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://api-stg.transunion.com.br:443",
+   "host": "api-stg.transunion.com.br",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.14",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://api.transunion.com.br:443",
+   "host": "api.transunion.com.br",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.91",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://backoffice-crivo-api.transunion.com.br:443",
+   "host": "backoffice-crivo-api.transunion.com.br",
+   "port": "443",
+   "status_code": 404,
+   "title": "The resource cannot be found.",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.110",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cadastropositivo.transunion.com.br:2083",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cadastropositivo.transunion.com.br:2087",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cadastropositivo.transunion.com.br:2096",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cadastropositivo.transunion.com.br:443",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cadastropositivo.transunion.com.br:8443",
+   "host": "cadastropositivo.transunion.com.br",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": false,
+   "ip": "172.83.72.11",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.com.br:2083",
+   "host": "cmspvw.transunion.com.br",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.com.br:2087",
+   "host": "cmspvw.transunion.com.br",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.com.br:2096",
+   "host": "cmspvw.transunion.com.br",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.com.br:443",
+   "host": "cmspvw.transunion.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.com.br:8443",
+   "host": "cmspvw.transunion.com.br",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.69",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.com.br:2083",
+   "host": "cmsstage.transunion.com.br",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.com.br:2087",
+   "host": "cmsstage.transunion.com.br",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.com.br:2096",
+   "host": "cmsstage.transunion.com.br",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.com.br:443",
+   "host": "cmsstage.transunion.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.com.br:8443",
+   "host": "cmsstage.transunion.com.br",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.180",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://newsroom.transunion.com.br:443",
+   "host": "newsroom.transunion.com.br",
+   "port": "443",
+   "status_code": 200,
+   "title": "Newsroom TransUnion Brazil",
+   "webserver": "",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Google Tag Manager",
+    "HSTS",
+    "Java",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "52.58.86.198",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunion.com.br:2083",
+   "host": "transunion.com.br",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunion.com.br:2087",
+   "host": "transunion.com.br",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunion.com.br:2096",
+   "host": "transunion.com.br",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunion.com.br:443",
+   "host": "transunion.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunion.com.br:8443",
+   "host": "transunion.com.br",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.26.214",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunion.com.br:2083",
+   "host": "www.transunion.com.br",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunion.com.br:2087",
+   "host": "www.transunion.com.br",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunion.com.br:2096",
+   "host": "www.transunion.com.br",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunion.com.br:443",
+   "host": "www.transunion.com.br",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunion.com.br:8443",
+   "host": "www.transunion.com.br",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.218",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ziponlinefreemium-uat.transunion.com.br:443",
+   "host": "ziponlinefreemium-uat.transunion.com.br",
+   "port": "443",
+   "status_code": 502,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.138",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://ziponlinefreemium.transunion.com.br:443",
+   "host": "ziponlinefreemium.transunion.com.br",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS",
+    "Microsoft ASP.NET"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.157",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

@@ -1,0 +1,755 @@
+{
+ "domain": "velunkkezdodik.hu",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "faultetes.velunkkezdodik.hu",
+  "jatek.velunkkezdodik.hu",
+  "kviz.velunkkezdodik.hu",
+  "mail.jatek.velunkkezdodik.hu",
+  "pinkoktober.velunkkezdodik.hu",
+  "velunkkezdodik.hu",
+  "www.faultetes.velunkkezdodik.hu",
+  "www.jatek.velunkkezdodik.hu",
+  "www.kviz.velunkkezdodik.hu",
+  "www.mail.jatek.velunkkezdodik.hu",
+  "www.pinkoktober.velunkkezdodik.hu",
+  "www.velunkkezdodik.hu"
+ ],
+ "http": [
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:2082",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:2083",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:2087",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:2095",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:2096",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:80",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://faultetes.velunkkezdodik.hu:8888",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "8888",
+   "status_code": 403,
+   "title": "Unauthorized Access",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jatek.velunkkezdodik.hu:2082",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jatek.velunkkezdodik.hu:2083",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jatek.velunkkezdodik.hu:2087",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jatek.velunkkezdodik.hu:2095",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jatek.velunkkezdodik.hu:2096",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://jatek.velunkkezdodik.hu:80",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 200,
+   "title": "J\u00e1t\u00e9k egy z\u00f6ldebb j\u00f6v\u0151\u00e9rt",
+   "webserver": "Apache",
+   "technologies": [
+    "Alpine.js",
+    "Apache HTTP Server",
+    "Google Analytics",
+    "Laravel",
+    "Livewire",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://kviz.velunkkezdodik.hu:2082",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://kviz.velunkkezdodik.hu:2083",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://kviz.velunkkezdodik.hu:2087",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://kviz.velunkkezdodik.hu:2095",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://kviz.velunkkezdodik.hu:2096",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://kviz.velunkkezdodik.hu:80",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.jatek.velunkkezdodik.hu:2082",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.jatek.velunkkezdodik.hu:2083",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.jatek.velunkkezdodik.hu:2087",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.jatek.velunkkezdodik.hu:2095",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.jatek.velunkkezdodik.hu:2096",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.jatek.velunkkezdodik.hu:80",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 200,
+   "title": "J\u00e1t\u00e9k egy z\u00f6ldebb j\u00f6v\u0151\u00e9rt",
+   "webserver": "Apache",
+   "technologies": [
+    "Alpine.js",
+    "Apache HTTP Server",
+    "Google Analytics",
+    "Laravel",
+    "Livewire",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://velunkkezdodik.hu:80",
+   "host": "velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.161.193.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:2082",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:2083",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:2087",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:2095",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:2096",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:80",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.faultetes.velunkkezdodik.hu:8888",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "8888",
+   "status_code": 403,
+   "title": "Unauthorized Access",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.jatek.velunkkezdodik.hu:2082",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.jatek.velunkkezdodik.hu:2083",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.jatek.velunkkezdodik.hu:2087",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.jatek.velunkkezdodik.hu:2095",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.jatek.velunkkezdodik.hu:2096",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.jatek.velunkkezdodik.hu:80",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.kviz.velunkkezdodik.hu:2082",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "2082",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.kviz.velunkkezdodik.hu:2083",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "2083",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.kviz.velunkkezdodik.hu:2087",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "2087",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.kviz.velunkkezdodik.hu:2095",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "2095",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.kviz.velunkkezdodik.hu:2096",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "2096",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.kviz.velunkkezdodik.hu:80",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.velunkkezdodik.hu:80",
+   "host": "www.velunkkezdodik.hu",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://faultetes.velunkkezdodik.hu:443",
+   "host": "faultetes.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vel\u00fcnk kezd\u0151dik! | Henkelnyerem\u00e9ny",
+   "webserver": "Apache",
+   "technologies": [
+    "Alpine.js",
+    "Apache HTTP Server",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://jatek.velunkkezdodik.hu:443",
+   "host": "jatek.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "J\u00e1t\u00e9k egy z\u00f6ldebb j\u00f6v\u0151\u00e9rt",
+   "webserver": "Apache",
+   "technologies": [
+    "Alpine.js",
+    "Apache HTTP Server",
+    "Google Analytics",
+    "Laravel",
+    "Livewire",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://kviz.velunkkezdodik.hu:443",
+   "host": "kviz.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Z\u00f6ld kv\u00edz egy szebb j\u00f6v\u0151\u00e9rt | Henkel",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://mail.jatek.velunkkezdodik.hu:443",
+   "host": "mail.jatek.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "J\u00e1t\u00e9k egy z\u00f6ldebb j\u00f6v\u0151\u00e9rt",
+   "webserver": "Apache",
+   "technologies": [
+    "Alpine.js",
+    "Apache HTTP Server",
+    "Google Analytics",
+    "Laravel",
+    "Livewire",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://velunkkezdodik.hu:443",
+   "host": "velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.161.193.58",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.faultetes.velunkkezdodik.hu:443",
+   "host": "www.faultetes.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vel\u00fcnk kezd\u0151dik! | Henkelnyerem\u00e9ny",
+   "webserver": "Apache",
+   "technologies": [
+    "Alpine.js",
+    "Apache HTTP Server",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "185.51.190.31",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.jatek.velunkkezdodik.hu:443",
+   "host": "www.jatek.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.kviz.velunkkezdodik.hu:443",
+   "host": "www.kviz.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Z\u00f6ld kv\u00edz egy szebb j\u00f6v\u0151\u00e9rt | Henkel",
+   "webserver": "Apache",
+   "technologies": [
+    "Apache HTTP Server",
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "79.139.62.105",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.velunkkezdodik.hu:443",
+   "host": "www.velunkkezdodik.hu",
+   "port": "443",
+   "status_code": 200,
+   "title": "Vel\u00fcnk kezd\u0151dik | Kezd\u0151lap",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS",
+    "Java",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "3.162.125.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

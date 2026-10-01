@@ -1,0 +1,114 @@
+{
+ "domain": "westelm.ae",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 8,
+ "programs": [
+  "hackerone|alshaya"
+ ],
+ "subdomains": [
+  "data.westelm.ae",
+  "links.mail.westelm.ae",
+  "linksa.mail.westelm.ae",
+  "mail.westelm.ae",
+  "westelm.ae",
+  "www.data.westelm.ae",
+  "www.links.mail.westelm.ae",
+  "www.westelm.ae"
+ ],
+ "http": [
+  {
+   "url": "http://data.westelm.ae:80",
+   "host": "data.westelm.ae",
+   "port": "80",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://links.mail.westelm.ae:80",
+   "host": "links.mail.westelm.ae",
+   "port": "80",
+   "status_code": 200,
+   "title": "For subscriber",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "91.199.51.211",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://westelm.ae:80",
+   "host": "westelm.ae",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.westelm.ae:80",
+   "host": "www.westelm.ae",
+   "port": "80",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://data.westelm.ae:443",
+   "host": "data.westelm.ae",
+   "port": "443",
+   "status_code": 400,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN"
+   ],
+   "cdn": true,
+   "ip": "216.239.32.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://westelm.ae:443",
+   "host": "westelm.ae",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.westelm.ae:443",
+   "host": "www.westelm.ae",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "151.101.1.124",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

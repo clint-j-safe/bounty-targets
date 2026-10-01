@@ -1,0 +1,67 @@
+{
+ "domain": "vetschoice.co.za",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|mars"
+ ],
+ "subdomains": [
+  "com.vetschoice.co.za",
+  "com9.vetschoice.co.za",
+  "vetschoice.co.za",
+  "www-usa.vetschoice.co.za",
+  "www-za.vetschoice.co.za",
+  "www.vetschoice.co.za",
+  "wwwu.vetschoice.co.za"
+ ],
+ "http": [
+  {
+   "url": "http://vetschoice.co.za:80",
+   "host": "vetschoice.co.za",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.vetschoice.co.za:80",
+   "host": "www.vetschoice.co.za",
+   "port": "80",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vetschoice.co.za:443",
+   "host": "vetschoice.co.za",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.vetschoice.co.za:443",
+   "host": "www.vetschoice.co.za",
+   "port": "443",
+   "status_code": 302,
+   "title": "302 Found",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "52.20.40.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

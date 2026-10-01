@@ -1,0 +1,1037 @@
+{
+ "domain": "transunionafrica.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 56,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "cmsdev.transunionafrica.com",
+  "cmsdevq.transunionafrica.com",
+  "cmspvw.transunionafrica.com",
+  "cmspvwm.transunionafrica.com",
+  "cmsstage.transunionafrica.com",
+  "cmsstagem.transunionafrica.com",
+  "decision1.transunionafrica.com",
+  "decision1o.transunionafrica.com",
+  "filegateway-stage.transunionafrica.com",
+  "filegateway-stagee.transunionafrica.com",
+  "filetransfer-sftp.transunionafrica.com",
+  "filetransfer-stage.transunionafrica.com",
+  "filetransfer.transunionafrica.com",
+  "filetransfero.transunionafrica.com",
+  "le-test.transunionafrica.com",
+  "newsroom.transunionafrica.com",
+  "newsroomo.transunionafrica.com",
+  "nipashe.transunionafrica.com",
+  "ppp.transunionafrica.com",
+  "secure.transunionafrica.com",
+  "secure10.transunionafrica.com",
+  "secure2.transunionafrica.com",
+  "secure2s.transunionafrica.com",
+  "secure3.transunionafrica.com",
+  "secure3o.transunionafrica.com",
+  "secure4.transunionafrica.com",
+  "secure4q.transunionafrica.com",
+  "secure5.transunionafrica.com",
+  "secure5o.transunionafrica.com",
+  "secure7.transunionafrica.com",
+  "secure7o.transunionafrica.com",
+  "secure8.transunionafrica.com",
+  "secure8g.transunionafrica.com",
+  "secure9.transunionafrica.com",
+  "secure9y.transunionafrica.com",
+  "secureu.transunionafrica.com",
+  "transunionafrica.com",
+  "www.cmsdev.transunionafrica.com",
+  "www.cmspvw.transunionafrica.com",
+  "www.cmsstage.transunionafrica.com",
+  "www.decision1.transunionafrica.com",
+  "www.filegateway-stage.transunionafrica.com",
+  "www.filetransfer-stage.transunionafrica.com",
+  "www.filetransfer.transunionafrica.com",
+  "www.newsroom.transunionafrica.com",
+  "www.secure.transunionafrica.com",
+  "www.secure10.transunionafrica.com",
+  "www.secure2.transunionafrica.com",
+  "www.secure3.transunionafrica.com",
+  "www.secure4.transunionafrica.com",
+  "www.secure5.transunionafrica.com",
+  "www.secure7.transunionafrica.com",
+  "www.secure8.transunionafrica.com",
+  "www.secure9.transunionafrica.com",
+  "www.transunionafrica.com",
+  "wwwc.secure.transunionafrica.com"
+ ],
+ "http": [
+  {
+   "url": "http://cmspvw.transunionafrica.com:2082",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunionafrica.com:2095",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunionafrica.com:80",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunionafrica.com:8080",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunionafrica.com:2082",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunionafrica.com:2095",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunionafrica.com:80",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunionafrica.com:8080",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer-stage.transunionafrica.com:2082",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer-stage.transunionafrica.com:2095",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer-stage.transunionafrica.com:80",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer-stage.transunionafrica.com:8080",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunionafrica.com:2082",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunionafrica.com:2095",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunionafrica.com:80",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://filetransfer.transunionafrica.com:8080",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsroom.transunionafrica.com:80",
+   "host": "newsroom.transunionafrica.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "3.67.147.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:2082",
+   "host": "secure4.transunionafrica.com",
+   "port": "2082",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:2083",
+   "host": "secure4.transunionafrica.com",
+   "port": "2083",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:2087",
+   "host": "secure4.transunionafrica.com",
+   "port": "2087",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:2095",
+   "host": "secure4.transunionafrica.com",
+   "port": "2095",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:2096",
+   "host": "secure4.transunionafrica.com",
+   "port": "2096",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:80",
+   "host": "secure4.transunionafrica.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:8080",
+   "host": "secure4.transunionafrica.com",
+   "port": "8080",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://secure4.transunionafrica.com:8443",
+   "host": "secure4.transunionafrica.com",
+   "port": "8443",
+   "status_code": 400,
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunionafrica.com:2082",
+   "host": "transunionafrica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunionafrica.com:2095",
+   "host": "transunionafrica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunionafrica.com:80",
+   "host": "transunionafrica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://transunionafrica.com:8080",
+   "host": "transunionafrica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunionafrica.com:2082",
+   "host": "www.transunionafrica.com",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunionafrica.com:2095",
+   "host": "www.transunionafrica.com",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunionafrica.com:80",
+   "host": "www.transunionafrica.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.transunionafrica.com:8080",
+   "host": "www.transunionafrica.com",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunionafrica.com:2083",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunionafrica.com:2087",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunionafrica.com:2096",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunionafrica.com:443",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunionafrica.com:8443",
+   "host": "cmspvw.transunionafrica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.34",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunionafrica.com:2083",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunionafrica.com:2087",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunionafrica.com:2096",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunionafrica.com:443",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunionafrica.com:8443",
+   "host": "cmsstage.transunionafrica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.185",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer-stage.transunionafrica.com:2083",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer-stage.transunionafrica.com:2087",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer-stage.transunionafrica.com:2096",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer-stage.transunionafrica.com:443",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer-stage.transunionafrica.com:8443",
+   "host": "filetransfer-stage.transunionafrica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.33.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunionafrica.com:2083",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunionafrica.com:2087",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunionafrica.com:2096",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunionafrica.com:443",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://filetransfer.transunionafrica.com:8443",
+   "host": "filetransfer.transunionafrica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.15",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://newsroom.transunionafrica.com:443",
+   "host": "newsroom.transunionafrica.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Newsroom TransUnion Africa",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap",
+    "HSTS",
+    "Modernizr:441216",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "3.67.147.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://secure4.transunionafrica.com:443",
+   "host": "secure4.transunionafrica.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Index of /",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.222",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunionafrica.com:2083",
+   "host": "transunionafrica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunionafrica.com:2087",
+   "host": "transunionafrica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunionafrica.com:2096",
+   "host": "transunionafrica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunionafrica.com:443",
+   "host": "transunionafrica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://transunionafrica.com:8443",
+   "host": "transunionafrica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.15.156",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunionafrica.com:2083",
+   "host": "www.transunionafrica.com",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunionafrica.com:2087",
+   "host": "www.transunionafrica.com",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunionafrica.com:2096",
+   "host": "www.transunionafrica.com",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunionafrica.com:443",
+   "host": "www.transunionafrica.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.transunionafrica.com:8443",
+   "host": "www.transunionafrica.com",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.65",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

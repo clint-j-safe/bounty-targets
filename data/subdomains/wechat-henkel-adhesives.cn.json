@@ -1,0 +1,186 @@
+{
+ "domain": "wechat-henkel-adhesives.cn",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 12,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "chatbot.wechat-henkel-adhesives.cn",
+  "chatbotdatacon.wechat-henkel-adhesives.cn",
+  "sinan-dev.wechat-henkel-adhesives.cn",
+  "sinan-devk.wechat-henkel-adhesives.cn",
+  "sinan.wechat-henkel-adhesives.cn",
+  "sinanc.wechat-henkel-adhesives.cn",
+  "wechat-henkel-adhesives.cn",
+  "www.chatbot.wechat-henkel-adhesives.cn",
+  "www.chatbotdatacon.wechat-henkel-adhesives.cn",
+  "www.sinan-dev.wechat-henkel-adhesives.cn",
+  "www.sinan.wechat-henkel-adhesives.cn",
+  "www.wechat-henkel-adhesives.cn"
+ ],
+ "http": [
+  {
+   "url": "http://sinan-dev.wechat-henkel-adhesives.cn:80",
+   "host": "sinan-dev.wechat-henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "106.15.237.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://sinan.wechat-henkel-adhesives.cn:80",
+   "host": "sinan.wechat-henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "139.224.31.108",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://wechat-henkel-adhesives.cn:80",
+   "host": "wechat-henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "47.103.50.197",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.sinan-dev.wechat-henkel-adhesives.cn:80",
+   "host": "www.sinan-dev.wechat-henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "139.224.83.7",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.sinan.wechat-henkel-adhesives.cn:80",
+   "host": "www.sinan.wechat-henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 308,
+   "title": "308 Permanent Redirect",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "106.14.99.119",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.wechat-henkel-adhesives.cn:80",
+   "host": "www.wechat-henkel-adhesives.cn",
+   "port": "80",
+   "status_code": 200,
+   "title": "\u6c49\u9ad8\u7c98\u5408(\u80f6)\u5242_\u5bfc\u7535(\u70ed)\u80f6_pur\u5c01\u8fb9\u80f6_\u70ed\u7194\u80f6_\u6c49\u9ad8\u4e2d\u56fd - henkel\u6c49\u9ad8\u7c98\u5408\u5242\u5b98\u7f51",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "47.103.50.197",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://sinan-dev.wechat-henkel-adhesives.cn:443",
+   "host": "sinan-dev.wechat-henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u4e2d\u53f0\u8fd0\u8425\u5e73\u53f0",
+   "webserver": "",
+   "technologies": [
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "106.15.237.225",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://sinan.wechat-henkel-adhesives.cn:443",
+   "host": "sinan.wechat-henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u4e2d\u53f0\u8fd0\u8425\u5e73\u53f0",
+   "webserver": "",
+   "technologies": [
+    "OneTrust"
+   ],
+   "cdn": false,
+   "ip": "139.224.31.108",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://wechat-henkel-adhesives.cn:443",
+   "host": "wechat-henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "47.103.50.197",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.sinan-dev.wechat-henkel-adhesives.cn:443",
+   "host": "www.sinan-dev.wechat-henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "139.224.83.7",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.sinan.wechat-henkel-adhesives.cn:443",
+   "host": "www.sinan.wechat-henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "",
+   "technologies": [],
+   "cdn": false,
+   "ip": "106.14.99.119",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.wechat-henkel-adhesives.cn:443",
+   "host": "www.wechat-henkel-adhesives.cn",
+   "port": "443",
+   "status_code": 200,
+   "title": "\u6c49\u9ad8\u7c98\u5408(\u80f6)\u5242_\u5bfc\u7535(\u70ed)\u80f6_pur\u5c01\u8fb9\u80f6_\u70ed\u7194\u80f6_\u6c49\u9ad8\u4e2d\u56fd - henkel\u6c49\u9ad8\u7c98\u5408\u5242\u5b98\u7f51",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx",
+    "Node.js",
+    "Nuxt.js",
+    "Vue.js"
+   ],
+   "cdn": false,
+   "ip": "47.103.50.197",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

@@ -1,0 +1,451 @@
+{
+ "domain": "vineapps.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 89,
+ "programs": [
+  "hackerone|equifax"
+ ],
+ "subdomains": [
+  "admin.testcluster.vineapps.com",
+  "admin5.testcluster.vineapps.com",
+  "dashboard.testcluster.vineapps.com",
+  "dashboard.vineapps.com",
+  "dashboard1.testcluster.vineapps.com",
+  "edge-dev.vineapps.com",
+  "edge-prep.vineapps.com",
+  "edge-prod.vineapps.com",
+  "edge-qa-gc.vineapps.com",
+  "edge-qa.vineapps.com",
+  "edge-qaa.vineapps.com",
+  "edge.testcluster.vineapps.com",
+  "edge.vineapps.com",
+  "edge9.testcluster.vineapps.com",
+  "eds-prod.vineapps.com",
+  "event-display-system.vineapps.com",
+  "event-display-system3.vineapps.com",
+  "event-display-system4.vineapps.com",
+  "events.vineapps.com",
+  "eventsk.vineapps.com",
+  "iex-dev.vineapps.com",
+  "iex-qa.vineapps.com",
+  "insight.vineapps.com",
+  "kanto-dev.vineapps.com",
+  "kanto-dev1.vineapps.com",
+  "map.vineapps.com",
+  "mape.vineapps.com",
+  "new.vineapps.com",
+  "newg.vineapps.com",
+  "qa.vineapps.com",
+  "testcluster.vineapps.com",
+  "vineapps.com",
+  "vinelink-dev.vineapps.com",
+  "vinelink-mobile-dev.vineapps.com",
+  "vinelink-mobile-prep.vineapps.com",
+  "vinelink-mobile-prepa.vineapps.com",
+  "vinelink-mobile-qa.vineapps.com",
+  "vinelink-mobile-qak.vineapps.com",
+  "vinelink-mobile.vineapps.com",
+  "vinelink-mobilec.vineapps.com",
+  "vinelink-prep.vineapps.com",
+  "vinelink-prepw.vineapps.com",
+  "vinelink-qa.vineapps.com",
+  "vinelink.qa.vineapps.com",
+  "vinelink.testcluster.vineapps.com",
+  "vinelink.vineapps.com",
+  "vinelink2-prep.vineapps.com",
+  "vinewatch-dev.vineapps.com",
+  "vinewatch-prep.vineapps.com",
+  "vinewatch-qa.vineapps.com",
+  "vinewatch.testcluster.vineapps.com",
+  "vinewatch.vineapps.com",
+  "vinewatch1.testcluster.vineapps.com",
+  "vinewatcho.vineapps.com",
+  "vnr-dev.vineapps.com",
+  "vnr-prep.vineapps.com",
+  "vnr-qa.vineapps.com",
+  "vnr-qa5.vineapps.com",
+  "vnr.vineapps.com",
+  "vnri.vineapps.com",
+  "www.edge-dev.vineapps.com",
+  "www.edge-prep.vineapps.com",
+  "www.edge-prod.vineapps.com",
+  "www.edge-qa.vineapps.com",
+  "www.edge.vineapps.com",
+  "www.eds-prod.vineapps.com",
+  "www.events.vineapps.com",
+  "www.iex-dev.vineapps.com",
+  "www.iex-qa.vineapps.com",
+  "www.insight.vineapps.com",
+  "www.map.vineapps.com",
+  "www.new.vineapps.com",
+  "www.vineapps.com",
+  "www.vinelink-dev.vineapps.com",
+  "www.vinelink-mobile-dev.vineapps.com",
+  "www.vinelink-mobile-prep.vineapps.com",
+  "www.vinelink-mobile-qa.vineapps.com",
+  "www.vinelink-mobile.vineapps.com",
+  "www.vinelink-prep.vineapps.com",
+  "www.vinelink-qa.vineapps.com",
+  "www.vinelink.vineapps.com",
+  "www.vinewatch-dev.vineapps.com",
+  "www.vinewatch-prep.vineapps.com",
+  "www.vinewatch-qa.vineapps.com",
+  "www.vinewatch.vineapps.com",
+  "www.vnr-dev.vineapps.com",
+  "www.vnr-prep.vineapps.com",
+  "www.vnr-qa.vineapps.com",
+  "www.vnr.vineapps.com"
+ ],
+ "http": [
+  {
+   "url": "http://insight.vineapps.com:80",
+   "host": "insight.vineapps.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "BigIP",
+   "technologies": [
+    "F5 BigIP"
+   ],
+   "cdn": false,
+   "ip": "170.75.210.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://new.vineapps.com:80",
+   "host": "new.vineapps.com",
+   "port": "80",
+   "status_code": 302,
+   "title": "",
+   "webserver": "",
+   "technologies": [],
+   "cdn": true,
+   "ip": "35.207.24.13",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://edge-dev.vineapps.com:443",
+   "host": "edge-dev.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "56.136.15.142",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://edge-prep.vineapps.com:443",
+   "host": "edge-prep.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "15.205.81.104",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://edge-prod.vineapps.com:443",
+   "host": "edge-prod.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "40.39.85.1",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://edge-qa.vineapps.com:443",
+   "host": "edge-qa.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "56.137.69.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://edge.vineapps.com:443",
+   "host": "edge.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.30.193.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://map.vineapps.com:443",
+   "host": "map.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINE Map",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap:5.3.7",
+    "Cloudflare",
+    "HSTS",
+    "Popper:2.11.8",
+    "cdnjs",
+    "jQuery CDN",
+    "jQuery:3.7.1",
+    "jsDelivr"
+   ],
+   "cdn": true,
+   "ip": "56.137.94.109",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://new.vineapps.com:443",
+   "host": "new.vineapps.com",
+   "port": "443",
+   "status_code": 302,
+   "title": "",
+   "webserver": "nginx",
+   "technologies": [
+    "Google Cloud",
+    "Google Cloud CDN",
+    "Java",
+    "Nginx"
+   ],
+   "cdn": true,
+   "ip": "35.207.24.13",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-dev.vineapps.com:443",
+   "host": "vinelink-dev.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "40.38.38.115",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-mobile-dev.vineapps.com:443",
+   "host": "vinelink-mobile-dev.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "96.127.56.55",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-mobile-prep.vineapps.com:443",
+   "host": "vinelink-mobile-prep.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "56.136.40.27",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-mobile-qa.vineapps.com:443",
+   "host": "vinelink-mobile-qa.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "15.205.117.126",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-mobile.vineapps.com:443",
+   "host": "vinelink-mobile.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.30.193.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-prep.vineapps.com:443",
+   "host": "vinelink-prep.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "3.32.226.21",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink-qa.vineapps.com:443",
+   "host": "vinelink-qa.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "reCAPTCHA"
+   ],
+   "cdn": true,
+   "ip": "15.200.72.191",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinelink.vineapps.com:443",
+   "host": "vinelink.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "VINELink",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.30.193.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinewatch-dev.vineapps.com:443",
+   "host": "vinewatch-dev.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS",
+    "Tableau"
+   ],
+   "cdn": true,
+   "ip": "56.136.72.66",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinewatch-prep.vineapps.com:443",
+   "host": "vinewatch-prep.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "3.32.197.24",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinewatch-qa.vineapps.com:443",
+   "host": "vinewatch-qa.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.222.113.210",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vinewatch.vineapps.com:443",
+   "host": "vinewatch.vineapps.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [
+    "Envoy",
+    "Google Tag Manager",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "40.39.85.1",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://vnr.vineapps.com:443",
+   "host": "vnr.vineapps.com",
+   "port": "443",
+   "status_code": 503,
+   "title": "",
+   "webserver": "istio-envoy",
+   "technologies": [],
+   "cdn": true,
+   "ip": "40.39.85.1",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

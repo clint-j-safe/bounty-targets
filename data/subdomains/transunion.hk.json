@@ -1,0 +1,2676 @@
+{
+ "domain": "transunion.hk",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 183,
+ "programs": [
+  "hackerone|transunion"
+ ],
+ "subdomains": [
+  "apacvpn.transunion.hk",
+  "api-uat.transunion.hk",
+  "api-uate.transunion.hk",
+  "api.transunion.hk",
+  "apiuat.transunion.hk",
+  "apiuatq.transunion.hk",
+  "autodiscover.transunion.hk",
+  "autodiscoveri.transunion.hk",
+  "batchh2h-uat.transunion.hk",
+  "batchh2h-uatm.transunion.hk",
+  "batchh2h.transunion.hk",
+  "batchh2h1.transunion.hk",
+  "c3app.transunion.hk",
+  "c3app5.transunion.hk",
+  "c3uat.transunion.hk",
+  "cfa.transunion.hk",
+  "chgpwdatagateway.transunion.hk",
+  "cmsdev.transunion.hk",
+  "cmsdeve.transunion.hk",
+  "cmspvw.transunion.hk",
+  "cmspvwga.transunion.hk",
+  "cmspvwi.transunion.hk",
+  "cmsstage.transunion.hk",
+  "cmsstage5.transunion.hk",
+  "creditreport.transunion.hk",
+  "creditreportk.transunion.hk",
+  "creditreportuat.transunion.hk",
+  "creditreportuato.transunion.hk",
+  "creditview.transunion.hk",
+  "creditviewf.transunion.hk",
+  "creditviewuat.transunion.hk",
+  "dataconnect-craoc-mem.transunion.hk",
+  "dataconnect-craoc-mem9.transunion.hk",
+  "dataconnect-craoc.transunion.hk",
+  "dataconnect-mem.transunion.hk",
+  "dataconnect.transunion.hk",
+  "datagateway.transunion.hk",
+  "datagatewayuat.transunion.hk",
+  "dcuat.transunion.hk",
+  "dcuat9.transunion.hk",
+  "de.transunion.hk",
+  "dec.transunion.hk",
+  "decisionedge.transunion.hk",
+  "decisionedgeq.transunion.hk",
+  "deweb.transunion.hk",
+  "deweba.transunion.hk",
+  "dv.transunion.hk",
+  "dvv.transunion.hk",
+  "ekycuat.transunion.hk",
+  "fl.transunion.hk",
+  "ftpsecure.transunion.hk",
+  "ftpsecurei.transunion.hk",
+  "gba.transunion.hk",
+  "gbactf.transunion.hk",
+  "gbactfa.transunion.hk",
+  "gbauat.transunion.hk",
+  "hkdc2vpn.transunion.hk",
+  "hkdc2vpng.transunion.hk",
+  "hko3w9mx01.transunion.hk",
+  "hko3w9mx01ad.transunion.hk",
+  "hkvpn-lb.transunion.hk",
+  "hkvpn-lbai.transunion.hk",
+  "hkvpn.transunion.hk",
+  "hkvpnai.transunion.hk",
+  "hotspot.transunion.hk",
+  "icrs-fa.transunion.hk",
+  "icrs-uat.transunion.hk",
+  "icrs-uat5.transunion.hk",
+  "icrs.transunion.hk",
+  "icrsfa-uat.transunion.hk",
+  "mail.transunion.hk",
+  "mailin.transunion.hk",
+  "mailin1.transunion.hk",
+  "master.fl.transunion.hk",
+  "mcraencrypt-cptru-test.transunion.hk",
+  "miid.transunion.hk",
+  "miiduat.transunion.hk",
+  "mir.transunion.hk",
+  "mtls-decisionedge.transunion.hk",
+  "mtls-decisionedgeuat.transunion.hk",
+  "newsroom.transunion.hk",
+  "partner.transunion.hk",
+  "partner5.transunion.hk",
+  "partnerauth.transunion.hk",
+  "partnerauthuat.transunion.hk",
+  "partneruat.transunion.hk",
+  "personalsolution.transunion.hk",
+  "personalsolutiona.transunion.hk",
+  "promo.transunion.hk",
+  "securemail.transunion.hk",
+  "site1.fl.transunion.hk",
+  "smtp1.transunion.hk",
+  "smtp2.transunion.hk",
+  "transunion.hk",
+  "tuidvproxy.transunion.hk",
+  "tuidvproxydev.transunion.hk",
+  "tuidvproxyuat.transunion.hk",
+  "tuidvproxyuata.transunion.hk",
+  "tuintdr.transunion.hk",
+  "tuocrsuat1.transunion.hk",
+  "tuocrsuat2.transunion.hk",
+  "ua.transunion.hk",
+  "uat-ftpsecure.transunion.hk",
+  "uauat.transunion.hk",
+  "verification.transunion.hk",
+  "webmail.transunion.hk",
+  "www.apacvpn.transunion.hk",
+  "www.api.transunion.hk",
+  "www.apiuat.transunion.hk",
+  "www.autodiscover.transunion.hk",
+  "www.batchh2h-uat.transunion.hk",
+  "www.batchh2h.transunion.hk",
+  "www.c3app.transunion.hk",
+  "www.cfa.transunion.hk",
+  "www.cmsdev.transunion.hk",
+  "www.cmspvw.transunion.hk",
+  "www.cmsstage.transunion.hk",
+  "www.creditreport.transunion.hk",
+  "www.creditreportuat.transunion.hk",
+  "www.creditview.transunion.hk",
+  "www.creditviewuat.transunion.hk",
+  "www.dataconnect-craoc-mem.transunion.hk",
+  "www.dataconnect-craoc.transunion.hk",
+  "www.dataconnect-mem.transunion.hk",
+  "www.dataconnect.transunion.hk",
+  "www.datagateway.transunion.hk",
+  "www.datagatewayuat.transunion.hk",
+  "www.dcuat.transunion.hk",
+  "www.decisionedge.transunion.hk",
+  "www.deweb.transunion.hk",
+  "www.ekycuat.transunion.hk",
+  "www.ftpsecure.transunion.hk",
+  "www.gbactf.transunion.hk",
+  "www.gbauat.transunion.hk",
+  "www.hkdc2vpn.transunion.hk",
+  "www.hko3w9mx01.transunion.hk",
+  "www.hkvpn-lb.transunion.hk",
+  "www.hkvpn.transunion.hk",
+  "www.hotspot.transunion.hk",
+  "www.icrs-fa.transunion.hk",
+  "www.icrs-uat.transunion.hk",
+  "www.icrs.transunion.hk",
+  "www.icrsfa-uat.transunion.hk",
+  "www.mail.transunion.hk",
+  "www.mailin.transunion.hk",
+  "www.mailin1.transunion.hk",
+  "www.master.fl.transunion.hk",
+  "www.miid.transunion.hk",
+  "www.miiduat.transunion.hk",
+  "www.mtls-decisionedgeuat.transunion.hk",
+  "www.newsroom.transunion.hk",
+  "www.partner.transunion.hk",
+  "www.partnerauth.transunion.hk",
+  "www.partnerauthuat.transunion.hk",
+  "www.partneruat.transunion.hk",
+  "www.personalsolution.transunion.hk",
+  "www.securemail.transunion.hk",
+  "www.site1.fl.transunion.hk",
+  "www.smtp1.transunion.hk",
+  "www.smtp2.transunion.hk",
+  "www.transunion.hk",
+  "www.tuidvproxy.transunion.hk",
+  "www.tuidvproxydev.transunion.hk",
+  "www.tuidvproxyuat.transunion.hk",
+  "www.tuocrsuat2.transunion.hk",
+  "www.ua.transunion.hk",
+  "www.uat-ftpsecure.transunion.hk",
+  "www.uauat.transunion.hk",
+  "www.verification.transunion.hk",
+  "www.webmail.transunion.hk",
+  "www.wwwuat.transunion.hk",
+  "www5.personalsolution.transunion.hk",
+  "www9.cfa.transunion.hk",
+  "wwwa.creditviewuat.transunion.hk",
+  "wwwc.batchh2h.transunion.hk",
+  "wwwg.creditview.transunion.hk",
+  "wwwg.partneruat.transunion.hk",
+  "wwwg.securemail.transunion.hk",
+  "wwwg.tuidvproxy.transunion.hk",
+  "wwwi.datagateway.transunion.hk",
+  "wwwk.batchh2h-uat.transunion.hk",
+  "wwwm.tuidvproxyuat.transunion.hk",
+  "wwwuat.transunion.hk"
+ ],
+ "http": [
+  {
+   "url": "http://chgpwdatagateway.transunion.hk:2082",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://chgpwdatagateway.transunion.hk:2095",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://chgpwdatagateway.transunion.hk:80",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://chgpwdatagateway.transunion.hk:8080",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.hk:2082",
+   "host": "cmspvw.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.hk:2095",
+   "host": "cmspvw.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.hk:80",
+   "host": "cmspvw.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmspvw.transunion.hk:8080",
+   "host": "cmspvw.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.hk:2082",
+   "host": "cmsstage.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.hk:2095",
+   "host": "cmsstage.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.hk:80",
+   "host": "cmsstage.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cmsstage.transunion.hk:8080",
+   "host": "cmsstage.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditview.transunion.hk:2082",
+   "host": "creditview.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditview.transunion.hk:2095",
+   "host": "creditview.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditview.transunion.hk:80",
+   "host": "creditview.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditview.transunion.hk:8080",
+   "host": "creditview.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditviewuat.transunion.hk:2082",
+   "host": "creditviewuat.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditviewuat.transunion.hk:2095",
+   "host": "creditviewuat.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditviewuat.transunion.hk:80",
+   "host": "creditviewuat.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://creditviewuat.transunion.hk:8080",
+   "host": "creditviewuat.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc-mem.transunion.hk:2082",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc-mem.transunion.hk:2095",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc-mem.transunion.hk:80",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc-mem.transunion.hk:8080",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc.transunion.hk:2082",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc.transunion.hk:2095",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc.transunion.hk:80",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-craoc.transunion.hk:8080",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-mem.transunion.hk:2082",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-mem.transunion.hk:2095",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-mem.transunion.hk:80",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect-mem.transunion.hk:8080",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect.transunion.hk:2082",
+   "host": "dataconnect.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect.transunion.hk:2095",
+   "host": "dataconnect.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect.transunion.hk:80",
+   "host": "dataconnect.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://dataconnect.transunion.hk:8080",
+   "host": "dataconnect.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagateway.transunion.hk:2082",
+   "host": "datagateway.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagateway.transunion.hk:2095",
+   "host": "datagateway.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagateway.transunion.hk:80",
+   "host": "datagateway.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagateway.transunion.hk:8080",
+   "host": "datagateway.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagatewayuat.transunion.hk:2082",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagatewayuat.transunion.hk:2095",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagatewayuat.transunion.hk:80",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://datagatewayuat.transunion.hk:8080",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://decisionedge.transunion.hk:2082",
+   "host": "decisionedge.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://decisionedge.transunion.hk:2095",
+   "host": "decisionedge.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://decisionedge.transunion.hk:80",
+   "host": "decisionedge.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://decisionedge.transunion.hk:8080",
+   "host": "decisionedge.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deweb.transunion.hk:2082",
+   "host": "deweb.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deweb.transunion.hk:2095",
+   "host": "deweb.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deweb.transunion.hk:80",
+   "host": "deweb.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://deweb.transunion.hk:8080",
+   "host": "deweb.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://gbauat.transunion.hk:2082",
+   "host": "gbauat.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://gbauat.transunion.hk:2095",
+   "host": "gbauat.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://gbauat.transunion.hk:80",
+   "host": "gbauat.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://gbauat.transunion.hk:8080",
+   "host": "gbauat.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mtls-decisionedgeuat.transunion.hk:2082",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mtls-decisionedgeuat.transunion.hk:2095",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mtls-decisionedgeuat.transunion.hk:80",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mtls-decisionedgeuat.transunion.hk:8080",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://newsroom.transunion.hk:80",
+   "host": "newsroom.transunion.hk",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "openresty",
+   "technologies": [
+    "Nginx",
+    "OpenResty"
+   ],
+   "cdn": true,
+   "ip": "3.67.147.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://partneruat.transunion.hk:2082",
+   "host": "partneruat.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://partneruat.transunion.hk:2095",
+   "host": "partneruat.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://partneruat.transunion.hk:80",
+   "host": "partneruat.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://partneruat.transunion.hk:8080",
+   "host": "partneruat.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://personalsolution.transunion.hk:2082",
+   "host": "personalsolution.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://personalsolution.transunion.hk:2095",
+   "host": "personalsolution.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://personalsolution.transunion.hk:80",
+   "host": "personalsolution.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://personalsolution.transunion.hk:8080",
+   "host": "personalsolution.transunion.hk",
+   "port": "8080",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://tuocrsuat1.transunion.hk:2082",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "2082",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://tuocrsuat1.transunion.hk:2095",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "2095",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://tuocrsuat1.transunion.hk:80",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "80",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://chgpwdatagateway.transunion.hk:2083",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://chgpwdatagateway.transunion.hk:2087",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://chgpwdatagateway.transunion.hk:2096",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://chgpwdatagateway.transunion.hk:443",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://chgpwdatagateway.transunion.hk:8443",
+   "host": "chgpwdatagateway.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.231",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.hk:2083",
+   "host": "cmspvw.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.hk:2087",
+   "host": "cmspvw.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.hk:2096",
+   "host": "cmspvw.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.hk:443",
+   "host": "cmspvw.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmspvw.transunion.hk:8443",
+   "host": "cmspvw.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.hk:2083",
+   "host": "cmsstage.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.hk:2087",
+   "host": "cmsstage.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.hk:2096",
+   "host": "cmsstage.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.hk:443",
+   "host": "cmsstage.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cmsstage.transunion.hk:8443",
+   "host": "cmsstage.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "Attention Required! | Cloudflare",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.229",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditview.transunion.hk:2083",
+   "host": "creditview.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditview.transunion.hk:2087",
+   "host": "creditview.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditview.transunion.hk:2096",
+   "host": "creditview.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditview.transunion.hk:443",
+   "host": "creditview.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditview.transunion.hk:8443",
+   "host": "creditview.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.144.153",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditviewuat.transunion.hk:2083",
+   "host": "creditviewuat.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditviewuat.transunion.hk:2087",
+   "host": "creditviewuat.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditviewuat.transunion.hk:2096",
+   "host": "creditviewuat.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditviewuat.transunion.hk:443",
+   "host": "creditviewuat.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://creditviewuat.transunion.hk:8443",
+   "host": "creditviewuat.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.38.170",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc-mem.transunion.hk:2083",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc-mem.transunion.hk:2087",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc-mem.transunion.hk:2096",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc-mem.transunion.hk:443",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc-mem.transunion.hk:8443",
+   "host": "dataconnect-craoc-mem.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.148.86",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc.transunion.hk:2083",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc.transunion.hk:2087",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc.transunion.hk:2096",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc.transunion.hk:443",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-craoc.transunion.hk:8443",
+   "host": "dataconnect-craoc.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.40.203",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-mem.transunion.hk:2083",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-mem.transunion.hk:2087",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-mem.transunion.hk:2096",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-mem.transunion.hk:443",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect-mem.transunion.hk:8443",
+   "host": "dataconnect-mem.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.38",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect.transunion.hk:2083",
+   "host": "dataconnect.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect.transunion.hk:2087",
+   "host": "dataconnect.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect.transunion.hk:2096",
+   "host": "dataconnect.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect.transunion.hk:443",
+   "host": "dataconnect.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dataconnect.transunion.hk:8443",
+   "host": "dataconnect.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.83",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagateway.transunion.hk:2083",
+   "host": "datagateway.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagateway.transunion.hk:2087",
+   "host": "datagateway.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagateway.transunion.hk:2096",
+   "host": "datagateway.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagateway.transunion.hk:443",
+   "host": "datagateway.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagateway.transunion.hk:8443",
+   "host": "datagateway.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.39.107",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagatewayuat.transunion.hk:2083",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagatewayuat.transunion.hk:2087",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagatewayuat.transunion.hk:2096",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagatewayuat.transunion.hk:443",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://datagatewayuat.transunion.hk:8443",
+   "host": "datagatewayuat.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.149.106",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://dcuat.transunion.hk:9443",
+   "host": "dcuat.transunion.hk",
+   "port": "9443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.65.216.27",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://decisionedge.transunion.hk:2083",
+   "host": "decisionedge.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://decisionedge.transunion.hk:2087",
+   "host": "decisionedge.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://decisionedge.transunion.hk:2096",
+   "host": "decisionedge.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://decisionedge.transunion.hk:443",
+   "host": "decisionedge.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://decisionedge.transunion.hk:8443",
+   "host": "decisionedge.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.36.97",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deweb.transunion.hk:2083",
+   "host": "deweb.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deweb.transunion.hk:2087",
+   "host": "deweb.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deweb.transunion.hk:2096",
+   "host": "deweb.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deweb.transunion.hk:443",
+   "host": "deweb.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://deweb.transunion.hk:8443",
+   "host": "deweb.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.155.5",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://gbauat.transunion.hk:2083",
+   "host": "gbauat.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://gbauat.transunion.hk:2087",
+   "host": "gbauat.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://gbauat.transunion.hk:2096",
+   "host": "gbauat.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://gbauat.transunion.hk:443",
+   "host": "gbauat.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://gbauat.transunion.hk:8443",
+   "host": "gbauat.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.41.200",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://hkdc2vpn.transunion.hk:443",
+   "host": "hkdc2vpn.transunion.hk",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "210.57.6.17",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://hkvpn-lb.transunion.hk:443",
+   "host": "hkvpn-lb.transunion.hk",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "103.134.150.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://hkvpn.transunion.hk:443",
+   "host": "hkvpn.transunion.hk",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "103.134.150.9",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://mtls-decisionedgeuat.transunion.hk:2083",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://mtls-decisionedgeuat.transunion.hk:2087",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://mtls-decisionedgeuat.transunion.hk:2096",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://mtls-decisionedgeuat.transunion.hk:8443",
+   "host": "mtls-decisionedgeuat.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare"
+   ],
+   "cdn": true,
+   "ip": "104.18.35.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://newsroom.transunion.hk:443",
+   "host": "newsroom.transunion.hk",
+   "port": "443",
+   "status_code": 200,
+   "title": "Newsroom TransUnion Hong Kong",
+   "webserver": "",
+   "technologies": [
+    "Bootstrap",
+    "HSTS",
+    "Modernizr:441216",
+    "jQuery"
+   ],
+   "cdn": true,
+   "ip": "3.67.147.171",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://partneruat.transunion.hk:2083",
+   "host": "partneruat.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://partneruat.transunion.hk:2087",
+   "host": "partneruat.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://partneruat.transunion.hk:2096",
+   "host": "partneruat.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://partneruat.transunion.hk:443",
+   "host": "partneruat.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://partneruat.transunion.hk:8443",
+   "host": "partneruat.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "104.18.42.160",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://personalsolution.transunion.hk:2083",
+   "host": "personalsolution.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://personalsolution.transunion.hk:2087",
+   "host": "personalsolution.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://personalsolution.transunion.hk:2096",
+   "host": "personalsolution.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://personalsolution.transunion.hk:443",
+   "host": "personalsolution.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://personalsolution.transunion.hk:8443",
+   "host": "personalsolution.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "403 Forbidden",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.152.19",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tuocrsuat1.transunion.hk:2083",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "2083",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tuocrsuat1.transunion.hk:2087",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "2087",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tuocrsuat1.transunion.hk:2096",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "2096",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tuocrsuat1.transunion.hk:443",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tuocrsuat1.transunion.hk:8443",
+   "host": "tuocrsuat1.transunion.hk",
+   "port": "8443",
+   "status_code": 403,
+   "title": "TransUnion \u74b0\u806f\u8cc7\u8a0a\u6709\u9650\u516c\u53f8",
+   "webserver": "cloudflare",
+   "technologies": [
+    "Cloudflare",
+    "Cloudflare Bot Management"
+   ],
+   "cdn": true,
+   "ip": "172.64.146.205",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

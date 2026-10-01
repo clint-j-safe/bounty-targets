@@ -1,0 +1,583 @@
+{
+ "domain": "tucasaclub.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 26,
+ "programs": [
+  "hackerone|henkel_vdp"
+ ],
+ "subdomains": [
+  "api.tucasaclub.com",
+  "cdn.email.tucasaclub.com",
+  "data.email.tucasaclub.com",
+  "go.tucasaclub.com",
+  "mail.testaclub.tucasaclub.com",
+  "mail.tucasaclub.com",
+  "member-es.tucasaclub.com",
+  "news.tucasaclub.com",
+  "promociones.tucasaclub.com",
+  "tangit.tucasaclub.com",
+  "testaclub.tucasaclub.com",
+  "token.tucasaclub.com",
+  "tucasaclub.com",
+  "webmail.tucasaclub.com",
+  "www.api.tucasaclub.com",
+  "www.data.email.tucasaclub.com",
+  "www.go.tucasaclub.com",
+  "www.mail.testaclub.tucasaclub.com",
+  "www.member-es.tucasaclub.com",
+  "www.news.tucasaclub.com",
+  "www.promociones.tucasaclub.com",
+  "www.tangit.tucasaclub.com",
+  "www.testaclub.tucasaclub.com",
+  "www.token.tucasaclub.com",
+  "www.tucasaclub.com",
+  "www.webmail.tucasaclub.com"
+ ],
+ "http": [
+  {
+   "url": "http://api.tucasaclub.com:80",
+   "host": "api.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://cdn.email.tucasaclub.com:80",
+   "host": "cdn.email.tucasaclub.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.89",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://data.email.tucasaclub.com:80",
+   "host": "data.email.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "jag",
+   "technologies": [],
+   "cdn": false,
+   "ip": "63.140.36.67",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://go.tucasaclub.com:80",
+   "host": "go.tucasaclub.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.testaclub.tucasaclub.com:80",
+   "host": "mail.testaclub.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "91.134.186.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://mail.testaclub.tucasaclub.com:8888",
+   "host": "mail.testaclub.tucasaclub.com",
+   "port": "8888",
+   "status_code": 403,
+   "title": "Unauthorized Access",
+   "webserver": "",
+   "technologies": [
+    "reCAPTCHA"
+   ],
+   "cdn": false,
+   "ip": "91.134.186.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://member-es.tucasaclub.com:80",
+   "host": "member-es.tucasaclub.com",
+   "port": "80",
+   "status_code": 403,
+   "title": "ERROR: The request could not be satisfied",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.20.59",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://promociones.tucasaclub.com:80",
+   "host": "promociones.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.232",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://tangit.tucasaclub.com:80",
+   "host": "tangit.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.20.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://testaclub.tucasaclub.com:80",
+   "host": "testaclub.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://token.tucasaclub.com:80",
+   "host": "token.tucasaclub.com",
+   "port": "80",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://tucasaclub.com:80",
+   "host": "tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://webmail.tucasaclub.com:80",
+   "host": "webmail.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.232",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.mail.testaclub.tucasaclub.com:80",
+   "host": "www.mail.testaclub.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "91.134.186.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.mail.testaclub.tucasaclub.com:8888",
+   "host": "www.mail.testaclub.tucasaclub.com",
+   "port": "8888",
+   "status_code": 403,
+   "title": "Unauthorized Access",
+   "webserver": "",
+   "technologies": [
+    "reCAPTCHA"
+   ],
+   "cdn": false,
+   "ip": "91.134.186.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.promociones.tucasaclub.com:80",
+   "host": "www.promociones.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.232",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.tangit.tucasaclub.com:80",
+   "host": "www.tangit.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.20.114",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.testaclub.tucasaclub.com:80",
+   "host": "www.testaclub.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.tucasaclub.com:80",
+   "host": "www.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.100",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "http://www.webmail.tucasaclub.com:80",
+   "host": "www.webmail.tucasaclub.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.232",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://api.tucasaclub.com:443",
+   "host": "api.tucasaclub.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.74",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://cdn.email.tucasaclub.com:443",
+   "host": "cdn.email.tucasaclub.com",
+   "port": "443",
+   "status_code": 403,
+   "title": "",
+   "webserver": "AmazonS3",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon S3",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.85.132.89",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://data.email.tucasaclub.com:443",
+   "host": "data.email.tucasaclub.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "",
+   "webserver": "jag",
+   "technologies": [
+    "HSTS"
+   ],
+   "cdn": false,
+   "ip": "63.140.36.67",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://go.tucasaclub.com:443",
+   "host": "go.tucasaclub.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.150",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://mail.testaclub.tucasaclub.com:443",
+   "host": "mail.testaclub.tucasaclub.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "91.134.186.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://member-es.tucasaclub.com:443",
+   "host": "member-es.tucasaclub.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "",
+   "webserver": "",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services"
+   ],
+   "cdn": true,
+   "ip": "52.84.20.59",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://promociones.tucasaclub.com:443",
+   "host": "promociones.tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "PHP",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.232",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tangit.tucasaclub.com:443",
+   "host": "tangit.tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.20.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://testaclub.tucasaclub.com:443",
+   "host": "testaclub.tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://token.tucasaclub.com:443",
+   "host": "token.tucasaclub.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "Page not found",
+   "webserver": "",
+   "technologies": [
+    "Azure",
+    "Azure Front Door"
+   ],
+   "cdn": true,
+   "ip": "150.171.109.151",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://tucasaclub.com:443",
+   "host": "tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.mail.testaclub.tucasaclub.com:443",
+   "host": "www.mail.testaclub.tucasaclub.com",
+   "port": "443",
+   "status_code": 404,
+   "title": "404 Not Found",
+   "webserver": "nginx",
+   "technologies": [
+    "Nginx"
+   ],
+   "cdn": false,
+   "ip": "91.134.186.41",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.promociones.tucasaclub.com:443",
+   "host": "www.promociones.tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "Document Moved",
+   "webserver": "Microsoft-IIS/10.0",
+   "technologies": [
+    "IIS:10.0",
+    "Windows Server"
+   ],
+   "cdn": false,
+   "ip": "82.223.49.232",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.tangit.tucasaclub.com:443",
+   "host": "www.tangit.tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "52.84.20.114",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.testaclub.tucasaclub.com:443",
+   "host": "www.testaclub.tucasaclub.com",
+   "port": "443",
+   "status_code": 301,
+   "title": "301 Moved Permanently",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "HSTS"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.73",
+   "checked": "2026-10-01T01:14:43+00:00"
+  },
+  {
+   "url": "https://www.tucasaclub.com:443",
+   "host": "www.tucasaclub.com",
+   "port": "443",
+   "status_code": 200,
+   "title": "Consejos de expertos para mantener tu hogar limpio y ordenado | Tu Casa Club",
+   "webserver": "CloudFront",
+   "technologies": [
+    "Adobe Experience Manager",
+    "Amazon CloudFront",
+    "Amazon Web Services",
+    "Google Sign-in",
+    "HSTS",
+    "Java",
+    "SAP Customer Data Cloud Sign-in",
+    "opentelemetry"
+   ],
+   "cdn": true,
+   "ip": "99.84.215.100",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}

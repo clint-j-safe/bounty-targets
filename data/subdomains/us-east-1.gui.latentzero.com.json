@@ -1,0 +1,15 @@
+{
+ "domain": "us-east-1.gui.latentzero.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 4,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "us-east-1.gui.latentzero.com",
+  "wildcard.us-east-1.gui.latentzero.com",
+  "www.us-east-1.gui.latentzero.com",
+  "www.wildcard.us-east-1.gui.latentzero.com"
+ ],
+ "http": []
+}

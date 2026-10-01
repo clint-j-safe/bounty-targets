@@ -1,0 +1,33 @@
+{
+ "domain": "xtracteurope.com",
+ "last_run": "2026-10-01T01:14:43+00:00",
+ "count": 7,
+ "programs": [
+  "hackerone|ion"
+ ],
+ "subdomains": [
+  "autodiscover.xtracteurope.com",
+  "autodiscovere.xtracteurope.com",
+  "eumail.xtracteurope.com",
+  "www.autodiscover.xtracteurope.com",
+  "www.eumail.xtracteurope.com",
+  "www.xtracteurope.com",
+  "xtracteurope.com"
+ ],
+ "http": [
+  {
+   "url": "http://autodiscover.xtracteurope.com:80",
+   "host": "autodiscover.xtracteurope.com",
+   "port": "80",
+   "status_code": 301,
+   "title": "",
+   "webserver": "Microsoft-HTTPAPI/2.0",
+   "technologies": [
+    "Microsoft HTTPAPI:2.0"
+   ],
+   "cdn": true,
+   "ip": "52.96.110.8",
+   "checked": "2026-10-01T01:14:43+00:00"
+  }
+ ]
+}
