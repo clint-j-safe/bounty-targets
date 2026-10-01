@@ -12856,6 +12856,14 @@
     "hackerone|pepsico_vdp"
    ]
   },
+  "wallstreetbackoffice.com": {
+   "count": 2,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 4,
+   "programs": [
+    "hackerone|ion"
+   ]
+  },
   "wallstreetsystems.cc": {
    "count": 2,
    "last_run": "2026-10-01T01:14:43+00:00",
@@ -13575,10 +13583,82 @@
    "programs": [
     "hackerone|zurich-insurance"
    ]
+  },
+  "zurich.com.sg": {
+   "count": 95,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 325,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurich.de": {
+   "count": 439,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 3061,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurich.es": {
+   "count": 250,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 2287,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurich.it": {
+   "count": 614,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 473,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurichbank.it": {
+   "count": 4263,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 7986,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurichempresas.es": {
+   "count": 26,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 296,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurichkotak.com": {
+   "count": 215,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 1929,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurichna.com": {
+   "count": 534,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 298,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
+  },
+  "zurichseguros.com.ec": {
+   "count": 279,
+   "last_run": "2026-10-01T06:36:38+00:00",
+   "live_count": 500,
+   "programs": [
+    "hackerone|zurich-insurance"
+   ]
   }
  },
- "generated_at": "2026-10-01T01:14:43+00:00",
- "total_domains": 1697,
- "total_live_hosts": 39845,
- "total_subdomains": 121401
+ "generated_at": "2026-10-01T06:36:38+00:00",
+ "total_domains": 1707,
+ "total_live_hosts": 57004,
+ "total_subdomains": 128118
 }
