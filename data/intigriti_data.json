@@ -68,8 +68,8 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1786968497,
-    "last_submission_at": 1790834007,
-    "last_updated_at": 1790591190,
+    "last_submission_at": 1790855821,
+    "last_updated_at": 1790843566,
     "program_type": "Bug bounty program",
     "min_bounty": {
       "value": 75,
@@ -79,14 +79,14 @@
       "value": 15000,
       "currency": "USD"
     },
-    "accepted_submission_count": 45,
+    "accepted_submission_count": 46,
     "average_payout": {
-      "value": 2589.0,
+      "value": 2540.0,
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790834007,
-    "submission_count": 824,
+    "last_activity_at": 1790860047,
+    "submission_count": 832,
     "targets": {
       "in_scope": [
         {
@@ -339,7 +339,7 @@
       "out_of_scope": []
     },
     "total_payout": {
-      "value": 103540.0,
+      "value": 104100.0,
       "currency": "USD"
     }
   },
@@ -401,7 +401,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1600180780,
-    "last_submission_at": 1790833954,
+    "last_submission_at": 1790857484,
     "last_updated_at": 1788261968,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -418,7 +418,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790833954,
+    "last_activity_at": 1790857484,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -469,7 +469,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1702462887,
-    "last_submission_at": 1790771751,
+    "last_submission_at": 1790837687,
     "last_updated_at": 1780759720,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -486,7 +486,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790771751,
+    "last_activity_at": 1790837687,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -741,7 +741,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1741168670,
-    "last_submission_at": 1790819225,
+    "last_submission_at": 1790851082,
     "last_updated_at": 1785399105,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -755,7 +755,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790819225,
+    "last_activity_at": 1790851082,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -1118,13 +1118,13 @@
       "value": 2500,
       "currency": "EUR"
     },
-    "accepted_submission_count": 631,
+    "accepted_submission_count": 634,
     "average_payout": {
-      "value": 222.0,
+      "value": 221.0,
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790804665,
+    "last_activity_at": 1790848545,
     "submission_count": 2924,
     "targets": {
       "in_scope": [
@@ -1496,7 +1496,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1710847206,
-    "last_submission_at": 1790824206,
+    "last_submission_at": 1790855537,
     "last_updated_at": 1788359203,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1507,11 +1507,11 @@
       "value": 6000,
       "currency": "EUR"
     },
-    "accepted_submission_count": 2984,
+    "accepted_submission_count": 3003,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790834481,
-    "submission_count": 6976,
+    "last_activity_at": 1790859737,
+    "submission_count": 6986,
     "targets": {
       "in_scope": [
         {
@@ -2034,7 +2034,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1605256027,
-    "last_submission_at": 1790706909,
+    "last_submission_at": 1790845322,
     "last_updated_at": 1789476765,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -2051,8 +2051,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790706909,
-    "submission_count": 1422,
+    "last_activity_at": 1790859638,
+    "submission_count": 1423,
     "targets": {
       "in_scope": [
         {
@@ -2275,13 +2275,13 @@
       "value": 15000,
       "currency": "EUR"
     },
-    "accepted_submission_count": 99,
+    "accepted_submission_count": 100,
     "average_payout": {
-      "value": 780.0,
+      "value": 771.0,
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790800465,
+    "last_activity_at": 1790854506,
     "submission_count": 1186,
     "targets": {
       "in_scope": [
@@ -2404,7 +2404,7 @@
       ]
     },
     "total_payout": {
-      "value": 61606.0,
+      "value": 61656.0,
       "currency": "EUR"
     }
   },
@@ -3051,7 +3051,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1711733263,
-    "last_submission_at": 1790758888,
+    "last_submission_at": 1790855248,
     "last_updated_at": 1782321478,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -3068,8 +3068,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790758888,
-    "submission_count": 800,
+    "last_activity_at": 1790855248,
+    "submission_count": 804,
     "targets": {
       "in_scope": [
         {
@@ -3496,7 +3496,7 @@
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790094065,
+    "last_activity_at": 1790847581,
     "submission_count": 46,
     "targets": {
       "in_scope": [
@@ -3866,7 +3866,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1711553126,
-    "last_submission_at": 1790830736,
+    "last_submission_at": 1790851887,
     "last_updated_at": 1790276715,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -3883,8 +3883,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790830736,
-    "submission_count": 1948,
+    "last_activity_at": 1790851887,
+    "submission_count": 1950,
     "targets": {
       "in_scope": [
         {
@@ -4396,7 +4396,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1752495035,
-    "last_submission_at": 1790826206,
+    "last_submission_at": 1790852070,
     "last_updated_at": 1787599181,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -4410,8 +4410,8 @@
     "accepted_submission_count": 195,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790826206,
-    "submission_count": 1812,
+    "last_activity_at": 1790860704,
+    "submission_count": 1813,
     "targets": {
       "in_scope": [
         {
@@ -4692,7 +4692,7 @@
     "twoFactorRequired": false,
     "created_at": 1691062028,
     "last_submission_at": 1790767470,
-    "last_updated_at": 1784187456,
+    "last_updated_at": 1790845449,
     "program_type": "Bug bounty program",
     "min_bounty": {
       "value": 0,
@@ -4702,13 +4702,13 @@
       "value": 1697,
       "currency": "EUR"
     },
-    "accepted_submission_count": 610,
+    "accepted_submission_count": 611,
     "average_payout": {
       "value": 463.0,
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790769326,
+    "last_activity_at": 1790858960,
     "submission_count": 1326,
     "targets": {
       "in_scope": [
@@ -4945,7 +4945,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1778080142,
-    "last_submission_at": 1790779422,
+    "last_submission_at": 1790850563,
     "last_updated_at": 1787657902,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -4959,8 +4959,8 @@
     "accepted_submission_count": 6,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790779422,
-    "submission_count": 94,
+    "last_activity_at": 1790850563,
+    "submission_count": 95,
     "targets": {
       "in_scope": [
         {
@@ -5669,7 +5669,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1779283536,
-    "last_submission_at": 1790825162,
+    "last_submission_at": 1790843163,
     "last_updated_at": 1783098149,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -5683,7 +5683,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790825162,
+    "last_activity_at": 1790843163,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -6373,11 +6373,11 @@
     },
     "accepted_submission_count": 16,
     "average_payout": {
-      "value": 613.0,
+      "value": 616.0,
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790807436,
+    "last_activity_at": 1790839300,
     "submission_count": 494,
     "targets": {
       "in_scope": [
@@ -6607,7 +6607,7 @@
       "out_of_scope": []
     },
     "total_payout": {
-      "value": 9795.0,
+      "value": 9845.0,
       "currency": "USD"
     }
   },
@@ -6787,7 +6787,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1789506531,
-    "last_submission_at": 1790765165,
+    "last_submission_at": 1790845546,
     "last_updated_at": 1790689530,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -6801,8 +6801,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790765165,
-    "submission_count": 29,
+    "last_activity_at": 1790845546,
+    "submission_count": 31,
     "targets": {
       "in_scope": [
         {
@@ -6862,7 +6862,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790822122,
+    "last_activity_at": 1790843428,
     "submission_count": 1665,
     "targets": {
       "in_scope": [
@@ -7311,7 +7311,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790780004,
+    "last_activity_at": 1790860460,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -8127,7 +8127,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1613120520,
-    "last_submission_at": 1790785482,
+    "last_submission_at": 1790857648,
     "last_updated_at": 1788271172,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -8144,8 +8144,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790785482,
-    "submission_count": 1075,
+    "last_activity_at": 1790857648,
+    "submission_count": 1076,
     "targets": {
       "in_scope": [
         {
@@ -8364,7 +8364,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790606460,
+    "last_activity_at": 1790847476,
     "submission_count": 54,
     "targets": {
       "in_scope": [
@@ -8479,7 +8479,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768497213,
-    "last_submission_at": 1790833003,
+    "last_submission_at": 1790842277,
     "last_updated_at": 1783413456,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -8496,8 +8496,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790833003,
-    "submission_count": 456,
+    "last_activity_at": 1790860627,
+    "submission_count": 457,
     "targets": {
       "in_scope": [
         {
@@ -8971,6 +8971,574 @@
     }
   },
   {
+    "id": "fdfddd69-ea12-4ff0-b1d1-1f9bdc42492f",
+    "name": "Mateco VDP",
+    "company_handle": "mateco",
+    "handle": "matecovdp",
+    "url": "https://www.intigriti.com/programs/mateco/matecovdp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "created_at": 1785762089,
+    "last_submission_at": null,
+    "last_updated_at": 1790859502,
+    "program_type": "Responsible disclosure",
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "accepted_submission_count": 0,
+    "average_payout": null,
+    "has_updates": false,
+    "last_activity_at": 1790859502,
+    "submission_count": 0,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "mytvhequipment.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.pl",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.nl",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.mx",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.lu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.hu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.cz",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mymateco.de",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "myassetplanner.tvhequipment.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "myassetplanner.tvh.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "myassetplanner.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "myassetplanner.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qdrive.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ms-drive.qplanning.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "quva.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "uqp.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "used-equipment.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.usedequipmentportal.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.used-equipment-portal.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.tvh-used-equipment.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.matecoused.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.mateco-used-equipment.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "usedequipmentportal.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "usedequipment.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "used-equipment-portal.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "uqp.tvh.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "tvh-used-equipment.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "matecoused.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mateco.uqp.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mateco-used-equipment.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://zenith-storybook.qone.mateco.eu/",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "policy.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "fe-maprics.tools.svc.cluster.local",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "maprics.myassetplanner.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "admin.mymateco.de",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "v2.qrent.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "v1.qrent.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qrent.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "event-gateway.qplanning.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qplanning.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "usermgmt.rental-pricing.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "rental-pricing.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ms-calculator.rental-pricing.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "holidays.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "components.rental-pricing.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "calculator.rental-pricing.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "zenith-storybook.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "workorder.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "trade.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "tables.dsa.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-workreport.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-user.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-taskbuilder.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-task.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-report.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-planning.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-job.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-contract.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "service-company.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "scan-me.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qusersettings.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qrep.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qlocator.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qhistory.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qgovernor.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qfence.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qcomm.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "qarchive.doctorb.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "psp.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "powerbi-streamer.masq.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "part-management.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "object-management.masq.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "modelgroups.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "model-version-management.masq.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "datashaperapi.mateco-tools.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "datashaper.mateco-tools.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "machine.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "machine-picture.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "labelq.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "dynamics.dsa.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "dsb.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "doctorb.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "dobby.masq.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "configurator.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "bubblicious.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "apps.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.service.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.qr.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ad-smartour.qplanning.qone.mateco.eu",
+          "description": null,
+          "impact": "Tier 2"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "total_payout": null
+  },
+  {
     "id": "5ae71f99-d61e-42d2-b74e-b218530bb3b5",
     "name": "Mobile Vikings",
     "company_handle": "mv",
@@ -9366,7 +9934,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790801128,
+    "last_activity_at": 1790857362,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -9452,7 +10020,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1749825672,
-    "last_submission_at": 1790790358,
+    "last_submission_at": 1790857220,
     "last_updated_at": 1781194969,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -9466,7 +10034,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790790358,
+    "last_activity_at": 1790857220,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -9539,7 +10107,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1703081852,
-    "last_submission_at": 1790520470,
+    "last_submission_at": 1790846619,
     "last_updated_at": 1781776247,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -9553,8 +10121,8 @@
     "accepted_submission_count": 53,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790609406,
-    "submission_count": 151,
+    "last_activity_at": 1790846619,
+    "submission_count": 152,
     "targets": {
       "in_scope": [
         {
@@ -9695,7 +10263,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790692750,
+    "last_activity_at": 1790854116,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -9820,7 +10388,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790687966,
+    "last_activity_at": 1790854313,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -10040,6 +10608,46 @@
           "impact": "Out of scope"
         }
       ]
+    },
+    "total_payout": null
+  },
+  {
+    "id": "9acf0f0e-f1c5-4b69-8f21-88458eb60009",
+    "name": "NxtPort VDP",
+    "company_handle": "portofantwerp",
+    "handle": "nxtportvdp",
+    "url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "created_at": 1790261714,
+    "last_submission_at": 1790842991,
+    "last_updated_at": 1790837702,
+    "program_type": "Responsible disclosure",
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "accepted_submission_count": 0,
+    "average_payout": null,
+    "has_updates": false,
+    "last_activity_at": 1790842991,
+    "submission_count": 0,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "wildcard",
+          "endpoint": "*.nxtport.com",
+          "description": null,
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": []
     },
     "total_payout": null
   },
@@ -10433,7 +11041,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790746790,
+    "last_activity_at": 1790861107,
     "submission_count": 600,
     "targets": {
       "in_scope": [
@@ -10736,7 +11344,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1590656240,
-    "last_submission_at": 1790780071,
+    "last_submission_at": 1790834467,
     "last_updated_at": 1784102899,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -11215,10 +11823,10 @@
       "value": 2000,
       "currency": "EUR"
     },
-    "accepted_submission_count": 155,
+    "accepted_submission_count": 156,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790811561,
+    "last_activity_at": 1790848472,
     "submission_count": 357,
     "targets": {
       "in_scope": [
@@ -12015,7 +12623,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1576670706,
-    "last_submission_at": 1790811946,
+    "last_submission_at": 1790837137,
     "last_updated_at": 1790675181,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12026,11 +12634,11 @@
       "value": 0,
       "currency": "EUR"
     },
-    "accepted_submission_count": 1079,
+    "accepted_submission_count": 1081,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790832502,
-    "submission_count": 2303,
+    "last_activity_at": 1790860207,
+    "submission_count": 2306,
     "targets": {
       "in_scope": [
         {
@@ -12104,7 +12712,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1599132524,
-    "last_submission_at": 1790814335,
+    "last_submission_at": 1790853975,
     "last_updated_at": 1781693778,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12115,11 +12723,11 @@
       "value": 0,
       "currency": "EUR"
     },
-    "accepted_submission_count": 2696,
+    "accepted_submission_count": 2701,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790814335,
-    "submission_count": 12123,
+    "last_activity_at": 1790858603,
+    "submission_count": 12126,
     "targets": {
       "in_scope": [
         {
@@ -12346,7 +12954,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1623135141,
-    "last_submission_at": 1790775516,
+    "last_submission_at": 1790841348,
     "last_updated_at": 1788764737,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -12360,7 +12968,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790775516,
+    "last_activity_at": 1790841348,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -12935,7 +13543,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1776288387,
-    "last_submission_at": 1790773296,
+    "last_submission_at": 1790845290,
     "last_updated_at": 1789669796,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12949,8 +13557,8 @@
     "accepted_submission_count": 4,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790773296,
-    "submission_count": 20,
+    "last_activity_at": 1790845290,
+    "submission_count": 21,
     "targets": {
       "in_scope": [
         {
@@ -13182,10 +13790,10 @@
       "value": 0,
       "currency": "EUR"
     },
-    "accepted_submission_count": 13,
+    "accepted_submission_count": 14,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790777175,
+    "last_activity_at": 1790858393,
     "submission_count": 26,
     "targets": {
       "in_scope": [
@@ -13874,7 +14482,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790785132,
+    "last_activity_at": 1790859620,
     "submission_count": 3071,
     "targets": {
       "in_scope": [
@@ -14004,11 +14612,11 @@
     },
     "accepted_submission_count": 10,
     "average_payout": {
-      "value": 844.0,
+      "value": 849.0,
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790791128,
+    "last_activity_at": 1790839223,
     "submission_count": 321,
     "targets": {
       "in_scope": [
@@ -14076,7 +14684,7 @@
       "out_of_scope": []
     },
     "total_payout": {
-      "value": 8435.0,
+      "value": 8485.0,
       "currency": "USD"
     }
   },
@@ -14102,10 +14710,10 @@
       "value": 0,
       "currency": "USD"
     },
-    "accepted_submission_count": 19,
+    "accepted_submission_count": 24,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790834102,
+    "last_activity_at": 1790858376,
     "submission_count": 126,
     "targets": {
       "in_scope": [
@@ -14215,7 +14823,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1544478545,
-    "last_submission_at": 1790729192,
+    "last_submission_at": 1790846527,
     "last_updated_at": 1773387567,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -14229,7 +14837,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790729192,
+    "last_activity_at": 1790846527,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -14457,7 +15065,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1580732659,
-    "last_submission_at": 1789449361,
+    "last_submission_at": 1790837278,
     "last_updated_at": 1786973995,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -14474,7 +15082,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790188009,
+    "last_activity_at": 1790837278,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -14555,323 +15163,6 @@
       ]
     },
     "total_payout": null
-  },
-  {
-    "id": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
-    "name": "TrueLayer",
-    "company_handle": "truelayer",
-    "handle": "truelayer",
-    "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "created_at": 1645789978,
-    "last_submission_at": 1790412094,
-    "last_updated_at": 1790770758,
-    "program_type": "Bug bounty program",
-    "min_bounty": {
-      "value": 75,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 6000,
-      "currency": "EUR"
-    },
-    "accepted_submission_count": 31,
-    "average_payout": {
-      "value": 345.0,
-      "currency": "EUR"
-    },
-    "has_updates": true,
-    "last_activity_at": 1790834544,
-    "submission_count": 536,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "api.truelayer[-sandbox].com",
-          "description": "The majority of our API endpoints live here",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.mtls.truelayer[-sandbox].com",
-          "description": "The same API as `api.truelayer[-sandbox].com` but with mutual TLS setup",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "auth.truelayer[-sandbox].com",
-          "description": "Our service for getting OAuth access tokens to access our APIs",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "auth.mtls.truelayer[-sandbox].com",
-          "description": "The same service as `auth.truelayer[-sandbox].com` but with mutual TLS setup",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.truelayer[-sandbox].com",
-          "description": "Hosted Payments Page v2",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "login-api.truelayer[-sandbox].com",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "login.truelayer[-sandbox].com",
-          "description": "Where you can connect your bank account and use Open Banking to pull data such as transactions",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "onboarding-api.truelayer.com",
-          "description": "Used in the developer console",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "pay-api.truelayer[-sandbox].com",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "pay.truelayer[-sandbox].com",
-          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "paydirect.truelayer[-sandbox].com",
-          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "payment.truelayer[-sandbox].com",
-          "description": "Our hosted payments page for merchants that want us to manage the UI screens for making payments",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "payments-experience-api.truelayer[-sandbox].com",
-          "description": "Hosted Payments Page dependency (e.g. for handoff)",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "user-authentication-api.truelayer[-sandbox].com",
-          "description": "Remember Me functionality for payments. See https://truelayer.com/legal/enduser_tos/#save-my-details-remember-me",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "users-api.truelayer.com",
-          "description": "Internal service for managing users",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "other",
-          "endpoint": "C# SDK",
-          "description": "https://github.com/TrueLayer/truelayer-dotnet",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "console-backend.truelayer[-sandbox].com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "console.truelayer[-sandbox].com",
-          "description": "Our developer console where you can login, create applications, manage your OAuth client ID/secret, upload public keys for request signing, view transactions",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "sftp.reports.truelayer.com",
-          "description": "SFTP reporting functionality in the Console. See https://docs.truelayer.com/docs/sftp-in-console",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "Java SDK",
-          "description": "https://github.com/TrueLayer/truelayer-java",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "PHP SDK",
-          "description": "https://github.com/TrueLayer/truelayer-php",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "TrueLayer for Magento (Magento plugin)",
-          "description": "https://github.com/TrueLayer/magento2",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "shopify-admin.truelayer.com",
-          "description": "Shopify Plugin backend admin page. See https://docs.truelayer.com/docs/shopify",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "shop-pay-app-api.truelayer.com",
-          "description": "Shopify Plugin backend API. See https://docs.truelayer.com/docs/shopify",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "truelayer-signing",
-          "description": "https://github.com/TrueLayer/truelayer-signing is our open source library for generating signed requests for calling TrueLayer APIs. Many languages are supported including Rust, C#, NodeJS, Go, Java and PHP.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "webhooks.truelayer[-sandbox].com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.truelayer.cloud",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.truelayer.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.truelayer.io",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "other",
-          "endpoint": "iOS SDK",
-          "description": "https://github.com/TrueLayer/TrueLayer-iOS-SDK",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "other",
-          "endpoint": "React Native SDK",
-          "description": "https://github.com/TrueLayer/truelayer-react-native-sdk",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "other",
-          "endpoint": "Web SDK",
-          "description": "https://www.npmjs.com/package/truelayer-web-sdk\n\nA lightweight web SDK for integrating Truelayer's payment services into your web application.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "other",
-          "endpoint": "Rust SDK",
-          "description": "https://github.com/TrueLayer/truelayer-rust\n\nCurrently we are not paying bounties for this asset as it's still in alpha.",
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "trust.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "other",
-          "endpoint": "TrueLayer for WooCommerce (WordPress plugin)",
-          "description": "https://wordpress.org/plugins/truelayer-for-woocommerce/ is our WordPress plugin allowing you to use TrueLayer as a checkout option in your WooCommerce store. The source code is also [available on GitHub](https://github.com/TrueLayer/truelayer-woocommerce).",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "banks.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "careers.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "docs.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "docs.houston.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://truelayer.com/contact/",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "index.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "info.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "signin.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "support.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "status.truelayer.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "truelayer.zendesk.com",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
-    },
-    "total_payout": {
-      "value": 12050.0,
-      "currency": "EUR"
-    }
   },
   {
     "id": "7d2af06f-9f70-4561-9ba6-4c044274a94a",
@@ -14991,7 +15282,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1762170162,
-    "last_submission_at": 1790831827,
+    "last_submission_at": 1790859036,
     "last_updated_at": 1785926389,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -15005,7 +15296,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790831827,
+    "last_activity_at": 1790859036,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -15111,7 +15402,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1582303162,
-    "last_submission_at": 1790718550,
+    "last_submission_at": 1790855790,
     "last_updated_at": 1790776974,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -15125,7 +15416,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790776974,
+    "last_activity_at": 1790855790,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -15561,7 +15852,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1590492386,
-    "last_submission_at": 1790814144,
+    "last_submission_at": 1790859043,
     "last_updated_at": 1782226801,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -15578,7 +15869,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790814144,
+    "last_activity_at": 1790859043,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -15881,7 +16172,7 @@
     "accepted_submission_count": 103,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790588759,
+    "last_activity_at": 1790842327,
     "submission_count": 503,
     "targets": {
       "in_scope": [
@@ -16084,7 +16375,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1689589324,
-    "last_submission_at": 1790572948,
+    "last_submission_at": 1790857424,
     "last_updated_at": 1790247952,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -16101,7 +16392,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790689341,
+    "last_activity_at": 1790857424,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -16226,7 +16517,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790784674,
+    "last_activity_at": 1790857760,
     "submission_count": 2345,
     "targets": {
       "in_scope": [
@@ -16660,7 +16951,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790768668,
+    "last_activity_at": 1790701549,
     "submission_count": 280,
     "targets": {
       "in_scope": [
@@ -16873,7 +17164,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790833826,
+    "last_activity_at": 1790851981,
     "submission_count": 660,
     "targets": {
       "in_scope": [
@@ -17720,7 +18011,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1672926274,
-    "last_submission_at": 1790827618,
+    "last_submission_at": 1790835276,
     "last_updated_at": 1790602607,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -17737,7 +18028,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790827618,
+    "last_activity_at": 1790852957,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -18263,7 +18554,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790800394,
+    "last_activity_at": 1790837465,
     "submission_count": 0,
     "targets": {
       "in_scope": [

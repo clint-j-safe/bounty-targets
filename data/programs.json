@@ -1,6 +1,1781 @@
 {
-  "generated_at": "2026-10-01T06:07:18Z",
+  "generated_at": "2026-10-01T13:31:37Z",
   "programs": [
+    {
+      "platform": "intigriti",
+      "id": "fdfddd69-ea12-4ff0-b1d1-1f9bdc42492f",
+      "handle": "matecovdp",
+      "name": "Mateco VDP",
+      "url": "https://www.intigriti.com/programs/mateco/matecovdp/detail",
+      "offers_bounty": false,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2026-08-03T13:01:29Z",
+      "last_updated_at": "2026-10-01T12:58:22Z",
+      "last_activity_at": "2026-10-01T12:58:22Z",
+      "reports_count": 0,
+      "resolved_reports_count": 0,
+      "total_bounty_amount": null,
+      "bounty_min": 0,
+      "bounty_max": 0,
+      "targets": [
+        {
+          "type": "url",
+          "target": "mytvhequipment.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.pl",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.nl",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.mx",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.lu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.hu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.cz",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mymateco.de",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "myassetplanner.tvhequipment.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "myassetplanner.tvh.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "myassetplanner.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "myassetplanner.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qdrive.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "ms-drive.qplanning.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "quva.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "uqp.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "used-equipment.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "www.usedequipmentportal.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "www.used-equipment-portal.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "www.tvh-used-equipment.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "www.matecoused.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "www.mateco-used-equipment.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "usedequipmentportal.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "usedequipment.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "used-equipment-portal.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "uqp.tvh.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "tvh-used-equipment.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "matecoused.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mateco.uqp.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "mateco-used-equipment.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "https://zenith-storybook.qone.mateco.eu/",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "policy.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "fe-maprics.tools.svc.cluster.local",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "maprics.myassetplanner.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "admin.mymateco.de",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "v2.qrent.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "v1.qrent.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qrent.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "event-gateway.qplanning.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qplanning.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "usermgmt.rental-pricing.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "rental-pricing.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "ms-calculator.rental-pricing.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "holidays.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "components.rental-pricing.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "calculator.rental-pricing.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "zenith-storybook.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "workorder.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "trade.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "tables.dsa.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-workreport.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-user.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-taskbuilder.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-task.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-report.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-planning.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-job.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-contract.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "service-company.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "scan-me.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qusersettings.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qrep.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qlocator.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qhistory.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qgovernor.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qfence.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qcomm.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "qarchive.doctorb.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "psp.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "powerbi-streamer.masq.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "part-management.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "object-management.masq.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "modelgroups.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "model-version-management.masq.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "datashaperapi.mateco-tools.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "datashaper.mateco-tools.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "machine.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "machine-picture.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "labelq.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "dynamics.dsa.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "dsb.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "doctorb.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "dobby.masq.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "configurator.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "bubblicious.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "apps.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "app.service.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "api.qr.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "ad-smartour.qplanning.qone.mateco.eu",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "intigriti",
+      "id": "2b664acb-80d4-4edb-9fcc-bcc562987f92",
+      "handle": "dstnybugbounty",
+      "name": "Dstny",
+      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2023-08-03T11:27:08Z",
+      "last_updated_at": "2026-10-01T09:04:09Z",
+      "last_activity_at": "2026-09-30T11:24:30Z",
+      "reports_count": 1326,
+      "resolved_reports_count": 611,
+      "total_bounty_amount": {
+        "value": 156370.0,
+        "currency": "EUR"
+      },
+      "bounty_min": 0,
+      "bounty_max": 1697,
+      "targets": [
+        {
+          "type": "other",
+          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Sizable list of the Tier 1 domains, IP ranges, and other. The full scope of Tier 1/2/3/no-bounty/out-of-scope domains can be found [here](https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=744529838#gid=744529838).\nPlease double-check the out-of-scope domains before submitting a report."
+        },
+        {
+          "type": "other",
+          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Sizable list of the Tier 2 domains, IP ranges, and other. The full scope of Tier 1/2/3/no-bounty/out-of-scope domains can be found [here](https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=744529838#gid=744529838).\nPlease double-check the out-of-scope domains before submitting a report."
+        },
+        {
+          "type": "other",
+          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Sizable list of the Tier 3 domains, IP ranges, and other. The full scope of Tier 1/2/3/no-bounty/out-of-scope domains can be found [here](https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=744529838#gid=744529838).\nPlease double-check the out-of-scope domains before submitting a report."
+        },
+        {
+          "type": "other",
+          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "Domains in this scope won't lead to a bounty, but we welcome submissions."
+        },
+        {
+          "type": "other",
+          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": "These domains are entirely out-of-scope."
+        }
+      ]
+    },
+    {
+      "platform": "intigriti",
+      "id": "c1a89c7e-5de0-435d-a30f-a8c16e65ccfc",
+      "handle": "adobepublic",
+      "name": "Adobe Public",
+      "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2026-08-17T12:08:17Z",
+      "last_updated_at": "2026-10-01T08:32:46Z",
+      "last_activity_at": "2026-10-01T11:57:01Z",
+      "reports_count": 832,
+      "resolved_reports_count": 46,
+      "total_bounty_amount": {
+        "value": 104100.0,
+        "currency": "USD"
+      },
+      "bounty_min": 75,
+      "bounty_max": 15000,
+      "targets": [
+        {
+          "type": null,
+          "target": "Acrobat PDF Spaces",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant features include:\n\n* Acrobat PDF Spaces\n\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
+        },
+        {
+          "type": null,
+          "target": "Acrobat Create Presentations",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant features include:\n\n* Acrobat Create Presentations\n\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
+        },
+        {
+          "type": null,
+          "target": "Acrobat Create Podcast",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant features include:\n\n* Acrobat Create Podcast\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
+        },
+        {
+          "type": null,
+          "target": "Acrobat AI Assistant",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant features include:\n\n* Acrobat AI Assistant\n* Acrobat PDF Spaces\n* Acrobat Create Presentations\n* Acrobat Create Podcast\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
+        },
+        {
+          "type": null,
+          "target": "Adobe Express AI Assistant",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant feature:\n\n* Express AI Assistant\n\nEnabled on:\n\n[new.express.adobe.com](https://new.express.adobe.com)\n\nTesting should focus on AI-assisted content creation workflows, unauthorized actions, access control issues, data exposure, prompt injection with backend or security impact, and misuse of AI functionality that crosses user, account, or organisation boundaries."
+        },
+        {
+          "type": null,
+          "target": "Lightroom AI Features",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant features include:\n\n* Lightroom AI Edits\n* Lightroom “Edit suggestions” Tech Preview\n\nEnabled on:\n\n[lightroom.adobe.com](https://lightroom.adobe.com)\n\nTesting should focus on AI-powered photo editing workflows, unauthorized access to user content, cross-account data exposure, manipulation of user assets, and AI-related vulnerabilities with clear security impact."
+        },
+        {
+          "type": null,
+          "target": "Adobe Firefly AI Features",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant features include:\n\n* Firefly Image Models\n* Firefly Video Model\n* Firefly Custom Models\n\nEnabled on:\n\n[firefly.adobe.com\n](https://firefly.adobe.com)\n\nTesting should focus on AI vulnerabilities with practical security impact, including unauthorized access, data exposure, model or training-data security issues, prompt injection with backend impact, unauthorized actions, and cross-account or cross-tenant access."
+        },
+        {
+          "type": null,
+          "target": "Photoshop AI Assistant",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant feature:\n\n* Photoshop AI Assistant\n\nEnabled on:\n\n[photoshop.adobe.com](https://photoshop.adobe.com)\n\nTesting should focus on AI-assisted editing workflows, unauthorized access, data exposure, prompt injection with backend impact, and security issues affecting user assets or Photoshop Web workflows."
+        },
+        {
+          "type": null,
+          "target": "Adobe Stock AI Studio",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 1",
+          "instruction": "Relevant feature:\n\n* Stock AI Studio\n\nEnabled on:\n\n[stock.adobe.com](https://stock.adobe.com)\n\nTesting should focus on AI-assisted Stock workflows, unauthorized access to assets, sensitive data exposure, cross-account access, and AI workflow manipulation with security impact."
+        },
+        {
+          "type": "ios",
+          "target": "Frame.io iOS Application",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "Adobe Fresco (iOS)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "Adobe Photoshop Express Mobile App (iOS)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "Lightroom Video & Photo Editor (IOS)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "android",
+          "target": "Lightroom Video & Photo Editor (Android)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "Adobe Scan Mobile App (iOS)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "android",
+          "target": "Adobe Scan Mobile App (Android)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "Acrobat Reader Mobile App (iOS)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "android",
+          "target": "Acrobat Reader Mobile App (Android)",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.acrobat.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Type: Web\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAcrobat Web is in scope.\n\nTesting should focus on authentication, authorization, document access controls, sensitive document exposure, cross-account access, file handling, session handling, business logic flaws, and vulnerabilities affecting Acrobat Web users or documents.\n\nRelevant Tier 1 AI bonus features available through this asset include:\n\n* Acrobat AI Assistant\n* Acrobat PDF Spaces\n* Acrobat Create Presentations\n* Acrobat Create Podcast\n\nDocument Cloud Adobe Sign Web production environment .adobesign.com is out of scope for Acrobat Web testing."
+        },
+        {
+          "type": "url",
+          "target": "stock.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Type: Web\nAssets: \n* stock.adobe.com\n* contributor.stock.adobe.com\n\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAdobe Stock and Contributor Stock are in scope.\n\nTesting should focus on authentication, authorization, account security, contributor workflows, unauthorized access to assets, sensitive data exposure, cross-account access, and business logic flaws affecting Stock or contributor workflows.\n\nRelevant Tier 1 AI bonus feature available through this asset:\n\n* Stock AI Studio"
+        },
+        {
+          "type": "url",
+          "target": "firefly.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Type: Web\nAsset: firefly.adobe.com\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAdobe Firefly is in scope.\n\nTesting should focus on authentication, authorization, generated content workflows, user content access, sensitive data exposure, cross-account access, business logic flaws, and security issues affecting approved Firefly functionality.\n\nRelevant Tier 1 AI bonus features available through this asset include:\n\n* Firefly Image Models\n* Firefly Video Model\n* Firefly AI Specific Findings\n* Firefly Custom Models\n\nFirefly backend API IDORs related to jobs and data are out of scope where IDs are random UUID4 and short-lived."
+        },
+        {
+          "type": "other",
+          "target": "Adobe ColdFusion without ColdFusion Administrator",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": null
+        },
+        {
+          "type": "other",
+          "target": "ColdFusion Administrator",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.lightroom.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Type: Web\n\nAssets:\n* *.lightroom.adobe.com\n* photos.adobe.io\n\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nLightroom Web is in scope.\n\nTesting should focus on authentication, authorization, user photo access controls, cross-account data exposure, sensitive metadata exposure, sharing workflow vulnerabilities, API authorization issues, and business logic flaws affecting Lightroom Web workflows.\n\nRelevant Tier 1 AI bonus features available through this asset include:\n\n* Lightroom AI Edits\n* Lightroom “Edit suggestions” Tech Preview\n\nOut-of-scope items:\n> Vulnerabilities related to Google Photos\n> Access/download image rendetions via API on disabled-download shares\n> Viewing another user's liked content via Lightroom Community API (Discover/Remix/Tutorials)\n> Public shares found via search engine indexing\n> Denial-of-service testing"
+        },
+        {
+          "type": "url",
+          "target": "photoshop.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Type: Web\nAsset: photoshop.adobe.com\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nPhotoshop Web is in scope.\n\nTesting should focus on authentication, authorization, access to user assets, cross-account access, file handling vulnerabilities, sensitive data exposure, Photoshop Web workflow abuse, and business logic flaws affecting Photoshop Web functionality.\n\nRelevant Tier 1 AI bonus feature available through this asset:\n\n* Photoshop AI Assistant\n\n> Researchers will be testing Photoshop Web in production and must not cause potential or actual denial of service. Third-party endpoints loaded by Photoshop Web are out of scope."
+        },
+        {
+          "type": "other",
+          "target": "Adobe Commerce, Adobe Commerce B2B and Magento Open Source",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 2",
+          "instruction": "Type: Web\nTesting plan: Yes\nCredentials / subscription: Not provided; Magento Open Source option available\n\n---\n\nThis asset covers Adobe Commerce, Adobe Commerce B2B, Magento Open Source, core software in Magento 2 Commerce, Commerce B2B and Open Source default configuration, and bundled extensions.\n\nTesting should focus on server-side code execution, authentication and authorization issues, injection vulnerabilities, directory traversal, sensitive information disclosure, significant security misconfiguration, access control issues, and vulnerabilities affecting default configuration or bundled extensions.\n\n---\n\nResearchers who wish to test Adobe Commerce products may set up their own local or cloud development environment using the official Adobe installation guidance. Adobe Commerce and Adobe Commerce B2B require a valid Adobe Commerce license and access to the Adobe Composer repository. Magento Open Source is freely available for installation."
+        },
+        {
+          "type": "url",
+          "target": "account.magento.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "commercemarketplace.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "repo.magento.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "magento.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "learningmanagerstage4.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\nAsset: learningmanagerstage4.adobe.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Learning Manager is in scope.\n\nTesting should focus on authentication, authorization, learning content workflows, role boundaries, sensitive data exposure, account access, and business logic flaws affecting approved learning workflows.\n\n> Testing must be performed against the provided stage environment. Production testing is out of scope.\n> Please carefully review the ALM-specific out-of-scope vulnerabilities listed in the testing plan attachment before starting your testing."
+        },
+        {
+          "type": "other",
+          "target": "ColdFusion Administrator",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\nTesting plan: Yes\nColdFusion Administrator is in scope.\n\n---\n\nTesting should focus on administrator security boundaries, authentication, authorization, privilege escalation, configuration access, sensitive configuration exposure, and vulnerabilities affecting restricted administrative functionality.\n\n> Researchers must follow the ColdFusion setup and Lockdown guidance before testing."
+        },
+        {
+          "type": "url",
+          "target": "net.s2stagehance.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\nAsset: net.s2stagehance.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Behance is in scope.\n\nTesting should focus on authentication, authorization, account security, profile or project access controls, sensitive data exposure, and business logic flaws affecting approved Behance workflows.\n\n> Researchers must not test production www.behance.net, additional static-content domains, adobelogin.com, or other unrelated supporting domains unless explicitly listed."
+        },
+        {
+          "type": "url",
+          "target": "new.express.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\nAsset: new.express.adobe.com\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAdobe Express is in scope.\n\nTesting should focus on authentication, authorization, user content access, sensitive data exposure, API authorization, account or project boundary issues, and business logic flaws affecting approved Express workflows.\n\nRelevant Tier 1 AI bonus feature available through this asset:\n\n* Express AI Assistant\n\n> `express.adobe.com` and `express-embed.adobe.com` are out of scope. Denial-of-service testing is explicitly out of scope."
+        },
+        {
+          "type": "url",
+          "target": "portfolio.ccpsx.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\nAsset: portfolio.ccpsx.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Portfolio is in scope.\n\nTesting should focus on authentication, authorization, portfolio workflow vulnerabilities, account boundary issues, sensitive data exposure, and business logic flaws affecting approved Portfolio workflows.\n\n> Researchers must not test production Portfolio websites, additional static-content domains, adobelogin.com, or other unrelated supporting domains unless explicitly listed."
+        },
+        {
+          "type": "url",
+          "target": "fonts.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\nAsset: fonts.adobe.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Fonts is in scope.\n\nTesting should focus on authentication, authorization, account security, font access workflows, sensitive data exposure, and business logic flaws affecting Adobe Fonts functionality.\n\n> Digital Rights Management findings related to licensing bypasses are out of scope."
+        },
+        {
+          "type": "url",
+          "target": "account.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": "Type: Web\n\nAssets:\n\n* ims-na1.adobelogin.com\n* adobeid-na1.services.adobe.com\n* auth.services.adobe.com\n* federatedid-na1.services.adobe.com\n* account.adobe.com\n\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe IMS and Adobe account security functionality are in scope.\n\nTesting should focus on identity flows, authentication, authorization, session handling, account security, security profile functionality, and identity-related vulnerabilities affecting approved IMS assets.\n\n> IMS-specific out-of-scope items apply, including denial-of-service testing, temporarily excluded IMS OAuth vulnerabilities, account.adobe.com Plans and Payment sections, and settings that are not Identity/IMS related."
+        },
+        {
+          "type": "url",
+          "target": "auth.services.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "adobeid-na1.services.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "ims-na1.adobelogin.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        },
+        {
+          "type": "url",
+          "target": "federatedid-na1.services.adobe.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": "Tier 3",
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "intigriti",
+      "id": "9acf0f0e-f1c5-4b69-8f21-88458eb60009",
+      "handle": "nxtportvdp",
+      "name": "NxtPort VDP",
+      "url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
+      "offers_bounty": false,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2026-09-24T14:55:14Z",
+      "last_updated_at": "2026-10-01T06:55:02Z",
+      "last_activity_at": "2026-10-01T08:23:11Z",
+      "reports_count": 0,
+      "resolved_reports_count": 0,
+      "total_bounty_amount": null,
+      "bounty_min": 0,
+      "bounty_max": 0,
+      "targets": [
+        {
+          "type": "wildcard",
+          "target": "*.nxtport.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "d50422fe-7f24-46a0-9141-5a60a8d0a6a7",
+      "handle": "apps-plus2",
+      "name": "AI | Apps+ Marketplace Bug Bounty Program ",
+      "url": "https://bugcrowd.com/engagements/apps-plus2",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2022-09-22T12:00:00Z",
+      "last_updated_at": "2026-10-01T06:16:00Z",
+      "last_activity_at": "2026-10-01T06:16:00Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 1500,
+      "targets": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227545/ai-sentiment-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227546/ai-glossary-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227547/ai-tables-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227548/ai-polls-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227549/ai-tooltips-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227550/ai-tags-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227551/ai-tabs-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227552/ai-latex-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227553/ai-headings-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227554/ai-forms-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227555/ai-copywriter-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227556/ai-code-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227557/ai-labels-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227558/ai-macros-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227559/ai-checklists-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227560/ai-buttons-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1227561/ai-images-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1229018/ai-photos-for-confluence?tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "a513750e-8f26-48b6-8d69-b45354109f17",
+      "handle": "bloompeak",
+      "name": "Bloompeak's Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/bloompeak",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2021-09-14T18:00:00Z",
+      "last_updated_at": "2026-10-01T06:08:13Z",
+      "last_activity_at": "2021-09-14T18:00:00Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 1500,
+      "targets": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=datacenter&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=datacenter&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1221826/status-time-reports-time-in-status?hosting=datacenter&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222051/status-time-reports-free-time-in-status?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=datacenter&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222833/restore-deleted-issues?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1223002/track-deleted-issues?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1224572/issue-translator?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/2529437344/sprint-capacity-planner-for-jira?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1223088/project-roles-groups-and-users?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "9265c0cf-7181-45da-a1da-20606f3d77e5",
+      "handle": "meetical",
+      "name": "Meetical",
+      "url": "https://bugcrowd.com/engagements/meetical",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2020-09-24T18:00:00Z",
+      "last_updated_at": "2026-10-01T06:06:54Z",
+      "last_activity_at": "2020-09-24T18:00:00Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 1500,
+      "targets": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "For reporting purposes only. Use staging environment listed in brief.",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "For reporting purposes only. Use staging environment listed in brief.",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "other",
+          "target": "https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
     {
       "platform": "bugcrowd",
       "id": "b9533eb1-98fb-4b56-bc82-086cf2a35a46",
@@ -1552,7 +3327,7 @@
       "managed": null,
       "first_started_at": "2020-02-21T16:39:22Z",
       "last_updated_at": "2026-09-30T14:02:54Z",
-      "last_activity_at": "2026-09-29T21:49:10Z",
+      "last_activity_at": "2026-10-01T11:56:30Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -1951,7 +3726,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-30T13:37:54Z",
       "last_activity_at": null,
-      "reports_count": 2408,
+      "reports_count": 2410,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -2396,443 +4171,6 @@
           "target": "https://news.vinted.com",
           "in_scope": true,
           "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "intigriti",
-      "id": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
-      "handle": "truelayer",
-      "name": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2022-02-25T11:52:58Z",
-      "last_updated_at": "2026-09-30T12:19:18Z",
-      "last_activity_at": "2026-09-26T08:41:34Z",
-      "reports_count": 536,
-      "resolved_reports_count": 31,
-      "total_bounty_amount": {
-        "value": 12050.0,
-        "currency": "EUR"
-      },
-      "bounty_min": 75,
-      "bounty_max": 6000,
-      "targets": [
-        {
-          "type": "url",
-          "target": "api.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "The majority of our API endpoints live here"
-        },
-        {
-          "type": "url",
-          "target": "api.mtls.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "The same API as `api.truelayer[-sandbox].com` but with mutual TLS setup"
-        },
-        {
-          "type": "url",
-          "target": "auth.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Our service for getting OAuth access tokens to access our APIs"
-        },
-        {
-          "type": "url",
-          "target": "auth.mtls.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "The same service as `auth.truelayer[-sandbox].com` but with mutual TLS setup"
-        },
-        {
-          "type": "url",
-          "target": "app.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Hosted Payments Page v2"
-        },
-        {
-          "type": "url",
-          "target": "login-api.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "login.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Where you can connect your bank account and use Open Banking to pull data such as transactions"
-        },
-        {
-          "type": "url",
-          "target": "onboarding-api.truelayer.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Used in the developer console"
-        },
-        {
-          "type": "url",
-          "target": "pay-api.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "pay.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Some of our older payment API endpoints live here rather than on api.truelayer.com"
-        },
-        {
-          "type": "url",
-          "target": "paydirect.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Some of our older payment API endpoints live here rather than on api.truelayer.com"
-        },
-        {
-          "type": "url",
-          "target": "payment.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Our hosted payments page for merchants that want us to manage the UI screens for making payments"
-        },
-        {
-          "type": "url",
-          "target": "payments-experience-api.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Hosted Payments Page dependency (e.g. for handoff)"
-        },
-        {
-          "type": "url",
-          "target": "user-authentication-api.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Remember Me functionality for payments. See https://truelayer.com/legal/enduser_tos/#save-my-details-remember-me"
-        },
-        {
-          "type": "url",
-          "target": "users-api.truelayer.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Internal service for managing users"
-        },
-        {
-          "type": "other",
-          "target": "C# SDK",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "https://github.com/TrueLayer/truelayer-dotnet"
-        },
-        {
-          "type": "url",
-          "target": "console-backend.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "console.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Our developer console where you can login, create applications, manage your OAuth client ID/secret, upload public keys for request signing, view transactions"
-        },
-        {
-          "type": "url",
-          "target": "sftp.reports.truelayer.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "SFTP reporting functionality in the Console. See https://docs.truelayer.com/docs/sftp-in-console"
-        },
-        {
-          "type": "other",
-          "target": "Java SDK",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "https://github.com/TrueLayer/truelayer-java"
-        },
-        {
-          "type": "other",
-          "target": "PHP SDK",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "https://github.com/TrueLayer/truelayer-php"
-        },
-        {
-          "type": "other",
-          "target": "TrueLayer for Magento (Magento plugin)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "https://github.com/TrueLayer/magento2"
-        },
-        {
-          "type": "url",
-          "target": "shopify-admin.truelayer.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Shopify Plugin backend admin page. See https://docs.truelayer.com/docs/shopify"
-        },
-        {
-          "type": "url",
-          "target": "shop-pay-app-api.truelayer.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Shopify Plugin backend API. See https://docs.truelayer.com/docs/shopify"
-        },
-        {
-          "type": "other",
-          "target": "truelayer-signing",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "https://github.com/TrueLayer/truelayer-signing is our open source library for generating signed requests for calling TrueLayer APIs. Many languages are supported including Rust, C#, NodeJS, Go, Java and PHP."
-        },
-        {
-          "type": "url",
-          "target": "webhooks.truelayer[-sandbox].com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.truelayer.cloud",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.truelayer.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.truelayer.io",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "iOS SDK",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "https://github.com/TrueLayer/TrueLayer-iOS-SDK"
-        },
-        {
-          "type": "other",
-          "target": "React Native SDK",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "https://github.com/TrueLayer/truelayer-react-native-sdk"
-        },
-        {
-          "type": "other",
-          "target": "Web SDK",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "https://www.npmjs.com/package/truelayer-web-sdk\n\nA lightweight web SDK for integrating Truelayer's payment services into your web application."
-        },
-        {
-          "type": "other",
-          "target": "Rust SDK",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "https://github.com/TrueLayer/truelayer-rust\n\nCurrently we are not paying bounties for this asset as it's still in alpha."
-        },
-        {
-          "type": "url",
-          "target": "trust.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "TrueLayer for WooCommerce (WordPress plugin)",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "https://wordpress.org/plugins/truelayer-for-woocommerce/ is our WordPress plugin allowing you to use TrueLayer as a checkout option in your WooCommerce store. The source code is also [available on GitHub](https://github.com/TrueLayer/truelayer-woocommerce)."
-        },
-        {
-          "type": "url",
-          "target": "banks.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "careers.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "docs.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "docs.houston.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "https://truelayer.com/contact/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "index.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "info.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "signin.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "support.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "status.truelayer.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "truelayer.zendesk.com",
-          "in_scope": false,
-          "bounty": false,
           "updated_at": null,
           "severity": null,
           "instruction": null
@@ -3375,9 +4713,9 @@
       "managed": false,
       "first_started_at": "2016-08-25T16:53:52Z",
       "last_updated_at": "2026-09-29T19:38:28Z",
-      "last_activity_at": "2026-09-30T23:53:02Z",
+      "last_activity_at": "2026-10-01T11:55:19Z",
       "reports_count": null,
-      "resolved_reports_count": 427,
+      "resolved_reports_count": 430,
       "total_bounty_amount": 0.0,
       "bounty_min": 250,
       "bounty_max": null,
@@ -8000,8 +9338,8 @@
       "managed": null,
       "first_started_at": "2026-09-15T21:08:51Z",
       "last_updated_at": "2026-09-29T13:45:30Z",
-      "last_activity_at": "2026-09-30T10:46:05Z",
-      "reports_count": 29,
+      "last_activity_at": "2026-10-01T09:05:46Z",
+      "reports_count": 31,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -8557,9 +9895,9 @@
       "managed": null,
       "first_started_at": "2019-12-18T12:05:06Z",
       "last_updated_at": "2026-09-29T09:46:21Z",
-      "last_activity_at": "2026-09-30T23:45:46Z",
-      "reports_count": 2303,
-      "resolved_reports_count": 1079,
+      "last_activity_at": "2026-10-01T06:45:37Z",
+      "reports_count": 2306,
+      "resolved_reports_count": 1081,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -9151,7 +10489,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-28T16:14:07Z",
       "last_activity_at": null,
-      "reports_count": 3740,
+      "reports_count": 3743,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -9782,7 +11120,7 @@
       "managed": null,
       "first_started_at": "2023-01-05T13:44:34Z",
       "last_updated_at": "2026-09-28T13:36:47Z",
-      "last_activity_at": "2026-10-01T04:06:58Z",
+      "last_activity_at": "2026-10-01T06:14:36Z",
       "reports_count": 0,
       "resolved_reports_count": 674,
       "total_bounty_amount": {
@@ -10362,398 +11700,6 @@
           "updated_at": null,
           "severity": null,
           "instruction": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt"
-        }
-      ]
-    },
-    {
-      "platform": "intigriti",
-      "id": "c1a89c7e-5de0-435d-a30f-a8c16e65ccfc",
-      "handle": "adobepublic",
-      "name": "Adobe Public",
-      "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2026-08-17T12:08:17Z",
-      "last_updated_at": "2026-09-28T10:26:30Z",
-      "last_activity_at": "2026-10-01T05:53:27Z",
-      "reports_count": 824,
-      "resolved_reports_count": 45,
-      "total_bounty_amount": {
-        "value": 103540.0,
-        "currency": "USD"
-      },
-      "bounty_min": 75,
-      "bounty_max": 15000,
-      "targets": [
-        {
-          "type": null,
-          "target": "Acrobat PDF Spaces",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant features include:\n\n* Acrobat PDF Spaces\n\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
-        },
-        {
-          "type": null,
-          "target": "Acrobat Create Presentations",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant features include:\n\n* Acrobat Create Presentations\n\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
-        },
-        {
-          "type": null,
-          "target": "Acrobat Create Podcast",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant features include:\n\n* Acrobat Create Podcast\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
-        },
-        {
-          "type": null,
-          "target": "Acrobat AI Assistant",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant features include:\n\n* Acrobat AI Assistant\n* Acrobat PDF Spaces\n* Acrobat Create Presentations\n* Acrobat Create Podcast\n\nThese features are enabled on [acrobat.adobe.com](https://acrobat.adobe.com).\n\nTesting should focus on AI vulnerabilities with clear security impact, including prompt injection leading to sensitive content disclosure, unauthorized access to documents, unauthorized actions, cross-account access, data exfiltration, privilege escalation, or bypass of enforced backend security controls."
-        },
-        {
-          "type": null,
-          "target": "Adobe Express AI Assistant",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant feature:\n\n* Express AI Assistant\n\nEnabled on:\n\n[new.express.adobe.com](https://new.express.adobe.com)\n\nTesting should focus on AI-assisted content creation workflows, unauthorized actions, access control issues, data exposure, prompt injection with backend or security impact, and misuse of AI functionality that crosses user, account, or organisation boundaries."
-        },
-        {
-          "type": null,
-          "target": "Lightroom AI Features",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant features include:\n\n* Lightroom AI Edits\n* Lightroom “Edit suggestions” Tech Preview\n\nEnabled on:\n\n[lightroom.adobe.com](https://lightroom.adobe.com)\n\nTesting should focus on AI-powered photo editing workflows, unauthorized access to user content, cross-account data exposure, manipulation of user assets, and AI-related vulnerabilities with clear security impact."
-        },
-        {
-          "type": null,
-          "target": "Adobe Firefly AI Features",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant features include:\n\n* Firefly Image Models\n* Firefly Video Model\n* Firefly Custom Models\n\nEnabled on:\n\n[firefly.adobe.com\n](https://firefly.adobe.com)\n\nTesting should focus on AI vulnerabilities with practical security impact, including unauthorized access, data exposure, model or training-data security issues, prompt injection with backend impact, unauthorized actions, and cross-account or cross-tenant access."
-        },
-        {
-          "type": null,
-          "target": "Photoshop AI Assistant",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant feature:\n\n* Photoshop AI Assistant\n\nEnabled on:\n\n[photoshop.adobe.com](https://photoshop.adobe.com)\n\nTesting should focus on AI-assisted editing workflows, unauthorized access, data exposure, prompt injection with backend impact, and security issues affecting user assets or Photoshop Web workflows."
-        },
-        {
-          "type": null,
-          "target": "Adobe Stock AI Studio",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Relevant feature:\n\n* Stock AI Studio\n\nEnabled on:\n\n[stock.adobe.com](https://stock.adobe.com)\n\nTesting should focus on AI-assisted Stock workflows, unauthorized access to assets, sensitive data exposure, cross-account access, and AI workflow manipulation with security impact."
-        },
-        {
-          "type": "ios",
-          "target": "Frame.io iOS Application",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "Adobe Fresco (iOS)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "Adobe Photoshop Express Mobile App (iOS)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "Lightroom Video & Photo Editor (IOS)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "android",
-          "target": "Lightroom Video & Photo Editor (Android)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "Adobe Scan Mobile App (iOS)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "android",
-          "target": "Adobe Scan Mobile App (Android)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "Acrobat Reader Mobile App (iOS)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "android",
-          "target": "Acrobat Reader Mobile App (Android)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.acrobat.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Type: Web\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAcrobat Web is in scope.\n\nTesting should focus on authentication, authorization, document access controls, sensitive document exposure, cross-account access, file handling, session handling, business logic flaws, and vulnerabilities affecting Acrobat Web users or documents.\n\nRelevant Tier 1 AI bonus features available through this asset include:\n\n* Acrobat AI Assistant\n* Acrobat PDF Spaces\n* Acrobat Create Presentations\n* Acrobat Create Podcast\n\nDocument Cloud Adobe Sign Web production environment .adobesign.com is out of scope for Acrobat Web testing."
-        },
-        {
-          "type": "url",
-          "target": "stock.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Type: Web\nAssets: \n* stock.adobe.com\n* contributor.stock.adobe.com\n\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAdobe Stock and Contributor Stock are in scope.\n\nTesting should focus on authentication, authorization, account security, contributor workflows, unauthorized access to assets, sensitive data exposure, cross-account access, and business logic flaws affecting Stock or contributor workflows.\n\nRelevant Tier 1 AI bonus feature available through this asset:\n\n* Stock AI Studio"
-        },
-        {
-          "type": "url",
-          "target": "firefly.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Type: Web\nAsset: firefly.adobe.com\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAdobe Firefly is in scope.\n\nTesting should focus on authentication, authorization, generated content workflows, user content access, sensitive data exposure, cross-account access, business logic flaws, and security issues affecting approved Firefly functionality.\n\nRelevant Tier 1 AI bonus features available through this asset include:\n\n* Firefly Image Models\n* Firefly Video Model\n* Firefly AI Specific Findings\n* Firefly Custom Models\n\nFirefly backend API IDORs related to jobs and data are out of scope where IDs are random UUID4 and short-lived."
-        },
-        {
-          "type": "other",
-          "target": "Adobe ColdFusion without ColdFusion Administrator",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "ColdFusion Administrator",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.lightroom.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Type: Web\n\nAssets:\n* *.lightroom.adobe.com\n* photos.adobe.io\n\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nLightroom Web is in scope.\n\nTesting should focus on authentication, authorization, user photo access controls, cross-account data exposure, sensitive metadata exposure, sharing workflow vulnerabilities, API authorization issues, and business logic flaws affecting Lightroom Web workflows.\n\nRelevant Tier 1 AI bonus features available through this asset include:\n\n* Lightroom AI Edits\n* Lightroom “Edit suggestions” Tech Preview\n\nOut-of-scope items:\n> Vulnerabilities related to Google Photos\n> Access/download image rendetions via API on disabled-download shares\n> Viewing another user's liked content via Lightroom Community API (Discover/Remix/Tutorials)\n> Public shares found via search engine indexing\n> Denial-of-service testing"
-        },
-        {
-          "type": "url",
-          "target": "photoshop.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Type: Web\nAsset: photoshop.adobe.com\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nPhotoshop Web is in scope.\n\nTesting should focus on authentication, authorization, access to user assets, cross-account access, file handling vulnerabilities, sensitive data exposure, Photoshop Web workflow abuse, and business logic flaws affecting Photoshop Web functionality.\n\nRelevant Tier 1 AI bonus feature available through this asset:\n\n* Photoshop AI Assistant\n\n> Researchers will be testing Photoshop Web in production and must not cause potential or actual denial of service. Third-party endpoints loaded by Photoshop Web are out of scope."
-        },
-        {
-          "type": "other",
-          "target": "Adobe Commerce, Adobe Commerce B2B and Magento Open Source",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Type: Web\nTesting plan: Yes\nCredentials / subscription: Not provided; Magento Open Source option available\n\n---\n\nThis asset covers Adobe Commerce, Adobe Commerce B2B, Magento Open Source, core software in Magento 2 Commerce, Commerce B2B and Open Source default configuration, and bundled extensions.\n\nTesting should focus on server-side code execution, authentication and authorization issues, injection vulnerabilities, directory traversal, sensitive information disclosure, significant security misconfiguration, access control issues, and vulnerabilities affecting default configuration or bundled extensions.\n\n---\n\nResearchers who wish to test Adobe Commerce products may set up their own local or cloud development environment using the official Adobe installation guidance. Adobe Commerce and Adobe Commerce B2B require a valid Adobe Commerce license and access to the Adobe Composer repository. Magento Open Source is freely available for installation."
-        },
-        {
-          "type": "url",
-          "target": "account.magento.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "commercemarketplace.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "repo.magento.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "magento.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "learningmanagerstage4.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\nAsset: learningmanagerstage4.adobe.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Learning Manager is in scope.\n\nTesting should focus on authentication, authorization, learning content workflows, role boundaries, sensitive data exposure, account access, and business logic flaws affecting approved learning workflows.\n\n> Testing must be performed against the provided stage environment. Production testing is out of scope.\n> Please carefully review the ALM-specific out-of-scope vulnerabilities listed in the testing plan attachment before starting your testing."
-        },
-        {
-          "type": "other",
-          "target": "ColdFusion Administrator",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\nTesting plan: Yes\nColdFusion Administrator is in scope.\n\n---\n\nTesting should focus on administrator security boundaries, authentication, authorization, privilege escalation, configuration access, sensitive configuration exposure, and vulnerabilities affecting restricted administrative functionality.\n\n> Researchers must follow the ColdFusion setup and Lockdown guidance before testing."
-        },
-        {
-          "type": "url",
-          "target": "net.s2stagehance.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\nAsset: net.s2stagehance.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Behance is in scope.\n\nTesting should focus on authentication, authorization, account security, profile or project access controls, sensitive data exposure, and business logic flaws affecting approved Behance workflows.\n\n> Researchers must not test production www.behance.net, additional static-content domains, adobelogin.com, or other unrelated supporting domains unless explicitly listed."
-        },
-        {
-          "type": "url",
-          "target": "new.express.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\nAsset: new.express.adobe.com\nTesting plan: Yes\nCredentials / subscription: Not provided; self-signup; free trial for premium features\n\n---\n\nAdobe Express is in scope.\n\nTesting should focus on authentication, authorization, user content access, sensitive data exposure, API authorization, account or project boundary issues, and business logic flaws affecting approved Express workflows.\n\nRelevant Tier 1 AI bonus feature available through this asset:\n\n* Express AI Assistant\n\n> `express.adobe.com` and `express-embed.adobe.com` are out of scope. Denial-of-service testing is explicitly out of scope."
-        },
-        {
-          "type": "url",
-          "target": "portfolio.ccpsx.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\nAsset: portfolio.ccpsx.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Portfolio is in scope.\n\nTesting should focus on authentication, authorization, portfolio workflow vulnerabilities, account boundary issues, sensitive data exposure, and business logic flaws affecting approved Portfolio workflows.\n\n> Researchers must not test production Portfolio websites, additional static-content domains, adobelogin.com, or other unrelated supporting domains unless explicitly listed."
-        },
-        {
-          "type": "url",
-          "target": "fonts.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\nAsset: fonts.adobe.com\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe Fonts is in scope.\n\nTesting should focus on authentication, authorization, account security, font access workflows, sensitive data exposure, and business logic flaws affecting Adobe Fonts functionality.\n\n> Digital Rights Management findings related to licensing bypasses are out of scope."
-        },
-        {
-          "type": "url",
-          "target": "account.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Type: Web\n\nAssets:\n\n* ims-na1.adobelogin.com\n* adobeid-na1.services.adobe.com\n* auth.services.adobe.com\n* federatedid-na1.services.adobe.com\n* account.adobe.com\n\nTesting plan: Yes\nCredentials / subscription: Self-signup; free account covering all features\n\n---\n\nAdobe IMS and Adobe account security functionality are in scope.\n\nTesting should focus on identity flows, authentication, authorization, session handling, account security, security profile functionality, and identity-related vulnerabilities affecting approved IMS assets.\n\n> IMS-specific out-of-scope items apply, including denial-of-service testing, temporarily excluded IMS OAuth vulnerabilities, account.adobe.com Plans and Payment sections, and settings that are not Identity/IMS related."
-        },
-        {
-          "type": "url",
-          "target": "auth.services.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "adobeid-na1.services.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "ims-na1.adobelogin.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "federatedid-na1.services.adobe.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
         }
       ]
     },
@@ -11475,7 +12421,7 @@
       "last_updated_at": "2026-09-25T08:46:40Z",
       "last_activity_at": "2026-09-29T14:07:31Z",
       "reports_count": null,
-      "resolved_reports_count": 1304,
+      "resolved_reports_count": 1305,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -12753,8 +13699,8 @@
       "managed": null,
       "first_started_at": "2024-03-27T15:25:26Z",
       "last_updated_at": "2026-09-24T19:05:15Z",
-      "last_activity_at": "2026-10-01T04:58:56Z",
-      "reports_count": 1948,
+      "last_activity_at": "2026-10-01T10:51:27Z",
+      "reports_count": 1950,
       "resolved_reports_count": 238,
       "total_bounty_amount": {
         "value": 268026.0,
@@ -13988,7 +14934,7 @@
       "managed": null,
       "first_started_at": "2023-07-17T10:22:04Z",
       "last_updated_at": "2026-09-24T11:05:52Z",
-      "last_activity_at": "2026-09-28T05:22:28Z",
+      "last_activity_at": "2026-10-01T12:23:44Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": {
@@ -15808,9 +16754,9 @@
       "managed": true,
       "first_started_at": "2020-12-07T19:16:26Z",
       "last_updated_at": "2026-09-23T20:08:07Z",
-      "last_activity_at": "2026-09-30T14:43:29Z",
+      "last_activity_at": "2026-10-01T10:40:38Z",
       "reports_count": null,
-      "resolved_reports_count": 618,
+      "resolved_reports_count": 619,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -17958,7 +18904,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-22T10:02:29Z",
       "last_activity_at": null,
-      "reports_count": 1941,
+      "reports_count": 1942,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -19119,9 +20065,9 @@
       "managed": true,
       "first_started_at": "2015-08-17T02:20:32Z",
       "last_updated_at": "2026-09-21T06:41:48Z",
-      "last_activity_at": "2026-09-30T09:12:48Z",
+      "last_activity_at": "2026-10-01T09:03:49Z",
       "reports_count": null,
-      "resolved_reports_count": 1031,
+      "resolved_reports_count": 1032,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -19539,9 +20485,9 @@
       "managed": false,
       "first_started_at": "2020-03-02T15:05:33Z",
       "last_updated_at": "2026-09-18T13:19:19Z",
-      "last_activity_at": "2026-09-25T09:34:14Z",
+      "last_activity_at": "2026-10-01T12:17:29Z",
       "reports_count": null,
-      "resolved_reports_count": 993,
+      "resolved_reports_count": 995,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -19923,8 +20869,8 @@
       "managed": null,
       "first_started_at": "2026-04-15T21:26:27Z",
       "last_updated_at": "2026-09-17T18:29:56Z",
-      "last_activity_at": "2026-09-30T13:01:36Z",
-      "reports_count": 20,
+      "last_activity_at": "2026-10-01T09:01:30Z",
+      "reports_count": 21,
       "resolved_reports_count": 4,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -19953,7 +20899,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-17T17:25:30Z",
       "last_activity_at": null,
-      "reports_count": 394,
+      "reports_count": 395,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -21559,7 +22505,7 @@
       "reports_count": 321,
       "resolved_reports_count": 10,
       "total_bounty_amount": {
-        "value": 8435.0,
+        "value": 8485.0,
         "currency": "USD"
       },
       "bounty_min": 10,
@@ -22757,7 +23703,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-15T15:56:52Z",
       "last_activity_at": null,
-      "reports_count": 617,
+      "reports_count": 619,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -22821,9 +23767,9 @@
       "managed": true,
       "first_started_at": "2024-05-13T13:05:30Z",
       "last_updated_at": "2026-09-15T13:56:27Z",
-      "last_activity_at": "2026-09-25T07:06:00Z",
+      "last_activity_at": "2026-10-01T11:37:36Z",
       "reports_count": null,
-      "resolved_reports_count": 65,
+      "resolved_reports_count": 67,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -23026,8 +23972,8 @@
       "managed": null,
       "first_started_at": "2020-11-13T08:27:07Z",
       "last_updated_at": "2026-09-15T12:52:45Z",
-      "last_activity_at": "2026-09-29T18:35:09Z",
-      "reports_count": 1422,
+      "last_activity_at": "2026-10-01T09:02:02Z",
+      "reports_count": 1423,
       "resolved_reports_count": 229,
       "total_bounty_amount": {
         "value": 87630.0,
@@ -29041,7 +29987,7 @@
       "last_updated_at": "2026-09-10T07:32:05Z",
       "last_activity_at": "2026-09-30T23:39:21Z",
       "reports_count": 357,
-      "resolved_reports_count": 155,
+      "resolved_reports_count": 156,
       "total_bounty_amount": null,
       "bounty_min": 100,
       "bounty_max": 2000,
@@ -30018,7 +30964,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-09T16:07:34Z",
       "last_activity_at": null,
-      "reports_count": 486,
+      "reports_count": 488,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -49191,9 +50137,9 @@
       "managed": true,
       "first_started_at": "2021-03-01T17:05:32Z",
       "last_updated_at": "2026-09-09T12:10:55Z",
-      "last_activity_at": "2026-09-28T07:17:48Z",
+      "last_activity_at": "2026-10-01T10:22:36Z",
       "reports_count": null,
-      "resolved_reports_count": 450,
+      "resolved_reports_count": 451,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -51358,7 +52304,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-07T10:00:29Z",
       "last_activity_at": null,
-      "reports_count": 1974,
+      "reports_count": 1975,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -51883,7 +52829,7 @@
       "managed": null,
       "first_started_at": "2021-06-08T06:52:21Z",
       "last_updated_at": "2026-09-07T07:05:37Z",
-      "last_activity_at": "2026-09-30T13:38:36Z",
+      "last_activity_at": "2026-10-01T07:55:48Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -53202,7 +54148,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-04T09:08:12Z",
       "last_activity_at": null,
-      "reports_count": 2738,
+      "reports_count": 2740,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -56073,7 +57019,7 @@
       "last_updated_at": "2026-09-02T15:59:49Z",
       "last_activity_at": "2026-09-30T21:44:25Z",
       "reports_count": 2924,
-      "resolved_reports_count": 631,
+      "resolved_reports_count": 634,
       "total_bounty_amount": null,
       "bounty_min": 15,
       "bounty_max": 2500,
@@ -56478,9 +57424,9 @@
       "managed": null,
       "first_started_at": "2024-03-19T11:20:06Z",
       "last_updated_at": "2026-09-02T14:26:43Z",
-      "last_activity_at": "2026-10-01T03:10:06Z",
-      "reports_count": 6976,
-      "resolved_reports_count": 2984,
+      "last_activity_at": "2026-10-01T11:52:17Z",
+      "reports_count": 6986,
+      "resolved_reports_count": 3003,
       "total_bounty_amount": null,
       "bounty_min": 150,
       "bounty_max": 6000,
@@ -57570,8 +58516,8 @@
       "managed": null,
       "first_started_at": "2021-02-12T09:02:00Z",
       "last_updated_at": "2026-09-01T13:59:32Z",
-      "last_activity_at": "2026-09-30T16:24:42Z",
-      "reports_count": 1075,
+      "last_activity_at": "2026-10-01T12:27:28Z",
+      "reports_count": 1076,
       "resolved_reports_count": 290,
       "total_bounty_amount": {
         "value": 72525.0,
@@ -57921,7 +58867,7 @@
       "managed": null,
       "first_started_at": "2020-09-15T14:39:40Z",
       "last_updated_at": "2026-09-01T11:26:08Z",
-      "last_activity_at": "2026-10-01T05:52:34Z",
+      "last_activity_at": "2026-10-01T12:24:44Z",
       "reports_count": 0,
       "resolved_reports_count": 90,
       "total_bounty_amount": null,
@@ -58116,9 +59062,9 @@
       "managed": true,
       "first_started_at": "2023-07-10T17:10:05Z",
       "last_updated_at": "2026-08-31T20:24:27Z",
-      "last_activity_at": "2026-10-01T03:27:11Z",
+      "last_activity_at": "2026-10-01T07:35:30Z",
       "reports_count": null,
-      "resolved_reports_count": 107,
+      "resolved_reports_count": 108,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -59923,7 +60869,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:37Z",
       "last_activity_at": null,
-      "reports_count": 344,
+      "reports_count": 345,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -60060,7 +61006,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:32Z",
       "last_activity_at": null,
-      "reports_count": 944,
+      "reports_count": 947,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -69018,8 +69964,8 @@
       "managed": null,
       "first_started_at": "2026-05-06T15:09:02Z",
       "last_updated_at": "2026-08-25T11:38:22Z",
-      "last_activity_at": "2026-09-30T14:43:42Z",
-      "reports_count": 94,
+      "last_activity_at": "2026-10-01T10:29:23Z",
+      "reports_count": 95,
       "resolved_reports_count": 6,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -69515,8 +70461,8 @@
       "managed": null,
       "first_started_at": "2025-07-14T12:10:35Z",
       "last_updated_at": "2026-08-24T19:19:41Z",
-      "last_activity_at": "2026-10-01T03:43:26Z",
-      "reports_count": 1812,
+      "last_activity_at": "2026-10-01T10:54:30Z",
+      "reports_count": 1813,
       "resolved_reports_count": 195,
       "total_bounty_amount": {
         "value": 84166.0,
@@ -77180,7 +78126,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-18T12:22:17Z",
       "last_activity_at": null,
-      "reports_count": 664,
+      "reports_count": 665,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -78746,7 +79692,7 @@
       "managed": null,
       "first_started_at": "2020-02-03T12:24:19Z",
       "last_updated_at": "2026-08-17T13:39:55Z",
-      "last_activity_at": "2026-09-15T05:16:01Z",
+      "last_activity_at": "2026-10-01T06:47:58Z",
       "reports_count": 0,
       "resolved_reports_count": 34,
       "total_bounty_amount": null,
@@ -80094,7 +81040,7 @@
       "last_updated_at": "2026-08-14T12:27:20Z",
       "last_activity_at": "2026-09-30T14:06:15Z",
       "reports_count": 26,
-      "resolved_reports_count": 13,
+      "resolved_reports_count": 14,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -80611,9 +81557,9 @@
       "last_updated_at": "2026-08-13T16:09:04Z",
       "last_activity_at": "2026-09-30T18:30:19Z",
       "reports_count": 1186,
-      "resolved_reports_count": 99,
+      "resolved_reports_count": 100,
       "total_bounty_amount": {
-        "value": 61606.0,
+        "value": 61656.0,
         "currency": "EUR"
       },
       "bounty_min": 0,
@@ -84934,7 +85880,7 @@
       "managed": null,
       "first_started_at": "2025-11-03T11:42:42Z",
       "last_updated_at": "2026-08-05T10:39:49Z",
-      "last_activity_at": "2026-10-01T05:17:07Z",
+      "last_activity_at": "2026-10-01T12:50:36Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -85025,24 +85971,6 @@
           "instruction": ""
         },
         {
-          "type": "WILDCARD",
-          "target": "ab-api-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:11Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "ab-platform-api.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:35:54Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
           "type": "URL",
           "target": "alternativa.film",
           "in_scope": true,
@@ -85050,15 +85978,6 @@
           "updated_at": "2025-02-03T04:59:16Z",
           "severity": "high",
           "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "api-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-06-01T07:29:02Z",
-          "severity": "critical",
-          "instruction": null
         },
         {
           "type": "URL",
@@ -85070,42 +85989,6 @@
           "instruction": "Ryadom API"
         },
         {
-          "type": "WILDCARD",
-          "target": "as-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:11Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "as-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "ath-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "ath-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "auroratechaward.com",
           "in_scope": true,
@@ -85113,33 +85996,6 @@
           "updated_at": "2025-02-03T05:01:18Z",
           "severity": "high",
           "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "baf-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "bdu-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "bid.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
         },
         {
           "type": "URL",
@@ -85165,69 +86021,6 @@
           "in_scope": true,
           "bounty": true,
           "updated_at": "2023-07-19T06:49:24Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "cas-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "cht-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "cht-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "co-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "co-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "co-in-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "courier-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
           "severity": "critical",
           "instruction": null
         },
@@ -85259,42 +86052,6 @@
           "instruction": null
         },
         {
-          "type": "WILDCARD",
-          "target": "dh-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "dr-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "es-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "es-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "external.indrive.dev",
           "in_scope": true,
@@ -85305,165 +86062,12 @@
         },
         {
           "type": "WILDCARD",
-          "target": "fch-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "fe-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "fe-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "file-storage-front.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:36:13Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "g2-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "g2-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "gt-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "gt-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "gvt-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
           "target": "https://*.indriver.io",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2023-09-26T09:32:17Z",
           "severity": "critical",
           "instruction": ""
-        },
-        {
-          "type": "URL",
-          "target": "https://cas-cf.euce1.indriverapp.com/api/passkey",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-05-23T04:46:16Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "ic3.*.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "icl-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "idp-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "in-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "in-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "inc-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "inc-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
         },
         {
           "type": "URL",
@@ -85480,15 +86084,6 @@
           "in_scope": true,
           "bounty": true,
           "updated_at": "2023-12-14T08:07:54Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "intercity-*.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-05-15T16:39:41Z",
           "severity": "critical",
           "instruction": ""
         },
@@ -85511,15 +86106,6 @@
           "instruction": null
         },
         {
-          "type": "WILDCARD",
-          "target": "isa-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "job.ryadom.kz",
           "in_scope": true,
@@ -85538,15 +86124,6 @@
           "instruction": null
         },
         {
-          "type": "WILDCARD",
-          "target": "mch*.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "media.indrive.com",
           "in_scope": true,
@@ -85557,83 +86134,11 @@
         },
         {
           "type": "URL",
-          "target": "messenger.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:36:18Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "URL",
           "target": "movie.indrive.com",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2025-09-09T12:53:20Z",
           "severity": "high",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "msg-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "msg-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "new-order.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:32:24Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "nha-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "nha-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "no-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "no-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:12Z",
-          "severity": "critical",
           "instruction": null
         },
         {
@@ -85646,236 +86151,11 @@
           "instruction": null
         },
         {
-          "type": "WILDCARD",
-          "target": "pa-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pa-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pay*.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pc-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pc-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pm-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pm-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pot-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pot-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pr*.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "pr-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "priority.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:36:37Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "URL",
-          "target": "profile-api.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:36:34Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "ra-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "ra-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "rc-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "rp-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "rp-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "rs-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "rsm-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "ryadom.kz",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2026-01-28T05:24:14Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sc-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sfc-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sfc-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sn-api-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sn-api-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
           "severity": "critical",
           "instruction": null
         },
@@ -85889,74 +86169,11 @@
           "instruction": null
         },
         {
-          "type": "WILDCARD",
-          "target": "st*.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sub*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "sur-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "teammate.indriver.io",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2025-09-09T12:53:42Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "tr-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "WILDCARD",
-          "target": "tr-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "truck-api.eu-east-1.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:36:00Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "txm-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
           "severity": "critical",
           "instruction": null
         },
@@ -85970,15 +86187,6 @@
           "instruction": null
         },
         {
-          "type": "WILDCARD",
-          "target": "vm-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
           "type": "URL",
           "target": "volans.tech",
           "in_scope": true,
@@ -85986,33 +86194,6 @@
           "updated_at": "2023-09-26T09:35:15Z",
           "severity": "critical",
           "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "was-gw-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "watchdocs.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2023-04-04T13:34:08Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "wd2*.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-01-09T10:29:03Z",
-          "severity": "critical",
-          "instruction": null
         },
         {
           "type": "URL",
@@ -86031,15 +86212,6 @@
           "updated_at": "2023-09-26T09:35:39Z",
           "severity": "critical",
           "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "wlr-cf.*.aws.indriverapp.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2025-09-09T12:52:13Z",
-          "severity": "critical",
-          "instruction": null
         },
         {
           "type": "WILDCARD",
@@ -86076,15 +86248,6 @@
           "updated_at": "2023-02-27T15:58:27Z",
           "severity": "none",
           "instruction": ""
-        },
-        {
-          "type": "URL",
-          "target": "super-services.indriverapp.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2025-09-08T12:00:12Z",
-          "severity": "none",
-          "instruction": null
         },
         {
           "type": "URL",
@@ -86817,7 +86980,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-03T07:22:01Z",
       "last_activity_at": null,
-      "reports_count": 839,
+      "reports_count": 841,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -89832,7 +89995,7 @@
       "managed": null,
       "first_started_at": "2025-03-05T09:57:50Z",
       "last_updated_at": "2026-07-30T08:11:45Z",
-      "last_activity_at": "2026-10-01T01:47:05Z",
+      "last_activity_at": "2026-10-01T10:38:02Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -95753,7 +95916,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-07-21T11:54:11Z",
       "last_activity_at": null,
-      "reports_count": 723,
+      "reports_count": 725,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -96918,7 +97081,7 @@
       "last_updated_at": "2026-07-17T14:24:14Z",
       "last_activity_at": "2026-09-28T17:54:10Z",
       "reports_count": 126,
-      "resolved_reports_count": 19,
+      "resolved_reports_count": 24,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -97072,7 +97235,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-07-17T08:14:17Z",
       "last_activity_at": null,
-      "reports_count": 1788,
+      "reports_count": 1790,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -97506,74 +97669,6 @@
       ]
     },
     {
-      "platform": "intigriti",
-      "id": "2b664acb-80d4-4edb-9fcc-bcc562987f92",
-      "handle": "dstnybugbounty",
-      "name": "Dstny",
-      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2023-08-03T11:27:08Z",
-      "last_updated_at": "2026-07-16T07:37:36Z",
-      "last_activity_at": "2026-09-30T11:24:30Z",
-      "reports_count": 1326,
-      "resolved_reports_count": 610,
-      "total_bounty_amount": {
-        "value": 156370.0,
-        "currency": "EUR"
-      },
-      "bounty_min": 0,
-      "bounty_max": 1697,
-      "targets": [
-        {
-          "type": "other",
-          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "Sizable list of the Tier 1 domains, IP ranges, and other. The full scope of Tier 1/2/3/no-bounty/out-of-scope domains can be found [here](https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=744529838#gid=744529838).\nPlease double-check the out-of-scope domains before submitting a report."
-        },
-        {
-          "type": "other",
-          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Sizable list of the Tier 2 domains, IP ranges, and other. The full scope of Tier 1/2/3/no-bounty/out-of-scope domains can be found [here](https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=744529838#gid=744529838).\nPlease double-check the out-of-scope domains before submitting a report."
-        },
-        {
-          "type": "other",
-          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "Sizable list of the Tier 3 domains, IP ranges, and other. The full scope of Tier 1/2/3/no-bounty/out-of-scope domains can be found [here](https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=744529838#gid=744529838).\nPlease double-check the out-of-scope domains before submitting a report."
-        },
-        {
-          "type": "other",
-          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "Domains in this scope won't lead to a bounty, but we welcome submissions."
-        },
-        {
-          "type": "other",
-          "target": "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "These domains are entirely out-of-scope."
-        }
-      ]
-    },
-    {
       "platform": "bugcrowd",
       "id": "7ed4074d-411a-4e45-b400-0e8f263d0038",
       "handle": "boja",
@@ -97640,9 +97735,9 @@
       "managed": false,
       "first_started_at": "2023-09-19T13:45:51Z",
       "last_updated_at": "2026-07-15T15:04:29Z",
-      "last_activity_at": "2026-09-29T19:10:53Z",
+      "last_activity_at": "2026-10-01T08:17:57Z",
       "reports_count": null,
-      "resolved_reports_count": 470,
+      "resolved_reports_count": 471,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -98735,7 +98830,7 @@
       "managed": null,
       "first_started_at": "2020-05-28T08:57:20Z",
       "last_updated_at": "2026-07-15T08:08:19Z",
-      "last_activity_at": "2026-09-30T14:54:31Z",
+      "last_activity_at": "2026-10-01T06:01:07Z",
       "reports_count": 535,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -101877,7 +101972,7 @@
       "reports_count": 494,
       "resolved_reports_count": 16,
       "total_bounty_amount": {
-        "value": 9795.0,
+        "value": 9845.0,
         "currency": "USD"
       },
       "bounty_min": 10,
@@ -102229,8 +102324,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T17:13:33Z",
       "last_updated_at": "2026-07-07T08:37:36Z",
-      "last_activity_at": "2026-10-01T05:36:43Z",
-      "reports_count": 456,
+      "last_activity_at": "2026-10-01T08:11:17Z",
+      "reports_count": 457,
       "resolved_reports_count": 14,
       "total_bounty_amount": {
         "value": 8418.0,
@@ -103190,7 +103285,7 @@
       "managed": null,
       "first_started_at": "2026-05-20T13:25:36Z",
       "last_updated_at": "2026-07-03T17:02:29Z",
-      "last_activity_at": "2026-10-01T03:26:02Z",
+      "last_activity_at": "2026-10-01T08:26:03Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -104428,9 +104523,9 @@
       "managed": true,
       "first_started_at": "2026-03-03T19:28:51Z",
       "last_updated_at": "2026-07-01T23:07:01Z",
-      "last_activity_at": "2026-09-30T16:21:27Z",
+      "last_activity_at": "2026-10-01T09:57:53Z",
       "reports_count": null,
-      "resolved_reports_count": 56,
+      "resolved_reports_count": 59,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -106918,8 +107013,8 @@
       "managed": null,
       "first_started_at": "2024-03-29T17:27:43Z",
       "last_updated_at": "2026-06-24T17:17:58Z",
-      "last_activity_at": "2026-09-30T09:01:28Z",
-      "reports_count": 800,
+      "last_activity_at": "2026-10-01T11:47:28Z",
+      "reports_count": 804,
       "resolved_reports_count": 83,
       "total_bounty_amount": {
         "value": 46572.0,
@@ -109278,7 +109373,7 @@
       "managed": null,
       "first_started_at": "2020-05-26T11:26:26Z",
       "last_updated_at": "2026-06-23T15:00:01Z",
-      "last_activity_at": "2026-10-01T00:22:24Z",
+      "last_activity_at": "2026-10-01T12:50:43Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -110483,8 +110578,8 @@
       "managed": null,
       "first_started_at": "2023-12-20T14:17:32Z",
       "last_updated_at": "2026-06-18T09:50:47Z",
-      "last_activity_at": "2026-09-27T14:47:50Z",
-      "reports_count": 151,
+      "last_activity_at": "2026-10-01T09:23:39Z",
+      "reports_count": 152,
       "resolved_reports_count": 53,
       "total_bounty_amount": null,
       "bounty_min": 125,
@@ -111134,9 +111229,9 @@
       "managed": null,
       "first_started_at": "2020-09-03T11:28:44Z",
       "last_updated_at": "2026-06-17T10:56:18Z",
-      "last_activity_at": "2026-10-01T00:25:35Z",
-      "reports_count": 12123,
-      "resolved_reports_count": 2696,
+      "last_activity_at": "2026-10-01T11:26:15Z",
+      "reports_count": 12126,
+      "resolved_reports_count": 2701,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -112999,7 +113094,7 @@
       "managed": null,
       "first_started_at": "2025-06-13T14:41:12Z",
       "last_updated_at": "2026-06-11T16:22:49Z",
-      "last_activity_at": "2026-09-30T17:45:58Z",
+      "last_activity_at": "2026-10-01T12:20:20Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -114467,7 +114562,7 @@
       "managed": null,
       "first_started_at": "2023-12-13T10:21:27Z",
       "last_updated_at": "2026-06-06T15:28:40Z",
-      "last_activity_at": "2026-09-30T12:35:51Z",
+      "last_activity_at": "2026-10-01T06:54:47Z",
       "reports_count": 0,
       "resolved_reports_count": 34,
       "total_bounty_amount": null,
@@ -123462,9 +123557,9 @@
       "managed": true,
       "first_started_at": "2018-10-01T08:51:24Z",
       "last_updated_at": "2026-04-24T07:41:28Z",
-      "last_activity_at": "2026-09-30T08:31:36Z",
+      "last_activity_at": "2026-10-01T08:40:53Z",
       "reports_count": null,
-      "resolved_reports_count": 135,
+      "resolved_reports_count": 137,
       "total_bounty_amount": 0.0,
       "bounty_min": 150,
       "bounty_max": null,
@@ -126056,7 +126151,7 @@
       "managed": false,
       "first_started_at": "2014-04-14T14:29:04Z",
       "last_updated_at": "2026-04-08T20:15:08Z",
-      "last_activity_at": "2026-09-30T18:23:06Z",
+      "last_activity_at": "2026-10-01T11:39:06Z",
       "reports_count": null,
       "resolved_reports_count": null,
       "total_bounty_amount": 0.0,
@@ -134968,7 +135063,7 @@
       "managed": null,
       "first_started_at": "2018-12-10T21:49:05Z",
       "last_updated_at": "2026-03-13T07:39:27Z",
-      "last_activity_at": "2026-09-30T00:46:32Z",
+      "last_activity_at": "2026-10-01T09:22:07Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -136678,9 +136773,9 @@
       "managed": true,
       "first_started_at": "2018-07-12T10:44:11Z",
       "last_updated_at": "2026-03-08T23:23:52Z",
-      "last_activity_at": "2026-09-28T09:58:51Z",
+      "last_activity_at": "2026-10-01T08:45:17Z",
       "reports_count": null,
-      "resolved_reports_count": 179,
+      "resolved_reports_count": 180,
       "total_bounty_amount": 0.0,
       "bounty_min": 200,
       "bounty_max": null,
@@ -138636,9 +138731,9 @@
       "managed": false,
       "first_started_at": "2026-03-02T13:17:05Z",
       "last_updated_at": "2026-02-26T12:42:43Z",
-      "last_activity_at": "2026-09-28T06:59:05Z",
+      "last_activity_at": "2026-10-01T08:58:13Z",
       "reports_count": null,
-      "resolved_reports_count": 27,
+      "resolved_reports_count": 28,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -140044,7 +140139,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-02-17T14:05:38Z",
       "last_activity_at": null,
-      "reports_count": 317,
+      "reports_count": 319,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -155303,9 +155398,9 @@
       "managed": true,
       "first_started_at": "2026-01-07T15:07:19Z",
       "last_updated_at": "2025-10-28T12:44:44Z",
-      "last_activity_at": "2026-09-30T08:37:30Z",
+      "last_activity_at": "2026-10-01T09:44:17Z",
       "reports_count": null,
-      "resolved_reports_count": 3070,
+      "resolved_reports_count": 3071,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -236429,7 +236524,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-09-15T09:17:37Z",
       "last_activity_at": null,
-      "reports_count": 207,
+      "reports_count": 209,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 10,
@@ -238833,15 +238928,6 @@
         },
         {
           "type": "APPLE_STORE_APP_ID",
-          "target": "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-11-01T07:51:56Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "APPLE_STORE_APP_ID",
           "target": "https://apps.apple.com/mx/app/six-id/id1620496931",
           "in_scope": true,
           "bounty": true,
@@ -238897,15 +238983,6 @@
         {
           "type": "GOOGLE_PLAY_APP_ID",
           "target": "https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-11-01T07:51:56Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "GOOGLE_PLAY_APP_ID",
-          "target": "https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2024-11-01T07:51:56Z",
@@ -239012,6 +239089,15 @@
           "instruction": ""
         },
         {
+          "type": "APPLE_STORE_APP_ID",
+          "target": "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": "2026-10-01T08:52:34Z",
+          "severity": "none",
+          "instruction": ""
+        },
+        {
           "type": "URL",
           "target": "https://bmefx.es/",
           "in_scope": false,
@@ -239026,6 +239112,15 @@
           "in_scope": false,
           "bounty": false,
           "updated_at": "2026-06-23T13:18:15Z",
+          "severity": "none",
+          "instruction": ""
+        },
+        {
+          "type": "GOOGLE_PLAY_APP_ID",
+          "target": "https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": "2026-10-01T08:52:27Z",
           "severity": "none",
           "instruction": ""
         },
@@ -240504,9 +240599,9 @@
       "managed": true,
       "first_started_at": "2015-02-25T18:47:10Z",
       "last_updated_at": "2025-07-15T12:18:47Z",
-      "last_activity_at": "2026-09-29T16:13:21Z",
+      "last_activity_at": "2026-10-01T09:57:31Z",
       "reports_count": null,
-      "resolved_reports_count": 1520,
+      "resolved_reports_count": 1521,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -243764,9 +243859,9 @@
       "managed": true,
       "first_started_at": "2024-04-23T11:17:48Z",
       "last_updated_at": "2025-05-20T14:24:58Z",
-      "last_activity_at": "2026-09-30T18:41:32Z",
+      "last_activity_at": "2026-10-01T07:20:18Z",
       "reports_count": null,
-      "resolved_reports_count": 26,
+      "resolved_reports_count": 27,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -252929,134 +253024,6 @@
           "bounty": true,
           "updated_at": null,
           "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "hackerone",
-      "id": "truecaller",
-      "handle": "truecaller",
-      "name": "Truecaller ",
-      "url": "https://hackerone.com/truecaller",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": true,
-      "first_started_at": "2019-12-04T13:15:16Z",
-      "last_updated_at": "2024-12-06T10:56:59Z",
-      "last_activity_at": "2026-09-30T13:55:41Z",
-      "reports_count": null,
-      "resolved_reports_count": 62,
-      "total_bounty_amount": 0.0,
-      "bounty_min": 100,
-      "bounty_max": null,
-      "targets": [
-        {
-          "type": "WILDCARD",
-          "target": "*-asia-south1.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-12-04T15:25:31Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "*-eu.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-12-04T15:26:01Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "WILDCARD",
-          "target": "*-noneu.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-12-04T15:26:23Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "APPLE_STORE_APP_ID",
-          "target": "448142450",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2022-02-23T13:42:23Z",
-          "severity": "critical",
-          "instruction": "iOS Application ID"
-        },
-        {
-          "type": "URL",
-          "target": "business-resources.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-12-06T10:56:59Z",
-          "severity": "medium",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "business.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-03-08T13:58:46Z",
-          "severity": "critical",
-          "instruction": null
-        },
-        {
-          "type": "GOOGLE_PLAY_APP_ID",
-          "target": "com.truecaller",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2019-12-04T13:15:16Z",
-          "severity": "critical",
-          "instruction": ""
-        },
-        {
-          "type": "URL",
-          "target": "web.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-12-04T15:27:47Z",
-          "severity": "high",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "www.truecaller.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-12-04T15:28:01Z",
-          "severity": "high",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "adsmanager.truecaller.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-03-11T14:30:43Z",
-          "severity": "none",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "community.truecaller.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-03-20T17:26:31Z",
-          "severity": "none",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "support.truecaller.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-03-11T17:29:50Z",
-          "severity": "none",
           "instruction": null
         }
       ]
@@ -263113,9 +263080,9 @@
       "managed": true,
       "first_started_at": "2018-09-19T17:07:32Z",
       "last_updated_at": "2024-04-30T18:28:53Z",
-      "last_activity_at": "2026-10-01T05:06:16Z",
+      "last_activity_at": "2026-10-01T10:02:49Z",
       "reports_count": null,
-      "resolved_reports_count": 1268,
+      "resolved_reports_count": 1269,
       "total_bounty_amount": 0.0,
       "bounty_min": 200,
       "bounty_max": null,
@@ -265600,125 +265567,6 @@
           "updated_at": "2023-01-24T12:51:10Z",
           "severity": "none",
           "instruction": ""
-        }
-      ]
-    },
-    {
-      "platform": "hackerone",
-      "id": "zabbix",
-      "handle": "zabbix",
-      "name": "Zabbix",
-      "url": "https://hackerone.com/zabbix",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": true,
-      "first_started_at": "2022-09-06T10:32:26Z",
-      "last_updated_at": "2024-03-26T14:25:53Z",
-      "last_activity_at": "2026-09-03T07:01:22Z",
-      "reports_count": null,
-      "resolved_reports_count": 95,
-      "total_bounty_amount": 0.0,
-      "bounty_min": 50,
-      "bounty_max": null,
-      "targets": [
-        {
-          "type": "SOURCE_CODE",
-          "target": "https://www.zabbix.com/download_sources",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2024-05-20T12:59:34Z",
-          "severity": "critical",
-          "instruction": "You can download any supported versions of Zabbix distributive for testing purposes (including pre-release versions)."
-        },
-        {
-          "type": "URL",
-          "target": "https://academy.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2025-12-16T10:14:53Z",
-          "severity": "none",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "https://blog.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:38:48Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program."
-        },
-        {
-          "type": "URL",
-          "target": "https://cloud.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-11-29T10:41:59Z",
-          "severity": "none",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "https://exam.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:47:38Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program."
-        },
-        {
-          "type": "URL",
-          "target": "https://git.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:43:59Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program.\n"
-        },
-        {
-          "type": "URL",
-          "target": "https://shop.zabbix.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2025-08-12T08:10:04Z",
-          "severity": "none",
-          "instruction": null
-        },
-        {
-          "type": "URL",
-          "target": "https://space.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:46:21Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program."
-        },
-        {
-          "type": "URL",
-          "target": "https://support.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:40:16Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program."
-        },
-        {
-          "type": "URL",
-          "target": "https://translate.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:42:08Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program."
-        },
-        {
-          "type": "URL",
-          "target": "https://www.zabbix.com/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": "2024-04-29T08:37:30Z",
-          "severity": "none",
-          "instruction": "This website out of the scope of this program."
         }
       ]
     },
@@ -272724,9 +272572,9 @@
       "managed": true,
       "first_started_at": "2019-08-01T15:47:57Z",
       "last_updated_at": "2023-04-26T15:13:11Z",
-      "last_activity_at": "2026-09-22T07:03:22Z",
+      "last_activity_at": "2026-10-01T12:48:06Z",
       "reports_count": null,
-      "resolved_reports_count": 6732,
+      "resolved_reports_count": 6733,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -280877,7 +280725,7 @@
       "managed": true,
       "first_started_at": "2022-08-25T08:11:39Z",
       "last_updated_at": "2023-03-06T06:53:01Z",
-      "last_activity_at": "2026-10-01T03:06:33Z",
+      "last_activity_at": "2026-10-01T13:02:02Z",
       "reports_count": null,
       "resolved_reports_count": null,
       "total_bounty_amount": 0.0,
@@ -415034,6 +414882,15 @@
         },
         {
           "type": "URL",
+          "target": "nwbanks-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:28:39Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "nwfcu.caaweb.com",
           "in_scope": true,
           "bounty": false,
@@ -415137,6 +414994,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:49:20Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "oak-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:56:19Z",
           "severity": "critical",
           "instruction": null
         },
@@ -415691,6 +415557,15 @@
         },
         {
           "type": "URL",
+          "target": "onelocalbank.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:55:50Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "onelocalbank.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -415790,6 +415665,15 @@
         },
         {
           "type": "URL",
+          "target": "onlinebank.com.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:55:37Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "onlinebanking.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -415821,6 +415705,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T11:09:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "onlinefarmersbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:53:49Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "onlinefarmersbank.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:54:33Z",
           "severity": "critical",
           "instruction": null
         },
@@ -416015,6 +415917,24 @@
         },
         {
           "type": "URL",
+          "target": "opportunitybank-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:48:41Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "opportunitybank-c2.configure-digital.cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:50:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "opportunitybank-p2.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -416028,6 +415948,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T15:43:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "opportunitybank.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:52:05Z",
           "severity": "critical",
           "instruction": null
         },
@@ -416825,6 +416754,42 @@
         },
         {
           "type": "URL",
+          "target": "pbncebank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:47:47Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pbofca-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:46:09Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pboflebanon-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:43:26Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pbparis-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:42:31Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "pbxinfo-cit.fiservapp.com",
           "in_scope": true,
           "bounty": false,
@@ -416924,6 +416889,15 @@
         },
         {
           "type": "URL",
+          "target": "penncrest-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:41:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "penncrest.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -416960,6 +416934,15 @@
         },
         {
           "type": "URL",
+          "target": "pennsvillenb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:39:56Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "pentest-test.fiserv.io",
           "in_scope": true,
           "bounty": false,
@@ -416978,10 +416961,28 @@
         },
         {
           "type": "URL",
+          "target": "peoplefirstbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:38:51Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "peoples.fdecs.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-11T20:39:49Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "peoplesbankdirect-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:37:17Z",
           "severity": "critical",
           "instruction": null
         },
@@ -417023,10 +417024,28 @@
         },
         {
           "type": "URL",
+          "target": "peoplesbanktrust-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:35:58Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "peoplesbanktrust.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-02T15:49:52Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "peoplesstatebank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:34:50Z",
           "severity": "critical",
           "instruction": null
         },
@@ -417054,6 +417073,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T12:21:45Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "perennialbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:33:58Z",
           "severity": "critical",
           "instruction": null
         },
@@ -417185,6 +417213,24 @@
         },
         {
           "type": "URL",
+          "target": "perufederalsavings-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:31:25Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "perufederalsavings.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:32:19Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "petsmart.gift.solutions",
           "in_scope": true,
           "bounty": false,
@@ -417311,6 +417357,15 @@
         },
         {
           "type": "URL",
+          "target": "pinecountrybank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:30:23Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "pinefcu-dc.cert.fec-dc.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -417347,6 +417402,42 @@
         },
         {
           "type": "URL",
+          "target": "pinnbank.architect-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T12:29:12Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pinnbank.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:53:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pinnbanktx.architect-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:51:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pinnbanktx.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:50:39Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "pinpointfcu-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -417360,6 +417451,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-10T17:08:04Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pioneerbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:41:12Z",
           "severity": "critical",
           "instruction": null
         },
@@ -417383,10 +417483,37 @@
         },
         {
           "type": "URL",
+          "target": "pioneerstate-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:23:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "pioneerstate-p2.onlinebank.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-09-30T17:58:11Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pioneerstate.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:26:23Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pioneerstate.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T11:24:26Z",
           "severity": "critical",
           "instruction": null
         },
@@ -447152,9 +447279,9 @@
       "managed": true,
       "first_started_at": "2022-02-15T12:30:39Z",
       "last_updated_at": "2022-02-02T09:32:13Z",
-      "last_activity_at": "2026-09-18T14:25:52Z",
+      "last_activity_at": "2026-10-01T12:50:38Z",
       "reports_count": null,
-      "resolved_reports_count": 86,
+      "resolved_reports_count": 87,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -449974,9 +450101,9 @@
       "managed": false,
       "first_started_at": "2016-11-21T15:51:55Z",
       "last_updated_at": "2021-03-08T11:59:48Z",
-      "last_activity_at": "2026-09-30T18:16:23Z",
+      "last_activity_at": "2026-10-01T12:19:05Z",
       "reports_count": null,
-      "resolved_reports_count": 31871,
+      "resolved_reports_count": 31873,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -456901,9 +457028,9 @@
       "managed": true,
       "first_started_at": "2020-11-30T21:14:17Z",
       "last_updated_at": null,
-      "last_activity_at": "2026-09-07T09:56:02Z",
+      "last_activity_at": "2026-10-01T08:50:37Z",
       "reports_count": null,
-      "resolved_reports_count": 182,
+      "resolved_reports_count": 184,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -456920,9 +457047,9 @@
       "managed": true,
       "first_started_at": "2021-04-27T09:57:11Z",
       "last_updated_at": null,
-      "last_activity_at": "2026-09-11T14:35:59Z",
+      "last_activity_at": "2026-10-01T09:47:30Z",
       "reports_count": null,
-      "resolved_reports_count": 178,
+      "resolved_reports_count": 184,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
