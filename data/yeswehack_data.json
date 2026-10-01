@@ -456,7 +456,7 @@
     "min_bounty": 50,
     "name": "BookBeat",
     "public": true,
-    "reports_count": 670,
+    "reports_count": 671,
     "scopes_count": 6,
     "status": "V",
     "url": "https://yeswehack.com/programs/bookbeat",
@@ -465,10 +465,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 670,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 8,
-      "total_reports_current_month": 1
+      "total_reports": 671,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 9,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -2016,7 +2016,7 @@
     "min_bounty": 5,
     "name": "GOJEK - Public Bounty Program",
     "public": true,
-    "reports_count": 1006,
+    "reports_count": 1007,
     "scopes_count": 16,
     "status": "V",
     "url": "https://yeswehack.com/programs/gojek-bug-bounty-program",
@@ -2025,10 +2025,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 1006,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 8,
-      "total_reports_current_month": 0
+      "total_reports": 1007,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 9,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -2330,7 +2330,7 @@
     "min_bounty": 50,
     "name": "HARMAN International - Web Applications",
     "public": true,
-    "reports_count": 2405,
+    "reports_count": 2408,
     "scopes_count": 27,
     "status": "V",
     "url": "https://yeswehack.com/programs/harman-international-web-applications",
@@ -2339,10 +2339,10 @@
       "max_reward": 500000,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 2405,
-      "total_reports_last24_hours": 8,
-      "total_reports_last7_days": 34,
-      "total_reports_current_month": 0
+      "total_reports": 2408,
+      "total_reports_last24_hours": 11,
+      "total_reports_last7_days": 37,
+      "total_reports_current_month": 3
     },
     "targets": {
       "in_scope": [
@@ -2558,7 +2558,7 @@
     "min_bounty": 100,
     "name": "Harman International Lifestyle Products & Services",
     "public": true,
-    "reports_count": 314,
+    "reports_count": 317,
     "scopes_count": 25,
     "status": "V",
     "url": "https://yeswehack.com/programs/harman-international-public-bug-bounty",
@@ -2567,10 +2567,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 314,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 5,
-      "total_reports_current_month": 0
+      "total_reports": 317,
+      "total_reports_last24_hours": 3,
+      "total_reports_last7_days": 8,
+      "total_reports_current_month": 3
     },
     "targets": {
       "in_scope": [
@@ -2750,7 +2750,7 @@
     "min_bounty": 10,
     "name": "IMOU Public Bug Bounty Program",
     "public": true,
-    "reports_count": 206,
+    "reports_count": 207,
     "scopes_count": 6,
     "status": "V",
     "url": "https://yeswehack.com/programs/imou-public-bug-bounty-program",
@@ -2759,10 +2759,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 206,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 2,
-      "total_reports_current_month": 0
+      "total_reports": 207,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 3,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -2824,7 +2824,7 @@
     "min_bounty": 100,
     "name": "Infomaniak Bug Bounty program",
     "public": true,
-    "reports_count": 3738,
+    "reports_count": 3740,
     "scopes_count": 51,
     "status": "V",
     "url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
@@ -2833,10 +2833,10 @@
       "max_reward": 1500000,
       "average_reward": 73799,
       "average_first_time_response": 1,
-      "total_reports": 3738,
-      "total_reports_last24_hours": 20,
-      "total_reports_last7_days": 90,
-      "total_reports_current_month": 0
+      "total_reports": 3740,
+      "total_reports_last24_hours": 22,
+      "total_reports_last7_days": 92,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -4398,7 +4398,7 @@
     "min_bounty": 50,
     "name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
     "public": true,
-    "reports_count": 784,
+    "reports_count": 785,
     "scopes_count": 5,
     "status": "V",
     "url": "https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program",
@@ -4407,10 +4407,10 @@
       "max_reward": 1500000,
       "average_reward": 46815,
       "average_first_time_response": 1,
-      "total_reports": 784,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 6,
-      "total_reports_current_month": 0
+      "total_reports": 785,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 7,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -4466,7 +4466,7 @@
     "min_bounty": 50,
     "name": "Paddle.com Public Bug Bounty Program",
     "public": true,
-    "reports_count": 1028,
+    "reports_count": 1029,
     "scopes_count": 12,
     "status": "V",
     "url": "https://yeswehack.com/programs/paddle-com-public-bug-bounty-program",
@@ -4475,10 +4475,10 @@
       "max_reward": 150000,
       "average_reward": 47361,
       "average_first_time_response": 1,
-      "total_reports": 1028,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 19,
-      "total_reports_current_month": 0
+      "total_reports": 1029,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 20,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -4754,7 +4754,7 @@
     "min_bounty": 50,
     "name": "Private Internet Access - Bug Bounty Program",
     "public": true,
-    "reports_count": 343,
+    "reports_count": 344,
     "scopes_count": 12,
     "status": "V",
     "url": "https://yeswehack.com/programs/private-internet-access-bug-bounty-program",
@@ -4763,10 +4763,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 343,
-      "total_reports_last24_hours": 2,
-      "total_reports_last7_days": 19,
-      "total_reports_current_month": 0
+      "total_reports": 344,
+      "total_reports_last24_hours": 3,
+      "total_reports_last7_days": 20,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -4922,7 +4922,7 @@
     "min_bounty": 50,
     "name": "Santé Publique France Bug Bounty Program",
     "public": true,
-    "reports_count": 288,
+    "reports_count": 289,
     "scopes_count": 8,
     "status": "V",
     "url": "https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program",
@@ -4931,10 +4931,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 288,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 1,
-      "total_reports_current_month": 0
+      "total_reports": 289,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 2,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -5420,7 +5420,7 @@
     "min_bounty": 100,
     "name": "Swiss Post - E-Voting",
     "public": true,
-    "reports_count": 1940,
+    "reports_count": 1941,
     "scopes_count": 5,
     "status": "V",
     "url": "https://yeswehack.com/programs/swiss-post-evoting",
@@ -5429,10 +5429,10 @@
       "max_reward": 4000000,
       "average_reward": 220680,
       "average_first_time_response": 1,
-      "total_reports": 1940,
-      "total_reports_last24_hours": 3,
-      "total_reports_last7_days": 30,
-      "total_reports_current_month": 0
+      "total_reports": 1941,
+      "total_reports_last24_hours": 4,
+      "total_reports_last7_days": 31,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -5580,7 +5580,7 @@
     "min_bounty": 50,
     "name": "Telenor Sweden Public Bug Bounty Program",
     "public": true,
-    "reports_count": 1973,
+    "reports_count": 1974,
     "scopes_count": 24,
     "status": "V",
     "url": "https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program",
@@ -5589,10 +5589,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 1973,
-      "total_reports_last24_hours": 3,
-      "total_reports_last7_days": 18,
-      "total_reports_current_month": 0
+      "total_reports": 1974,
+      "total_reports_last24_hours": 4,
+      "total_reports_last7_days": 19,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
