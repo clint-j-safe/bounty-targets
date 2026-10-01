@@ -1,6 +1,1008 @@
 {
-  "generated_at": "2026-10-01T13:31:37Z",
+  "generated_at": "2026-10-01T22:49:00Z",
   "programs": [
+    {
+      "platform": "hackerone",
+      "id": "mongodb",
+      "handle": "mongodb",
+      "name": "MongoDB",
+      "url": "https://hackerone.com/mongodb",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": true,
+      "first_started_at": "2022-02-22T12:16:32Z",
+      "last_updated_at": "2026-10-01T22:33:53Z",
+      "last_activity_at": "2026-09-21T23:47:01Z",
+      "reports_count": null,
+      "resolved_reports_count": 312,
+      "total_bounty_amount": 0.0,
+      "bounty_min": 50,
+      "bounty_max": null,
+      "targets": [
+        {
+          "type": "WILDCARD",
+          "target": "*.mongodb.com/*",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:03:05Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\n.mongodb.com/ is in scope, and includes\nmongodb.com/docs/\nsupport.mongodb.com\nAll others sites that follow that pattern are in-scope. If the site is owned by MongoDB, it is eligible for a bounty. If it’s owned by a 3rd party, it is not eligible for a bounty. This scope is a catch-all for all products not listed individually with the 'Atlas' Prefix, or covered as an Atlas product, listed elsewhere in the scope.\nmongodb.com/community/forums is in scope, but not eligible for a bounty.\nfeedback.mongodb.com is out of scope and not eligible for bounty. Please do not test that platform. All bugs should be reported to AHA, not MongoDB.\nArtifactory is being deprecated and not eligible for bounty.\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "App Services/Realm",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2025-10-23T16:30:30Z",
+          "severity": "critical",
+          "instruction": "MongoDB App Services (fka Realm) has been deprecated. "
+        },
+        {
+          "type": "OTHER",
+          "target": "Atlas Charts",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:50:09Z",
+          "severity": "critical",
+          "instruction": "[Core]\ncharts.mongodb.com"
+        },
+        {
+          "type": "OTHER",
+          "target": "Atlas Data Federation",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:49:29Z",
+          "severity": "critical",
+          "instruction": "[Core]\nAtlas Data Federation is embedded into the Atlas Platform. Read more here:\nhttps://www.mongodb.com/products/platform/atlas-data-federation\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "Atlas IAM",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:49:44Z",
+          "severity": "critical",
+          "instruction": "[Core]\naccount.mongodb.com and other Identity and Access Management bugs within Atlas, regarding Organizations, Projects and permissions."
+        },
+        {
+          "type": "OTHER",
+          "target": "Atlas Infinite",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:43:20Z",
+          "severity": "critical",
+          "instruction": "[Core]\nhttps://www.mongodb.com/docs/atlas/infinite/atlas-infinite-landing/"
+        },
+        {
+          "type": "OTHER",
+          "target": "Atlas Payments/Billing",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:48:55Z",
+          "severity": "critical",
+          "instruction": "[Core]\nBilling is integrated into the Atlas Platform, read more here: https://www.mongodb.com/docs/atlas/billing/"
+        },
+        {
+          "type": "OTHER",
+          "target": "Cluster-To-Cluster sync",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:04:10Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/mongosync"
+        },
+        {
+          "type": "OTHER",
+          "target": "Compass",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:03:53Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/compass\nResponsible social engineering reports are in scope but not eligible for bounty. \n"
+        },
+        {
+          "type": "DOWNLOADABLE_EXECUTABLES",
+          "target": "Database Tools",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:01:32Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/database-tools"
+        },
+        {
+          "type": "DOWNLOADABLE_EXECUTABLES",
+          "target": "Drivers",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:02:34Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nThese are the following drivers that are in scope:\nAtlas SQL JDBC Driver\nAtlas SQL ODBC Driver\nC\nC++\nGo\nJVM (Java, Scala, Kotlin)\nLibmongocrypt\nNode.js/Typescript\nPHP\nPython\nRuby\nRust\nThe Swift Driver is not in scope and not eligible for bounty.\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "Enterprise Edition Products and Tools",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:55:57Z",
+          "severity": "critical",
+          "instruction": "[Core]\nOps manager and Cloud manager"
+        },
+        {
+          "type": "OTHER",
+          "target": "Evergreen",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-01T20:24:45Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://github.com/evergreen-ci/evergreen"
+        },
+        {
+          "type": "OTHER",
+          "target": "Jira Projects",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:58:52Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nMongoDB is open-sourced and has publicly visible JIRA tickets. Only report information disclosure issues-- no technical bugs are accepted. Bounty may be varied."
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Assistant",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:59:14Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nMongoDB Assistant is integrated into Data Explorer and Compass."
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Atlas",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:55:03Z",
+          "severity": "critical",
+          "instruction": "[Core]\nAtlas and Atlas Features and Products are in scope and eligible for bounty.\nAtlas IAM, Charts, Data Federation, Payments/Billing, are listed elsewhere in the scope. Other Atlas products not explicitly listed elsewhere in the scope should be submitted here. This includes, but is not limited to Streams, Online Archive, Clusters, and Backup.\nhttps://cloud.mongodb.com\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Atlas Agent Engine",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:48:39Z",
+          "severity": "critical",
+          "instruction": "[Core]\nhttps://www.mongodb.com/docs/agentengine/\nCustomers are responsible for the correct functioning of their MongoDB-hosted agent, so no bug reports will be accepted for misbehaving agents. Bug reports will also not be accepted for agents that violate our Acceptable Use Policy or Terms of Service. Otherwise, security gaps in the Atlas Agent Engine control plane or data plane, especially where cross-customer data access or availability impacts are possible, should be reported."
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Atlas Agent Engine CLI and First Party Libraries",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:42:41Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nResponsible social engineering reports are in scope but not eligible for bounty. "
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Connectors",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:02:13Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nThe Connectors are in scope. This includes\nKafka Connector\nPowerBI Connector\nBI Connector\nSpark Connector\nTableau Connector\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB IntelliJ Plugin",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:01:02Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://plugins.jetbrains.com/plugin/24377-mongodb"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB MCP Server",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:01:54Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://github.com/mongodb-js/mongodb-mcp-server"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Owned GitHub Repositories",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:04:37Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nOnly github.com/mongodb is considered to be eligible for bounty. Other MongoDB owned repositories are in scope, but not eligible for bounty.\nhttps://github.com/mongodb/kingfisher is out of scope and not eligible for bounty.\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Partner Integrations",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:00:07Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://cloud.mongodb.com/ecosystem\nPartner integrations may be eligible for bounties, depending on the owner of the issue.\n"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Server",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-01T22:33:53Z",
+          "severity": "critical",
+          "instruction": "[Core]\nServer Community and Server Enterprise are in scope and eligible for bounty."
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Shell",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T14:03:32Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/shell"
+        },
+        {
+          "type": "OTHER",
+          "target": "MongoDB Toolchain",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T13:56:37Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttp://mongodbtoolchain.build.10gen.cc"
+        },
+        {
+          "type": "OTHER",
+          "target": "Relational Migrator",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:56:54Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/relational-migrator"
+        },
+        {
+          "type": "OTHER",
+          "target": "University Platform",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-09-30T13:57:25Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nlearn.mongodb.com is owned by 3rd party and not eligible for bounty"
+        },
+        {
+          "type": "OTHER",
+          "target": "VS Code Plugin",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-30T13:57:44Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
+        },
+        {
+          "type": "URL",
+          "target": "voyageai.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-01T21:28:17Z",
+          "severity": "critical",
+          "instruction": "[Non-Core]\nhttps://www.voyageai.com\nhttps://ai.mongodb.com\nhttps://api.voyageai.com\nhttps://blog.voyageai.com/\nhttps://docs.voyageai.com/docs/introduction"
+        }
+      ]
+    },
+    {
+      "platform": "intigriti",
+      "id": "025558a4-e74e-41eb-9bf6-a01dbe8e5a7a",
+      "handle": "coca-cola",
+      "name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
+      "offers_bounty": false,
+      "submission_state": "open",
+      "managed": null,
+      "first_started_at": "2023-11-23T13:45:00Z",
+      "last_updated_at": "2026-10-01T20:10:25Z",
+      "last_activity_at": "2026-09-30T16:18:52Z",
+      "reports_count": 3071,
+      "resolved_reports_count": 0,
+      "total_bounty_amount": null,
+      "bounty_min": 0,
+      "bounty_max": 0,
+      "targets": [
+        {
+          "type": "other",
+          "target": "Brand Sites",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "Brand sites owned by The Coca-Cola Company. These brands can be viewed from the following URL: https://www.coca-colacompany.com/brands"
+        },
+        {
+          "type": "url",
+          "target": "Corporate Sites",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "*.us.coca-cola.com\n*.coca-cola.com\n*.ko.com\n*.testko.com\n*.coca-colacompany.com\n*.coke.com\n*.cokeurl.com\n*.tccc-aem.com"
+        },
+        {
+          "type": "wildcard",
+          "target": "*.fairlife.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.fofbrands.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.goodcow.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": null
+        },
+        {
+          "type": "other",
+          "target": "Hindustan Coca-Cola Beverages",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "Since our establishment on 14th February 1997 in Bengaluru, Karnataka, Hindustan Coca-Cola Beverages (HCCB) has been on a mission to refresh the nation. Having flourished into one of the Top 5 leading beverage companies in India, all our operations are geared towards creating nothing but the best. We specialize in manufacturing, packaging and distributing a vast range of beverages from The Coca-Cola Company portfolio nationwide. But at the same time, we are more than just a leading beverage company in India, we are a company that is profoundly about the impact we make on our people and planet. \n\n**Domains**\n*.hccb.in\n*.hccbpl.in"
+        },
+        {
+          "type": "other",
+          "target": "Mobile Applications",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "[CokeOn iOS App](https://apps.apple.com/jp/app/coke-on/id1088184021?l=en-US)\n\n[CokeOn Android App](https://play.google.com/store/apps/details?id=com.coke.cokeon&hl=en_US&pli=1)\n\n[CokePLAY](https://cokeplay.cocacola.co.kr/main)\n\n[Coca-Cola iOS App](https://apps.apple.com/us/app/one-by-the-coca-cola-company/id1310675636)\n\n[Coca-Cola Android App](https://play.google.com/store/apps/details?id=com.cocacola.app.cee&pli=1)\n\n[Costa Coffee iOS App](https://itunes.apple.com/app/id578627826)\n\n[Costa Coffee Android App](https://play.google.com/store/apps/details?id=uk.co.club.costa.costa)\n\n[Costa Coffee Club Poland iOS App](https://itunes.apple.com/app/id1435140959)\n\n[Costa Coffee Club Poland Android App](https://play.google.com/store/apps/details?id=pl.costacoffee.club)"
+        },
+        {
+          "type": "other",
+          "target": "Publicly Facing Assets Related to The Coca-Cola Company",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": null,
+          "severity": "No Bounty",
+          "instruction": "Researchers are welcome to submit reports on any publicly facing asset(s) attributed to The Coca-Cola Company."
+        },
+        {
+          "type": "other",
+          "target": "Food and Beverage Dispensing Devices",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": "Due to the unique nature of these devices (usually present on networks operated by 3rd parties), we do not authorize testing against them.\n\n* Coca-Cola Freestyle Machines\n* Dasani Purefill Water Dispensers\n* Intelligent Vending Machines\n* Connected Coolers"
+        },
+        {
+          "type": "other",
+          "target": "Coke One North America (CONA)",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": "Any application or asset owned by Coke One North America (CONA)"
+        },
+        {
+          "type": "other",
+          "target": "Assets Related to China",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": "All assets located in or related to China are out of scope and reports will not be accepted."
+        },
+        {
+          "type": "url",
+          "target": "limonsoda.cl",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.ccnag.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.connect.coca-cola.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "wildcard",
+          "target": "*.crewconnect.coca-cola.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "other",
+          "target": "All Coke Stores",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": "Applications or assets related to any Coke Stores."
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "cfc49377-f1ee-4afd-8c5f-fa4dda8b038b",
+      "handle": "stonikbyte",
+      "name": "StonikByte",
+      "url": "https://bugcrowd.com/engagements/stonikbyte",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2021-02-18T19:00:00Z",
+      "last_updated_at": "2026-10-01T19:49:53Z",
+      "last_activity_at": "2025-07-28T15:51:06Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 1500,
+      "targets": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/607387265/velocity-throughput-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-forecast-for-agile-teams?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1752044660/cumulative-flow-diagram-cfd-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "Non- Atlassian Marketplace Apps",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "24b48dd2-2a10-48c3-bbd1-aadb30c69f09",
+      "handle": "acorns",
+      "name": "Acorns Grow, Inc.",
+      "url": "https://bugcrowd.com/engagements/acorns",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2015-11-23T18:46:00Z",
+      "last_updated_at": "2026-10-01T17:54:49Z",
+      "last_activity_at": "2015-11-23T18:46:00Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 4000,
+      "targets": [
+        {
+          "type": "website",
+          "target": "https://acorns.com/",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "other",
+          "target": "https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "api",
+          "target": "https://graphql.acorns.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "other",
+          "target": "https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.pixpay.fr/",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "share.acorns.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "grow.acorns.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "store.acorns.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "ced459d3-acc1-475b-a11f-70b24e117de7",
+      "handle": "FindOut-infovis",
+      "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/FindOut-infovis",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2023-08-01T18:00:00Z",
+      "last_updated_at": "2026-10-01T17:24:06Z",
+      "last_activity_at": "2023-08-01T18:00:00Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 1500,
+      "targets": [
+        {
+          "type": "website",
+          "target": "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
+    {
+      "platform": "bugcrowd",
+      "id": "bc95f457-39ea-4bbc-80a6-f01f8f914ee7",
+      "handle": "northwestern-mutual-mbb-og",
+      "name": "Northwestern Mutual - Public Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/northwestern-mutual-mbb-og",
+      "offers_bounty": true,
+      "submission_state": "in_progress",
+      "managed": true,
+      "first_started_at": "2024-11-21T03:29:11Z",
+      "last_updated_at": "2026-10-01T15:33:26Z",
+      "last_activity_at": "2024-11-21T03:29:11Z",
+      "reports_count": null,
+      "resolved_reports_count": null,
+      "total_bounty_amount": null,
+      "bounty_min": null,
+      "bounty_max": 6000,
+      "targets": [
+        {
+          "type": "website",
+          "target": "Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "216.20.176.0/20",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://northwesternmutual.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.nml.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.nmfn.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "android",
+          "target": "https://play.google.com/store/apps/details?id=com.nm.nm&hl=en_US&gl=US",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "ios",
+          "target": "https://apps.apple.com/us/app/northwestern-mutual/id1132579006",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/find-a-financial-advisor/",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/financial/advisor/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/careers-apply/",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/report-a-death/",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/notice-of-long-term-care-form/",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/financial-professionals/?name=*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/notice-of-disability-form/",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "northwesternmutual.com/notice-of-group-disability-form/",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "Any Domain that Follows the Pattern */webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "servicenmfn.awms.apps.northwesternmutual.com/webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "servicenmfnstage.awms.apps.northwesternmutual.com/webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "servicenmfntest.awms.apps.northwesternmutual.com/webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "service.nmfn.com/webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "servicestage.nmfn.com/webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "servicetest.nmfn.com/webforms/nmfnForms/*",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "calculator.northwesternmutual.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "gbpwealth.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "mymhs.nmfn.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "nmresearchlibrary.nml.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "nwm.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "sparks-financial.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "theandersonfinancialgroupnm.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "themint.org",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "website",
+          "target": "21fiveca.com",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        },
+        {
+          "type": "ip_address",
+          "target": "Emerald Publications",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": null,
+          "severity": null,
+          "instruction": null
+        }
+      ]
+    },
     {
       "platform": "intigriti",
       "id": "fdfddd69-ea12-4ff0-b1d1-1f9bdc42492f",
@@ -12,8 +1014,8 @@
       "managed": null,
       "first_started_at": "2026-08-03T13:01:29Z",
       "last_updated_at": "2026-10-01T12:58:22Z",
-      "last_activity_at": "2026-10-01T12:58:22Z",
-      "reports_count": 0,
+      "last_activity_at": "2026-10-01T17:37:06Z",
+      "reports_count": 4,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -837,7 +1839,7 @@
       "reports_count": 1326,
       "resolved_reports_count": 611,
       "total_bounty_amount": {
-        "value": 156370.0,
+        "value": 156420.0,
         "currency": "EUR"
       },
       "bounty_min": 0,
@@ -901,11 +1903,11 @@
       "managed": null,
       "first_started_at": "2026-08-17T12:08:17Z",
       "last_updated_at": "2026-10-01T08:32:46Z",
-      "last_activity_at": "2026-10-01T11:57:01Z",
-      "reports_count": 832,
-      "resolved_reports_count": 46,
+      "last_activity_at": "2026-10-01T20:03:17Z",
+      "reports_count": 841,
+      "resolved_reports_count": 51,
       "total_bounty_amount": {
-        "value": 104100.0,
+        "value": 107995.0,
         "currency": "USD"
       },
       "bounty_min": 75,
@@ -2572,296 +3574,6 @@
       ]
     },
     {
-      "platform": "hackerone",
-      "id": "mongodb",
-      "handle": "mongodb",
-      "name": "MongoDB",
-      "url": "https://hackerone.com/mongodb",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": true,
-      "first_started_at": "2022-02-22T12:16:32Z",
-      "last_updated_at": "2026-09-30T14:44:04Z",
-      "last_activity_at": "2026-09-21T23:47:01Z",
-      "reports_count": null,
-      "resolved_reports_count": 312,
-      "total_bounty_amount": 0.0,
-      "bounty_min": 50,
-      "bounty_max": null,
-      "targets": [
-        {
-          "type": "WILDCARD",
-          "target": "*.mongodb.com/*",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:03:05Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\n.mongodb.com/ is in scope, and includes\nmongodb.com/docs/\nsupport.mongodb.com\nAll others sites that follow that pattern are in-scope. If the site is owned by MongoDB, it is eligible for a bounty. If it’s owned by a 3rd party, it is not eligible for a bounty. This scope is a catch-all for all products not listed individually with the 'Atlas' Prefix, or covered as an Atlas product, listed elsewhere in the scope.\nmongodb.com/community/forums is in scope, but not eligible for a bounty.\nfeedback.mongodb.com is out of scope and not eligible for bounty. Please do not test that platform. All bugs should be reported to AHA, not MongoDB.\nArtifactory is being deprecated and not eligible for bounty.\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "All Evergreen Assets (Excluding staging)",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:05:12Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://github.com/evergreen-ci/evergreen"
-        },
-        {
-          "type": "OTHER",
-          "target": "App Services/Realm",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": "2025-10-23T16:30:30Z",
-          "severity": "critical",
-          "instruction": "MongoDB App Services (fka Realm) has been deprecated. "
-        },
-        {
-          "type": "OTHER",
-          "target": "Atlas Charts",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:50:09Z",
-          "severity": "critical",
-          "instruction": "[Core]\ncharts.mongodb.com"
-        },
-        {
-          "type": "OTHER",
-          "target": "Atlas Data Federation",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:49:29Z",
-          "severity": "critical",
-          "instruction": "[Core]\nAtlas Data Federation is embedded into the Atlas Platform. Read more here:\nhttps://www.mongodb.com/products/platform/atlas-data-federation\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "Atlas IAM",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:49:44Z",
-          "severity": "critical",
-          "instruction": "[Core]\naccount.mongodb.com and other Identity and Access Management bugs within Atlas, regarding Organizations, Projects and permissions."
-        },
-        {
-          "type": "OTHER",
-          "target": "Atlas Infinite",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:43:20Z",
-          "severity": "critical",
-          "instruction": "[Core]\nhttps://www.mongodb.com/docs/atlas/infinite/atlas-infinite-landing/"
-        },
-        {
-          "type": "OTHER",
-          "target": "Atlas Payments/Billing",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:48:55Z",
-          "severity": "critical",
-          "instruction": "[Core]\nBilling is integrated into the Atlas Platform, read more here: https://www.mongodb.com/docs/atlas/billing/"
-        },
-        {
-          "type": "OTHER",
-          "target": "Cluster-To-Cluster sync",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:04:10Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/mongosync"
-        },
-        {
-          "type": "OTHER",
-          "target": "Compass",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:03:53Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/compass\nResponsible social engineering reports are in scope but not eligible for bounty. \n"
-        },
-        {
-          "type": "DOWNLOADABLE_EXECUTABLES",
-          "target": "Database Tools",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:01:32Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/database-tools"
-        },
-        {
-          "type": "DOWNLOADABLE_EXECUTABLES",
-          "target": "Drivers",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:02:34Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nThese are the following drivers that are in scope:\nAtlas SQL JDBC Driver\nAtlas SQL ODBC Driver\nC\nC++\nGo\nJVM (Java, Scala, Kotlin)\nLibmongocrypt\nNode.js/Typescript\nPHP\nPython\nRuby\nRust\nThe Swift Driver is not in scope and not eligible for bounty.\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "Enterprise Edition Products and Tools",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:55:57Z",
-          "severity": "critical",
-          "instruction": "[Core]\nOps manager and Cloud manager"
-        },
-        {
-          "type": "OTHER",
-          "target": "Jira Projects",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:58:52Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nMongoDB is open-sourced and has publicly visible JIRA tickets. Only report information disclosure issues-- no technical bugs are accepted. Bounty may be varied."
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Assistant",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:59:14Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nMongoDB Assistant is integrated into Data Explorer and Compass."
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Atlas",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:55:03Z",
-          "severity": "critical",
-          "instruction": "[Core]\nAtlas and Atlas Features and Products are in scope and eligible for bounty.\nAtlas IAM, Charts, Data Federation, Payments/Billing, are listed elsewhere in the scope. Other Atlas products not explicitly listed elsewhere in the scope should be submitted here. This includes, but is not limited to Streams, Online Archive, Clusters, and Backup.\nhttps://cloud.mongodb.com\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Atlas Agent Engine",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:48:39Z",
-          "severity": "critical",
-          "instruction": "[Core]\nhttps://www.mongodb.com/docs/agentengine/\nCustomers are responsible for the correct functioning of their MongoDB-hosted agent, so no bug reports will be accepted for misbehaving agents. Bug reports will also not be accepted for agents that violate our Acceptable Use Policy or Terms of Service. Otherwise, security gaps in the Atlas Agent Engine control plane or data plane, especially where cross-customer data access or availability impacts are possible, should be reported."
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Atlas Agent Engine CLI and First Party Libraries",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:42:41Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nResponsible social engineering reports are in scope but not eligible for bounty. "
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Community Server",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:54:41Z",
-          "severity": "critical",
-          "instruction": "[Core]\nServer Community and Server Enterprise are in scope and eligible for bounty. This includes but is not limited to Cloud Manager, Ops Manager, Search, and the Kubernetes Operators."
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Connectors",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:02:13Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nThe Connectors are in scope. This includes\nKafka Connector\nPowerBI Connector\nBI Connector\nSpark Connector\nTableau Connector\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB IntelliJ Plugin",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:01:02Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://plugins.jetbrains.com/plugin/24377-mongodb"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB MCP Server",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:01:54Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://github.com/mongodb-js/mongodb-mcp-server"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Owned GitHub Repositories",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:04:37Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nOnly github.com/mongodb is considered to be eligible for bounty. Other MongoDB owned repositories are in scope, but not eligible for bounty.\nhttps://github.com/mongodb/kingfisher is out of scope and not eligible for bounty.\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Partner Integrations",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:00:07Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://cloud.mongodb.com/ecosystem\nPartner integrations may be eligible for bounties, depending on the owner of the issue.\n"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Shell",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T14:03:32Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/shell"
-        },
-        {
-          "type": "OTHER",
-          "target": "MongoDB Toolchain",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": "2026-09-30T13:56:37Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttp://mongodbtoolchain.build.10gen.cc"
-        },
-        {
-          "type": "OTHER",
-          "target": "Relational Migrator",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:56:54Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://www.mongodb.com/try/download/relational-migrator"
-        },
-        {
-          "type": "OTHER",
-          "target": "University Platform",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": "2026-09-30T13:57:25Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nlearn.mongodb.com is owned by 3rd party and not eligible for bounty"
-        },
-        {
-          "type": "OTHER",
-          "target": "VS Code Plugin",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:57:44Z",
-          "severity": "critical",
-          "instruction": "[Non-Core]\nhttps://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
-        },
-        {
-          "type": "URL",
-          "target": "voyageai.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": "2026-09-30T13:47:12Z",
-          "severity": "critical",
-          "instruction": "[Core]\nhttps://www.voyageai.com\nhttps://ai.mongodb.com\nhttps://api.voyageai.com\n\n[Non-Core]\nhttps://blog.voyageai.com/\nhttps://docs.voyageai.com/docs/introduction"
-        }
-      ]
-    },
-    {
       "platform": "intigriti",
       "id": "ee2612e7-e188-492f-9bb2-ba48651523de",
       "handle": "intergamma",
@@ -2872,8 +3584,8 @@
       "managed": null,
       "first_started_at": "2021-01-22T15:17:41Z",
       "last_updated_at": "2026-09-30T14:27:49Z",
-      "last_activity_at": "2026-10-01T02:35:22Z",
-      "reports_count": 1665,
+      "last_activity_at": "2026-10-01T16:08:12Z",
+      "reports_count": 1667,
       "resolved_reports_count": 183,
       "total_bounty_amount": {
         "value": 61505.0,
@@ -3327,7 +4039,7 @@
       "managed": null,
       "first_started_at": "2020-02-21T16:39:22Z",
       "last_updated_at": "2026-09-30T14:02:54Z",
-      "last_activity_at": "2026-10-01T11:56:30Z",
+      "last_activity_at": "2026-10-01T19:18:34Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -3726,7 +4438,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-30T13:37:54Z",
       "last_activity_at": null,
-      "reports_count": 2410,
+      "reports_count": 2428,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -4363,92 +5075,6 @@
       ]
     },
     {
-      "platform": "intigriti",
-      "id": "5ed6962a-7017-4d60-8805-e169b638528d",
-      "handle": "sqillscorporatewebsite",
-      "name": "Sqills",
-      "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2020-11-27T10:10:00Z",
-      "last_updated_at": "2026-09-30T06:30:18Z",
-      "last_activity_at": "2026-08-17T19:46:48Z",
-      "reports_count": 288,
-      "resolved_reports_count": 0,
-      "total_bounty_amount": {
-        "value": 9950.0,
-        "currency": "EUR"
-      },
-      "bounty_min": 0,
-      "bounty_max": 2500,
-      "targets": [
-        {
-          "type": "wildcard",
-          "target": "*.sqills.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.sqills.team",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.red.sqills.team",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "booking.*.cloud.sqills.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "booking.*.sqills.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "careers.sqills.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "welcome.sqills.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
       "platform": "hackerone",
       "id": "valve",
       "handle": "valve",
@@ -4713,9 +5339,9 @@
       "managed": false,
       "first_started_at": "2016-08-25T16:53:52Z",
       "last_updated_at": "2026-09-29T19:38:28Z",
-      "last_activity_at": "2026-10-01T11:55:19Z",
+      "last_activity_at": "2026-10-01T20:29:16Z",
       "reports_count": null,
-      "resolved_reports_count": 430,
+      "resolved_reports_count": 433,
       "total_bounty_amount": 0.0,
       "bounty_min": 250,
       "bounty_max": null,
@@ -8992,9 +9618,9 @@
       "managed": true,
       "first_started_at": "2020-06-26T16:46:02Z",
       "last_updated_at": "2026-09-29T15:25:16Z",
-      "last_activity_at": "2026-09-30T16:10:47Z",
+      "last_activity_at": "2026-10-01T20:13:38Z",
       "reports_count": null,
-      "resolved_reports_count": 181,
+      "resolved_reports_count": 182,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -9895,9 +10521,9 @@
       "managed": null,
       "first_started_at": "2019-12-18T12:05:06Z",
       "last_updated_at": "2026-09-29T09:46:21Z",
-      "last_activity_at": "2026-10-01T06:45:37Z",
-      "reports_count": 2306,
-      "resolved_reports_count": 1081,
+      "last_activity_at": "2026-10-01T21:59:38Z",
+      "reports_count": 2308,
+      "resolved_reports_count": 1083,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -10489,7 +11115,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-28T16:14:07Z",
       "last_activity_at": null,
-      "reports_count": 3743,
+      "reports_count": 3751,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -11120,7 +11746,7 @@
       "managed": null,
       "first_started_at": "2023-01-05T13:44:34Z",
       "last_updated_at": "2026-09-28T13:36:47Z",
-      "last_activity_at": "2026-10-01T06:14:36Z",
+      "last_activity_at": "2026-10-01T21:52:39Z",
       "reports_count": 0,
       "resolved_reports_count": 674,
       "total_bounty_amount": {
@@ -12419,7 +13045,7 @@
       "managed": false,
       "first_started_at": "2020-08-04T17:32:42Z",
       "last_updated_at": "2026-09-25T08:46:40Z",
-      "last_activity_at": "2026-09-29T14:07:31Z",
+      "last_activity_at": "2026-10-01T13:15:21Z",
       "reports_count": null,
       "resolved_reports_count": 1305,
       "total_bounty_amount": 0.0,
@@ -13699,11 +14325,11 @@
       "managed": null,
       "first_started_at": "2024-03-27T15:25:26Z",
       "last_updated_at": "2026-09-24T19:05:15Z",
-      "last_activity_at": "2026-10-01T10:51:27Z",
-      "reports_count": 1950,
-      "resolved_reports_count": 238,
+      "last_activity_at": "2026-10-01T21:17:21Z",
+      "reports_count": 1955,
+      "resolved_reports_count": 239,
       "total_bounty_amount": {
-        "value": 268026.0,
+        "value": 269126.0,
         "currency": "USD"
       },
       "bounty_min": 50,
@@ -14319,7 +14945,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-24T15:12:59Z",
       "last_activity_at": null,
-      "reports_count": 109,
+      "reports_count": 110,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 200,
@@ -15083,7 +15709,7 @@
       "managed": null,
       "first_started_at": "2017-03-21T08:24:20Z",
       "last_updated_at": "2026-09-24T09:24:30Z",
-      "last_activity_at": "2026-09-30T14:53:24Z",
+      "last_activity_at": "2026-10-01T17:44:35Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -15652,7 +16278,7 @@
       "managed": false,
       "first_started_at": "2016-07-23T00:29:17Z",
       "last_updated_at": "2026-09-23T23:39:03Z",
-      "last_activity_at": "2026-09-30T21:55:31Z",
+      "last_activity_at": "2026-10-01T16:46:40Z",
       "reports_count": null,
       "resolved_reports_count": null,
       "total_bounty_amount": 0.0,
@@ -16745,6 +17371,35 @@
     },
     {
       "platform": "hackerone",
+      "id": "omarchy",
+      "handle": "omarchy",
+      "name": "Omarchy",
+      "url": "https://hackerone.com/omarchy",
+      "offers_bounty": true,
+      "submission_state": "open",
+      "managed": false,
+      "first_started_at": "2026-10-01T17:46:03Z",
+      "last_updated_at": "2026-09-23T20:14:47Z",
+      "last_activity_at": null,
+      "reports_count": null,
+      "resolved_reports_count": 0,
+      "total_bounty_amount": 0.0,
+      "bounty_min": null,
+      "bounty_max": null,
+      "targets": [
+        {
+          "type": "SOURCE_CODE",
+          "target": "https://github.com/omacom/omarchy",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-09-23T23:37:32Z",
+          "severity": "critical",
+          "instruction": ""
+        }
+      ]
+    },
+    {
+      "platform": "hackerone",
       "id": "stripe",
       "handle": "stripe",
       "name": "Stripe",
@@ -16754,9 +17409,9 @@
       "managed": true,
       "first_started_at": "2020-12-07T19:16:26Z",
       "last_updated_at": "2026-09-23T20:08:07Z",
-      "last_activity_at": "2026-10-01T10:40:38Z",
+      "last_activity_at": "2026-10-01T16:09:33Z",
       "reports_count": null,
-      "resolved_reports_count": 619,
+      "resolved_reports_count": 620,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -17748,8 +18403,8 @@
       "managed": null,
       "first_started_at": "2022-05-03T08:47:27Z",
       "last_updated_at": "2026-09-23T12:23:08Z",
-      "last_activity_at": "2026-09-28T20:35:50Z",
-      "reports_count": 771,
+      "last_activity_at": "2026-10-01T16:36:31Z",
+      "reports_count": 772,
       "resolved_reports_count": 0,
       "total_bounty_amount": {
         "value": 11440.0,
@@ -18489,80 +19144,6 @@
       ]
     },
     {
-      "platform": "bugcrowd",
-      "id": "cfc49377-f1ee-4afd-8c5f-fa4dda8b038b",
-      "handle": "stonikbyte",
-      "name": "StonikByte",
-      "url": "https://bugcrowd.com/engagements/stonikbyte",
-      "offers_bounty": true,
-      "submission_state": "in_progress",
-      "managed": true,
-      "first_started_at": "2021-02-18T19:00:00Z",
-      "last_updated_at": "2026-09-22T21:10:25Z",
-      "last_activity_at": "2025-07-28T15:51:06Z",
-      "reports_count": null,
-      "resolved_reports_count": null,
-      "total_bounty_amount": null,
-      "bounty_min": null,
-      "bounty_max": 1500,
-      "targets": [
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud&tab=overview",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud&tab=overview",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "Non- Atlassian Marketplace Apps",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
       "platform": "hackerone",
       "id": "bcny",
       "handle": "bcny",
@@ -18904,7 +19485,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-22T10:02:29Z",
       "last_activity_at": null,
-      "reports_count": 1942,
+      "reports_count": 1945,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -18977,9 +19558,9 @@
       "managed": true,
       "first_started_at": "2019-06-29T21:01:56Z",
       "last_updated_at": "2026-09-21T19:59:17Z",
-      "last_activity_at": "2026-10-01T01:56:39Z",
+      "last_activity_at": "2026-10-01T14:07:40Z",
       "reports_count": null,
-      "resolved_reports_count": 10428,
+      "resolved_reports_count": 10429,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -19681,9 +20262,9 @@
       "managed": true,
       "first_started_at": "2022-09-30T14:57:43Z",
       "last_updated_at": "2026-09-21T16:58:52Z",
-      "last_activity_at": "2026-09-28T23:46:31Z",
+      "last_activity_at": "2026-10-01T18:18:46Z",
       "reports_count": null,
-      "resolved_reports_count": 321,
+      "resolved_reports_count": 322,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -22501,8 +23082,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T17:19:53Z",
       "last_updated_at": "2026-09-16T10:24:33Z",
-      "last_activity_at": "2026-09-30T17:58:48Z",
-      "reports_count": 321,
+      "last_activity_at": "2026-10-01T19:44:02Z",
+      "reports_count": 323,
       "resolved_reports_count": 10,
       "total_bounty_amount": {
         "value": 8485.0,
@@ -23703,7 +24284,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-15T15:56:52Z",
       "last_activity_at": null,
-      "reports_count": 619,
+      "reports_count": 620,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -23972,8 +24553,8 @@
       "managed": null,
       "first_started_at": "2020-11-13T08:27:07Z",
       "last_updated_at": "2026-09-15T12:52:45Z",
-      "last_activity_at": "2026-10-01T09:02:02Z",
-      "reports_count": 1423,
+      "last_activity_at": "2026-10-01T15:00:39Z",
+      "reports_count": 1424,
       "resolved_reports_count": 229,
       "total_bounty_amount": {
         "value": 87630.0,
@@ -24175,8 +24756,8 @@
       "managed": null,
       "first_started_at": "2021-07-02T06:56:24Z",
       "last_updated_at": "2026-09-14T16:48:32Z",
-      "last_activity_at": "2026-09-30T05:39:50Z",
-      "reports_count": 600,
+      "last_activity_at": "2026-10-01T16:48:05Z",
+      "reports_count": 601,
       "resolved_reports_count": 117,
       "total_bounty_amount": {
         "value": 55625.0,
@@ -24627,6 +25208,15 @@
           "in_scope": true,
           "bounty": true,
           "updated_at": "2026-05-07T17:13:51Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "OTHER",
+          "target": "Wonder",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-01T18:20:12Z",
           "severity": "critical",
           "instruction": null
         },
@@ -26636,8 +27226,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T14:12:04Z",
       "last_updated_at": "2026-09-11T07:00:08Z",
-      "last_activity_at": "2026-10-01T05:50:26Z",
-      "reports_count": 660,
+      "last_activity_at": "2026-10-01T15:01:46Z",
+      "reports_count": 661,
       "resolved_reports_count": 88,
       "total_bounty_amount": {
         "value": 76596.0,
@@ -28565,9 +29155,9 @@
       "managed": true,
       "first_started_at": "2024-11-19T14:20:53Z",
       "last_updated_at": "2026-09-10T15:46:18Z",
-      "last_activity_at": "2026-09-29T12:53:38Z",
+      "last_activity_at": "2026-10-01T13:18:57Z",
       "reports_count": null,
-      "resolved_reports_count": 74,
+      "resolved_reports_count": 75,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -29418,7 +30008,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-10T12:24:50Z",
       "last_activity_at": null,
-      "reports_count": 183,
+      "reports_count": 184,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -29583,8 +30173,8 @@
       "managed": null,
       "first_started_at": "2021-06-24T13:40:50Z",
       "last_updated_at": "2026-09-10T11:38:20Z",
-      "last_activity_at": "2026-09-30T18:27:37Z",
-      "reports_count": 128,
+      "last_activity_at": "2026-10-01T13:42:54Z",
+      "reports_count": 129,
       "resolved_reports_count": 13,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -30964,7 +31554,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-09T16:07:34Z",
       "last_activity_at": null,
-      "reports_count": 488,
+      "reports_count": 489,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -41891,6 +42481,15 @@
         },
         {
           "type": "URL",
+          "target": "partsdataproductapi-ext.deere.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:14:48Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "partsdesk.deere.com",
           "in_scope": true,
           "bounty": false,
@@ -52304,7 +52903,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-07T10:00:29Z",
       "last_activity_at": null,
-      "reports_count": 1975,
+      "reports_count": 1977,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -53043,9 +53642,9 @@
       "managed": false,
       "first_started_at": "2015-04-03T05:06:59Z",
       "last_updated_at": "2026-09-06T18:22:51Z",
-      "last_activity_at": "2026-09-30T13:00:51Z",
+      "last_activity_at": "2026-10-01T20:11:01Z",
       "reports_count": null,
-      "resolved_reports_count": 567,
+      "resolved_reports_count": 572,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -54148,7 +54747,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-04T09:08:12Z",
       "last_activity_at": null,
-      "reports_count": 2740,
+      "reports_count": 2744,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -54302,9 +54901,9 @@
       "managed": true,
       "first_started_at": "2020-03-31T17:02:48Z",
       "last_updated_at": "2026-09-04T00:31:21Z",
-      "last_activity_at": "2026-09-30T18:14:00Z",
+      "last_activity_at": "2026-10-01T17:59:36Z",
       "reports_count": null,
-      "resolved_reports_count": 2664,
+      "resolved_reports_count": 2668,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -55910,9 +56509,9 @@
       "managed": true,
       "first_started_at": "2018-08-20T21:00:42Z",
       "last_updated_at": "2026-09-03T22:58:28Z",
-      "last_activity_at": "2026-09-29T21:08:51Z",
+      "last_activity_at": "2026-10-01T17:58:47Z",
       "reports_count": null,
-      "resolved_reports_count": 2465,
+      "resolved_reports_count": 2467,
       "total_bounty_amount": 0.0,
       "bounty_min": 0,
       "bounty_max": null,
@@ -57017,8 +57616,8 @@
       "managed": null,
       "first_started_at": "2023-01-13T11:51:23Z",
       "last_updated_at": "2026-09-02T15:59:49Z",
-      "last_activity_at": "2026-09-30T21:44:25Z",
-      "reports_count": 2924,
+      "last_activity_at": "2026-10-01T17:31:09Z",
+      "reports_count": 2926,
       "resolved_reports_count": 634,
       "total_bounty_amount": null,
       "bounty_min": 15,
@@ -57424,8 +58023,8 @@
       "managed": null,
       "first_started_at": "2024-03-19T11:20:06Z",
       "last_updated_at": "2026-09-02T14:26:43Z",
-      "last_activity_at": "2026-10-01T11:52:17Z",
-      "reports_count": 6986,
+      "last_activity_at": "2026-10-01T20:47:00Z",
+      "reports_count": 6991,
       "resolved_reports_count": 3003,
       "total_bounty_amount": null,
       "bounty_min": 150,
@@ -57526,7 +58125,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-02T06:56:20Z",
       "last_activity_at": null,
-      "reports_count": 671,
+      "reports_count": 672,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -60869,7 +61468,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:37Z",
       "last_activity_at": null,
-      "reports_count": 345,
+      "reports_count": 348,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -61314,7 +61913,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:27Z",
       "last_activity_at": null,
-      "reports_count": 304,
+      "reports_count": 305,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -62298,7 +62897,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-28T08:49:00Z",
       "last_activity_at": null,
-      "reports_count": 5988,
+      "reports_count": 5989,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": null,
@@ -68480,35 +69079,6 @@
     },
     {
       "platform": "bugcrowd",
-      "id": "ced459d3-acc1-475b-a11f-70b24e117de7",
-      "handle": "FindOut-infovis",
-      "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
-      "url": "https://bugcrowd.com/engagements/FindOut-infovis",
-      "offers_bounty": true,
-      "submission_state": "in_progress",
-      "managed": true,
-      "first_started_at": "2023-08-01T18:00:00Z",
-      "last_updated_at": "2026-08-27T02:29:15Z",
-      "last_activity_at": "2023-08-01T18:00:00Z",
-      "reports_count": null,
-      "resolved_reports_count": null,
-      "total_bounty_amount": null,
-      "bounty_min": null,
-      "bounty_max": 1500,
-      "targets": [
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "bugcrowd",
       "id": "f49ee264-d1ed-4e82-a4b5-893f94e4d303",
       "handle": "brizoit",
       "name": "BrizoIT",
@@ -69591,9 +70161,9 @@
       "managed": true,
       "first_started_at": "2022-01-26T20:15:28Z",
       "last_updated_at": "2026-08-25T18:08:42Z",
-      "last_activity_at": "2026-09-29T18:31:00Z",
+      "last_activity_at": "2026-10-01T15:02:17Z",
       "reports_count": null,
-      "resolved_reports_count": 466,
+      "resolved_reports_count": 468,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -69964,9 +70534,9 @@
       "managed": null,
       "first_started_at": "2026-05-06T15:09:02Z",
       "last_updated_at": "2026-08-25T11:38:22Z",
-      "last_activity_at": "2026-10-01T10:29:23Z",
-      "reports_count": 95,
-      "resolved_reports_count": 6,
+      "last_activity_at": "2026-10-01T20:25:52Z",
+      "reports_count": 96,
+      "resolved_reports_count": 7,
       "total_bounty_amount": null,
       "bounty_min": 0,
       "bounty_max": 0,
@@ -70461,11 +71031,11 @@
       "managed": null,
       "first_started_at": "2025-07-14T12:10:35Z",
       "last_updated_at": "2026-08-24T19:19:41Z",
-      "last_activity_at": "2026-10-01T10:54:30Z",
-      "reports_count": 1813,
-      "resolved_reports_count": 195,
+      "last_activity_at": "2026-10-01T21:34:43Z",
+      "reports_count": 1816,
+      "resolved_reports_count": 197,
       "total_bounty_amount": {
-        "value": 84166.0,
+        "value": 85044.0,
         "currency": "USD"
       },
       "bounty_min": 100,
@@ -71089,9 +71659,9 @@
       "managed": true,
       "first_started_at": "2024-08-08T20:15:22Z",
       "last_updated_at": "2026-08-24T11:59:57Z",
-      "last_activity_at": "2026-09-30T14:34:24Z",
+      "last_activity_at": "2026-10-01T19:35:47Z",
       "reports_count": null,
-      "resolved_reports_count": 534,
+      "resolved_reports_count": 536,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -76047,6 +76617,15 @@
           "instruction": ""
         },
         {
+          "type": "WILDCARD",
+          "target": "https://github.com/strands-agents/*",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:34:36Z",
+          "severity": "critical",
+          "instruction": ""
+        },
+        {
           "type": "OTHER",
           "target": "node.e2ro.com/*",
           "in_scope": true,
@@ -76920,7 +77499,7 @@
       "managed": null,
       "first_started_at": "2023-01-30T10:09:11Z",
       "last_updated_at": "2026-08-20T09:28:27Z",
-      "last_activity_at": "2026-09-25T14:27:13Z",
+      "last_activity_at": "2026-10-01T14:07:49Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -78126,7 +78705,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-18T12:22:17Z",
       "last_activity_at": null,
-      "reports_count": 665,
+      "reports_count": 666,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -80468,7 +81047,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-17T02:42:51Z",
       "last_activity_at": null,
-      "reports_count": 2629,
+      "reports_count": 2631,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 5,
@@ -80860,170 +81439,6 @@
           "updated_at": null,
           "severity": null,
           "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "intigriti",
-      "id": "025558a4-e74e-41eb-9bf6-a01dbe8e5a7a",
-      "handle": "coca-cola",
-      "name": "The Coca-Cola Company Vulnerability Disclosure Program",
-      "url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
-      "offers_bounty": false,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2023-11-23T13:45:00Z",
-      "last_updated_at": "2026-08-14T17:20:01Z",
-      "last_activity_at": "2026-09-30T16:18:52Z",
-      "reports_count": 3071,
-      "resolved_reports_count": 0,
-      "total_bounty_amount": null,
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "targets": [
-        {
-          "type": "other",
-          "target": "Brand Sites",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "Brand sites owned by The Coca-Cola Company. These brands can be viewed from the following URL: https://www.coca-colacompany.com/brands"
-        },
-        {
-          "type": "url",
-          "target": "Corporate Sites",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "*.us.coca-cola.com\n*.coca-cola.com\n*.ko.com\n*.testko.com\n*.coca-colacompany.com\n*.coke.com\n*.cokeurl.com\n*.tccc-aem.com"
-        },
-        {
-          "type": "wildcard",
-          "target": "*.fairlife.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.fofbrands.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.goodcow.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "Hindustan Coca-Cola Beverages",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "Since our establishment on 14th February 1997 in Bengaluru, Karnataka, Hindustan Coca-Cola Beverages (HCCB) has been on a mission to refresh the nation. Having flourished into one of the Top 5 leading beverage companies in India, all our operations are geared towards creating nothing but the best. We specialize in manufacturing, packaging and distributing a vast range of beverages from The Coca-Cola Company portfolio nationwide. But at the same time, we are more than just a leading beverage company in India, we are a company that is profoundly about the impact we make on our people and planet. \n\n**Domains**\n*.hccb.in\n*.hccbpl.in"
-        },
-        {
-          "type": "other",
-          "target": "Mobile Applications",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "[CokeOn iOS App](https://apps.apple.com/jp/app/coke-on/id1088184021?l=en-US)\n\n[CokeOn Android App](https://play.google.com/store/apps/details?id=com.coke.cokeon&hl=en_US&pli=1)\n\n[CokePLAY](https://cokeplay.cocacola.co.kr/main)\n\n[Coca-Cola iOS App](https://apps.apple.com/us/app/one-by-the-coca-cola-company/id1310675636)\n\n[Coca-Cola Android App](https://play.google.com/store/apps/details?id=com.cocacola.app.cee&pli=1)\n\n[Costa Coffee iOS App](https://itunes.apple.com/app/id578627826)\n\n[Costa Coffee Android App](https://play.google.com/store/apps/details?id=uk.co.club.costa.costa)\n\n[Costa Coffee Club Poland iOS App](https://itunes.apple.com/app/id1435140959)\n\n[Costa Coffee Club Poland Android App](https://play.google.com/store/apps/details?id=pl.costacoffee.club)"
-        },
-        {
-          "type": "other",
-          "target": "Publicly Facing Assets Related to The Coca-Cola Company",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "Researchers are welcome to submit reports on any publicly facing asset(s) attributed to The Coca-Cola Company."
-        },
-        {
-          "type": "other",
-          "target": "Food and Beverage Dispensing Devices",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "Due to the unique nature of these devices (usually present on networks operated by 3rd parties), we do not authorize testing against them.\n\n* Coca-Cola Freestyle Machines\n* Dasani Purefill Water Dispensers\n* Intelligent Vending Machines\n* Connected Coolers"
-        },
-        {
-          "type": "other",
-          "target": "Coke One North America (CONA)",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "Any application or asset owned by Coke One North America (CONA)"
-        },
-        {
-          "type": "other",
-          "target": "Assets Related to China",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "All assets located in or related to China are out of scope and reports will not be accepted."
-        },
-        {
-          "type": "url",
-          "target": "limonsoda.cl",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.ccnag.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.connect.coca-cola.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.crewconnect.coca-cola.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "All Coke Stores",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "Applications or assets related to any Coke Stores."
         }
       ]
     },
@@ -83144,7 +83559,7 @@
       "managed": null,
       "first_started_at": "2026-05-28T18:58:35Z",
       "last_updated_at": "2026-08-10T22:28:05Z",
-      "last_activity_at": "2026-09-30T20:45:28Z",
+      "last_activity_at": "2026-10-01T20:52:25Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -83773,9 +84188,9 @@
       "managed": true,
       "first_started_at": "2014-03-28T22:09:39Z",
       "last_updated_at": "2026-08-07T18:56:09Z",
-      "last_activity_at": "2026-09-30T12:34:34Z",
+      "last_activity_at": "2026-10-01T20:00:21Z",
       "reports_count": null,
-      "resolved_reports_count": 1194,
+      "resolved_reports_count": 1196,
       "total_bounty_amount": 0.0,
       "bounty_min": 200,
       "bounty_max": null,
@@ -85102,9 +85517,9 @@
       "managed": true,
       "first_started_at": "2025-01-07T16:26:13Z",
       "last_updated_at": "2026-08-05T13:54:42Z",
-      "last_activity_at": "2026-09-29T14:32:39Z",
+      "last_activity_at": "2026-10-01T16:23:18Z",
       "reports_count": null,
-      "resolved_reports_count": 268,
+      "resolved_reports_count": 269,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -85880,7 +86295,7 @@
       "managed": null,
       "first_started_at": "2025-11-03T11:42:42Z",
       "last_updated_at": "2026-08-05T10:39:49Z",
-      "last_activity_at": "2026-10-01T12:50:36Z",
+      "last_activity_at": "2026-10-01T21:12:47Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -86980,7 +87395,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-03T07:22:01Z",
       "last_activity_at": null,
-      "reports_count": 841,
+      "reports_count": 842,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -91167,107 +91582,6 @@
       ]
     },
     {
-      "platform": "bugcrowd",
-      "id": "24b48dd2-2a10-48c3-bbd1-aadb30c69f09",
-      "handle": "acorns",
-      "name": "Acorns Grow, Inc.",
-      "url": "https://bugcrowd.com/engagements/acorns",
-      "offers_bounty": true,
-      "submission_state": "in_progress",
-      "managed": true,
-      "first_started_at": "2015-11-23T18:46:00Z",
-      "last_updated_at": "2026-07-27T21:47:59Z",
-      "last_activity_at": "2015-11-23T18:46:00Z",
-      "reports_count": null,
-      "resolved_reports_count": null,
-      "total_bounty_amount": null,
-      "bounty_min": null,
-      "bounty_max": 4000,
-      "targets": [
-        {
-          "type": "website",
-          "target": "https://acorns.com/",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "api",
-          "target": "https://graphql.acorns.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "other",
-          "target": "https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://www.gohenry.com/",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://www.pixpay.fr/",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "share.acorns.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "grow.acorns.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "store.acorns.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
       "platform": "hackerone",
       "id": "github",
       "handle": "github",
@@ -91649,9 +91963,9 @@
       "managed": true,
       "first_started_at": "2017-10-03T00:30:30Z",
       "last_updated_at": "2026-07-27T15:22:21Z",
-      "last_activity_at": "2026-09-30T17:39:25Z",
+      "last_activity_at": "2026-10-01T20:31:35Z",
       "reports_count": null,
-      "resolved_reports_count": 2570,
+      "resolved_reports_count": 2575,
       "total_bounty_amount": 0.0,
       "bounty_min": 200,
       "bounty_max": null,
@@ -97235,7 +97549,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-07-17T08:14:17Z",
       "last_activity_at": null,
-      "reports_count": 1790,
+      "reports_count": 1793,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -97735,9 +98049,9 @@
       "managed": false,
       "first_started_at": "2023-09-19T13:45:51Z",
       "last_updated_at": "2026-07-15T15:04:29Z",
-      "last_activity_at": "2026-10-01T08:17:57Z",
+      "last_activity_at": "2026-10-01T20:59:17Z",
       "reports_count": null,
-      "resolved_reports_count": 471,
+      "resolved_reports_count": 472,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -98830,8 +99144,8 @@
       "managed": null,
       "first_started_at": "2020-05-28T08:57:20Z",
       "last_updated_at": "2026-07-15T08:08:19Z",
-      "last_activity_at": "2026-10-01T06:01:07Z",
-      "reports_count": 535,
+      "last_activity_at": "2026-10-01T14:10:11Z",
+      "reports_count": 536,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -101968,8 +102282,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T17:26:31Z",
       "last_updated_at": "2026-07-07T09:01:54Z",
-      "last_activity_at": "2026-09-30T22:30:36Z",
-      "reports_count": 494,
+      "last_activity_at": "2026-10-01T19:59:44Z",
+      "reports_count": 495,
       "resolved_reports_count": 16,
       "total_bounty_amount": {
         "value": 9845.0,
@@ -102324,8 +102638,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T17:13:33Z",
       "last_updated_at": "2026-07-07T08:37:36Z",
-      "last_activity_at": "2026-10-01T08:11:17Z",
-      "reports_count": 457,
+      "last_activity_at": "2026-10-01T17:54:18Z",
+      "reports_count": 459,
       "resolved_reports_count": 14,
       "total_bounty_amount": {
         "value": 8418.0,
@@ -103285,7 +103599,7 @@
       "managed": null,
       "first_started_at": "2026-05-20T13:25:36Z",
       "last_updated_at": "2026-07-03T17:02:29Z",
-      "last_activity_at": "2026-10-01T08:26:03Z",
+      "last_activity_at": "2026-10-01T15:43:57Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -104458,7 +104772,7 @@
       "managed": null,
       "first_started_at": "2026-03-18T13:20:41Z",
       "last_updated_at": "2026-07-02T10:04:17Z",
-      "last_activity_at": "2026-09-30T20:27:01Z",
+      "last_activity_at": "2026-10-01T15:22:40Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -104523,9 +104837,9 @@
       "managed": true,
       "first_started_at": "2026-03-03T19:28:51Z",
       "last_updated_at": "2026-07-01T23:07:01Z",
-      "last_activity_at": "2026-10-01T09:57:53Z",
+      "last_activity_at": "2026-10-01T16:01:55Z",
       "reports_count": null,
-      "resolved_reports_count": 59,
+      "resolved_reports_count": 60,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -104851,8 +105165,8 @@
       "managed": null,
       "first_started_at": "2021-10-22T09:41:41Z",
       "last_updated_at": "2026-07-01T06:56:51Z",
-      "last_activity_at": "2026-09-27T08:32:05Z",
-      "reports_count": 485,
+      "last_activity_at": "2026-10-01T17:52:28Z",
+      "reports_count": 486,
       "resolved_reports_count": 71,
       "total_bounty_amount": {
         "value": 42400.0,
@@ -106325,575 +106639,6 @@
     },
     {
       "platform": "bugcrowd",
-      "id": "bc95f457-39ea-4bbc-80a6-f01f8f914ee7",
-      "handle": "northwestern-mutual-mbb-og",
-      "name": "Northwestern Mutual - Public Bug Bounty",
-      "url": "https://bugcrowd.com/engagements/northwestern-mutual-mbb-og",
-      "offers_bounty": true,
-      "submission_state": "in_progress",
-      "managed": true,
-      "first_started_at": "2024-11-21T03:29:11Z",
-      "last_updated_at": "2026-06-25T16:29:10Z",
-      "last_activity_at": "2024-11-21T03:29:11Z",
-      "reports_count": null,
-      "resolved_reports_count": null,
-      "total_bounty_amount": null,
-      "bounty_min": null,
-      "bounty_max": 6000,
-      "targets": [
-        {
-          "type": "website",
-          "target": "Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "216.20.176.0/20",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://northwesternmutual.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://*.nml.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "https://*.nmfn.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "android",
-          "target": "https://play.google.com/store/apps/details?id=com.nm.nm&hl=en_US&gl=US",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "ios",
-          "target": "https://apps.apple.com/us/app/northwestern-mutual/id1132579006",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/find-a-financial-advisor/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/financial/advisor/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/careers-apply/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/report-a-death/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/notice-of-long-term-care-form/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/financial-professionals/?name=*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/notice-of-disability-form/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.com/notice-of-group-disability-form/",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "Any Domain that Follows the Pattern */webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "servicenmfn.awms.apps.northwesternmutual.com/webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "servicenmfnstage.awms.apps.northwesternmutual.com/webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "servicenmfntest.awms.apps.northwesternmutual.com/webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "service.nmfn.com/webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "servicestage.nmfn.com/webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "servicetest.nmfn.com/webforms/nmfnForms/*",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "calculator.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "clientwise.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "cloud.em.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "disabilityinsurancecoveragenow.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "events.nmfn.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "eventscloud.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "ftph1.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "gbpwealth.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "icapitalnetwork.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "icims.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "ideas.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "iggateway.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "m3.nml.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "metrics.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "metricssecure.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "mymhs.nmfn.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "mynmcu.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "nmcreative.space",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "nmis-stage.netxinvestor.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "nmresearchlibrary.nml.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.aramarkcafe.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.jobinfo.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutual.starssmp.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutualdigitalexplab.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "northwesternmutualinnercircle.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "nwm.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "nwm.benselect.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "nwm.zenarate.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "opportunities.northwesternmutual.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "opportunities.northwesternmutual.com.career.page",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "pugetsound.nmfn.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "sparks-financial.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "theandersonfinancialgroupnm.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "themint.org",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "u.nm.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "wholelifeconversion.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "website",
-          "target": "21fiveca.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "ip_address",
-          "target": "Emerald Publications",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
-      "platform": "bugcrowd",
       "id": "13417475-b7ef-44cd-b210-c3f8f316ed7d",
       "handle": "requirement-yogi",
       "name": "Requirement Yogi (Bug bounty)",
@@ -107013,8 +106758,8 @@
       "managed": null,
       "first_started_at": "2024-03-29T17:27:43Z",
       "last_updated_at": "2026-06-24T17:17:58Z",
-      "last_activity_at": "2026-10-01T11:47:28Z",
-      "reports_count": 804,
+      "last_activity_at": "2026-10-01T20:23:21Z",
+      "reports_count": 806,
       "resolved_reports_count": 83,
       "total_bounty_amount": {
         "value": 46572.0,
@@ -109851,12 +109596,12 @@
       "url": "https://hackerone.com/malwarebytes",
       "offers_bounty": true,
       "submission_state": "open",
-      "managed": false,
+      "managed": true,
       "first_started_at": "2017-09-22T04:17:31Z",
       "last_updated_at": "2026-06-23T07:09:22Z",
-      "last_activity_at": "2026-09-30T15:01:08Z",
+      "last_activity_at": "2026-10-01T15:32:22Z",
       "reports_count": null,
-      "resolved_reports_count": 376,
+      "resolved_reports_count": 377,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -111229,8 +110974,8 @@
       "managed": null,
       "first_started_at": "2020-09-03T11:28:44Z",
       "last_updated_at": "2026-06-17T10:56:18Z",
-      "last_activity_at": "2026-10-01T11:26:15Z",
-      "reports_count": 12126,
+      "last_activity_at": "2026-10-01T17:33:11Z",
+      "reports_count": 12128,
       "resolved_reports_count": 2701,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -113094,7 +112839,7 @@
       "managed": null,
       "first_started_at": "2025-06-13T14:41:12Z",
       "last_updated_at": "2026-06-11T16:22:49Z",
-      "last_activity_at": "2026-10-01T12:20:20Z",
+      "last_activity_at": "2026-10-01T21:45:25Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -114336,7 +114081,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-06-08T05:53:43Z",
       "last_activity_at": null,
-      "reports_count": 710,
+      "reports_count": 711,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -124975,9 +124720,9 @@
       "managed": true,
       "first_started_at": "2024-05-28T20:26:39Z",
       "last_updated_at": "2026-04-15T22:13:50Z",
-      "last_activity_at": "2026-09-16T09:23:18Z",
+      "last_activity_at": "2026-10-01T14:53:33Z",
       "reports_count": null,
-      "resolved_reports_count": 79,
+      "resolved_reports_count": 80,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -127774,7 +127519,7 @@
       "managed": null,
       "first_started_at": "2017-08-03T09:33:04Z",
       "last_updated_at": "2026-04-01T21:23:03Z",
-      "last_activity_at": "2026-09-21T23:11:16Z",
+      "last_activity_at": "2026-10-01T14:26:21Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -130993,8 +130738,8 @@
       "managed": null,
       "first_started_at": "2026-03-02T09:28:26Z",
       "last_updated_at": "2026-03-31T15:23:34Z",
-      "last_activity_at": "2026-10-01T00:29:11Z",
-      "reports_count": 83,
+      "last_activity_at": "2026-10-01T18:14:32Z",
+      "reports_count": 84,
       "resolved_reports_count": 4,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -132695,7 +132440,7 @@
       "managed": null,
       "first_started_at": "2021-07-21T08:03:34Z",
       "last_updated_at": "2026-03-25T15:49:23Z",
-      "last_activity_at": "2026-09-30T13:24:38Z",
+      "last_activity_at": "2026-10-01T13:27:34Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": {
@@ -132993,7 +132738,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-03-24T11:06:08Z",
       "last_activity_at": null,
-      "reports_count": 474,
+      "reports_count": 475,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -135063,7 +134808,7 @@
       "managed": null,
       "first_started_at": "2018-12-10T21:49:05Z",
       "last_updated_at": "2026-03-13T07:39:27Z",
-      "last_activity_at": "2026-10-01T09:22:07Z",
+      "last_activity_at": "2026-10-01T20:50:51Z",
       "reports_count": 0,
       "resolved_reports_count": 0,
       "total_bounty_amount": null,
@@ -140139,7 +139884,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-02-17T14:05:38Z",
       "last_activity_at": null,
-      "reports_count": 319,
+      "reports_count": 320,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -146132,9 +145877,9 @@
       "managed": false,
       "first_started_at": "2021-11-12T17:38:58Z",
       "last_updated_at": "2026-01-19T17:23:55Z",
-      "last_activity_at": "2026-09-25T16:06:35Z",
+      "last_activity_at": "2026-10-01T18:24:28Z",
       "reports_count": null,
-      "resolved_reports_count": 100,
+      "resolved_reports_count": 102,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -150733,7 +150478,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-12-05T05:05:38Z",
       "last_activity_at": null,
-      "reports_count": 864,
+      "reports_count": 865,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -153126,7 +152871,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-11-06T16:12:35Z",
       "last_activity_at": null,
-      "reports_count": 1029,
+      "reports_count": 1031,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -156289,7 +156034,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-10-16T09:53:27Z",
       "last_activity_at": null,
-      "reports_count": 1792,
+      "reports_count": 1793,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -158284,9 +158029,9 @@
       "managed": true,
       "first_started_at": "2020-11-02T19:55:45Z",
       "last_updated_at": "2025-09-15T19:02:24Z",
-      "last_activity_at": "2026-09-30T16:54:09Z",
+      "last_activity_at": "2026-10-01T15:27:12Z",
       "reports_count": null,
-      "resolved_reports_count": 1463,
+      "resolved_reports_count": 1464,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -242381,9 +242126,9 @@
       "managed": true,
       "first_started_at": "2023-06-08T08:30:46Z",
       "last_updated_at": "2025-06-20T11:21:06Z",
-      "last_activity_at": "2026-09-29T20:46:56Z",
+      "last_activity_at": "2026-10-01T22:11:36Z",
       "reports_count": null,
-      "resolved_reports_count": 158,
+      "resolved_reports_count": 159,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -255777,7 +255522,7 @@
       "managed": false,
       "first_started_at": "2018-11-06T14:34:57Z",
       "last_updated_at": "2024-09-09T16:15:48Z",
-      "last_activity_at": "2026-09-30T14:32:11Z",
+      "last_activity_at": "2026-10-01T20:50:55Z",
       "reports_count": null,
       "resolved_reports_count": null,
       "total_bounty_amount": 0.0,
@@ -272091,9 +271836,9 @@
       "managed": true,
       "first_started_at": "2014-06-27T06:41:38Z",
       "last_updated_at": "2023-06-13T14:12:45Z",
-      "last_activity_at": "2026-09-25T02:55:21Z",
+      "last_activity_at": "2026-10-01T19:44:56Z",
       "reports_count": null,
-      "resolved_reports_count": 2259,
+      "resolved_reports_count": 2262,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -342047,9 +341792,9 @@
       "managed": false,
       "first_started_at": "2019-08-30T16:34:05Z",
       "last_updated_at": "2022-09-29T18:35:00Z",
-      "last_activity_at": "2026-09-22T17:48:47Z",
+      "last_activity_at": "2026-10-01T21:38:28Z",
       "reports_count": null,
-      "resolved_reports_count": 317,
+      "resolved_reports_count": 318,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -343303,9 +343048,9 @@
       "managed": true,
       "first_started_at": "2021-07-13T08:58:59Z",
       "last_updated_at": "2022-08-31T18:04:20Z",
-      "last_activity_at": "2026-09-30T15:02:58Z",
+      "last_activity_at": "2026-10-01T14:28:20Z",
       "reports_count": null,
-      "resolved_reports_count": 575,
+      "resolved_reports_count": 576,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -361881,6 +361626,33 @@
         },
         {
           "type": "URL",
+          "target": "greatmidwestbank-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:11:51Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "greatmidwestbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:11:20Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "greatnationsbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:10:56Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "greatnhrestaurants.wgiftcard.com",
           "in_scope": true,
           "bounty": false,
@@ -361917,10 +361689,46 @@
         },
         {
           "type": "URL",
+          "target": "greenfieldsavings-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:10:31Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "greensboropostalcu-dc.cert.fec-dc.fiservapps.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-09T15:14:14Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "greenvillefederal-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:08:48Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "greenvillefederal-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:08:23Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "greenvillefederal.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:09:16Z",
           "severity": "critical",
           "instruction": null
         },
@@ -361957,6 +361765,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T16:45:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "grnbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:07:58Z",
           "severity": "critical",
           "instruction": null
         },
@@ -362295,6 +362112,15 @@
         },
         {
           "type": "URL",
+          "target": "havanabank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:07:27Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "hawaiicountyfcu-dc.cert.fec-dc.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -362326,6 +362152,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T14:34:35Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hcbanks-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:06:49Z",
           "severity": "critical",
           "instruction": null
         },
@@ -362380,6 +362215,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T16:43:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hcsbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:27:53Z",
           "severity": "critical",
           "instruction": null
         },
@@ -362610,6 +362454,33 @@
         },
         {
           "type": "URL",
+          "target": "heritagebankandtrust-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:27:25Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "heritagebankmn-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:26:59Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "heritagebankofcommerce-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:25:10Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "heritagebankofcommerce.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -362727,6 +362598,24 @@
         },
         {
           "type": "URL",
+          "target": "highlands-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:18:14Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "highlandstatebank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:17:49Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "highwaydistrict21fcu-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -362758,6 +362647,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T11:02:15Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "holcombbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:17:25Z",
           "severity": "critical",
           "instruction": null
         },
@@ -362817,10 +362715,55 @@
         },
         {
           "type": "URL",
+          "target": "homefederalne-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:16:32Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "homefederalnebank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T16:17:02Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "homelandcb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:46:56Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "homenatlbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:46:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "homenatlbank.onlinebank.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T15:07:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "homesavingsbanknky-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:46:06Z",
           "severity": "critical",
           "instruction": null
         },
@@ -362857,6 +362800,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-24T19:10:05Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hometrustbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:45:42Z",
           "severity": "critical",
           "instruction": null
         },
@@ -362988,6 +362940,24 @@
         },
         {
           "type": "URL",
+          "target": "hoyne-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:44:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hoyne-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:44:05Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "hoyne.caaweb.com",
           "in_scope": true,
           "bounty": false,
@@ -362997,10 +362967,37 @@
         },
         {
           "type": "URL",
+          "target": "hoyne.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:45:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hoyne.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T15:44:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "hoyneuat.caaweb.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T17:05:43Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "hsbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:56:52Z",
           "severity": "critical",
           "instruction": null
         },
@@ -408807,6 +408804,15 @@
         },
         {
           "type": "URL",
+          "target": "hustisfordstatebank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:56:03Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "hustisfordstatebank.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -408879,10 +408885,37 @@
         },
         {
           "type": "URL",
+          "target": "ibank7-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:55:29Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "ibankeaston-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T14:39:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ibankeaston-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:54:49Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ibankeaston.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:55:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -408910,6 +408943,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-05T17:13:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ibyourbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:54:28Z",
           "severity": "critical",
           "instruction": null
         },
@@ -408946,6 +408988,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-23T13:08:34Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "idahotrust-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:54:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409257,6 +409308,15 @@
         },
         {
           "type": "URL",
+          "target": "insightcreditunion-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:51:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "insightcreditunion.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -409428,6 +409488,15 @@
         },
         {
           "type": "URL",
+          "target": "investmentsb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:50:43Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "iowastatebank-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -409450,6 +409519,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:34:34Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "iowatrustbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:50:07Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409531,6 +409609,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-12T20:22:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "issbbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:49:44Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409914,10 +410001,28 @@
         },
         {
           "type": "URL",
+          "target": "joinbsb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:47:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "joinbsb.caaweb.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-09T16:50:40Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "joinbsb.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:48:14Z",
           "severity": "critical",
           "instruction": null
         },
@@ -409986,6 +410091,15 @@
         },
         {
           "type": "URL",
+          "target": "katahdintrust-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:47:35Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "katahdintrust.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -410026,6 +410140,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-10T19:18:06Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "kcsbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:47:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "kearneytrust-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:46:56Z",
           "severity": "critical",
           "instruction": null
         },
@@ -410130,6 +410262,15 @@
         },
         {
           "type": "URL",
+          "target": "keysavingsbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:46:35Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "keysavingsbank.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -410148,6 +410289,24 @@
         },
         {
           "type": "URL",
+          "target": "keystonesavings-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:46:02Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "keystonesavings.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:46:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "kfc.gift.solutions",
           "in_scope": true,
           "bounty": false,
@@ -410161,6 +410320,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T11:46:31Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "kingstonnationalbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:45:42Z",
           "severity": "critical",
           "instruction": null
         },
@@ -410409,6 +410577,15 @@
         },
         {
           "type": "URL",
+          "target": "ladysmithfederal-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:45:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "ladysmithfederal.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -410494,6 +410671,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:45:48Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "lamesanb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:44:44Z",
           "severity": "critical",
           "instruction": null
         },
@@ -410638,6 +410824,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T10:48:52Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "lauderdalecountybank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:43:31Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "lauderdalecountybank.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:44:28Z",
           "severity": "critical",
           "instruction": null
         },
@@ -410859,6 +411063,15 @@
         },
         {
           "type": "URL",
+          "target": "libertybanknj-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:43:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "libertybanknj.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -411030,6 +411243,15 @@
         },
         {
           "type": "URL",
+          "target": "locusimpact-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:42:57Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "loganmedicalfcu-dc.cert.fec-dc.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -411192,6 +411414,15 @@
         },
         {
           "type": "URL",
+          "target": "loyaltrustbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:42:41Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "loyaltrustbank.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -411228,6 +411459,15 @@
         },
         {
           "type": "URL",
+          "target": "lsbhank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:41:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "lsfcu-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -411259,6 +411499,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T15:43:32Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "lusitaniabank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:41:15Z",
           "severity": "critical",
           "instruction": null
         },
@@ -411435,6 +411684,51 @@
         },
         {
           "type": "URL",
+          "target": "makeitmcb.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:40:57Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "maketiccb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:39:06Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "malvern-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:34:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "malvernbank-p2.olbanking.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:35:05Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "malvernbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:34:48Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "man.auth.govone.com",
           "in_scope": true,
           "bounty": false,
@@ -411516,6 +411810,33 @@
         },
         {
           "type": "URL",
+          "target": "manasquan-c2.configure-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:32:51Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "manasquan-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:32:18Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "manasquan-c2.configure-digital.cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:32:36Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "manasquan-p2.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -411529,6 +411850,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-19T18:59:04Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "manasquan.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:33:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -411741,6 +412071,15 @@
         },
         {
           "type": "URL",
+          "target": "mcbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:31:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "mcbanktx.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -411853,6 +412192,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T15:51:50Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mct-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:31:24Z",
           "severity": "critical",
           "instruction": null
         },
@@ -412254,6 +412602,15 @@
         },
         {
           "type": "URL",
+          "target": "meritbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:27:47Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "methodbank-p2.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -412434,6 +412791,15 @@
         },
         {
           "type": "URL",
+          "target": "micsb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:27:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "micsb.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -412488,6 +412854,15 @@
         },
         {
           "type": "URL",
+          "target": "midcountrybank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:27:13Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "middlefield.caaweb.com",
           "in_scope": true,
           "bounty": false,
@@ -412528,6 +412903,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T18:02:03Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "midpennbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:16:07Z",
           "severity": "critical",
           "instruction": null
         },
@@ -412614,6 +412998,33 @@
         },
         {
           "type": "URL",
+          "target": "milbnk-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:47:59Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "milbnk.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T14:15:50Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "millbnk-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:47:41Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "milledgevillebank-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -412650,6 +413061,15 @@
         },
         {
           "type": "URL",
+          "target": "millvillesavings-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:47:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "millyardbank-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -412663,6 +413083,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-24T19:14:24Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "miltonsavingsbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:47:00Z",
           "severity": "critical",
           "instruction": null
         },
@@ -412690,6 +413119,24 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:20:29Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mindenexchange-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:46:38Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "minnstarbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:46:21Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413019,6 +413466,33 @@
         },
         {
           "type": "URL",
+          "target": "modelbank-c2.configure-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:45:41Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelbank-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:44:33Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelbank-c2.configure-digital.cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:44:50Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "modelbank.configure-cert.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -413028,10 +413502,91 @@
         },
         {
           "type": "URL",
+          "target": "modelbank.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:45:58Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "modelbank.configure-digital.cert.fiservapps.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T15:32:04Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelprm01-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:44:02Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelprm01.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:44:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelprm02-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:43:32Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelprm02.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:43:47Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelsmt01-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:42:59Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelsmt01.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:43:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelsmt02-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:42:23Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "modelsmt02.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:42:39Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413095,6 +413650,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-25T18:02:37Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "montereycountybank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:42:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413176,6 +413740,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:27:13Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "moundcitybank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:41:32Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413361,10 +413934,28 @@
         },
         {
           "type": "URL",
+          "target": "municipalbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:41:17Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "municipalbank.onlinebank.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-28T15:35:04Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mutualfederalbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:41:03Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413586,6 +414177,15 @@
         },
         {
           "type": "URL",
+          "target": "mybankfirst-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:40:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "mybankpsb-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -413730,10 +414330,28 @@
         },
         {
           "type": "URL",
+          "target": "myfarmersbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:40:27Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "myfarmerscat.fdecs.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2024-07-26T16:21:33Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myfirstbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:39:49Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413757,10 +414375,28 @@
         },
         {
           "type": "URL",
+          "target": "myfsbonline.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:39:34Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "mygc-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-05-29T15:03:37Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mygc-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:39:15Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413802,6 +414438,42 @@
         },
         {
           "type": "URL",
+          "target": "myheartland-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:39:00Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myhtbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:38:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myhtbank.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:38:43Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myinvestors-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:37:33Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "mykemba-admin.originate.fiservapps.com",
           "in_scope": true,
           "bounty": false,
@@ -413820,6 +414492,15 @@
         },
         {
           "type": "URL",
+          "target": "mylibertytrust-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:37:12Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "myoccu.caaweb.com",
           "in_scope": true,
           "bounty": false,
@@ -413833,6 +414514,33 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-10-09T16:54:13Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myprovident-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:36:36Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "myprovident.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:36:53Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mysecurity-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:34:24Z",
           "severity": "critical",
           "instruction": null
         },
@@ -413869,6 +414577,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:33:52Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "mythbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:34:09Z",
           "severity": "critical",
           "instruction": null
         },
@@ -414342,6 +415059,15 @@
         },
         {
           "type": "URL",
+          "target": "nesbt-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:33:43Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "netnewserapr11m1-fremont.staging.cloveronline.com",
           "in_scope": true,
           "bounty": false,
@@ -414567,6 +415293,15 @@
         },
         {
           "type": "URL",
+          "target": "nmbonline-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:33:30Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "nmbonline.onlinebank.com",
           "in_scope": true,
           "bounty": false,
@@ -414616,6 +415351,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:45:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "norbornehsl-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:33:16Z",
           "severity": "critical",
           "instruction": null
         },
@@ -414711,6 +415455,15 @@
         },
         {
           "type": "URL",
+          "target": "northstarbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:33:01Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "northwest-bank.fdecs.com",
           "in_scope": true,
           "bounty": false,
@@ -414738,6 +415491,15 @@
         },
         {
           "type": "URL",
+          "target": "northwestbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:32:47Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "northwestcert-temp.olbanking.com",
           "in_scope": true,
           "bounty": false,
@@ -414756,10 +415518,55 @@
         },
         {
           "type": "URL",
+          "target": "northwesternbank-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:32:32Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "northwestpauat.caaweb.com",
           "in_scope": true,
           "bounty": false,
           "updated_at": "2025-05-06T11:46:15Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "northwindsfcu-c2.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:30:16Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "northwindsfcu-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:29:56Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "northwindsfcu.configure-digital-cert.fiservapps.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:31:41Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "northwindsfcu.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:31:10Z",
           "severity": "critical",
           "instruction": null
         },
@@ -414859,6 +415666,15 @@
           "in_scope": true,
           "bounty": false,
           "updated_at": "2026-09-28T14:08:29Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nvb-p2.onlinebank.com",
+          "in_scope": true,
+          "bounty": false,
+          "updated_at": "2026-10-01T13:29:40Z",
           "severity": "critical",
           "instruction": null
         },
@@ -434693,9 +435509,9 @@
       "managed": true,
       "first_started_at": "2021-02-09T14:40:27Z",
       "last_updated_at": "2022-06-28T18:10:22Z",
-      "last_activity_at": "2026-09-24T17:59:17Z",
+      "last_activity_at": "2026-10-01T20:01:52Z",
       "reports_count": null,
-      "resolved_reports_count": 167,
+      "resolved_reports_count": 168,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -436403,9 +437219,9 @@
       "managed": true,
       "first_started_at": "2016-05-23T20:18:37Z",
       "last_updated_at": "2022-03-30T18:29:03Z",
-      "last_activity_at": "2026-09-03T00:11:39Z",
+      "last_activity_at": "2026-10-01T16:29:09Z",
       "reports_count": null,
-      "resolved_reports_count": 2093,
+      "resolved_reports_count": 2094,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -436567,9 +437383,9 @@
       "managed": false,
       "first_started_at": "2021-03-25T12:57:25Z",
       "last_updated_at": "2022-03-23T16:00:43Z",
-      "last_activity_at": "2026-09-22T13:12:03Z",
+      "last_activity_at": "2026-10-01T17:12:48Z",
       "reports_count": null,
-      "resolved_reports_count": 639,
+      "resolved_reports_count": 640,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -448727,9 +449543,9 @@
       "managed": true,
       "first_started_at": "2017-10-02T00:45:11Z",
       "last_updated_at": "2021-10-12T16:33:37Z",
-      "last_activity_at": "2026-09-29T13:48:53Z",
+      "last_activity_at": "2026-10-01T16:17:19Z",
       "reports_count": null,
-      "resolved_reports_count": 3843,
+      "resolved_reports_count": 3852,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -450101,9 +450917,9 @@
       "managed": false,
       "first_started_at": "2016-11-21T15:51:55Z",
       "last_updated_at": "2021-03-08T11:59:48Z",
-      "last_activity_at": "2026-10-01T12:19:05Z",
+      "last_activity_at": "2026-10-01T18:22:43Z",
       "reports_count": null,
-      "resolved_reports_count": 31873,
+      "resolved_reports_count": 31875,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
@@ -456488,6 +457304,15 @@
           "updated_at": "2023-07-13T09:08:55Z",
           "severity": "critical",
           "instruction": ""
+        },
+        {
+          "type": "SOURCE_CODE",
+          "target": "https://github.com/bitwarden/passwordless-react-example",
+          "in_scope": false,
+          "bounty": false,
+          "updated_at": "2026-10-01T17:51:13Z",
+          "severity": "none",
+          "instruction": null
         }
       ]
     },
@@ -456828,9 +457653,9 @@
       "managed": true,
       "first_started_at": "2020-01-22T14:10:58Z",
       "last_updated_at": null,
-      "last_activity_at": "2026-08-21T17:01:36Z",
+      "last_activity_at": "2026-10-01T20:39:44Z",
       "reports_count": null,
-      "resolved_reports_count": 356,
+      "resolved_reports_count": 359,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,
