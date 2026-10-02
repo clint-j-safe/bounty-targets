@@ -68,7 +68,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1786968497,
-    "last_submission_at": 1790937146,
+    "last_submission_at": 1790978410,
     "last_updated_at": 1790843566,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -85,8 +85,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790939368,
-    "submission_count": 850,
+    "last_activity_at": 1790978410,
+    "submission_count": 857,
     "targets": {
       "in_scope": [
         {
@@ -1043,7 +1043,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1773840041,
-    "last_submission_at": 1790868160,
+    "last_submission_at": 1790964277,
     "last_updated_at": 1782986657,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -1057,7 +1057,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790868160,
+    "last_activity_at": 1790964277,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -1107,7 +1107,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1673610683,
-    "last_submission_at": 1790914084,
+    "last_submission_at": 1790956291,
     "last_updated_at": 1788364789,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1124,8 +1124,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790942602,
-    "submission_count": 2928,
+    "last_activity_at": 1790956291,
+    "submission_count": 2929,
     "targets": {
       "in_scope": [
         {
@@ -1456,7 +1456,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1624542050,
-    "last_submission_at": 1790862174,
+    "last_submission_at": 1790965782,
     "last_updated_at": 1789040300,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -1470,8 +1470,8 @@
     "accepted_submission_count": 13,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790862174,
-    "submission_count": 129,
+    "last_activity_at": 1790965782,
+    "submission_count": 130,
     "targets": {
       "in_scope": [
         {
@@ -1496,7 +1496,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1710847206,
-    "last_submission_at": 1790939958,
+    "last_submission_at": 1790977787,
     "last_updated_at": 1788359203,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1510,8 +1510,8 @@
     "accepted_submission_count": 3031,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790945001,
-    "submission_count": 7003,
+    "last_activity_at": 1790977787,
+    "submission_count": 7016,
     "targets": {
       "in_scope": [
         {
@@ -1602,7 +1602,7 @@
       "currency": "EUR"
     },
     "has_updates": false,
-    "last_activity_at": 1790691347,
+    "last_activity_at": 1790951125,
     "submission_count": 445,
     "targets": {
       "in_scope": [
@@ -1713,7 +1713,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1566375703,
-    "last_submission_at": 1790937506,
+    "last_submission_at": 1790976492,
     "last_updated_at": 1775552559,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1727,7 +1727,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790937506,
+    "last_activity_at": 1790976492,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -2034,7 +2034,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1605256027,
-    "last_submission_at": 1790919029,
+    "last_submission_at": 1790966682,
     "last_updated_at": 1789476765,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -2051,8 +2051,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790937575,
-    "submission_count": 1425,
+    "last_activity_at": 1790966682,
+    "submission_count": 1426,
     "targets": {
       "in_scope": [
         {
@@ -2275,13 +2275,13 @@
       "value": 15000,
       "currency": "EUR"
     },
-    "accepted_submission_count": 100,
+    "accepted_submission_count": 101,
     "average_payout": {
-      "value": 771.0,
+      "value": 786.0,
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790863535,
+    "last_activity_at": 1790952262,
     "submission_count": 1186,
     "targets": {
       "in_scope": [
@@ -2404,7 +2404,7 @@
       ]
     },
     "total_payout": {
-      "value": 61656.0,
+      "value": 63656.0,
       "currency": "EUR"
     }
   },
@@ -3051,7 +3051,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1711733263,
-    "last_submission_at": 1790925776,
+    "last_submission_at": 1790963491,
     "last_updated_at": 1782321478,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -3068,8 +3068,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790930829,
-    "submission_count": 807,
+    "last_activity_at": 1790973025,
+    "submission_count": 808,
     "targets": {
       "in_scope": [
         {
@@ -3866,7 +3866,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1711553126,
-    "last_submission_at": 1790915293,
+    "last_submission_at": 1790951967,
     "last_updated_at": 1790276715,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -3879,12 +3879,12 @@
     },
     "accepted_submission_count": 239,
     "average_payout": {
-      "value": 1117.0,
+      "value": 1124.0,
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790915293,
-    "submission_count": 1956,
+    "last_activity_at": 1790972425,
+    "submission_count": 1957,
     "targets": {
       "in_scope": [
         {
@@ -4246,7 +4246,7 @@
       ]
     },
     "total_payout": {
-      "value": 269126.0,
+      "value": 270826.0,
       "currency": "USD"
     }
   },
@@ -4396,7 +4396,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1752495035,
-    "last_submission_at": 1790942090,
+    "last_submission_at": 1790946919,
     "last_updated_at": 1787599181,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -4410,8 +4410,8 @@
     "accepted_submission_count": 197,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790942761,
-    "submission_count": 1817,
+    "last_activity_at": 1790946919,
+    "submission_count": 1818,
     "targets": {
       "in_scope": [
         {
@@ -4629,7 +4629,7 @@
       ]
     },
     "total_payout": {
-      "value": 85044.0,
+      "value": 85094.0,
       "currency": "USD"
     }
   },
@@ -4945,7 +4945,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1778080142,
-    "last_submission_at": 1790886352,
+    "last_submission_at": 1790951276,
     "last_updated_at": 1787657902,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -4959,8 +4959,8 @@
     "accepted_submission_count": 7,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790886352,
-    "submission_count": 96,
+    "last_activity_at": 1790951276,
+    "submission_count": 97,
     "targets": {
       "in_scope": [
         {
@@ -5828,7 +5828,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1626854614,
-    "last_submission_at": 1790861254,
+    "last_submission_at": 1790953526,
     "last_updated_at": 1774453763,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -5842,7 +5842,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790861254,
+    "last_activity_at": 1790953526,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -5960,7 +5960,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790825381,
+    "last_activity_at": 1790951041,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -6035,7 +6035,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1580733319,
-    "last_submission_at": 1790931204,
+    "last_submission_at": 1790958754,
     "last_updated_at": 1786973908,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -6052,7 +6052,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790931204,
+    "last_activity_at": 1790958754,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -6360,7 +6360,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768497991,
-    "last_submission_at": 1790884784,
+    "last_submission_at": 1790958158,
     "last_updated_at": 1783414914,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -6377,8 +6377,8 @@
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790923814,
-    "submission_count": 495,
+    "last_activity_at": 1790958742,
+    "submission_count": 496,
     "targets": {
       "in_scope": [
         {
@@ -6787,7 +6787,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1789506531,
-    "last_submission_at": 1790845546,
+    "last_submission_at": 1790975512,
     "last_updated_at": 1790689530,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -6801,8 +6801,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790845546,
-    "submission_count": 31,
+    "last_activity_at": 1790975512,
+    "submission_count": 32,
     "targets": {
       "in_scope": [
         {
@@ -6845,7 +6845,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1611328661,
-    "last_submission_at": 1790870892,
+    "last_submission_at": 1790976871,
     "last_updated_at": 1790778469,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -6862,8 +6862,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790870892,
-    "submission_count": 1667,
+    "last_activity_at": 1790976871,
+    "submission_count": 1670,
     "targets": {
       "in_scope": [
         {
@@ -7297,7 +7297,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1490084660,
-    "last_submission_at": 1790876675,
+    "last_submission_at": 1790974503,
     "last_updated_at": 1790241870,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -7311,7 +7311,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790924956,
+    "last_activity_at": 1790974503,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -7787,7 +7787,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768489886,
-    "last_submission_at": 1790788469,
+    "last_submission_at": 1790961054,
     "last_updated_at": 1783415309,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -7804,8 +7804,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790788469,
-    "submission_count": 448,
+    "last_activity_at": 1790961054,
+    "submission_count": 449,
     "targets": {
       "in_scope": [
         {
@@ -8144,7 +8144,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790863099,
+    "last_activity_at": 1790951040,
     "submission_count": 1076,
     "targets": {
       "in_scope": [
@@ -8496,7 +8496,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790930947,
+    "last_activity_at": 1790951345,
     "submission_count": 460,
     "targets": {
       "in_scope": [
@@ -8981,7 +8981,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1785762089,
-    "last_submission_at": 1790937279,
+    "last_submission_at": 1790954103,
     "last_updated_at": 1790859502,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -8995,8 +8995,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790937279,
-    "submission_count": 5,
+    "last_activity_at": 1790954103,
+    "submission_count": 7,
     "targets": {
       "in_scope": [
         {
@@ -9560,13 +9560,13 @@
       "value": 5000,
       "currency": "EUR"
     },
-    "accepted_submission_count": 72,
+    "accepted_submission_count": 73,
     "average_payout": {
-      "value": 635.0,
+      "value": 628.0,
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790924948,
+    "last_activity_at": 1790948997,
     "submission_count": 486,
     "targets": {
       "in_scope": [
@@ -9682,7 +9682,7 @@
       "out_of_scope": []
     },
     "total_payout": {
-      "value": 44400.0,
+      "value": 44550.0,
       "currency": "EUR"
     }
   },
@@ -9697,7 +9697,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1718014700,
-    "last_submission_at": 1790595495,
+    "last_submission_at": 1790942863,
     "last_updated_at": 1790151363,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -9813,7 +9813,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1779994715,
-    "last_submission_at": 1790941502,
+    "last_submission_at": 1790974411,
     "last_updated_at": 1786400885,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -9827,7 +9827,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790943969,
+    "last_activity_at": 1790974411,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -9927,7 +9927,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790944379,
+    "last_activity_at": 1790951252,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -9960,7 +9960,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1641829640,
-    "last_submission_at": 1790587954,
+    "last_submission_at": 1790962367,
     "last_updated_at": 1767969577,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -9974,8 +9974,8 @@
     "accepted_submission_count": 901,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790754575,
-    "submission_count": 1850,
+    "last_activity_at": 1790962367,
+    "submission_count": 1851,
     "targets": {
       "in_scope": [
         {
@@ -10000,7 +10000,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1703081852,
-    "last_submission_at": 1790940914,
+    "last_submission_at": 1790974848,
     "last_updated_at": 1781776247,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -10014,8 +10014,8 @@
     "accepted_submission_count": 53,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790940914,
-    "submission_count": 153,
+    "last_activity_at": 1790974848,
+    "submission_count": 155,
     "targets": {
       "in_scope": [
         {
@@ -10360,7 +10360,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1790261714,
-    "last_submission_at": 1790842991,
+    "last_submission_at": 1790977073,
     "last_updated_at": 1790837702,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -10374,8 +10374,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790842991,
-    "submission_count": 1,
+    "last_activity_at": 1790977073,
+    "submission_count": 3,
     "targets": {
       "in_scope": [
         {
@@ -10762,7 +10762,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1625208984,
-    "last_submission_at": 1790929582,
+    "last_submission_at": 1790943016,
     "last_updated_at": 1789404512,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -10857,7 +10857,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1641986936,
-    "last_submission_at": 1790366625,
+    "last_submission_at": 1790959102,
     "last_updated_at": 1779098187,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -10871,7 +10871,7 @@
     "accepted_submission_count": 31,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790582616,
+    "last_activity_at": 1790959102,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -10921,7 +10921,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1632910623,
-    "last_submission_at": 1790785076,
+    "last_submission_at": 1790972971,
     "last_updated_at": 1776149054,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -10938,8 +10938,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790926270,
-    "submission_count": 1491,
+    "last_activity_at": 1790972971,
+    "submission_count": 1492,
     "targets": {
       "in_scope": [
         {
@@ -11099,7 +11099,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790863811,
+    "last_activity_at": 1790951346,
     "submission_count": 536,
     "targets": {
       "in_scope": [
@@ -11551,7 +11551,7 @@
     "twoFactorRequired": false,
     "created_at": 1686037198,
     "last_submission_at": 1790811561,
-    "last_updated_at": 1789025525,
+    "last_updated_at": 1790945374,
     "program_type": "Bug bounty program",
     "min_bounty": {
       "value": 100,
@@ -11564,7 +11564,7 @@
     "accepted_submission_count": 156,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790848472,
+    "last_activity_at": 1790951346,
     "submission_count": 357,
     "targets": {
       "in_scope": [
@@ -12199,7 +12199,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790941850,
+    "last_activity_at": 1790951253,
     "submission_count": 772,
     "targets": {
       "in_scope": [
@@ -12361,7 +12361,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1576670706,
-    "last_submission_at": 1790913951,
+    "last_submission_at": 1790974753,
     "last_updated_at": 1790675181,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12372,11 +12372,11 @@
       "value": 0,
       "currency": "EUR"
     },
-    "accepted_submission_count": 1083,
+    "accepted_submission_count": 1085,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790938823,
-    "submission_count": 2311,
+    "last_activity_at": 1790974753,
+    "submission_count": 2312,
     "targets": {
       "in_scope": [
         {
@@ -12450,7 +12450,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1599132524,
-    "last_submission_at": 1790899617,
+    "last_submission_at": 1790969513,
     "last_updated_at": 1781693778,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12464,8 +12464,8 @@
     "accepted_submission_count": 2701,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790899617,
-    "submission_count": 12129,
+    "last_activity_at": 1790969513,
+    "submission_count": 12130,
     "targets": {
       "in_scope": [
         {
@@ -12517,7 +12517,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790940439,
+    "last_activity_at": 1790951252,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -12692,7 +12692,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1623135141,
-    "last_submission_at": 1790841348,
+    "last_submission_at": 1790973816,
     "last_updated_at": 1788764737,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -12706,7 +12706,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790841348,
+    "last_activity_at": 1790973816,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -12804,7 +12804,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1781087093,
-    "last_submission_at": 1790941687,
+    "last_submission_at": 1790957508,
     "last_updated_at": 1789039611,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12818,8 +12818,8 @@
     "accepted_submission_count": 10,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790941687,
-    "submission_count": 75,
+    "last_activity_at": 1790957508,
+    "submission_count": 76,
     "targets": {
       "in_scope": [
         {
@@ -13211,7 +13211,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1675073351,
-    "last_submission_at": 1790863669,
+    "last_submission_at": 1790951757,
     "last_updated_at": 1787218107,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -13225,7 +13225,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790863669,
+    "last_activity_at": 1790951757,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -13373,7 +13373,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1596109077,
-    "last_submission_at": 1767301894,
+    "last_submission_at": 1790969096,
     "last_updated_at": 1743596683,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -13387,8 +13387,8 @@
     "accepted_submission_count": 11,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1767681919,
-    "submission_count": 86,
+    "last_activity_at": 1790969096,
+    "submission_count": 87,
     "targets": {
       "in_scope": [
         {
@@ -13718,7 +13718,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768495755,
-    "last_submission_at": 1790926454,
+    "last_submission_at": 1790943593,
     "last_updated_at": 1786012609,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -13735,7 +13735,7 @@
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790943593,
+    "last_activity_at": 1790951124,
     "submission_count": 636,
     "targets": {
       "in_scope": [
@@ -14126,7 +14126,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1700747100,
-    "last_submission_at": 1790785132,
+    "last_submission_at": 1790963506,
     "last_updated_at": 1790885425,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -14140,8 +14140,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790885425,
-    "submission_count": 3071,
+    "last_activity_at": 1790963506,
+    "submission_count": 3073,
     "targets": {
       "in_scope": [
         {
@@ -14495,7 +14495,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790922949,
+    "last_activity_at": 1790951049,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -14823,6 +14823,323 @@
     "total_payout": null
   },
   {
+    "id": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+    "name": "TrueLayer",
+    "company_handle": "truelayer",
+    "handle": "truelayer",
+    "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "created_at": 1645789978,
+    "last_submission_at": 1790967731,
+    "last_updated_at": 1790946317,
+    "program_type": "Bug bounty program",
+    "min_bounty": {
+      "value": 75,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 6000,
+      "currency": "EUR"
+    },
+    "accepted_submission_count": 31,
+    "average_payout": {
+      "value": 345.0,
+      "currency": "EUR"
+    },
+    "has_updates": true,
+    "last_activity_at": 1790979131,
+    "submission_count": 542,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "api.truelayer[-sandbox].com",
+          "description": "The majority of our API endpoints live here",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.mtls.truelayer[-sandbox].com",
+          "description": "The same API as `api.truelayer[-sandbox].com` but with mutual TLS setup",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.truelayer[-sandbox].com",
+          "description": "Our service for getting OAuth access tokens to access our APIs",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.mtls.truelayer[-sandbox].com",
+          "description": "The same service as `auth.truelayer[-sandbox].com` but with mutual TLS setup",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.truelayer[-sandbox].com",
+          "description": "Hosted Payments Page v2",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "login-api.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "login.truelayer[-sandbox].com",
+          "description": "Where you can connect your bank account and use Open Banking to pull data such as transactions",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "onboarding-api.truelayer.com",
+          "description": "Used in the developer console",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pay-api.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "pay.truelayer[-sandbox].com",
+          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "paydirect.truelayer[-sandbox].com",
+          "description": "Some of our older payment API endpoints live here rather than on api.truelayer.com",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "payment.truelayer[-sandbox].com",
+          "description": "Our hosted payments page for merchants that want us to manage the UI screens for making payments",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "payments-experience-api.truelayer[-sandbox].com",
+          "description": "Hosted Payments Page dependency (e.g. for handoff)",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "user-authentication-api.truelayer[-sandbox].com",
+          "description": "Remember Me functionality for payments. See https://truelayer.com/legal/enduser_tos/#save-my-details-remember-me",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "users-api.truelayer.com",
+          "description": "Internal service for managing users",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "other",
+          "endpoint": "C# SDK",
+          "description": "https://github.com/TrueLayer/truelayer-dotnet",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "console-backend.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "console.truelayer[-sandbox].com",
+          "description": "Our developer console where you can login, create applications, manage your OAuth client ID/secret, upload public keys for request signing, view transactions",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "sftp.reports.truelayer.com",
+          "description": "SFTP reporting functionality in the Console. See https://docs.truelayer.com/docs/sftp-in-console",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "Java SDK",
+          "description": "https://github.com/TrueLayer/truelayer-java",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "PHP SDK",
+          "description": "https://github.com/TrueLayer/truelayer-php",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "TrueLayer for Magento (Magento plugin)",
+          "description": "https://github.com/TrueLayer/magento2",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "shopify-admin.truelayer.com",
+          "description": "Shopify Plugin backend admin page. See https://docs.truelayer.com/docs/shopify",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "shop-pay-app-api.truelayer.com",
+          "description": "Shopify Plugin backend API. See https://docs.truelayer.com/docs/shopify",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "truelayer-signing",
+          "description": "https://github.com/TrueLayer/truelayer-signing is our open source library for generating signed requests for calling TrueLayer APIs. Many languages are supported including Rust, C#, NodeJS, Go, Java and PHP.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "webhooks.truelayer[-sandbox].com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.cloud",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.truelayer.io",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "iOS SDK",
+          "description": "https://github.com/TrueLayer/TrueLayer-iOS-SDK",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "React Native SDK",
+          "description": "https://github.com/TrueLayer/truelayer-react-native-sdk",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Web SDK",
+          "description": "https://www.npmjs.com/package/truelayer-web-sdk\n\nA lightweight web SDK for integrating Truelayer's payment services into your web application.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Rust SDK",
+          "description": "https://github.com/TrueLayer/truelayer-rust\n\nCurrently we are not paying bounties for this asset as it's still in alpha.",
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "trust.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "TrueLayer for WooCommerce (WordPress plugin)",
+          "description": "https://wordpress.org/plugins/truelayer-for-woocommerce/ is our WordPress plugin allowing you to use TrueLayer as a checkout option in your WooCommerce store. The source code is also [available on GitHub](https://github.com/TrueLayer/truelayer-woocommerce).",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "banks.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "careers.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.houston.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://truelayer.com/contact/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "index.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "info.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "signin.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "support.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "status.truelayer.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "truelayer.zendesk.com",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    },
+    "total_payout": {
+      "value": 12050.0,
+      "currency": "EUR"
+    }
+  },
+  {
     "id": "7d2af06f-9f70-4561-9ba6-4c044274a94a",
     "name": "TrueLayer VDP",
     "company_handle": "truelayer",
@@ -14940,7 +15257,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1762170162,
-    "last_submission_at": 1790942056,
+    "last_submission_at": 1790962980,
     "last_updated_at": 1785926389,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -14954,7 +15271,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790943212,
+    "last_activity_at": 1790962980,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -15510,7 +15827,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1590492386,
-    "last_submission_at": 1790859043,
+    "last_submission_at": 1790971094,
     "last_updated_at": 1782226801,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -15527,7 +15844,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790871421,
+    "last_activity_at": 1790971094,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -16023,6 +16340,88 @@
     "total_payout": null
   },
   {
+    "id": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
+    "name": "Venly",
+    "company_handle": "arkane",
+    "handle": "arkanenetwork",
+    "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "created_at": 1544181571,
+    "last_submission_at": 1790783571,
+    "last_updated_at": 1790951347,
+    "program_type": "Bug bounty program",
+    "min_bounty": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000,
+      "currency": "EUR"
+    },
+    "accepted_submission_count": 82,
+    "average_payout": null,
+    "has_updates": true,
+    "last_activity_at": 1790951347,
+    "submission_count": 929,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "api-wallet.venly.io",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.arkane.network",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "connect.arkane.network ",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "connect.venly.io",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "login.arkane.network",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "login.venly.io",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "wallet.venly.io",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "api-wallet-sandbox.venly.io",
+          "description": null,
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "total_payout": null
+  },
+  {
     "id": "acb142c1-ffeb-41c3-a9e7-1624054f42e4",
     "name": "Veriff Bug Bounty",
     "company_handle": "veriff",
@@ -16033,7 +16432,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1689589324,
-    "last_submission_at": 1790931327,
+    "last_submission_at": 1790955988,
     "last_updated_at": 1790247952,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -16050,7 +16449,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790944461,
+    "last_activity_at": 1790955988,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -16148,6 +16547,166 @@
     }
   },
   {
+    "id": "0f95dabb-d299-4574-befc-bb96a3bafb42",
+    "name": "Visma",
+    "company_handle": "visma",
+    "handle": "visma",
+    "url": "https://www.intigriti.com/programs/visma/visma/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "created_at": 1608115143,
+    "last_submission_at": 1790973572,
+    "last_updated_at": 1790947482,
+    "program_type": "Bug bounty program",
+    "min_bounty": {
+      "value": 100,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 7500,
+      "currency": "EUR"
+    },
+    "accepted_submission_count": 383,
+    "average_payout": {
+      "value": 343.0,
+      "currency": "EUR"
+    },
+    "has_updates": true,
+    "last_activity_at": 1790973572,
+    "submission_count": 1575,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "564141518",
+          "description": "**Visma Scanner**\nVisma Scanner is a mobile app used for sending receipts and invoices to your Visma accounting system.\nThe iOS version of the app can be found here:\nhttps://apps.apple.com/us/app/visma-scanner/id564141518\nPlease read and follow the steps in the Startup guide to create an account and start hacking: https://vismabugbountyprod.z16.web.core.windows.net/VismaScanner-iMXxOpXkhOlTBUQtXfyA-getting-started.pdf\n**Please note that the training code has changed!** It is now: wr0d4 , also make sure to select the same Program/Service options as the Getting Started document has. \n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc)\n* Private screen exposure in the app\n* Stack traces from api calls\n* Jailbroken devices is out of scope\n* All options for login are out of scope, except eAccounting (please see details in the \"Getting Started instructions document\"",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "accountsettings.connect.identity.stagaws.visma.com",
+          "description": "**Connect**\nSee instructions for domain \"connect.identity.stagaws.visma.com\".\n\n**Out of scope:**\n* Session invalidation after enabling 2FA - by design intended to work like this\n* Any other out of scopes on 'connect.identity.stagaws.visma.com'",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "admin.stage.vismaonline.com",
+          "description": "**Visma Online**\nThis is the old interface for the customer's administrators to administrate the company, where we still have some functionality that has not been moved to the new interface. For example invoicing information and everything regarding collaborations with AO. The collaboration part is out of scope as long as the use of student companies.\nPlease read the Getting Started Instructions in the \"myservices.stage.vismaonline.com\" asset description.\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* The collaboration part is out of scope as long as the use of student companies. Collaboration is between Accounting Office and Client. \n\t- This includes using `/Customer/StudentSignup.aspx` to create companies with arbitrary emails\n\t- Please do not target the BB Test Teacher user or any other Teacher users you find, these accounts only exists as a service requirement and disruptions may cause issues with your testing account.\n* Any other out of scopes on 'myservices.stage.vismaonline.com'",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "aiassistant.stage.vismaonline.com",
+          "description": "**AI Assistant**\n\nThe AI Assistant is a AI bot that answers support questions based on public product documentation for Visma Spcs products like Visma eAccounting and Visma Advisor.\n\nYou need to register an user to test this system. The sign-up up process is described in this document:\n\nhttps://vismabugbountyprod.z16.web.core.windows.net/Visma-eAccounting-1GWFyEopW9dTKsGYM3FJ-getting-started.pdf\n**Please note that the training code has changed!** It is now: wr0d4 , also make sure to select the same Program/Service options as the Getting Started document has. \n\nThis video also shows the entire setup (only Swedish audio) https://www.youtube.com/watch?v=kVr_CXgfhi0&t=4s\n\nTLDR: Goto https://admin.stage.vismaonline.com/Customer/StudentSignup.aspx and sign up with the training code \"wr0d4\"\n\n**Out of Scope**\n\n* HTML injection, the AI Assistant should be able to output HTML to the chat window.\n* functionalities that belong to other applications that AI Assistant is integrated with (e.g. Visma Advisor or other Visma SPCS products).",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.workbox.dk",
+          "description": "**Dinero**\nThis is Dinero's Public API.See instructions for \"app.workbox.dk\"",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.workbox.dk",
+          "description": "**Dinero**\nDinero is an accounting software for sole traders and micro businesses based out of Denmark. Our only target group is danish companies and therefore the interface is in danish only. The application is a SaaS application hosted in the cloud and consists of a main application and a number of supportive microservices.\n\nSee the getting started document here: https://vismabugbountyprod.z16.web.core.windows.net/VismaDinero-37UeRwujIXh7r9n3Wol6-getting-started.pdf\n\n**Out of scope:**\n* Issues related to login /user creation / forgot-password and /profile page\n* The Cookie \".AspNet.Cookies\" is not set with HttpOnly which is a known vulnerability - please do not report it.\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* Getting access to Pro features as Free user\n* Rate-limiting issues (accepted risk)\n* cvrservice.workbox.dk, this endpoint is used for searches of publicly available data\n* [2026-03-31] Unauthenticated access to invoice, trade offer, or voucher mailout links — these are intentionally publicly accessible",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "authz.workbox.dk",
+          "description": "**Dinero**\nUsed for Authorization (OAuth). See instructions for \"app.workbox.dk\"",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.visma.blue",
+          "description": "**Visma Scanner**\nVisma Scanner is a mobile app used for sending receipts and invoices to your Visma accounting system.\nThe Andriod version of the app can be found here:\nhttps://play.google.com/store/apps/details?id=com.visma.blue&hl=en\nPlease read and follow the steps in the Startup guide to create an account and start hacking: https://vismabugbountyprod.z16.web.core.windows.net/VismaScanner-iMXxOpXkhOlTBUQtXfyA-getting-started.pdf\n**Please note that the training code has changed!** It is now: wr0d4 , also make sure to select the same Program/Service options as the Getting Started document has. \n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc)\n* Private screen exposure in the app\n* Stack traces from api calls\n* Jailbroken devices is out of scope\n* All options for login are out of scope, except eAccounting (please see details in the \"Getting Started instructions document\"",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "connect.identity.stagaws.visma.com",
+          "description": "**Connect**\nVisma Connect is featurewise a small but critical component in the Visma portfolio. It is a single sign-on solution used by many Visma services. It is also the place where users manage security preferences such as passwords, MFA, 2FA, email and other account settings.\n\nUser accounts for testing can be created on https://connect.identity.stagaws.visma.com (this signup flow is not available in production).\n\nThe test accounts will not have access to any other services right now, so testing is limited to the login portal itself.\n\n**Out of scope:**\n* Session invalidation after enabling 2FA - by design intended to work like this.\n* Please do not knowingly target the BB Test Teacher user or any other users that you have not created yourself.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "eaccounting.stage.vismaonline.com",
+          "description": "**eAccounting**\nThis is \"Visma eAccounting\" (aka Visma eEkonomi / Visma ePasseli) which is an ERP system available in Sweden, Norway, Finland and The Netherlands.\n\nWe've added into scope also the eEkonomi \"Visma Lön Smart\" which is a subservice of eAccounting. This can be found after you activate your account (check out the instructions bellow).\n\nYou can read more on https://www.visma.no/eaccounting/english/\n\nYou need to register an user to test this system. The sign-up up process is described in this document:\nhttps://vismabugbountyprod.z16.web.core.windows.net/Visma-eAccounting-1GWFyEopW9dTKsGYM3FJ-getting-started.pdf\n**Please note that the training code has changed!** It is now: wr0d4 , also make sure to select the same Program/Service options as the Getting Started document has. \n\nThis video also shows the entire setup (only Swedish audio) https://www.youtube.com/watch?v=kVr_CXgfhi0&t=4s\n\nTLDR: Goto https://admin.stage.vismaonline.com/Customer/StudentSignup.aspx and sign up with the training code \"wr0d4\"\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* Modification of gray-out fields when logged in with an admin account.\n* Improper access control: manipulation of the message conversation by members that have no permission (edit subject, join thread conversation, closing the conversation).\n* Email phishing\n* PDF injection\n* Permissions for Lön Smart (the permissions in eAccounting don´t apply at all for Lön Smart).\n* Possibility to create Orders and Quotes with amount 0€\n* Race Condition in article stock limits\n\n* We plan to fix all server-side validation for all tabs mentioned below. All these are under  Lön Smart in eAccounting. So until all fixes are applied the following will remain out of scope:\n\t- Fix server-side validation for tab Basic Information on Employee\n\t- Fix server-side validation for tab Employment on Employee\n\t- Fix server-side validation for tab Pay on Employee\n\t- Fix server-side validation for tab Taxes on Employee\n\t- Fix server-side validation for tab Holiday on Employee\n\t- Fix server-side validation for tab Reporting on Employee\n\t- Fix server-side validation for tab Payslip on Employee\n\t- Fix server-side validation for tab Input values on Employee\n\t- Fix server-side validation for tab Pay and payments in payroll settings\n\t- Fix server-side validation for tab Holiday in payroll settings\n\t- Fix server-side validation for tab Accounting in payroll settings\n\t- Fix server-side validation for tab Work schedules in payroll settings\n\t- Fix server-side validation for tab Agreements in payroll settings\n\t- Fix server-side validation for tab Paycodes in payroll settings\n\t- Fix server-side validation for tab Shortcuts in payroll settings",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "eaccountingprinting.stage.vismaonline.com",
+          "description": "**eAccounting**\nYou reach this asset by creating and viewing a report under the Accounting/Reports menu as a logged on user in asset \"eaccounting.stage.vismaonline.com\"",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "identity.stage.vismaonline.com",
+          "description": "**Visma Online**\nVisma Connect is used as identity provider, but an own identity server is used to provide JWT tokens that are used by MyServices (and others). \nPlease read the Getting Started instructions document in the \"myservices.stage.vismaonline.com\" asset description.\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* Please do not target the BB Test Teacher user or any other Teacher users you find, these accounts exists as a service requirement and disruptions may cause issues with your testing account and will not be considered as higher impact.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "myservices-api.stage.vismaonline.com",
+          "description": "**Visma Online**\nThis is the API behind \"myservices.stage.vismaonline.com\".\nPlease read the Getting Started instructions document in the asset description \"myservices.stage.vismaonline.com\".",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "myservices.stage.vismaonline.com",
+          "description": "**Visma Online**\nThis is an interface where the customer's users can access all their services, and customer's administrators can manage users on the company and manage users' access to services that the company has. \nMore information about the service and test accounts creation can be found here: \nhttps://vismabugbountyprod.z16.web.core.windows.net/VismaOnline-9Jn9Xh382zaQsQ8IqT2x-getting-started.pdf\n**Please note that the training code has changed!** It is now: wr0d4 , also make sure to select the same Program/Service options as the Getting Started document shows. \n\n\n**Out of scope:**\n* Please **do not** target the BB Test Teacher user or any other Teacher users you find during sign-up as this would violate our Program Rules. If you need to test cross-account issues please create a 2nd test user yourself.\n* Generating support codes for another tenant (grants read-only access for support), only report if you've found a way to exploit the code without support staff involvement.  \n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "oauth.developers.stagaws.visma.com",
+          "description": "**Visma Developer Portal**\nVisma Developer Portal is used both internally and externally by developers for registering OAuth 2.0/OpenID Connect applications for Single-Sign-On with Visma (Visma Connect) and/or API integration.\n\nExisting Visma Connect users accounts can be used for testing. We also allow registration of new users if needed.\n\nUsers need to register an organization as part of the sign-in or to be added (invite) to an existing organization by organization's manager. The user which registers the organization also gets manager role assigned.\n\nEach organization has its own set of OAuth 2.0/OpenID Connect applications.\n\nPlease read the Getting Started Instructions here: https://vismabugbountyprod.z16.web.core.windows.net/VismaDeveloperPortal-Ze8WD6GFaIFdLvE2ekbN-getting-started.pdf\n\n\n\n**Out of scope:**\n* session invalidation across browsers/devices - this is how it is intended to work by design\n* issues related to other APIs except DevPortal Bug Bounty Interactive and DevPortal Bug Bounty Non-Interactive",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "photoservice.stage.vismaonline.com",
+          "description": "**Visma Scanner**\n\nBackend service for Visma Scanner mobile app, see instructions for domain \"com.visma.blue\" or “564141518”",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ai-testing.maventa.com",
+          "description": "**Visma AutoInvoice/Maventa**\nThis is the main UI for Visma AutoInvoice. AutoInvoice is Visma's automated and fully ERP integrated service for sending, receiving and handling invoices. AutoInvoice converts and exchanges electronic invoices, optionally prints invoices that can't be sent electronically, receives and interpret PDF invoices and offers services for scanning and interpretation of paper invoices. AutoInvoice handles both Business to Business (B2B) and Business to Consumer (B2C) invoices.\n\nUses partially the embeddable user interface from `autointerface-embeddable-stage.maventa.com`\n\nCreate a test account on https://ai-testing.maventa.com/registrations, or use one of the demo accounts in the getting started instructions below:\nhttps://vismabugbountyprod.z16.web.core.windows.net/VismaAutoinvoice-tHNjPCTbrmGiPY5y0xr8-getting-started.pdf\n\n \n\n**Out of scope or works as expected (accepted risk):**\n* adding users to your own company without consent\n* changing other user's notification settings as company admin\n* language change CSRF\n* application level DOS from /gdpr endpoint\n* duplicate BID/organization number check on registration can be circumvented by race condition (e.g. open two accounts with same BID/org number at same time)\n* IDOR to delete Invoice ID's belonging to different companies by using GDPR removal form (background job checks the right to delete invoices)\n* Hyperlink Injection via emails while adding users to your company\n* User Enumeration via Timing Discrepancy while registering new users\n* Logout CSRF\n* Customer service/chatbot (these are a 3rd party service)\n* Note! ai-testing.maventa.com and testing.maventa.com point to the same application but have different branding on the UI. Authentication to the user interface is handled using the Visma Connect service.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "ax-stage.maventa.com",
+          "description": "**Visma AutoInvoice/Maventa**\nhttps://ax-stage.maventa.com is a REST API connected to Visma AutoInvoice.\n\nAPI documentation is available on https://documentation.maventa.com/rest-api/ and https://ax-stage.maventa.com/swagger/#/\n\nSee instructions for domain `ai-testing.maventa.com` to get user credentials.\n\n**Out of scope or works as expected (accepted risk):**\n* Regular users are allowed to read certain company settings even though they are not perhaps visible in the UI (but they are not allowed to edit the settings)\n* Adding users to your own company without consent\n* Changing other user's notification settings as company admin",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "autointerface.stag.visma.net",
+          "description": "**Visma AutoInvoice/Maventa**\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials.\n\nThe same resource can be accessed through the URL autointerface-embeddable-stage.maventa.com\n\nAll data processing is done through the REST API at ax-stage.maventa.com\n\n**Out of scope or works as expected (accepted risk):**\n* Clickjacking is out of scope for this asset since it is designed to be framed (embedded) in other 3rd party services.\n* Regular users are allowed to view certain admin settings pages (but not allowed to edit the settings)\n* Permissive CORS on the embeddable UI. The component is designed to be embedded by third-party integrators from unknown/arbitrary origins, so cross-origin access is intentional and out of scope",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "testing.maventa.com",
+          "description": "**Visma AutoInvoice/Maventa**\t\nhttps://testing.maventa.com/apis/v1.1/wsdl is a SOAP API connected to Visma AutoInvoice.\n\nAPI documentation is available on https://documentation.maventa.com/soap-api/\n\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials.",
+          "impact": "Tier 2"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "total_payout": {
+      "value": 127500.0,
+      "currency": "EUR"
+    }
+  },
+  {
     "id": "3e51fb18-7082-4ce5-85d0-2bd889b5ed4e",
     "name": "Visma Responsible Disclosure",
     "company_handle": "visma",
@@ -16158,7 +16717,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1641889960,
-    "last_submission_at": 1790784674,
+    "last_submission_at": 1790974058,
     "last_updated_at": 1782140046,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -16175,8 +16734,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790857760,
-    "submission_count": 2345,
+    "last_activity_at": 1790974058,
+    "submission_count": 2346,
     "targets": {
       "in_scope": [
         {
@@ -16311,7 +16870,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1645693450,
-    "last_submission_at": 1790785632,
+    "last_submission_at": 1790951197,
     "last_updated_at": 1787485747,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -16325,8 +16884,8 @@
     "accepted_submission_count": 45,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790785632,
-    "submission_count": 352,
+    "last_activity_at": 1790951252,
+    "submission_count": 353,
     "targets": {
       "in_scope": [
         {
@@ -16822,7 +17381,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790938383,
+    "last_activity_at": 1790951345,
     "submission_count": 664,
     "targets": {
       "in_scope": [
@@ -17669,8 +18228,8 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1672926274,
-    "last_submission_at": 1790928661,
-    "last_updated_at": 1790602607,
+    "last_submission_at": 1790974250,
+    "last_updated_at": 1790957296,
     "program_type": "Bug bounty program",
     "min_bounty": {
       "value": 100,
@@ -17686,7 +18245,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790928661,
+    "last_activity_at": 1790974250,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -17831,8 +18390,8 @@
         {
           "type": "other",
           "endpoint": "Yahoo Open Source Projects",
-          "description": "## In Scope\n\n[Open Source Project Index \\- Yahoo Developer Network](https://developer.yahoo.com/opensource/projectindex/)\n\n## Bounty eligibility\n\n* Full bounty requires proof of impact to Yahoo production systems.  \n* 50% bounty will be considered in cases where the last release date is within 1 year of the submission date, but no proof of impact to Yahoo systems.  \n* No bounty if either conditions are not met.",
-          "impact": "Tier 2"
+          "description": "## In Scope\n\n[Open Source Project Index \\- Yahoo Developer Network](https://developer.yahoo.com/opensource/projectindex/)\n\n## Bounty eligibility\n\n* Full bounty requires proof of impact to Yahoo production systems.  \n* Bounty will be considered in cases where the last release date is within 1 year of the submission date, but no proof of impact to Yahoo systems.  \n* No bounty if either conditions are not met.\n\nNote: If you find proof of impact to Yahoo systems, please change the asset to the affected product.",
+          "impact": "Tier 3"
         },
         {
           "type": "other",
