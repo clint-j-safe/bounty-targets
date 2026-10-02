@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:49:00Z",
+  "generated_at": "2026-10-02T05:49:49Z",
   "programs": [
     {
       "platform": "hackerone",
@@ -1903,8 +1903,8 @@
       "managed": null,
       "first_started_at": "2026-08-17T12:08:17Z",
       "last_updated_at": "2026-10-01T08:32:46Z",
-      "last_activity_at": "2026-10-01T20:03:17Z",
-      "reports_count": 841,
+      "last_activity_at": "2026-10-01T22:46:31Z",
+      "reports_count": 843,
       "resolved_reports_count": 51,
       "total_bounty_amount": {
         "value": 107995.0,
@@ -4029,404 +4029,6 @@
       ]
     },
     {
-      "platform": "intigriti",
-      "id": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
-      "handle": "uzleuven",
-      "name": "UZ Leuven",
-      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2020-02-21T16:39:22Z",
-      "last_updated_at": "2026-09-30T14:02:54Z",
-      "last_activity_at": "2026-10-01T19:18:34Z",
-      "reports_count": 0,
-      "resolved_reports_count": 0,
-      "total_bounty_amount": null,
-      "bounty_min": 50,
-      "bounty_max": 5000,
-      "targets": [
-        {
-          "type": "url",
-          "target": "autodiscover.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "ecrf.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "extranet-asa.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "extranet.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "liquidfiles.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "mx1.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "mx2.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "pcrstudioruzb.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "prddsplunkhf.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "sts.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "www.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": null
-        },
-        {
-          "type": "iprange",
-          "target": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "These are the ip's used by our reverse proxy.\nThe Host header will determine the bounty tier.\nIf a report is submitted where the Host header is not used we will default to Tier 2."
-        },
-        {
-          "type": "url",
-          "target": "wp5-truststroke.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "* access to /api/ should only work from BE or NL ip's\n* access to other paths or / should not work"
-        },
-        {
-          "type": "url",
-          "target": "cardsonline.azdiest.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "This webapp should return a http 403 error due to ip whitelisting."
-        },
-        {
-          "type": "url",
-          "target": "liquidfilestest.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "random.uzleuven.be/random/",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "teststs.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "w1.uzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "cardsonlinetst.azdiest.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "This webapp should return a http 403 error due to ip whitelisting."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.kwsdose.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.playuzleuven.be",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.uzleuven.*",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "#### *.uzleuven.be (tier 3) only applies to everything that hasn't been listed in the scope."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.contactallerg(y|ie).uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.mir.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*dev.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*idp*.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*stag*.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "files.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "kumulus.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "mijnacc.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "mirc.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "prddnighting01.uzleuven.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "w1.uzleuven.be/random",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "ziekenhuisschool.be",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "boekentoy.uzleuven.be",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "uz-laboboeken.web.app",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "laboboeken.uzleuven.be",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "boekentoy.firebaseio.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "uz-laboboeken.firebaseio.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "jobs.uzleuven.be",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "uzleuven.atlassian.net",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "vacatures.uzleuven.be",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
       "platform": "yeswehack",
       "id": "harman-international-web-applications",
       "handle": "harman-international-web-applications",
@@ -4438,7 +4040,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-30T13:37:54Z",
       "last_activity_at": null,
-      "reports_count": 2428,
+      "reports_count": 2433,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -4900,8 +4502,8 @@
       "managed": null,
       "first_started_at": "2023-07-10T15:28:28Z",
       "last_updated_at": "2026-09-30T10:28:07Z",
-      "last_activity_at": "2026-09-30T13:41:05Z",
-      "reports_count": 553,
+      "last_activity_at": "2026-10-01T22:50:43Z",
+      "reports_count": 554,
       "resolved_reports_count": 92,
       "total_bounty_amount": {
         "value": 62225.0,
@@ -5085,9 +4687,9 @@
       "managed": true,
       "first_started_at": "2017-10-16T19:14:01Z",
       "last_updated_at": "2026-09-29T21:20:15Z",
-      "last_activity_at": "2026-09-30T00:44:02Z",
+      "last_activity_at": "2026-10-01T23:26:04Z",
       "reports_count": null,
-      "resolved_reports_count": 1513,
+      "resolved_reports_count": 1514,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -5339,9 +4941,9 @@
       "managed": false,
       "first_started_at": "2016-08-25T16:53:52Z",
       "last_updated_at": "2026-09-29T19:38:28Z",
-      "last_activity_at": "2026-10-01T20:29:16Z",
+      "last_activity_at": "2026-10-02T02:11:43Z",
       "reports_count": null,
-      "resolved_reports_count": 433,
+      "resolved_reports_count": 438,
       "total_bounty_amount": 0.0,
       "bounty_min": 250,
       "bounty_max": null,
@@ -10521,8 +10123,8 @@
       "managed": null,
       "first_started_at": "2019-12-18T12:05:06Z",
       "last_updated_at": "2026-09-29T09:46:21Z",
-      "last_activity_at": "2026-10-01T21:59:38Z",
-      "reports_count": 2308,
+      "last_activity_at": "2026-10-02T04:05:51Z",
+      "reports_count": 2311,
       "resolved_reports_count": 1083,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -11115,7 +10717,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-28T16:14:07Z",
       "last_activity_at": null,
-      "reports_count": 3751,
+      "reports_count": 3754,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -11746,7 +11348,7 @@
       "managed": null,
       "first_started_at": "2023-01-05T13:44:34Z",
       "last_updated_at": "2026-09-28T13:36:47Z",
-      "last_activity_at": "2026-10-01T21:52:39Z",
+      "last_activity_at": "2026-10-02T03:03:43Z",
       "reports_count": 0,
       "resolved_reports_count": 674,
       "total_bounty_amount": {
@@ -14325,8 +13927,8 @@
       "managed": null,
       "first_started_at": "2024-03-27T15:25:26Z",
       "last_updated_at": "2026-09-24T19:05:15Z",
-      "last_activity_at": "2026-10-01T21:17:21Z",
-      "reports_count": 1955,
+      "last_activity_at": "2026-10-02T04:28:13Z",
+      "reports_count": 1956,
       "resolved_reports_count": 239,
       "total_bounty_amount": {
         "value": 269126.0,
@@ -17384,7 +16986,7 @@
       "reports_count": null,
       "resolved_reports_count": 0,
       "total_bounty_amount": 0.0,
-      "bounty_min": null,
+      "bounty_min": 50,
       "bounty_max": null,
       "targets": [
         {
@@ -19485,7 +19087,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-22T10:02:29Z",
       "last_activity_at": null,
-      "reports_count": 1945,
+      "reports_count": 1947,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -21385,9 +20987,9 @@
       "managed": false,
       "first_started_at": "2016-10-11T20:37:03Z",
       "last_updated_at": "2026-09-17T20:14:46Z",
-      "last_activity_at": "2026-09-30T19:19:28Z",
+      "last_activity_at": "2026-10-02T01:31:48Z",
       "reports_count": null,
-      "resolved_reports_count": 542,
+      "resolved_reports_count": 543,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -24554,7 +24156,7 @@
       "first_started_at": "2020-11-13T08:27:07Z",
       "last_updated_at": "2026-09-15T12:52:45Z",
       "last_activity_at": "2026-10-01T15:00:39Z",
-      "reports_count": 1424,
+      "reports_count": 1425,
       "resolved_reports_count": 229,
       "total_bounty_amount": {
         "value": 87630.0,
@@ -25900,206 +25502,6 @@
       ]
     },
     {
-      "platform": "intigriti",
-      "id": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-      "handle": "ninjakiwigames",
-      "name": "Ninja Kiwi Games Bug Bounty program",
-      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "offers_bounty": true,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2022-07-29T07:08:34Z",
-      "last_updated_at": "2026-09-14T10:22:29Z",
-      "last_activity_at": "2026-09-23T10:03:12Z",
-      "reports_count": 0,
-      "resolved_reports_count": 0,
-      "total_bounty_amount": null,
-      "bounty_min": 75,
-      "bounty_max": 4125,
-      "targets": [
-        {
-          "type": "url",
-          "target": "analytics.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "This domain hosts the API that consumed analytics events from our game clients"
-        },
-        {
-          "type": "url",
-          "target": "api.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "This domain hosts the API for our mobile and PC games. Monitoring traffic through one of our game clients is the easiest method to investigate our main API. Most of our applications are available for free on [Steam](https://store.steampowered.com/developer/ninjakiwigames/#browse). Please carefully read the in-scope section regarding what sorts of exploits will be considering in-scope for this domain."
-        },
-        {
-          "type": "url",
-          "target": "guts.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 1",
-          "instruction": "This is the backend services for certain BTD6 in-game features such as Contested Territories and the Map Creator."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.ninjakiwi.me",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "ninjakiwi.me is a domain which hosts many of Ninja Kiwi's employtee only services. Any subdomain is eligible for the program."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.nkstatic.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "This domain hosts static content for Ninja Kiwi games and website."
-        },
-        {
-          "type": "url",
-          "target": "battles.tv",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Battles.tv is used to share replays from our Bloons TD Battles game."
-        },
-        {
-          "type": "url",
-          "target": "data.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "This domain hosts our **public** data API which grants open access to in-game data from our biggest games. For example player profiles, leaderboards and event information is available through this domain."
-        },
-        {
-          "type": "url",
-          "target": "ninja.kiwi",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "This domain is used by Ninja Kiwi for our URL shortener service, ie https://ninja.kiwi/intigriti."
-        },
-        {
-          "type": "url",
-          "target": "ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 2",
-          "instruction": "Please note that the ninjakiwi.com domain has a number of subdomains which are not in-scope. These are domains which are managed by third party providers. This includes (but it not limited to):\n- support.ninjakiwi.com\n- store.ninjakiwi.com\n- btd6store.ninjakiwi.com\n- battles2store.ninjakiwi.com\n\nIf you are unsure please feel free to reach out to us at security@ninjakiwi.com."
-        },
-        {
-          "type": "url",
-          "target": "alerts.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "boomer2.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "ct.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "mynk-dash.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "mynk.ninjakiwi.com",
-          "in_scope": true,
-          "bounty": true,
-          "updated_at": null,
-          "severity": "Tier 3",
-          "instruction": "This is a legacy domain which powers our Flash games. Uses Flash AMF."
-        },
-        {
-          "type": "wildcard",
-          "target": "*.souparea.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": "This domain will be considered out of scope unless it can be shown to allow an exploit on one of our Tier 1-3 domains."
-        },
-        {
-          "type": "url",
-          "target": "rancher.ninjakiwi.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "rancher.ninjakiwi.me",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "store.ninjakiwi.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "If you've found an issue with this domain you can contact Shopify here - https://www.shopify.com/bugbounty"
-        },
-        {
-          "type": "url",
-          "target": "support.ninjakiwi.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": "If you've found an issue with this domain you can contact Zendesk here - https://support.zendesk.com/hc/en-us/articles/4409154830874-Zendesk-Bug-Bounty-Program"
-        },
-        {
-          "type": "url",
-          "target": "icarusadmin.ninjakiwi.com",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
       "platform": "bugcrowd",
       "id": "5e450ebf-c539-4d08-80a9-835785081454",
       "handle": "bolt-og",
@@ -27226,8 +26628,8 @@
       "managed": null,
       "first_started_at": "2026-01-15T14:12:04Z",
       "last_updated_at": "2026-09-11T07:00:08Z",
-      "last_activity_at": "2026-10-01T15:01:46Z",
-      "reports_count": 661,
+      "last_activity_at": "2026-10-02T04:28:48Z",
+      "reports_count": 662,
       "resolved_reports_count": 88,
       "total_bounty_amount": {
         "value": 76596.0,
@@ -30267,8 +29669,8 @@
       "managed": null,
       "first_started_at": "2026-06-10T10:24:53Z",
       "last_updated_at": "2026-09-10T11:26:51Z",
-      "last_activity_at": "2026-10-01T00:50:22Z",
-      "reports_count": 73,
+      "last_activity_at": "2026-10-02T03:35:30Z",
+      "reports_count": 74,
       "resolved_reports_count": 10,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -31554,7 +30956,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-09T16:07:34Z",
       "last_activity_at": null,
-      "reports_count": 489,
+      "reports_count": 490,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -54747,7 +54149,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-09-04T09:08:12Z",
       "last_activity_at": null,
-      "reports_count": 2744,
+      "reports_count": 2748,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -57616,8 +57018,8 @@
       "managed": null,
       "first_started_at": "2023-01-13T11:51:23Z",
       "last_updated_at": "2026-09-02T15:59:49Z",
-      "last_activity_at": "2026-10-01T17:31:09Z",
-      "reports_count": 2926,
+      "last_activity_at": "2026-10-02T04:08:04Z",
+      "reports_count": 2927,
       "resolved_reports_count": 634,
       "total_bounty_amount": null,
       "bounty_min": 15,
@@ -58023,9 +57425,9 @@
       "managed": null,
       "first_started_at": "2024-03-19T11:20:06Z",
       "last_updated_at": "2026-09-02T14:26:43Z",
-      "last_activity_at": "2026-10-01T20:47:00Z",
-      "reports_count": 6991,
-      "resolved_reports_count": 3003,
+      "last_activity_at": "2026-10-02T04:58:17Z",
+      "reports_count": 6994,
+      "resolved_reports_count": 3005,
       "total_bounty_amount": null,
       "bounty_min": 150,
       "bounty_max": 6000,
@@ -59466,7 +58868,7 @@
       "managed": null,
       "first_started_at": "2020-09-15T14:39:40Z",
       "last_updated_at": "2026-09-01T11:26:08Z",
-      "last_activity_at": "2026-10-01T12:24:44Z",
+      "last_activity_at": "2026-10-02T03:44:28Z",
       "reports_count": 0,
       "resolved_reports_count": 90,
       "total_bounty_amount": null,
@@ -59661,9 +59063,9 @@
       "managed": true,
       "first_started_at": "2023-07-10T17:10:05Z",
       "last_updated_at": "2026-08-31T20:24:27Z",
-      "last_activity_at": "2026-10-01T07:35:30Z",
+      "last_activity_at": "2026-10-02T02:14:50Z",
       "reports_count": null,
-      "resolved_reports_count": 108,
+      "resolved_reports_count": 109,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -61468,7 +60870,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:37Z",
       "last_activity_at": null,
-      "reports_count": 348,
+      "reports_count": 350,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -61605,7 +61007,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-31T02:31:32Z",
       "last_activity_at": null,
-      "reports_count": 947,
+      "reports_count": 948,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -67712,9 +67114,9 @@
       "managed": true,
       "first_started_at": "2015-01-28T18:03:58Z",
       "last_updated_at": "2026-08-27T16:31:29Z",
-      "last_activity_at": "2026-09-30T17:03:45Z",
+      "last_activity_at": "2026-10-01T23:05:34Z",
       "reports_count": null,
-      "resolved_reports_count": 1679,
+      "resolved_reports_count": 1680,
       "total_bounty_amount": 0.0,
       "bounty_min": 150,
       "bounty_max": null,
@@ -86387,12 +85789,39 @@
         },
         {
           "type": "URL",
+          "target": "ab-api-gw-cf.global.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ab-api-gw-scf.global.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "alternativa.film",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2025-02-03T04:59:16Z",
           "severity": "high",
           "instruction": ""
+        },
+        {
+          "type": "URL",
+          "target": "api-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
         },
         {
           "type": "URL",
@@ -86405,6 +85834,42 @@
         },
         {
           "type": "URL",
+          "target": "arsentomsky.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ath-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ath-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ath-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "auroratechaward.com",
           "in_scope": true,
           "bounty": true,
@@ -86414,10 +85879,154 @@
         },
         {
           "type": "URL",
+          "target": "av.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "baf-gw-cf.africa.afso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "baf-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "balance-api-front.eu-east-1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "balance-api.eu-east-1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bc-cf.latam-co.saea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bc-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bdu-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bdu-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bdu-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bf-cf.latam-co.saea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bf-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bid-cf.africa.afso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bid-gw-cf.africa.afso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "bid-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "blog.indrive.com",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2026-01-09T10:29:03Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ca-gw-cf.latam-mx.usea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -86441,10 +86050,172 @@
         },
         {
           "type": "URL",
+          "target": "cas-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cas-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cas-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cas.eu-east-1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cca-cf.latam-mx.usea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "chat.eu-east-1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cht-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cht-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cht-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cm-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "cmf-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "co-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "co-in-cf.mena.meso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "co-in-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "company.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "coms.ryadom.kz",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:49Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "courier-gw-cf.cis.euce1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "couriers.indrive.com",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2025-09-08T12:14:44Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "daw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
           "severity": "critical",
           "instruction": null
         },
@@ -86468,12 +86239,201 @@
         },
         {
           "type": "URL",
+          "target": "dh-cf.mena.meso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "dh-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "dr-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "es-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "external.indrive.dev",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2023-12-14T08:06:43Z",
           "severity": "critical",
           "instruction": ""
+        },
+        {
+          "type": "URL",
+          "target": "fch-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fch-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fch-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fch-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fe-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fic-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "file-storage-front.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fp-cf.global.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fsf-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "fsf-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "g2-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "gt-gw-cf-0.cis.euce1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "gt-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "gvt-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "gvt-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
         },
         {
           "type": "WILDCARD",
@@ -86483,6 +86443,132 @@
           "updated_at": "2023-09-26T09:32:17Z",
           "severity": "critical",
           "instruction": ""
+        },
+        {
+          "type": "URL",
+          "target": "ic3-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ic3-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ic3-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "icl-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "icl-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "icl-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "icl-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "idc-cf.cis.euce1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "idc-gw-cf.cis.euce1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "idp-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "idp-gw-cf.latam-mx.usea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "idp-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "in-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "inc-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
         },
         {
           "type": "URL",
@@ -86522,11 +86608,65 @@
         },
         {
           "type": "URL",
+          "target": "is-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "isa-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "isa-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "jlml-wf.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "jlml.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "job.ryadom.kz",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2026-01-28T05:24:14Z",
           "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "juntasllegamos.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
           "instruction": null
         },
         {
@@ -86558,10 +86698,253 @@
         },
         {
           "type": "URL",
+          "target": "msg-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "msg-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "msg-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nb-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ncc-cf.latam-br.saea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ncc-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nf-cf.latam-mx.usea1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nf-of-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nha-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nha-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "nha-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "no-gw-cf.africa.afso1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "no-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
           "target": "oymyakon.indriver.io",
           "in_scope": true,
           "bounty": true,
           "updated_at": "2025-10-07T13:44:13Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pa-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pages.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pc-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pf-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pf-gw-scf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pm-gw-scf.sa.apse1.aws.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pot-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pp-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pp-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ppw-gw-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ppw.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "pristegnimechty.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "ps-cf.euce1.indriverapp.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:08Z",
+          "severity": "critical",
+          "instruction": null
+        },
+        {
+          "type": "URL",
+          "target": "referral-program.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
           "severity": "high",
           "instruction": null
         },
@@ -86627,6 +87010,15 @@
           "updated_at": "2023-09-26T09:35:39Z",
           "severity": "critical",
           "instruction": ""
+        },
+        {
+          "type": "URL",
+          "target": "www.juntasllegamos.indrive.com",
+          "in_scope": true,
+          "bounty": true,
+          "updated_at": "2026-10-02T04:47:40Z",
+          "severity": "high",
+          "instruction": null
         },
         {
           "type": "WILDCARD",
@@ -87213,7 +87605,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-08-03T08:04:25Z",
       "last_activity_at": null,
-      "reports_count": 1007,
+      "reports_count": 1008,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 5,
@@ -97884,7 +98276,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-07-16T15:52:35Z",
       "last_activity_at": null,
-      "reports_count": 971,
+      "reports_count": 972,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -104837,9 +105229,9 @@
       "managed": true,
       "first_started_at": "2026-03-03T19:28:51Z",
       "last_updated_at": "2026-07-01T23:07:01Z",
-      "last_activity_at": "2026-10-01T16:01:55Z",
+      "last_activity_at": "2026-10-01T23:26:55Z",
       "reports_count": null,
-      "resolved_reports_count": 60,
+      "resolved_reports_count": 61,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -110974,8 +111366,8 @@
       "managed": null,
       "first_started_at": "2020-09-03T11:28:44Z",
       "last_updated_at": "2026-06-17T10:56:18Z",
-      "last_activity_at": "2026-10-01T17:33:11Z",
-      "reports_count": 12128,
+      "last_activity_at": "2026-10-02T00:06:57Z",
+      "reports_count": 12129,
       "resolved_reports_count": 2701,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -111448,7 +111840,7 @@
       "managed": null,
       "first_started_at": "2023-07-07T05:44:45Z",
       "last_updated_at": "2026-06-16T05:00:04Z",
-      "last_activity_at": "2026-09-29T02:06:12Z",
+      "last_activity_at": "2026-10-02T01:05:28Z",
       "reports_count": 0,
       "resolved_reports_count": 87,
       "total_bounty_amount": null,
@@ -139884,7 +140276,7 @@
       "first_started_at": null,
       "last_updated_at": "2026-02-17T14:05:38Z",
       "last_activity_at": null,
-      "reports_count": 320,
+      "reports_count": 321,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 100,
@@ -145785,9 +146177,9 @@
       "managed": true,
       "first_started_at": "2017-05-16T02:54:46Z",
       "last_updated_at": "2026-01-20T18:46:05Z",
-      "last_activity_at": "2026-09-29T22:06:23Z",
+      "last_activity_at": "2026-10-01T22:53:34Z",
       "reports_count": null,
-      "resolved_reports_count": 938,
+      "resolved_reports_count": 939,
       "total_bounty_amount": 0.0,
       "bounty_min": 100,
       "bounty_max": null,
@@ -150478,7 +150870,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-12-05T05:05:38Z",
       "last_activity_at": null,
-      "reports_count": 865,
+      "reports_count": 867,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 0,
@@ -152732,134 +153124,6 @@
       ]
     },
     {
-      "platform": "intigriti",
-      "id": "56339d19-36cc-49a0-8e8f-b2502e00d165",
-      "handle": "moralisio",
-      "name": "Moralis VDP",
-      "url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
-      "offers_bounty": false,
-      "submission_state": "open",
-      "managed": null,
-      "first_started_at": "2021-09-21T12:26:42Z",
-      "last_updated_at": "2025-11-10T14:47:14Z",
-      "last_activity_at": "2026-08-01T18:57:54Z",
-      "reports_count": 0,
-      "resolved_reports_count": 0,
-      "total_bounty_amount": null,
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "targets": [
-        {
-          "type": "wildcard",
-          "target": "*.moralis.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.bigmoralis.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.grandmoralis.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.moralis-internal.io",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.moralis-streams.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.moralis.io",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.moralisapp.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.moralishost.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.moralisweb3.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "wildcard",
-          "target": "*.usemoralis.com",
-          "in_scope": true,
-          "bounty": false,
-          "updated_at": null,
-          "severity": "No Bounty",
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "docs.moralis.io",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        },
-        {
-          "type": "url",
-          "target": "status.moralis.io",
-          "in_scope": false,
-          "bounty": false,
-          "updated_at": null,
-          "severity": null,
-          "instruction": null
-        }
-      ]
-    },
-    {
       "platform": "yeswehack",
       "id": "paddle-com-public-bug-bounty-program",
       "handle": "paddle-com-public-bug-bounty-program",
@@ -152871,7 +153135,7 @@
       "first_started_at": null,
       "last_updated_at": "2025-11-06T16:12:35Z",
       "last_activity_at": null,
-      "reports_count": 1031,
+      "reports_count": 1032,
       "resolved_reports_count": null,
       "total_bounty_amount": null,
       "bounty_min": 50,
@@ -262825,9 +263089,9 @@
       "managed": true,
       "first_started_at": "2018-09-19T17:07:32Z",
       "last_updated_at": "2024-04-30T18:28:53Z",
-      "last_activity_at": "2026-10-01T10:02:49Z",
+      "last_activity_at": "2026-10-01T23:10:20Z",
       "reports_count": null,
-      "resolved_reports_count": 1269,
+      "resolved_reports_count": 1270,
       "total_bounty_amount": 0.0,
       "bounty_min": 200,
       "bounty_max": null,
@@ -294498,9 +294762,9 @@
       "managed": false,
       "first_started_at": "2020-12-10T22:46:52Z",
       "last_updated_at": "2022-12-12T20:33:26Z",
-      "last_activity_at": "2026-09-29T14:33:38Z",
+      "last_activity_at": "2026-10-01T22:36:44Z",
       "reports_count": null,
-      "resolved_reports_count": 205,
+      "resolved_reports_count": 206,
       "total_bounty_amount": 0.0,
       "bounty_min": 50,
       "bounty_max": null,
@@ -295826,7 +296090,7 @@
       "managed": true,
       "first_started_at": "2014-10-16T00:09:08Z",
       "last_updated_at": "2022-11-04T18:20:28Z",
-      "last_activity_at": "2026-09-17T20:43:16Z",
+      "last_activity_at": "2026-10-02T04:37:08Z",
       "reports_count": null,
       "resolved_reports_count": null,
       "total_bounty_amount": 0.0,
@@ -448544,9 +448808,9 @@
       "managed": false,
       "first_started_at": "2016-09-06T19:17:39Z",
       "last_updated_at": "2022-01-09T06:43:56Z",
-      "last_activity_at": "2026-09-22T01:24:40Z",
+      "last_activity_at": "2026-10-02T03:39:44Z",
       "reports_count": null,
-      "resolved_reports_count": 110,
+      "resolved_reports_count": 111,
       "total_bounty_amount": 0.0,
       "bounty_min": null,
       "bounty_max": null,

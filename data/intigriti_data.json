@@ -68,7 +68,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1786968497,
-    "last_submission_at": 1790884997,
+    "last_submission_at": 1790894791,
     "last_updated_at": 1790843566,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -85,8 +85,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790884997,
-    "submission_count": 841,
+    "last_activity_at": 1790918822,
+    "submission_count": 843,
     "targets": {
       "in_scope": [
         {
@@ -401,7 +401,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1600180780,
-    "last_submission_at": 1790857484,
+    "last_submission_at": 1790912668,
     "last_updated_at": 1788261968,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -418,7 +418,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790882260,
+    "last_activity_at": 1790912668,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -1107,7 +1107,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1673610683,
-    "last_submission_at": 1790875869,
+    "last_submission_at": 1790914084,
     "last_updated_at": 1788364789,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1124,8 +1124,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790875869,
-    "submission_count": 2926,
+    "last_activity_at": 1790914084,
+    "submission_count": 2927,
     "targets": {
       "in_scope": [
         {
@@ -1496,7 +1496,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1710847206,
-    "last_submission_at": 1790887620,
+    "last_submission_at": 1790917097,
     "last_updated_at": 1788359203,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1507,11 +1507,11 @@
       "value": 6000,
       "currency": "EUR"
     },
-    "accepted_submission_count": 3003,
+    "accepted_submission_count": 3005,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790887620,
-    "submission_count": 6991,
+    "last_activity_at": 1790917898,
+    "submission_count": 6994,
     "targets": {
       "in_scope": [
         {
@@ -1867,7 +1867,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1688708685,
-    "last_submission_at": 1790647572,
+    "last_submission_at": 1790903128,
     "last_updated_at": 1781586004,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -1881,7 +1881,7 @@
     "accepted_submission_count": 87,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790704777,
+    "last_activity_at": 1790903128,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -2051,8 +2051,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790866839,
-    "submission_count": 1424,
+    "last_activity_at": 1790919029,
+    "submission_count": 1425,
     "targets": {
       "in_scope": [
         {
@@ -3866,7 +3866,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1711553126,
-    "last_submission_at": 1790889441,
+    "last_submission_at": 1790915293,
     "last_updated_at": 1790276715,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -3883,8 +3883,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790893789,
-    "submission_count": 1955,
+    "last_activity_at": 1790915293,
+    "submission_count": 1956,
     "targets": {
       "in_scope": [
         {
@@ -6377,7 +6377,7 @@
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790884784,
+    "last_activity_at": 1790901176,
     "submission_count": 495,
     "targets": {
       "in_scope": [
@@ -9803,113 +9803,6 @@
     "total_payout": null
   },
   {
-    "id": "56339d19-36cc-49a0-8e8f-b2502e00d165",
-    "name": "Moralis VDP",
-    "company_handle": "moralis",
-    "handle": "moralisio",
-    "url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "created_at": 1632227202,
-    "last_submission_at": 1785610674,
-    "last_updated_at": 1762786034,
-    "program_type": "Responsible disclosure",
-    "min_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "accepted_submission_count": 0,
-    "average_payout": null,
-    "has_updates": false,
-    "last_activity_at": 1787687488,
-    "submission_count": 0,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralis.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.bigmoralis.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.grandmoralis.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralis-internal.io",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralis-streams.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralis.io ",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralisapp.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralishost.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.moralisweb3.com",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.usemoralis.com",
-          "description": null,
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "docs.moralis.io",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "status.moralis.io",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
-    },
-    "total_payout": null
-  },
-  {
     "id": "13e4f5c9-5d05-4b55-b957-b036854c6ec6",
     "name": "NVIDIA Public Bug Bounty",
     "company_handle": "nvidia",
@@ -10034,7 +9927,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790891125,
+    "last_activity_at": 1790919071,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -10453,161 +10346,6 @@
         }
       ],
       "out_of_scope": []
-    },
-    "total_payout": null
-  },
-  {
-    "id": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-    "name": "Ninja Kiwi Games Bug Bounty program",
-    "company_handle": "ninjakiwigames",
-    "handle": "ninjakiwigames",
-    "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "created_at": 1659078514,
-    "last_submission_at": 1790157792,
-    "last_updated_at": 1789381349,
-    "program_type": "Bug bounty program",
-    "min_bounty": {
-      "value": 75,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 4125,
-      "currency": "EUR"
-    },
-    "accepted_submission_count": 0,
-    "average_payout": null,
-    "has_updates": true,
-    "last_activity_at": 1790257947,
-    "submission_count": 0,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "analytics.ninjakiwi.com",
-          "description": "This domain hosts the API that consumed analytics events from our game clients",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.ninjakiwi.com",
-          "description": "This domain hosts the API for our mobile and PC games. Monitoring traffic through one of our game clients is the easiest method to investigate our main API. Most of our applications are available for free on [Steam](https://store.steampowered.com/developer/ninjakiwigames/#browse). Please carefully read the in-scope section regarding what sorts of exploits will be considering in-scope for this domain.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "guts.ninjakiwi.com",
-          "description": "This is the backend services for certain BTD6 in-game features such as Contested Territories and the Map Creator.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.ninjakiwi.me",
-          "description": "ninjakiwi.me is a domain which hosts many of Ninja Kiwi's employtee only services. Any subdomain is eligible for the program.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.nkstatic.com",
-          "description": "This domain hosts static content for Ninja Kiwi games and website.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "battles.tv",
-          "description": "Battles.tv is used to share replays from our Bloons TD Battles game.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "data.ninjakiwi.com",
-          "description": "This domain hosts our **public** data API which grants open access to in-game data from our biggest games. For example player profiles, leaderboards and event information is available through this domain.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "ninja.kiwi",
-          "description": "This domain is used by Ninja Kiwi for our URL shortener service, ie https://ninja.kiwi/intigriti.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "ninjakiwi.com",
-          "description": "Please note that the ninjakiwi.com domain has a number of subdomains which are not in-scope. These are domains which are managed by third party providers. This includes (but it not limited to):\n- support.ninjakiwi.com\n- store.ninjakiwi.com\n- btd6store.ninjakiwi.com\n- battles2store.ninjakiwi.com\n\nIf you are unsure please feel free to reach out to us at security@ninjakiwi.com.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "alerts.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "boomer2.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "ct.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "mynk-dash.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "mynk.ninjakiwi.com",
-          "description": "This is a legacy domain which powers our Flash games. Uses Flash AMF.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.souparea.com",
-          "description": "This domain will be considered out of scope unless it can be shown to allow an exploit on one of our Tier 1-3 domains.",
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "rancher.ninjakiwi.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "rancher.ninjakiwi.me",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "store.ninjakiwi.com",
-          "description": "If you've found an issue with this domain you can contact Shopify here - https://www.shopify.com/bugbounty",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "support.ninjakiwi.com",
-          "description": "If you've found an issue with this domain you can contact Zendesk here - https://support.zendesk.com/hc/en-us/articles/4409154830874-Zendesk-Bug-Bounty-Program",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "icarusadmin.ninjakiwi.com",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
     },
     "total_payout": null
   },
@@ -12623,7 +12361,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1576670706,
-    "last_submission_at": 1790891978,
+    "last_submission_at": 1790913951,
     "last_updated_at": 1790675181,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12637,8 +12375,8 @@
     "accepted_submission_count": 1083,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790891978,
-    "submission_count": 2308,
+    "last_activity_at": 1790913951,
+    "submission_count": 2311,
     "targets": {
       "in_scope": [
         {
@@ -12712,7 +12450,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1599132524,
-    "last_submission_at": 1790875991,
+    "last_submission_at": 1790899617,
     "last_updated_at": 1781693778,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12726,8 +12464,8 @@
     "accepted_submission_count": 2701,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790875991,
-    "submission_count": 12128,
+    "last_activity_at": 1790899617,
+    "submission_count": 12129,
     "targets": {
       "in_scope": [
         {
@@ -12805,7 +12543,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1689002908,
-    "last_submission_at": 1790775665,
+    "last_submission_at": 1790895043,
     "last_updated_at": 1790764087,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -12822,8 +12560,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790863103,
-    "submission_count": 553,
+    "last_activity_at": 1790895043,
+    "submission_count": 554,
     "targets": {
       "in_scope": [
         {
@@ -13066,7 +12804,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1781087093,
-    "last_submission_at": 1790815822,
+    "last_submission_at": 1790912130,
     "last_updated_at": 1789039611,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -13080,8 +12818,8 @@
     "accepted_submission_count": 10,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790815822,
-    "submission_count": 73,
+    "last_activity_at": 1790912130,
+    "submission_count": 74,
     "targets": {
       "in_scope": [
         {
@@ -13997,7 +13735,7 @@
       "currency": "USD"
     },
     "has_updates": false,
-    "last_activity_at": 1790777853,
+    "last_activity_at": 1790899127,
     "submission_count": 634,
     "targets": {
       "in_scope": [
@@ -14923,7 +14661,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790684588,
+    "last_activity_at": 1790901646,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -15304,293 +15042,6 @@
         {
           "type": "url",
           "endpoint": "elect.tweakers.net",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
-    },
-    "total_payout": null
-  },
-  {
-    "id": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
-    "name": "UZ Leuven",
-    "company_handle": "uz leuven",
-    "handle": "uzleuven",
-    "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "created_at": 1582303162,
-    "last_submission_at": 1790882314,
-    "last_updated_at": 1790776974,
-    "program_type": "Bug bounty program",
-    "min_bounty": {
-      "value": 50,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 5000,
-      "currency": "EUR"
-    },
-    "accepted_submission_count": 0,
-    "average_payout": null,
-    "has_updates": true,
-    "last_activity_at": 1790882314,
-    "submission_count": 0,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "autodiscover.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "ecrf.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "extranet-asa.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "extranet.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "liquidfiles.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "mx1.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "mx2.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "pcrstudioruzb.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "prddsplunkhf.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "sts.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "iprange",
-          "endpoint": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-          "description": "These are the ip's used by our reverse proxy.\nThe Host header will determine the bounty tier.\nIf a report is submitted where the Host header is not used we will default to Tier 2.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "wp5-truststroke.uzleuven.be",
-          "description": "* access to /api/ should only work from BE or NL ip's\n* access to other paths or / should not work",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "cardsonline.azdiest.be",
-          "description": "This webapp should return a http 403 error due to ip whitelisting.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "liquidfilestest.uzleuven.be",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "random.uzleuven.be/random/",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "teststs.uzleuven.be",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "w1.uzleuven.be",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "cardsonlinetst.azdiest.be",
-          "description": "This webapp should return a http 403 error due to ip whitelisting.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.kwsdose.be",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.playuzleuven.be",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.uzleuven.*",
-          "description": "#### *.uzleuven.be (tier 3) only applies to everything that hasn't been listed in the scope.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.contactallerg(y|ie).uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.mir.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*dev.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*idp*.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*stag*.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "files.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "kumulus.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "mijnacc.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "mirc.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "prddnighting01.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "w1.uzleuven.be/random",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "ziekenhuisschool.be",
-          "description": null,
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "boekentoy.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "uz-laboboeken.web.app",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "laboboeken.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "boekentoy.firebaseio.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "uz-laboboeken.firebaseio.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "jobs.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "uzleuven.atlassian.net",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "vacatures.uzleuven.be",
           "description": null,
           "impact": "Out of scope"
         }
@@ -17067,7 +16518,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768486324,
-    "last_submission_at": 1790866906,
+    "last_submission_at": 1790915328,
     "last_updated_at": 1789110008,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -17084,8 +16535,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790866906,
-    "submission_count": 661,
+    "last_activity_at": 1790915328,
+    "submission_count": 662,
     "targets": {
       "in_scope": [
         {
@@ -17931,7 +17382,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1672926274,
-    "last_submission_at": 1790891559,
+    "last_submission_at": 1790910223,
     "last_updated_at": 1790602607,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -17948,7 +17399,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790891559,
+    "last_activity_at": 1790910223,
     "submission_count": 0,
     "targets": {
       "in_scope": [
