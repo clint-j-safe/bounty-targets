@@ -642,7 +642,7 @@
     "min_bounty": 100,
     "name": "Cryptobox",
     "public": true,
-    "reports_count": 395,
+    "reports_count": 396,
     "scopes_count": 3,
     "status": "V",
     "url": "https://yeswehack.com/programs/cryptobox-bug-bounty",
@@ -651,10 +651,10 @@
       "max_reward": 150000,
       "average_reward": 24897,
       "average_first_time_response": 1,
-      "total_reports": 395,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 7,
-      "total_reports_current_month": 1
+      "total_reports": 396,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 8,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -1052,7 +1052,7 @@
     "min_bounty": 50,
     "name": "DataDome Bug Bounty",
     "public": true,
-    "reports_count": 475,
+    "reports_count": 476,
     "scopes_count": 8,
     "status": "V",
     "url": "https://yeswehack.com/programs/datadome-bug-bounty",
@@ -1061,10 +1061,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 3,
-      "total_reports": 475,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 3,
-      "total_reports_current_month": 1
+      "total_reports": 476,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 4,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -1432,7 +1432,7 @@
     "min_bounty": 50,
     "name": "ExpressVPN - Bug Bounty Program",
     "public": true,
-    "reports_count": 948,
+    "reports_count": 951,
     "scopes_count": 31,
     "status": "V",
     "url": "https://yeswehack.com/programs/expressvpn-bug-bounty-program",
@@ -1441,10 +1441,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 948,
-      "total_reports_last24_hours": 4,
-      "total_reports_last7_days": 28,
-      "total_reports_current_month": 4
+      "total_reports": 951,
+      "total_reports_last24_hours": 7,
+      "total_reports_last7_days": 31,
+      "total_reports_current_month": 7
     },
     "targets": {
       "in_scope": [
@@ -1656,7 +1656,7 @@
     "min_bounty": 0,
     "name": "Ezviz - Bug Bounty Program",
     "public": true,
-    "reports_count": 867,
+    "reports_count": 869,
     "scopes_count": 13,
     "status": "V",
     "url": "https://yeswehack.com/programs/ezviz-bug-bounty-program",
@@ -1665,10 +1665,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 867,
-      "total_reports_last24_hours": 3,
-      "total_reports_last7_days": 20,
-      "total_reports_current_month": 3
+      "total_reports": 869,
+      "total_reports_last24_hours": 5,
+      "total_reports_last7_days": 22,
+      "total_reports_current_month": 5
     },
     "targets": {
       "in_scope": [
@@ -2330,7 +2330,7 @@
     "min_bounty": 50,
     "name": "HARMAN International - Web Applications",
     "public": true,
-    "reports_count": 2433,
+    "reports_count": 2445,
     "scopes_count": 27,
     "status": "V",
     "url": "https://yeswehack.com/programs/harman-international-web-applications",
@@ -2339,10 +2339,10 @@
       "max_reward": 500000,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 2433,
-      "total_reports_last24_hours": 28,
-      "total_reports_last7_days": 60,
-      "total_reports_current_month": 28
+      "total_reports": 2445,
+      "total_reports_last24_hours": 40,
+      "total_reports_last7_days": 72,
+      "total_reports_current_month": 40
     },
     "targets": {
       "in_scope": [
@@ -2824,7 +2824,7 @@
     "min_bounty": 100,
     "name": "Infomaniak Bug Bounty program",
     "public": true,
-    "reports_count": 3754,
+    "reports_count": 3759,
     "scopes_count": 51,
     "status": "V",
     "url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
@@ -2833,10 +2833,10 @@
       "max_reward": 1500000,
       "average_reward": 73215,
       "average_first_time_response": 1,
-      "total_reports": 3754,
-      "total_reports_last24_hours": 16,
-      "total_reports_last7_days": 95,
-      "total_reports_current_month": 16
+      "total_reports": 3759,
+      "total_reports_last24_hours": 21,
+      "total_reports_last7_days": 100,
+      "total_reports_current_month": 21
     },
     "targets": {
       "in_scope": [
@@ -3286,7 +3286,7 @@
     "min_bounty": 0,
     "name": "Kiteworks Public Bug Bounty Program",
     "public": true,
-    "reports_count": 184,
+    "reports_count": 185,
     "scopes_count": 12,
     "status": "V",
     "url": "https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1",
@@ -3295,10 +3295,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 184,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 7,
-      "total_reports_current_month": 1
+      "total_reports": 185,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 8,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -3474,7 +3474,7 @@
     "min_bounty": 50,
     "name": "Maya - Public Bug Bounty Program",
     "public": true,
-    "reports_count": 192,
+    "reports_count": 193,
     "scopes_count": 9,
     "status": "V",
     "url": "https://yeswehack.com/programs/maya-public-bug-bounty-program",
@@ -3483,10 +3483,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 192,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 4,
-      "total_reports_current_month": 0
+      "total_reports": 193,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 5,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -4584,7 +4584,7 @@
     "min_bounty": 0,
     "name": "Pine Labs Bug Bounty Program",
     "public": true,
-    "reports_count": 711,
+    "reports_count": 712,
     "scopes_count": 22,
     "status": "V",
     "url": "https://yeswehack.com/programs/pine-labs-bug-bounty-program",
@@ -4593,10 +4593,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 711,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 6,
-      "total_reports_current_month": 1
+      "total_reports": 712,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 7,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -5420,7 +5420,7 @@
     "min_bounty": 100,
     "name": "Swiss Post - E-Voting",
     "public": true,
-    "reports_count": 1947,
+    "reports_count": 1951,
     "scopes_count": 5,
     "status": "V",
     "url": "https://yeswehack.com/programs/swiss-post-evoting",
@@ -5429,10 +5429,10 @@
       "max_reward": 4000000,
       "average_reward": 220680,
       "average_first_time_response": 1,
-      "total_reports": 1947,
-      "total_reports_last24_hours": 7,
-      "total_reports_last7_days": 32,
-      "total_reports_current_month": 7
+      "total_reports": 1951,
+      "total_reports_last24_hours": 11,
+      "total_reports_last7_days": 36,
+      "total_reports_current_month": 11
     },
     "targets": {
       "in_scope": [
@@ -6678,7 +6678,7 @@
     "min_bounty": 50,
     "name": "toom Baumarkt GmbH - Webshop",
     "public": true,
-    "reports_count": 469,
+    "reports_count": 470,
     "scopes_count": 2,
     "status": "V",
     "url": "https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program",
@@ -6687,10 +6687,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 469,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 8,
-      "total_reports_current_month": 0
+      "total_reports": 470,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 9,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
