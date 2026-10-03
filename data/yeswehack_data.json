@@ -642,7 +642,7 @@
     "min_bounty": 100,
     "name": "Cryptobox",
     "public": true,
-    "reports_count": 397,
+    "reports_count": 398,
     "scopes_count": 3,
     "status": "V",
     "url": "https://yeswehack.com/programs/cryptobox-bug-bounty",
@@ -651,10 +651,10 @@
       "max_reward": 150000,
       "average_reward": 24897,
       "average_first_time_response": 1,
-      "total_reports": 397,
-      "total_reports_last24_hours": 2,
-      "total_reports_last7_days": 9,
-      "total_reports_current_month": 3
+      "total_reports": 398,
+      "total_reports_last24_hours": 3,
+      "total_reports_last7_days": 10,
+      "total_reports_current_month": 4
     },
     "targets": {
       "in_scope": [
@@ -698,7 +698,7 @@
     "min_bounty": 50,
     "name": "CyberGhost - Bug Bounty Program",
     "public": true,
-    "reports_count": 306,
+    "reports_count": 307,
     "scopes_count": 12,
     "status": "V",
     "url": "https://yeswehack.com/programs/cyberghost-bug-bounty-program",
@@ -707,10 +707,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 306,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 7,
-      "total_reports_current_month": 2
+      "total_reports": 307,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 8,
+      "total_reports_current_month": 3
     },
     "targets": {
       "in_scope": [
@@ -1052,7 +1052,7 @@
     "min_bounty": 50,
     "name": "DataDome Bug Bounty",
     "public": true,
-    "reports_count": 476,
+    "reports_count": 477,
     "scopes_count": 8,
     "status": "V",
     "url": "https://yeswehack.com/programs/datadome-bug-bounty",
@@ -1061,10 +1061,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 3,
-      "total_reports": 476,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 4,
-      "total_reports_current_month": 2
+      "total_reports": 477,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 5,
+      "total_reports_current_month": 3
     },
     "targets": {
       "in_scope": [
@@ -1142,7 +1142,7 @@
     "min_bounty": 0,
     "name": "Doctolib",
     "public": true,
-    "reports_count": 1794,
+    "reports_count": 1795,
     "scopes_count": 9,
     "status": "V",
     "url": "https://yeswehack.com/programs/doctolib-public-bug-bounty-program",
@@ -1151,10 +1151,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 1794,
-      "total_reports_last24_hours": 1,
-      "total_reports_last7_days": 15,
-      "total_reports_current_month": 6
+      "total_reports": 1795,
+      "total_reports_last24_hours": 2,
+      "total_reports_last7_days": 16,
+      "total_reports_current_month": 7
     },
     "targets": {
       "in_scope": [
@@ -1656,7 +1656,7 @@
     "min_bounty": 0,
     "name": "Ezviz - Bug Bounty Program",
     "public": true,
-    "reports_count": 871,
+    "reports_count": 874,
     "scopes_count": 13,
     "status": "V",
     "url": "https://yeswehack.com/programs/ezviz-bug-bounty-program",
@@ -1665,10 +1665,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 871,
-      "total_reports_last24_hours": 7,
-      "total_reports_last7_days": 23,
-      "total_reports_current_month": 7
+      "total_reports": 874,
+      "total_reports_last24_hours": 10,
+      "total_reports_last7_days": 26,
+      "total_reports_current_month": 10
     },
     "targets": {
       "in_scope": [
@@ -2330,7 +2330,7 @@
     "min_bounty": 50,
     "name": "HARMAN International - Web Applications",
     "public": true,
-    "reports_count": 2454,
+    "reports_count": 2458,
     "scopes_count": 27,
     "status": "V",
     "url": "https://yeswehack.com/programs/harman-international-web-applications",
@@ -2339,10 +2339,10 @@
       "max_reward": 500000,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 2454,
-      "total_reports_last24_hours": 26,
-      "total_reports_last7_days": 79,
-      "total_reports_current_month": 49
+      "total_reports": 2458,
+      "total_reports_last24_hours": 30,
+      "total_reports_last7_days": 83,
+      "total_reports_current_month": 53
     },
     "targets": {
       "in_scope": [
@@ -2824,7 +2824,7 @@
     "min_bounty": 100,
     "name": "Infomaniak Bug Bounty program",
     "public": true,
-    "reports_count": 3768,
+    "reports_count": 3770,
     "scopes_count": 51,
     "status": "V",
     "url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
@@ -2833,10 +2833,10 @@
       "max_reward": 1500000,
       "average_reward": 73154,
       "average_first_time_response": 1,
-      "total_reports": 3768,
-      "total_reports_last24_hours": 18,
-      "total_reports_last7_days": 97,
-      "total_reports_current_month": 30
+      "total_reports": 3770,
+      "total_reports_last24_hours": 20,
+      "total_reports_last7_days": 99,
+      "total_reports_current_month": 32
     },
     "targets": {
       "in_scope": [
@@ -4466,7 +4466,7 @@
     "min_bounty": 50,
     "name": "Paddle.com Public Bug Bounty Program",
     "public": true,
-    "reports_count": 1033,
+    "reports_count": 1035,
     "scopes_count": 12,
     "status": "V",
     "url": "https://yeswehack.com/programs/paddle-com-public-bug-bounty-program",
@@ -4475,10 +4475,10 @@
       "max_reward": 150000,
       "average_reward": 47361,
       "average_first_time_response": 1,
-      "total_reports": 1033,
-      "total_reports_last24_hours": 3,
-      "total_reports_last7_days": 15,
-      "total_reports_current_month": 5
+      "total_reports": 1035,
+      "total_reports_last24_hours": 5,
+      "total_reports_last7_days": 17,
+      "total_reports_current_month": 7
     },
     "targets": {
       "in_scope": [
@@ -4754,7 +4754,7 @@
     "min_bounty": 50,
     "name": "Private Internet Access - Bug Bounty Program",
     "public": true,
-    "reports_count": 350,
+    "reports_count": 351,
     "scopes_count": 12,
     "status": "V",
     "url": "https://yeswehack.com/programs/private-internet-access-bug-bounty-program",
@@ -4763,10 +4763,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 350,
-      "total_reports_last24_hours": 2,
-      "total_reports_last7_days": 20,
-      "total_reports_current_month": 7
+      "total_reports": 351,
+      "total_reports_last24_hours": 3,
+      "total_reports_last7_days": 21,
+      "total_reports_current_month": 8
     },
     "targets": {
       "in_scope": [
@@ -4922,7 +4922,7 @@
     "min_bounty": 50,
     "name": "Santé Publique France Bug Bounty Program",
     "public": true,
-    "reports_count": 289,
+    "reports_count": 290,
     "scopes_count": 8,
     "status": "V",
     "url": "https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program",
@@ -4931,10 +4931,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 289,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 2,
-      "total_reports_current_month": 1
+      "total_reports": 290,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 3,
+      "total_reports_current_month": 2
     },
     "targets": {
       "in_scope": [
@@ -5308,7 +5308,7 @@
     "min_bounty": 50,
     "name": "Swiss Post",
     "public": true,
-    "reports_count": 2748,
+    "reports_count": 2750,
     "scopes_count": 9,
     "status": "V",
     "url": "https://yeswehack.com/programs/swiss-post",
@@ -5317,10 +5317,10 @@
       "max_reward": 1000000,
       "average_reward": 90556,
       "average_first_time_response": 1,
-      "total_reports": 2748,
-      "total_reports_last24_hours": 4,
-      "total_reports_last7_days": 43,
-      "total_reports_current_month": 10
+      "total_reports": 2750,
+      "total_reports_last24_hours": 6,
+      "total_reports_last7_days": 45,
+      "total_reports_current_month": 12
     },
     "targets": {
       "in_scope": [
@@ -5580,7 +5580,7 @@
     "min_bounty": 50,
     "name": "Telenor Sweden Public Bug Bounty Program",
     "public": true,
-    "reports_count": 1977,
+    "reports_count": 1978,
     "scopes_count": 24,
     "status": "V",
     "url": "https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program",
@@ -5589,10 +5589,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 1977,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 15,
-      "total_reports_current_month": 4
+      "total_reports": 1978,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 16,
+      "total_reports_current_month": 5
     },
     "targets": {
       "in_scope": [
@@ -5942,7 +5942,7 @@
     "min_bounty": 5,
     "name": "VFS Global Bug Bounty Program",
     "public": true,
-    "reports_count": 2631,
+    "reports_count": 2632,
     "scopes_count": 26,
     "status": "V",
     "url": "https://yeswehack.com/programs/vfs-global-bug-bounty-program",
@@ -5951,10 +5951,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 2631,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 8,
-      "total_reports_current_month": 2
+      "total_reports": 2632,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 9,
+      "total_reports_current_month": 3
     },
     "targets": {
       "in_scope": [
@@ -6200,7 +6200,7 @@
     "min_bounty": 50,
     "name": "VINCI SA - Public program",
     "public": true,
-    "reports_count": 666,
+    "reports_count": 667,
     "scopes_count": 20,
     "status": "V",
     "url": "https://yeswehack.com/programs/vincisa-public-program",
@@ -6209,10 +6209,10 @@
       "max_reward": 300000,
       "average_reward": 50273,
       "average_first_time_response": 1,
-      "total_reports": 666,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 5,
-      "total_reports_current_month": 2
+      "total_reports": 667,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 6,
+      "total_reports_current_month": 3
     },
     "targets": {
       "in_scope": [
@@ -6378,7 +6378,7 @@
     "min_bounty": 50,
     "name": "Xelians - Blackbox program",
     "public": true,
-    "reports_count": 132,
+    "reports_count": 133,
     "scopes_count": 2,
     "status": "V",
     "url": "https://yeswehack.com/programs/xelians-blackbox-program",
@@ -6387,10 +6387,10 @@
       "max_reward": 15000,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 132,
-      "total_reports_last24_hours": 0,
-      "total_reports_last7_days": 2,
-      "total_reports_current_month": 0
+      "total_reports": 133,
+      "total_reports_last24_hours": 1,
+      "total_reports_last7_days": 3,
+      "total_reports_current_month": 1
     },
     "targets": {
       "in_scope": [
@@ -6494,7 +6494,7 @@
     "min_bounty": null,
     "name": "YesWeHack Dojo",
     "public": true,
-    "reports_count": 6063,
+    "reports_count": 6070,
     "scopes_count": 1,
     "status": "V",
     "url": "https://yeswehack.com/programs/dojo",
@@ -6503,10 +6503,10 @@
       "max_reward": null,
       "average_reward": null,
       "average_first_time_response": 1,
-      "total_reports": 6063,
-      "total_reports_last24_hours": 74,
-      "total_reports_last7_days": 112,
-      "total_reports_current_month": 75
+      "total_reports": 6070,
+      "total_reports_last24_hours": 81,
+      "total_reports_last7_days": 119,
+      "total_reports_current_month": 82
     },
     "targets": {
       "in_scope": [

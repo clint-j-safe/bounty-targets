@@ -68,7 +68,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1786968497,
-    "last_submission_at": 1790978410,
+    "last_submission_at": 1790989509,
     "last_updated_at": 1790843566,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -85,8 +85,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790978410,
-    "submission_count": 857,
+    "last_activity_at": 1790989509,
+    "submission_count": 859,
     "targets": {
       "in_scope": [
         {
@@ -1107,7 +1107,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1673610683,
-    "last_submission_at": 1790956291,
+    "last_submission_at": 1790993921,
     "last_updated_at": 1788364789,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1124,8 +1124,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790956291,
-    "submission_count": 2929,
+    "last_activity_at": 1790993921,
+    "submission_count": 2930,
     "targets": {
       "in_scope": [
         {
@@ -1496,7 +1496,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1710847206,
-    "last_submission_at": 1790977787,
+    "last_submission_at": 1791002649,
     "last_updated_at": 1788359203,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1510,8 +1510,8 @@
     "accepted_submission_count": 3031,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790977787,
-    "submission_count": 7016,
+    "last_activity_at": 1791002649,
+    "submission_count": 7017,
     "targets": {
       "in_scope": [
         {
@@ -1585,7 +1585,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1710866702,
-    "last_submission_at": 1790691347,
+    "last_submission_at": 1790992671,
     "last_updated_at": 1743596516,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1602,8 +1602,8 @@
       "currency": "EUR"
     },
     "has_updates": false,
-    "last_activity_at": 1790951125,
-    "submission_count": 445,
+    "last_activity_at": 1790992671,
+    "submission_count": 446,
     "targets": {
       "in_scope": [
         {
@@ -2034,7 +2034,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1605256027,
-    "last_submission_at": 1790966682,
+    "last_submission_at": 1790999572,
     "last_updated_at": 1789476765,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -2051,8 +2051,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790966682,
-    "submission_count": 1426,
+    "last_activity_at": 1790999572,
+    "submission_count": 1428,
     "targets": {
       "in_scope": [
         {
@@ -3866,7 +3866,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1711553126,
-    "last_submission_at": 1790951967,
+    "last_submission_at": 1791002144,
     "last_updated_at": 1790276715,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -3883,8 +3883,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790972425,
-    "submission_count": 1957,
+    "last_activity_at": 1791002144,
+    "submission_count": 1958,
     "targets": {
       "in_scope": [
         {
@@ -5828,7 +5828,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1626854614,
-    "last_submission_at": 1790953526,
+    "last_submission_at": 1790994850,
     "last_updated_at": 1774453763,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -5842,7 +5842,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790953526,
+    "last_activity_at": 1790994850,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -6787,7 +6787,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1789506531,
-    "last_submission_at": 1790975512,
+    "last_submission_at": 1790993438,
     "last_updated_at": 1790689530,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -6801,8 +6801,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790975512,
-    "submission_count": 32,
+    "last_activity_at": 1790993438,
+    "submission_count": 33,
     "targets": {
       "in_scope": [
         {
@@ -6845,7 +6845,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1611328661,
-    "last_submission_at": 1790976871,
+    "last_submission_at": 1791002102,
     "last_updated_at": 1790778469,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -6862,8 +6862,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790976871,
-    "submission_count": 1670,
+    "last_activity_at": 1791002102,
+    "submission_count": 1671,
     "targets": {
       "in_scope": [
         {
@@ -8127,7 +8127,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1613120520,
-    "last_submission_at": 1790857648,
+    "last_submission_at": 1790981299,
     "last_updated_at": 1788271172,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -8144,8 +8144,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790951040,
-    "submission_count": 1076,
+    "last_activity_at": 1790981299,
+    "submission_count": 1077,
     "targets": {
       "in_scope": [
         {
@@ -8479,7 +8479,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768497213,
-    "last_submission_at": 1790930947,
+    "last_submission_at": 1790998610,
     "last_updated_at": 1783413456,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -8496,8 +8496,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790951345,
-    "submission_count": 460,
+    "last_activity_at": 1790998610,
+    "submission_count": 462,
     "targets": {
       "in_scope": [
         {
@@ -8981,7 +8981,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1785762089,
-    "last_submission_at": 1790954103,
+    "last_submission_at": 1790998864,
     "last_updated_at": 1790859502,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -8995,8 +8995,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1790954103,
-    "submission_count": 7,
+    "last_activity_at": 1790998864,
+    "submission_count": 8,
     "targets": {
       "in_scope": [
         {
@@ -12450,7 +12450,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1599132524,
-    "last_submission_at": 1790969513,
+    "last_submission_at": 1790994285,
     "last_updated_at": 1781693778,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -12464,8 +12464,8 @@
     "accepted_submission_count": 2701,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790969513,
-    "submission_count": 12130,
+    "last_activity_at": 1790994285,
+    "submission_count": 12131,
     "targets": {
       "in_scope": [
         {
@@ -12706,7 +12706,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790973816,
+    "last_activity_at": 1791004666,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -13082,7 +13082,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1632726829,
-    "last_submission_at": 1790530799,
+    "last_submission_at": 1790984288,
     "last_updated_at": 1788721201,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -13099,7 +13099,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790609743,
+    "last_activity_at": 1790984288,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -14140,8 +14140,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790963506,
-    "submission_count": 3073,
+    "last_activity_at": 1791004336,
+    "submission_count": 3074,
     "targets": {
       "in_scope": [
         {
@@ -14833,7 +14833,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1645789978,
-    "last_submission_at": 1790967731,
+    "last_submission_at": 1790981734,
     "last_updated_at": 1790946317,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -14850,8 +14850,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790979131,
-    "submission_count": 542,
+    "last_activity_at": 1790981734,
+    "submission_count": 543,
     "targets": {
       "in_scope": [
         {
@@ -15257,7 +15257,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1762170162,
-    "last_submission_at": 1790962980,
+    "last_submission_at": 1790984321,
     "last_updated_at": 1785926389,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -15271,7 +15271,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1790962980,
+    "last_activity_at": 1790984321,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -16557,7 +16557,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1608115143,
-    "last_submission_at": 1790973572,
+    "last_submission_at": 1790993241,
     "last_updated_at": 1790947482,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -16574,8 +16574,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1790973572,
-    "submission_count": 1575,
+    "last_activity_at": 1790993241,
+    "submission_count": 1576,
     "targets": {
       "in_scope": [
         {
@@ -17364,7 +17364,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768486324,
-    "last_submission_at": 1790938383,
+    "last_submission_at": 1791001704,
     "last_updated_at": 1789110008,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -17381,8 +17381,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790951345,
-    "submission_count": 664,
+    "last_activity_at": 1791001704,
+    "submission_count": 666,
     "targets": {
       "in_scope": [
         {
@@ -18228,7 +18228,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1672926274,
-    "last_submission_at": 1790974250,
+    "last_submission_at": 1790986247,
     "last_updated_at": 1790957296,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -18245,7 +18245,7 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1790974250,
+    "last_activity_at": 1790986247,
     "submission_count": 0,
     "targets": {
       "in_scope": [
