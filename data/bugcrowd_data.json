@@ -3612,7 +3612,7 @@
     "engagement_id": "52fbe65e-cfef-4aea-aab0-be05f0626569",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2026-04-08T16:27:36.037Z",
+    "published_at": "2026-10-05T16:19:08.112Z",
     "last_transition_at": "2024-04-29T18:00:00.000Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
@@ -3704,6 +3704,14 @@
           "target": "https://play.fga.dev/",
           "uri": "https://play.fga.dev/",
           "name": "https://play.fga.dev/",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "webtask.run",
+          "uri": "",
+          "name": "webtask.run",
           "ipAddress": "",
           "bounty": true
         },
@@ -3842,14 +3850,6 @@
           "target": "accounts.auth0.com",
           "uri": "",
           "name": "accounts.auth0.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "webtask.io\t",
-          "uri": "",
-          "name": "webtask.io\t",
           "ipAddress": "",
           "bounty": false
         },
@@ -5106,11 +5106,11 @@
     "engagement_id": "09a71606-59d0-4f36-8a10-ceccdfc2875c",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2026-09-08T18:06:58.544Z",
+    "published_at": "2026-10-05T15:55:44.946Z",
     "last_transition_at": "2025-01-07T18:00:00.044Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
-    "max_payout": 7500,
+    "max_payout": 15000,
     "targets": {
       "in_scope": [
         {
@@ -11446,109 +11446,6 @@
     }
   },
   {
-    "name": "Fivetran",
-    "url": "https://bugcrowd.com/engagements/fivetran-mbb-og",
-    "allows_disclosure": true,
-    "managed_by_bugcrowd": true,
-    "safe_harbor": "full",
-    "starts_at": "2025-03-18T19:00:00Z",
-    "ends_at": null,
-    "engagement_id": "6097b046-77b7-4cd6-a18d-83a34e5153fb",
-    "engagement_state": "in_progress",
-    "participation": "open",
-    "published_at": "2026-09-25T14:00:44.206Z",
-    "last_transition_at": "2025-03-18T19:00:02.193Z",
-    "status_label": "In progress",
-    "reward_allocation": "pay_for_success",
-    "max_payout": 7500,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "website",
-          "target": "https://fivetran.com/login",
-          "uri": "https://fivetran.com/login",
-          "name": "*.fivetran.com",
-          "ipAddress": "",
-          "bounty": true
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "website",
-          "target": "Any internal, staging, or development services.",
-          "uri": "",
-          "name": "Any internal, staging, or development services.",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "other",
-          "target": "Social engineering against Fivetran Support or Fivetran Employees",
-          "uri": "",
-          "name": "Social engineering against Fivetran Support or Fivetran Employees",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "other",
-          "target": "*.db.fivetran.com",
-          "uri": "",
-          "name": "*.db.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "testing-datalake.fivetran.com",
-          "uri": "",
-          "name": "testing-datalake.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "https://shop.fivetran.com",
-          "uri": "https://shop.fivetran.com",
-          "name": "shop.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "https://status.fivetran.com/",
-          "uri": "https://status.fivetran.com/",
-          "name": "status.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "https://support.fivetran.com",
-          "uri": "https://support.fivetran.com",
-          "name": "support.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "https://community-stage.fivetran.com",
-          "uri": "https://community-stage.fivetran.com",
-          "name": "community-stage.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        },
-        {
-          "type": "website",
-          "target": "https://trust.fivetran.com",
-          "uri": "https://trust.fivetran.com",
-          "name": "trust.fivetran.com",
-          "ipAddress": "",
-          "bounty": false
-        }
-      ]
-    }
-  },
-  {
     "name": "Flourish",
     "url": "https://bugcrowd.com/engagements/flourish",
     "allows_disclosure": false,
@@ -13676,7 +13573,7 @@
     "engagement_id": "f56f4fde-9e53-49f8-a6f3-adb1aaff40e9",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2026-09-02T19:22:14.315Z",
+    "published_at": "2026-10-05T21:09:08.556Z",
     "last_transition_at": "2024-03-06T19:00:00.000Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
@@ -18458,6 +18355,204 @@
           "target": "https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud",
           "uri": "https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud",
           "name": "https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud",
+          "ipAddress": "",
+          "bounty": true
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "Mastercard Public Bug Bounty ",
+    "url": "https://bugcrowd.com/engagements/mastercard",
+    "allows_disclosure": true,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "partial",
+    "starts_at": "2016-08-01T21:00:00Z",
+    "ends_at": null,
+    "engagement_id": "e92dd756-2d4f-4be6-9dbd-d5159f2b6a06",
+    "engagement_state": "in_progress",
+    "participation": "open",
+    "published_at": "2026-10-05T12:43:19.128Z",
+    "last_transition_at": "2016-08-01T21:00:00.000Z",
+    "status_label": "In progress",
+    "reward_allocation": "pay_for_success",
+    "max_payout": 5000,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://www.mastercard.us/en-us.html",
+          "uri": "https://www.mastercard.us/en-us.html",
+          "name": "MasterCard.us - www.mastercard.us/en-us.html",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.mastercard.ch/de-ch.html",
+          "uri": "https://www.mastercard.ch/de-ch.html",
+          "name": "MasterCard.ch - (German) - www.mastercard.ch/de-ch.html",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.mastercard.ch/fr-ch.html",
+          "uri": "https://www.mastercard.ch/fr-ch.html",
+          "name": "MasterCard.ch - (French) - www.mastercard.ch/fr-ch.html",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.mastercard.com.au/en-au.html",
+          "uri": "https://www.mastercard.com.au/en-au.html",
+          "name": "MasterCard.com.au - www.mastercard.com.au/en-au.html",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.mastercard.nl/nl-nl.html",
+          "uri": "https://www.mastercard.nl/nl-nl.html",
+          "name": "MasterCard.nl - www.mastercard.nl/nl-nl.html",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://developer.mastercard.com",
+          "uri": "https://developer.mastercard.com",
+          "name": "https://developer.mastercard.com",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://donate.mastercard.com",
+          "uri": "https://donate.mastercard.com",
+          "name": "donate.mastercard.com",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://demo.priceless.com/",
+          "uri": "https://demo.priceless.com/",
+          "name": "Core Priceless.com - demo.priceless.com",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://priceless.com/golf/",
+          "uri": "https://priceless.com/golf/",
+          "name": "https://priceless.com/golf/",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://performancemarketing.mastercard.com/portal/",
+          "uri": "https://performancemarketing.mastercard.com/portal/",
+          "name": "https://performancemarketing.mastercard.com/portal/",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://src.mastercard.com/profile/enroll",
+          "uri": "https://src.mastercard.com/profile/enroll",
+          "name": "https://src.mastercard.com/profile/enroll",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://src.mastercard.com/*",
+          "uri": null,
+          "name": "https://src.mastercard.com/*",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope",
+          "uri": null,
+          "name": "SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "api",
+          "target": " Finicity Connect",
+          "uri": "",
+          "name": " Finicity Connect",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "api",
+          "target": "Finicity- Data Services",
+          "uri": "",
+          "name": "Finicity- Data Services",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "api",
+          "target": "Finicity Decisioning",
+          "uri": "",
+          "name": "Finicity Decisioning",
+          "ipAddress": null,
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://www.finicity.com",
+          "uri": "https://www.finicity.com",
+          "name": "https://www.finicity.com",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://consumer.finicityreports.com",
+          "uri": "https://consumer.finicityreports.com",
+          "name": "https://consumer.finicityreports.com",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "api",
+          "target": "Finicity- Open Banking Payment History application",
+          "uri": "",
+          "name": "Finicity- Open Banking Payment History application",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "api",
+          "target": "Finicity - OBB (Open Banking Business Service) ",
+          "uri": "",
+          "name": "Finicity - OBB (Open Banking Business Service) ",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "website",
+          "target": "https://pioneer.truata.com/",
+          "uri": "https://pioneer.truata.com/",
+          "name": "https://pioneer.truata.com/",
+          "ipAddress": "",
+          "bounty": true
+        },
+        {
+          "type": "other",
+          "target": "Public Others Target",
+          "uri": "",
+          "name": "Public Others Target",
           "ipAddress": "",
           "bounty": true
         }
