@@ -37512,7 +37512,7 @@
     "engagement_id": "50c9f1cc-1e58-4049-9556-3de764ce6c31",
     "engagement_state": "in_progress",
     "participation": "open",
-    "published_at": "2026-07-15T09:17:37.978Z",
+    "published_at": "2026-10-06T09:27:53.187Z",
     "last_transition_at": "2017-02-09T17:00:00.000Z",
     "status_label": "In progress",
     "reward_allocation": "pay_for_success",
@@ -37540,30 +37540,6 @@
           "target": "https://supplier.viator.com/",
           "uri": "https://supplier.viator.com/",
           "name": "https://supplier.viator.com/",
-          "ipAddress": null,
-          "bounty": true
-        },
-        {
-          "type": "api",
-          "target": "https://www.toursgds.com/",
-          "uri": "https://www.toursgds.com/",
-          "name": "https://www.toursgds.com/",
-          "ipAddress": null,
-          "bounty": true
-        },
-        {
-          "type": "api",
-          "target": "https://www.toursgds.com/ToursGdsService?wsdl",
-          "uri": "https://www.toursgds.com/ToursGdsService?wsdl",
-          "name": "https://www.toursgds.com/ToursGdsService?wsdl",
-          "ipAddress": null,
-          "bounty": true
-        },
-        {
-          "type": "api",
-          "target": "https://www.toursgds.com/SupplierService?wsdl",
-          "uri": "https://www.toursgds.com/SupplierService?wsdl",
-          "name": "https://www.toursgds.com/SupplierService?wsdl",
           "ipAddress": null,
           "bounty": true
         },
