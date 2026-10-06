@@ -10,7 +10,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1787606201,
-    "last_submission_at": 1791219490,
+    "last_submission_at": 1791248300,
     "last_updated_at": 1789371096,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -24,8 +24,8 @@
     "accepted_submission_count": 1,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1791225853,
-    "submission_count": 7,
+    "last_activity_at": 1791248300,
+    "submission_count": 8,
     "targets": {
       "in_scope": [
         {
@@ -68,7 +68,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1786968497,
-    "last_submission_at": 1791228242,
+    "last_submission_at": 1791246751,
     "last_updated_at": 1791240853,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -85,8 +85,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1791240853,
-    "submission_count": 901,
+    "last_activity_at": 1791246751,
+    "submission_count": 902,
     "targets": {
       "in_scope": [
         {
@@ -1043,7 +1043,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1773840041,
-    "last_submission_at": 1791210394,
+    "last_submission_at": 1791246059,
     "last_updated_at": 1782986657,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -1057,7 +1057,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1791212900,
+    "last_activity_at": 1791246059,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -1107,7 +1107,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1673610683,
-    "last_submission_at": 1791210972,
+    "last_submission_at": 1791256583,
     "last_updated_at": 1788364789,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1124,8 +1124,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1791212529,
-    "submission_count": 2941,
+    "last_activity_at": 1791256583,
+    "submission_count": 2942,
     "targets": {
       "in_scope": [
         {
@@ -1496,7 +1496,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1710847206,
-    "last_submission_at": 1791234267,
+    "last_submission_at": 1791250106,
     "last_updated_at": 1788359203,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -1510,8 +1510,8 @@
     "accepted_submission_count": 3031,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1791234267,
-    "submission_count": 7042,
+    "last_activity_at": 1791265405,
+    "submission_count": 7043,
     "targets": {
       "in_scope": [
         {
@@ -2034,7 +2034,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1605256027,
-    "last_submission_at": 1790999572,
+    "last_submission_at": 1791251261,
     "last_updated_at": 1789476765,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -2051,8 +2051,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1791193900,
-    "submission_count": 1428,
+    "last_activity_at": 1791251261,
+    "submission_count": 1429,
     "targets": {
       "in_scope": [
         {
@@ -4396,7 +4396,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1752495035,
-    "last_submission_at": 1791236544,
+    "last_submission_at": 1791261336,
     "last_updated_at": 1787599181,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -4410,8 +4410,8 @@
     "accepted_submission_count": 197,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1791236544,
-    "submission_count": 1826,
+    "last_activity_at": 1791261336,
+    "submission_count": 1827,
     "targets": {
       "in_scope": [
         {
@@ -4691,7 +4691,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1691062028,
-    "last_submission_at": 1791215439,
+    "last_submission_at": 1791254261,
     "last_updated_at": 1790845449,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -4708,8 +4708,8 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1791215439,
-    "submission_count": 1328,
+    "last_activity_at": 1791254261,
+    "submission_count": 1329,
     "targets": {
       "in_scope": [
         {
@@ -4945,7 +4945,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1778080142,
-    "last_submission_at": 1791218702,
+    "last_submission_at": 1791264374,
     "last_updated_at": 1787657902,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -4959,8 +4959,8 @@
     "accepted_submission_count": 7,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1791218702,
-    "submission_count": 103,
+    "last_activity_at": 1791264374,
+    "submission_count": 105,
     "targets": {
       "in_scope": [
         {
@@ -5816,181 +5816,6 @@
       ]
     },
     "total_payout": null
-  },
-  {
-    "id": "e85b4b33-7785-43b5-a5aa-5bcd226688b4",
-    "name": "Here Technologies",
-    "company_handle": "heretechnologies",
-    "handle": "heretechnologies",
-    "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "created_at": 1626854614,
-    "last_submission_at": 1791244588,
-    "last_updated_at": 1791224651,
-    "program_type": "Bug bounty program",
-    "min_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 2000,
-      "currency": "EUR"
-    },
-    "accepted_submission_count": 0,
-    "average_payout": null,
-    "has_updates": true,
-    "last_activity_at": 1791244588,
-    "submission_count": 0,
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "registry.service.api.platform.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.data.api.platform.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.metrics.platform.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.platform.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "search.hereapi.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "transit.hereapi.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "vector.hereapi.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "mobilitygraph.hereapi.com",
-          "description": "Including, but not limited to, following applications:\nhttps://predictor.mobilitygraph.hereapi.com/\nhttps://profile.mobilitygraph.hereapi.com/\nhttps://subscription.mobilitygraph.hereapi.com/",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.router.hereapi.com",
-          "description": "Including, but not limited to, following applications:\nhttps://matrix.router.hereapi.com/\nhttps://subp-als.matrix.router.hereapi.com/v8/matrix\nhttps://transit.router.hereapi.com/\nhttps://intermodal.router.hereapi.com/",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.subp-router.hereapi.com",
-          "description": "Including, but not limited to, following application:\nhttps://vip-als.subp-router.hereapi.com/",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.hereapi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "account.api.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "account.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "listing.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "mapcreator.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "xyz.api.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.scbe.api.here.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.here.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "ios",
-          "endpoint": "HERE WeGo iOS",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "android",
-          "endpoint": "HERE WeGo Android",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "Leaked/Compromised Employee Credentials",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "Leaked Service Credentials",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "All other related services owned by HERE",
-          "description": null,
-          "impact": "Tier 3"
-        }
-      ],
-      "out_of_scope": []
-    },
-    "total_payout": {
-      "value": 36170.0,
-      "currency": "EUR"
-    }
   },
   {
     "id": "5c7a8f79-a23b-4367-a2c6-63a2d48586ee",
@@ -6861,7 +6686,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1791240018,
+    "last_activity_at": 1791267361,
     "submission_count": 37,
     "targets": {
       "in_scope": [
@@ -7357,7 +7182,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1490084660,
-    "last_submission_at": 1791160418,
+    "last_submission_at": 1791253404,
     "last_updated_at": 1790241870,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -7371,7 +7196,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1791189544,
+    "last_activity_at": 1791253404,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -8539,7 +8364,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1768497213,
-    "last_submission_at": 1791120163,
+    "last_submission_at": 1791259665,
     "last_updated_at": 1783413456,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -8556,8 +8381,8 @@
       "currency": "USD"
     },
     "has_updates": true,
-    "last_activity_at": 1791212901,
-    "submission_count": 464,
+    "last_activity_at": 1791259665,
+    "submission_count": 465,
     "targets": {
       "in_scope": [
         {
@@ -9887,7 +9712,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1791205116,
+    "last_activity_at": 1791267842,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -9987,7 +9812,7 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": false,
-    "last_activity_at": 1791215959,
+    "last_activity_at": 1791267842,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -11779,7 +11604,7 @@
     "accepted_submission_count": 158,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1791235233,
+    "last_activity_at": 1791267405,
     "submission_count": 361,
     "targets": {
       "in_scope": [
@@ -12679,8 +12504,8 @@
     "accepted_submission_count": 2701,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1791241154,
-    "submission_count": 12139,
+    "last_activity_at": 1791266486,
+    "submission_count": 12140,
     "targets": {
       "in_scope": [
         {
@@ -13297,7 +13122,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1632726829,
-    "last_submission_at": 1791204182,
+    "last_submission_at": 1791254087,
     "last_updated_at": 1788721201,
     "program_type": "Bug bounty program",
     "min_bounty": {
@@ -13314,7 +13139,7 @@
       "currency": "EUR"
     },
     "has_updates": true,
-    "last_activity_at": 1791204182,
+    "last_activity_at": 1791254087,
     "submission_count": 0,
     "targets": {
       "in_scope": [
@@ -14289,7 +14114,7 @@
     "tacRequired": false,
     "twoFactorRequired": false,
     "created_at": 1700747100,
-    "last_submission_at": 1791229200,
+    "last_submission_at": 1791257576,
     "last_updated_at": 1790885425,
     "program_type": "Responsible disclosure",
     "min_bounty": {
@@ -14303,8 +14128,8 @@
     "accepted_submission_count": 0,
     "average_payout": null,
     "has_updates": true,
-    "last_activity_at": 1791229200,
-    "submission_count": 3083,
+    "last_activity_at": 1791265458,
+    "submission_count": 3085,
     "targets": {
       "in_scope": [
         {
